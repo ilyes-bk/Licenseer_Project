@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/google/pasta/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 88,
+    "dependents_count": 233,
+    "deprecation_reason": null,
+    "description": "pasta is an AST-based Python refactoring library",
+    "homepage": "https://github.com/google/pasta",
+    "keywords": [
+        "python",
+        "refactoring",
+        "ast"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.0",
+    "latest_release_published_at": "2020-03-13T18:57:47.000Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2020-03-13T18:57:47.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-pasta",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-pasta/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/google/pasta",
+    "security_policy_url": "https://github.com/google/pasta/security/policy"
+}

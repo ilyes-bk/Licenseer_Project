@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 5,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Maps Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "keywords": [
+        "azure",
+        "sdk",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2023-09-12T06:26:26.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2023-09-12T06:26:26.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-mgmt-maps",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-mgmt-maps/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

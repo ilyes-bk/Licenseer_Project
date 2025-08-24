@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 57,
+    "dependents_count": 116,
+    "deprecation_reason": null,
+    "description": "Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers",
+    "homepage": "https://github.com/ypcrts/fqdn",
+    "keywords": [
+        "fqdn",
+        "domain",
+        "hostname",
+        "RFC3686",
+        "dns",
+        "python",
+        "python2",
+        "python3",
+        "rfc-1035",
+        "rfc-1123",
+        "rfc-2181",
+        "rfc-3986",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.5.1",
+    "latest_release_published_at": "2021-03-11T07:16:28.000Z",
+    "latest_stable_release_number": "1.5.1",
+    "latest_stable_release_published_at": "2021-03-11T07:16:28.000Z",
+    "license_normalized": true,
+    "licenses": "MPL 2.0",
+    "name": "fqdn",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/fqdn/",
+    "repository_license": "MPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ypcrts/fqdn",
+    "security_policy_url": "https://github.com/ypcrts/fqdn/security/policy"
+}

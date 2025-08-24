@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 340,
+    "dependents_count": 583,
+    "deprecation_reason": null,
+    "description": "Various utility functions for SQLAlchemy.",
+    "homepage": "https://github.com/kvesteri/sqlalchemy-utils",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.41.2",
+    "latest_release_published_at": "2024-03-24T15:17:24.000Z",
+    "latest_stable_release_number": "0.41.2",
+    "latest_stable_release_published_at": "2024-03-24T15:17:24.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "SQLAlchemy-Utils",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/SQLAlchemy-Utils/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kvesteri/sqlalchemy-utils",
+    "security_policy_url": null
+}

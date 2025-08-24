@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/scikit-build/ninja-python-distributions/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 209,
+    "dependents_count": 360,
+    "deprecation_reason": null,
+    "description": "Ninja is a small build system with a focus on speed",
+    "homepage": "http://ninja-build.org/",
+    "keywords": [
+        "build",
+        "c++",
+        "cross-compilation",
+        "cross-platform",
+        "fortran",
+        "ninja",
+        "build-tool",
+        "c-plus-plus",
+        "cmake",
+        "kitware",
+        "python",
+        "scikit-build"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.11.1.4",
+    "latest_release_published_at": "2025-03-22T06:46:17.000Z",
+    "latest_stable_release_number": "1.11.1",
+    "latest_stable_release_published_at": "2022-11-05T10:00:27.084Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License,BSD License",
+    "name": "ninja",
+    "normalized_licenses": [
+        "Apache-2.0",
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ninja/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scikit-build/ninja-python-distributions",
+    "security_policy_url": null
+}

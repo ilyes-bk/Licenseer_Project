@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/GoogleCloudPlatform/functions-framework-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 11,
+    "dependents_count": 29,
+    "deprecation_reason": null,
+    "description": "An open source FaaS (Function as a service) framework for writing portable Python functions -- brought to you by the Google Cloud Functions team.",
+    "homepage": "https://github.com/googlecloudplatform/functions-framework-python",
+    "keywords": [
+        "functions-framework"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.8.2",
+    "latest_release_published_at": "2024-11-13T21:41:15.000Z",
+    "latest_stable_release_number": "3.8.2",
+    "latest_stable_release_published_at": "2024-11-13T21:41:15.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "functions-framework",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/functions-framework/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googlecloudplatform/functions-framework-python",
+    "security_policy_url": null
+}

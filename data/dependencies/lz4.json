@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 303,
+    "dependents_count": 493,
+    "deprecation_reason": null,
+    "description": "LZ4 Bindings for Python",
+    "homepage": "https://github.com/python-lz4/python-lz4",
+    "keywords": [
+        "compression",
+        "lz4",
+        "lz4-frame",
+        "python"
+    ],
+    "language": "C",
+    "latest_release_number": "4.4.4",
+    "latest_release_published_at": "2025-04-01T22:55:13.000Z",
+    "latest_stable_release_number": "4.4.4",
+    "latest_stable_release_published_at": "2025-04-01T22:55:13.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "lz4",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/lz4/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-lz4/python-lz4",
+    "security_policy_url": null
+}

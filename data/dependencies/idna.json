@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2566,
+    "dependents_count": 5489,
+    "deprecation_reason": null,
+    "description": "Internationalized Domain Names in Applications (IDNA)",
+    "homepage": "",
+    "keywords": [
+        "dns",
+        "hacktoberfest",
+        "idna",
+        "python",
+        "unicode"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.10",
+    "latest_release_published_at": "2024-09-15T18:07:37.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "idna",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/idna/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kjd/idna",
+    "security_policy_url": "https://github.com/kjd/idna/security/policy"
+}

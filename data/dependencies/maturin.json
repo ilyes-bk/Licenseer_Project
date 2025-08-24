@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": "https://github.com/PyO3/maturin/blob/main/Code-of-Conduct.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 111,
+    "dependents_count": 208,
+    "deprecation_reason": null,
+    "description": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+    "homepage": "https://github.com/pyo3/maturin",
+    "keywords": [
+        "python",
+        "cffi",
+        "packaging",
+        "pypi",
+        "pyo3",
+        "cpython",
+        "cross-compile",
+        "hacktoberfest",
+        "manylinux",
+        "pypy",
+        "uniffi",
+        "wheels"
+    ],
+    "language": "Rust",
+    "latest_release_number": "1.8.3",
+    "latest_release_published_at": "2025-03-13T11:07:26.000Z",
+    "latest_stable_release_number": "1.8.3",
+    "latest_stable_release_published_at": "2025-03-13T11:07:26.000Z",
+    "license_normalized": true,
+    "licenses": "MIT OR Apache-2.0",
+    "name": "maturin",
+    "normalized_licenses": [
+        "MIT",
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/maturin/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PyO3/maturin",
+    "security_policy_url": null
+}

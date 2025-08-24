@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/jannikmi/timezonefinder/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 94,
+    "dependents_count": 145,
+    "deprecation_reason": null,
+    "description": "python package for finding the timezone of any point on earth (coordinates) offline",
+    "homepage": "https://timezonefinder.michelfe.it/gui",
+    "keywords": [
+        "timezone",
+        "coordinates",
+        "latitude",
+        "longitude",
+        "location",
+        "offline",
+        "polygon",
+        "geolocation",
+        "python",
+        "timezone-library",
+        "timezone-picker",
+        "timezones"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.5.9",
+    "latest_release_published_at": "2025-03-25T11:27:26.000Z",
+    "latest_stable_release_number": "6.5.9",
+    "latest_stable_release_published_at": "2025-03-25T11:27:26.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "timezonefinder",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/timezonefinder/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jannikmi/timezonefinder",
+    "security_policy_url": null
+}

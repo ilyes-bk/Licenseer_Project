@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 25,
+    "dependents_count": 40,
+    "deprecation_reason": null,
+    "description": "Verify certificates using native system trust stores",
+    "homepage": "https://truststore.readthedocs.io",
+    "keywords": [
+        "certificates",
+        "macos",
+        "python",
+        "tls",
+        "truststore",
+        "windows"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.10.1",
+    "latest_release_published_at": "2025-02-07T18:57:36.000Z",
+    "latest_stable_release_number": "0.10.1",
+    "latest_stable_release_published_at": "2025-02-07T18:57:36.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "truststore",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/truststore/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sethmlarson/truststore",
+    "security_policy_url": "https://github.com/sethmlarson/truststore/security/policy"
+}

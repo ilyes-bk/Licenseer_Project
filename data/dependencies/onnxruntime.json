@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 633,
+    "dependents_count": 1208,
+    "deprecation_reason": null,
+    "description": "ONNX Runtime is a runtime accelerator for Machine Learning models",
+    "homepage": "https://onnxruntime.ai",
+    "keywords": [
+        "onnx",
+        "machine",
+        "learning"
+    ],
+    "language": null,
+    "latest_release_number": "1.21.1",
+    "latest_release_published_at": "2025-04-18T12:01:11.000Z",
+    "latest_stable_release_number": "1.21.0",
+    "latest_stable_release_published_at": "2025-03-08T02:43:37.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "onnxruntime",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/onnxruntime/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/narwhals-dev/narwhals/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/narwhals-dev/narwhals/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 49,
+    "dependents_count": 92,
+    "deprecation_reason": null,
+    "description": "Extremely lightweight compatibility layer between dataframe libraries",
+    "homepage": "https://github.com/narwhals-dev/narwhals",
+    "keywords": [
+        "cudf",
+        "dask",
+        "dataframes",
+        "interoperability",
+        "modin",
+        "pandas",
+        "polars",
+        "pyarrow",
+        "duckdb",
+        "ibis",
+        "pyspark"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.36.0",
+    "latest_release_published_at": "2025-04-23T07:15:30.000Z",
+    "latest_stable_release_number": "1.36.0",
+    "latest_stable_release_published_at": "2025-04-23T07:15:30.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "narwhals",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/narwhals/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/narwhals-dev/narwhals",
+    "security_policy_url": "https://github.com/narwhals-dev/narwhals/security/policy"
+}

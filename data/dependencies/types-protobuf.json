@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 135,
+    "dependents_count": 229,
+    "deprecation_reason": null,
+    "description": "Typing stubs for protobuf",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.29.1.20250403",
+    "latest_release_published_at": "2025-04-02T10:07:15.000Z",
+    "latest_stable_release_number": "3.20.4",
+    "latest_stable_release_published_at": "2022-09-19T02:23:18.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "types-protobuf",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-protobuf/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

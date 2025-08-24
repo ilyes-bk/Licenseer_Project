@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 6,
+    "dependents_count": 18,
+    "deprecation_reason": null,
+    "description": "CORS support for aiohttp",
+    "homepage": "https://github.com/aio-libs/aiohttp-cors",
+    "keywords": [
+        "aiohttp",
+        "asyncio",
+        "cors"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.8.1",
+    "latest_release_published_at": "2025-03-31T14:16:18.000Z",
+    "latest_stable_release_number": "0.8.1",
+    "latest_stable_release_published_at": "2025-03-31T14:16:18.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License, Version 2.0",
+    "name": "aiohttp-cors",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/aiohttp-cors/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aio-libs/aiohttp-cors",
+    "security_policy_url": "https://github.com/aio-libs/aiohttp-cors/security/policy"
+}

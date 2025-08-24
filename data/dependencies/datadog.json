@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/DataDog/datadogpy/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 68,
+    "dependents_count": 123,
+    "deprecation_reason": null,
+    "description": "The Datadog Python library",
+    "homepage": "https://datadoghq.com/",
+    "keywords": [
+        "datadog"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.51.0",
+    "latest_release_published_at": "2025-01-27T18:24:09.000Z",
+    "latest_stable_release_number": "0.51.0",
+    "latest_stable_release_published_at": "2025-01-27T18:24:09.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "datadog",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/datadog/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/DataDog/datadogpy",
+    "security_policy_url": null
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/httplib2/httplib2/blob/master/contributing.md",
+    "dependent_repos_count": 360,
+    "dependents_count": 652,
+    "deprecation_reason": null,
+    "description": "A comprehensive HTTP client library.",
+    "homepage": "https://github.com/httplib2/httplib2",
+    "keywords": [
+        "http",
+        "http-client",
+        "network",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.22.0",
+    "latest_release_published_at": "2023-03-21T22:31:05.208Z",
+    "latest_stable_release_number": "0.22.0",
+    "latest_stable_release_published_at": "2023-03-21T22:31:05.208Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "httplib2",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/httplib2/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/httplib2/httplib2",
+    "security_policy_url": "https://github.com/httplib2/httplib2/security/policy"
+}

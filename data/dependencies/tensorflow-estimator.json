@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 678,
+    "dependents_count": 258,
+    "deprecation_reason": null,
+    "description": "TensorFlow Estimator.",
+    "homepage": "https://www.tensorflow.org/",
+    "keywords": [
+        "tensorflow",
+        "estimator",
+        "tensor",
+        "machine",
+        "learning"
+    ],
+    "language": null,
+    "latest_release_number": "2.15.0",
+    "latest_release_published_at": "2023-11-07T01:10:10.000Z",
+    "latest_stable_release_number": "2.15.0",
+    "latest_stable_release_published_at": "2023-11-07T01:10:10.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "tensorflow-estimator",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tensorflow-estimator/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

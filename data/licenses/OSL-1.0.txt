@@ -1,0 +1,9 @@
+License Name: Open Software License, version 1.0
+SPDX ID: OSL-1.0
+Category: Superseded
+URL: https://opensource.org/license/osl-1-0
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: July 28, 2002
+Submitter: Submitter: Lawrence E. Rosen

@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/aliyun/aliyun-openapi-python-sdk/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 25,
+    "dependents_count": 373,
+    "deprecation_reason": null,
+    "description": "The core module of Aliyun Python SDK.",
+    "homepage": "https://github.com/aliyun/aliyun-openapi-python-sdk",
+    "keywords": [
+        "aliyun",
+        "sdk",
+        "core",
+        "alibaba-cloud-python",
+        "alibaba-cloud-sdk",
+        "development-kit",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.16.0",
+    "latest_release_published_at": "2024-10-09T06:01:01.000Z",
+    "latest_stable_release_number": "2.16.0",
+    "latest_stable_release_published_at": "2024-10-09T06:01:01.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "aliyun-python-sdk-core",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/aliyun-python-sdk-core/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aliyun/aliyun-openapi-python-sdk",
+    "security_policy_url": null
+}

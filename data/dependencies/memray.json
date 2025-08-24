@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/bloomberg/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/bloomberg/memray/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 30,
+    "dependents_count": 48,
+    "deprecation_reason": null,
+    "description": "A memory profiler for Python applications",
+    "homepage": "https://github.com/bloomberg/memray",
+    "keywords": [
+        "hacktoberfest",
+        "memory",
+        "memory-leak",
+        "memory-leak-detection",
+        "memory-profiler",
+        "profiler",
+        "python",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.17.1",
+    "latest_release_published_at": "2025-04-11T17:22:24.000Z",
+    "latest_stable_release_number": "1.17.1",
+    "latest_stable_release_published_at": "2025-04-11T17:22:24.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "memray",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/memray/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bloomberg/memray",
+    "security_policy_url": "https://github.com/bloomberg/memray/security/policy"
+}

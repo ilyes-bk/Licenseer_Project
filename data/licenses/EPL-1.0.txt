@@ -1,0 +1,9 @@
+License Name: Eclipse Public License -v 1.0
+SPDX ID: EPL-1.0
+Category: Superseded
+URL: https://opensource.org/license/epl-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: Submitted: March 8, 2004
+Submitter: Submitter: Philip Ma

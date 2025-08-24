@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/awslabs/aws-crt-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/awslabs/aws-crt-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 14,
+    "dependents_count": 35,
+    "deprecation_reason": null,
+    "description": "A common runtime for AWS Python projects",
+    "homepage": "",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.26.1",
+    "latest_release_published_at": "2025-04-09T20:50:17.000Z",
+    "latest_stable_release_number": "0.26.1",
+    "latest_stable_release_published_at": "2025-04-09T20:50:17.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "awscrt",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/awscrt/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/awslabs/aws-crt-python",
+    "security_policy_url": "https://github.com/awslabs/aws-crt-python/security/policy"
+}

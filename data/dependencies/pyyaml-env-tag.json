@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 22,
+    "dependents_count": 41,
+    "deprecation_reason": null,
+    "description": "A custom YAML tag for referencing environment variables in YAML files. ",
+    "homepage": "https://github.com/waylan/pyyaml-env-tag",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.1",
+    "latest_release_published_at": "2020-11-12T02:38:24.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pyyaml_env_tag",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyyaml_env_tag/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/waylan/pyyaml-env-tag",
+    "security_policy_url": null
+}

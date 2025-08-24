@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": "https://github.com/PrefectHQ/prefect/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/PrefectHQ/prefect/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 111,
+    "dependents_count": 219,
+    "deprecation_reason": null,
+    "description": "Workflow orchestration and management.",
+    "homepage": "https://prefect.io",
+    "keywords": [
+        "automation",
+        "data",
+        "data-engineering",
+        "data-ops",
+        "data-science",
+        "infrastructure",
+        "ml-ops",
+        "observability",
+        "orchestration",
+        "pipeline",
+        "prefect",
+        "python",
+        "workflow",
+        "workflow-engine"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.3.6",
+    "latest_release_published_at": "2025-04-24T19:44:36.000Z",
+    "latest_stable_release_number": "3.3.6",
+    "latest_stable_release_published_at": "2025-04-24T19:44:36.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "prefect",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/prefect/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PrefectHQ/prefect",
+    "security_policy_url": "https://github.com/PrefectHQ/prefect/security/policy"
+}

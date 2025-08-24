@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2749,
+    "dependents_count": 5368,
+    "deprecation_reason": null,
+    "description": "A Python library to read/write Excel 2010 xlsx/xlsm files",
+    "homepage": "https://openpyxl.readthedocs.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "3.1.5",
+    "latest_release_published_at": "2024-06-28T14:03:41.000Z",
+    "latest_stable_release_number": "3.1.5",
+    "latest_stable_release_published_at": "2024-06-28T14:03:41.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "openpyxl",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/openpyxl/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://foss.heptapod.net/openpyxl/openpyxl",
+    "security_policy_url": null
+}

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/trallnag/prometheus-fastapi-instrumentator/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 26,
+    "dependents_count": 68,
+    "deprecation_reason": null,
+    "description": "Instrument your FastAPI app with Prometheus metrics",
+    "homepage": "https://github.com/trallnag/prometheus-fastapi-instrumentator",
+    "keywords": [
+        "prometheus",
+        "instrumentation",
+        "fastapi",
+        "exporter",
+        "metrics"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.1.0",
+    "latest_release_published_at": "2025-03-19T19:35:04.000Z",
+    "latest_stable_release_number": "7.1.0",
+    "latest_stable_release_published_at": "2025-03-19T19:35:04.000Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "prometheus-fastapi-instrumentator",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/prometheus-fastapi-instrumentator/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/trallnag/prometheus-fastapi-instrumentator",
+    "security_policy_url": null
+}

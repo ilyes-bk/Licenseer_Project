@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/uqfoundation/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/uqfoundation/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 314,
+    "dependents_count": 428,
+    "deprecation_reason": null,
+    "description": "parallel graph management and execution in heterogeneous computing",
+    "homepage": "https://github.com/uqfoundation/pathos",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.3.4",
+    "latest_release_published_at": "2025-04-17T03:37:06.000Z",
+    "latest_stable_release_number": "0.3.4",
+    "latest_stable_release_published_at": "2025-04-17T03:37:06.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "pathos",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pathos/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/uqfoundation/pathos",
+    "security_policy_url": "https://github.com/uqfoundation/pathos/security/policy"
+}

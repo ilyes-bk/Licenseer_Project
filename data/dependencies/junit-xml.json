@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 55,
+    "dependents_count": 80,
+    "deprecation_reason": null,
+    "description": "Creates JUnit XML test result documents that can be read by tools such as Jenkins",
+    "homepage": "https://github.com/kyrus/python-junit-xml",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.9",
+    "latest_release_published_at": "2020-02-22T20:41:37.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "junit-xml",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/junit-xml/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kyrus/python-junit-xml",
+    "security_policy_url": null
+}

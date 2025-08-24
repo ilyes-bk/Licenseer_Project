@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/mesonbuild/meson/blob/master/contributing.md",
+    "dependent_repos_count": 47,
+    "dependents_count": 74,
+    "deprecation_reason": null,
+    "description": "A high performance build system",
+    "homepage": "https://mesonbuild.com",
+    "keywords": [
+        "meson",
+        "mesonbuild",
+        "build",
+        "system",
+        "cmake"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.8.0rc2",
+    "latest_release_published_at": "2025-04-24T20:09:15.000Z",
+    "latest_stable_release_number": "1.7.2",
+    "latest_stable_release_published_at": "2025-04-04T16:08:59.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License, Version 2.0",
+    "name": "meson",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/meson/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mesonbuild/meson",
+    "security_policy_url": null
+}

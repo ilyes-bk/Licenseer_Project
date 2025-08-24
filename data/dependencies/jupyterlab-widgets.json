@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/jupyter-widgets/ipywidgets/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jupyter-widgets/ipywidgets/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 117,
+    "dependents_count": 225,
+    "deprecation_reason": null,
+    "description": "Jupyter interactive widgets for JupyterLab",
+    "homepage": "https://github.com/jupyter-widgets/ipywidgets",
+    "keywords": [
+        "Interactive",
+        "Interpreter",
+        "Shell",
+        "Web",
+        "notebook",
+        "widgets",
+        "Jupyter",
+        "JupyterLab",
+        "JupyterLab3",
+        "jupyter-notebooks",
+        "jupyterlab-extension"
+    ],
+    "language": "TypeScript",
+    "latest_release_number": "3.0.14",
+    "latest_release_published_at": "2025-04-10T13:00:38.000Z",
+    "latest_stable_release_number": "3.0.14",
+    "latest_stable_release_published_at": "2025-04-10T13:00:38.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "jupyterlab-widgets",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/jupyterlab-widgets/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jupyter-widgets/ipywidgets",
+    "security_policy_url": null
+}

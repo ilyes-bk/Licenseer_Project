@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1380,
+    "dependents_count": 2880,
+    "deprecation_reason": null,
+    "description": "More routines for operating on iterables, beyond itertools",
+    "homepage": "https://github.com/more-itertools/more-itertools",
+    "keywords": [
+        "itertools",
+        "iterator",
+        "iteration",
+        "filter",
+        "peek",
+        "peekable",
+        "chunk",
+        "chunked"
+    ],
+    "language": "Python",
+    "latest_release_number": "10.7.0",
+    "latest_release_published_at": "2025-04-22T14:17:40.000Z",
+    "latest_stable_release_number": "10.7.0",
+    "latest_stable_release_published_at": "2025-04-22T14:17:40.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "more-itertools",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/more-itertools/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/more-itertools/more-itertools",
+    "security_policy_url": null
+}

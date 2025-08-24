@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ethereum/web3.py/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 507,
+    "dependents_count": 955,
+    "deprecation_reason": null,
+    "description": "web3: A Python library for interacting with Ethereum",
+    "homepage": "https://github.com/ethereum/web3.py",
+    "keywords": [
+        "ethereum"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.10.0",
+    "latest_release_published_at": "2025-03-27T17:02:25.000Z",
+    "latest_stable_release_number": "7.10.0",
+    "latest_stable_release_published_at": "2025-03-27T17:02:25.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "web3",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/web3/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ethereum/web3.py",
+    "security_policy_url": null
+}

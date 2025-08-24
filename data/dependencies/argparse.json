@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1493,
+    "dependents_count": 2498,
+    "deprecation_reason": null,
+    "description": "Python command-line parsing library",
+    "homepage": "https://github.com/ThomasWaldmann/argparse/",
+    "keywords": [
+        "argparse",
+        "command",
+        "line",
+        "parser",
+        "parsing"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.0",
+    "latest_release_published_at": "2015-09-14T16:03:16.000Z",
+    "latest_stable_release_number": "1.4.0",
+    "latest_stable_release_published_at": "2015-09-14T16:03:16.000Z",
+    "license_normalized": true,
+    "licenses": "Python Software Foundation License",
+    "name": "argparse",
+    "normalized_licenses": [
+        "PSF-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/argparse/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/ThomasWaldmann/argparse",
+    "security_policy_url": null
+}

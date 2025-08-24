@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 35,
+    "dependents_count": 52,
+    "deprecation_reason": null,
+    "description": "Expand standard functools to methods",
+    "homepage": "https://github.com/youknowone/methodtools",
+    "keywords": [
+        "ring",
+        "functools",
+        "lru_cache",
+        "method",
+        "class",
+        "classmethod",
+        "lru-cache",
+        "staticmethod",
+        "wirerope"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.7",
+    "latest_release_published_at": "2023-02-05T13:17:54.000Z",
+    "latest_stable_release_number": "0.4.7",
+    "latest_stable_release_published_at": "2023-02-05T13:17:54.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 2-Clause License",
+    "name": "methodtools",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/methodtools/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/youknowone/methodtools",
+    "security_policy_url": null
+}

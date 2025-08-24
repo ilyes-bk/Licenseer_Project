@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 57,
+    "dependents_count": 91,
+    "deprecation_reason": null,
+    "description": "Self-service finite-state machines for the programmer on the go.",
+    "homepage": "",
+    "keywords": [
+        "fsm",
+        "state",
+        "machine",
+        "automata"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.4.16",
+    "latest_release_published_at": "2025-04-16T20:12:14.000Z",
+    "latest_stable_release_number": "25.4.16",
+    "latest_stable_release_published_at": "2025-04-16T20:12:14.000Z",
+    "license_normalized": true,
+    "licenses": "Copyright (c) 2014\n        Rackspace\n        \n        Permission is hereby granted, free of charge, to any person obtaining\n        a copy of this software and associated documentation files (the\n        \"Software\"), to deal in the Software without restriction, including\n        without limitation the rights to use, copy, modify, merge, publish,\n        distribute, sublicense, and/or sell copies of the Software, and to\n        permit persons to whom the Software is furnished to do so, subject to\n        the following conditions:\n        \n        The above copyright notice and this permission notice shall be\n        included in all copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n        EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\n        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\n        NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\n        LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\n        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\n        WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n        ",
+    "name": "Automat",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/Automat/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/glyph/automat",
+    "security_policy_url": "https://github.com/glyph/automat/security/policy"
+}

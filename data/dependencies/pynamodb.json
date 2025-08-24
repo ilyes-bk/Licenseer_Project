@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pynamodb/PynamoDB/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 35,
+    "dependents_count": 49,
+    "deprecation_reason": null,
+    "description": "A Pythonic Interface to DynamoDB",
+    "homepage": "http://jlafon.io/pynamodb.html",
+    "keywords": [
+        "python",
+        "dynamodb",
+        "amazon",
+        "aws"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.0.2",
+    "latest_release_published_at": "2025-01-24T21:38:21.000Z",
+    "latest_stable_release_number": "6.0.2",
+    "latest_stable_release_published_at": "2025-01-24T21:38:21.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pynamodb",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pynamodb/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pynamodb/PynamoDB",
+    "security_policy_url": null
+}

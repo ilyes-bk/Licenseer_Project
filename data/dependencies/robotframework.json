@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/robotframework/robotframework/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 350,
+    "dependents_count": 536,
+    "deprecation_reason": null,
+    "description": "Generic automation framework for acceptance testing and robotic process automation (RPA)",
+    "homepage": "https://robotframework.org",
+    "keywords": [
+        "robotframework",
+        "automation",
+        "testautomation",
+        "rpa",
+        "testing",
+        "acceptancetesting",
+        "atdd",
+        "bdd",
+        "attd",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.2.2",
+    "latest_release_published_at": "2025-02-07T20:57:59.000Z",
+    "latest_stable_release_number": "7.2.2",
+    "latest_stable_release_published_at": "2025-02-07T20:57:59.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "robotframework",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/robotframework/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/robotframework/robotframework",
+    "security_policy_url": null
+}

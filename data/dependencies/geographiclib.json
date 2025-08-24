@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 55,
+    "dependents_count": 89,
+    "deprecation_reason": null,
+    "description": "The geodesic routines from GeographicLib",
+    "homepage": "https://geographiclib.sourceforge.io/Python/2.0",
+    "keywords": [
+        "gis",
+        "geographical",
+        "earth",
+        "distance",
+        "geodesic"
+    ],
+    "language": null,
+    "latest_release_number": "2.0",
+    "latest_release_published_at": "2022-04-23T13:01:09.000Z",
+    "latest_stable_release_number": "1.46.3",
+    "latest_stable_release_published_at": "2016-02-15T14:20:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "geographiclib",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/geographiclib/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

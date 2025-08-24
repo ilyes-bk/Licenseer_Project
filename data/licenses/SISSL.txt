@@ -1,0 +1,8 @@
+License Name: Sun Industry Standards Source License
+SPDX ID: SISSL
+Category: Voluntarily retired
+URL: https://opensource.org/license/sissl
+
+Additional Metadata:
+Version: Version 1.1
+Submitted: N/A

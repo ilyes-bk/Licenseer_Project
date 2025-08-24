@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/wntrblm/nox/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/wntrblm/nox/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 484,
+    "dependents_count": 666,
+    "deprecation_reason": null,
+    "description": "Flexible test automation.",
+    "homepage": "https://github.com/wntrblm/nox",
+    "keywords": [
+        "automation",
+        "testing",
+        "tox",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2025.2.9",
+    "latest_release_published_at": "2025-02-09T19:02:04.000Z",
+    "latest_stable_release_number": "2025.2.9",
+    "latest_stable_release_published_at": "2025-02-09T19:02:04.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "nox",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/nox/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wntrblm/nox",
+    "security_policy_url": null
+}

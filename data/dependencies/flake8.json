@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/PyCQA/flake8/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 9582,
+    "dependents_count": 14353,
+    "deprecation_reason": null,
+    "description": "the modular source code checker: pep8 pyflakes and co",
+    "homepage": "https://github.com/pycqa/flake8",
+    "keywords": [
+        "complexity-analysis",
+        "flake8",
+        "linter",
+        "linter-flake8",
+        "pep8",
+        "python",
+        "python3",
+        "static-analysis",
+        "static-code-analysis",
+        "style-guide",
+        "styleguide",
+        "stylelint"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.2.0",
+    "latest_release_published_at": "2025-03-29T20:08:37.000Z",
+    "latest_stable_release_number": "7.2.0",
+    "latest_stable_release_published_at": "2025-03-29T20:08:37.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "flake8",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/flake8/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pycqa/flake8",
+    "security_policy_url": "https://github.com/PyCQA/flake8/security/policy"
+}

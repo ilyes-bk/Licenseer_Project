@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 33,
+    "dependents_count": 48,
+    "deprecation_reason": null,
+    "description": "Click utility functions",
+    "homepage": "https://codeberg.org/hjacobs/python-clickclick",
+    "keywords": [
+        "click",
+        "console",
+        "terminal",
+        "cli",
+        "cli-utilities",
+        "command-line"
+    ],
+    "language": "Python",
+    "latest_release_number": "20.10.2",
+    "latest_release_published_at": "2020-10-03T13:36:49.000Z",
+    "latest_stable_release_number": "20.10.2",
+    "latest_stable_release_published_at": "2020-10-03T13:36:49.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "clickclick",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/clickclick/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": null,
+    "security_policy_url": null
+}

@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/pytorch/audio/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pytorch/audio/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 674,
+    "dependents_count": 1167,
+    "deprecation_reason": null,
+    "description": "An audio package for PyTorch",
+    "homepage": "https://github.com/pytorch/audio",
+    "keywords": [
+        "audio",
+        "audio-processing",
+        "io",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "speech"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.7.0",
+    "latest_release_published_at": "2025-04-23T14:46:42.000Z",
+    "latest_stable_release_number": "2.7.0",
+    "latest_stable_release_published_at": "2025-04-23T14:46:42.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "torchaudio",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/torchaudio/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytorch/audio",
+    "security_policy_url": null
+}

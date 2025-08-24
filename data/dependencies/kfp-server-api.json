@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/kubeflow/pipelines/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 5,
+    "dependents_count": 17,
+    "deprecation_reason": null,
+    "description": "Kubeflow Pipelines API",
+    "homepage": "https://github.com/kubeflow/pipelines",
+    "keywords": [
+        "OpenAPI",
+        "OpenAPI-Generator",
+        "Kubeflow",
+        "Pipelines",
+        "API",
+        "data-science",
+        "kubeflow-pipelines",
+        "kubernetes",
+        "machine-learning",
+        "mlops",
+        "pipeline"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.4.0",
+    "latest_release_published_at": "2025-02-28T00:30:13.000Z",
+    "latest_stable_release_number": "2.4.0",
+    "latest_stable_release_published_at": "2025-02-28T00:30:13.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "kfp-server-api",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/kfp-server-api/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kubeflow/pipelines",
+    "security_policy_url": "https://github.com/kubeflow/pipelines/security/policy"
+}

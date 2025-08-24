@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Defines a variety of Pygments lexers for highlighting IPython code.",
+    "homepage": null,
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2025-01-17T11:24:33.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2025-01-17T11:24:33.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "ipython-pygments-lexers",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ipython-pygments-lexers/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ipython/ipython-pygments-lexers",
+    "security_policy_url": null
+}

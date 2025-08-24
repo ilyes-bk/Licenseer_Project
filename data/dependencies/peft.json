@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 247,
+    "dependents_count": 450,
+    "deprecation_reason": null,
+    "description": "Parameter-Efficient Fine-Tuning (PEFT)",
+    "homepage": "https://github.com/huggingface/peft",
+    "keywords": [
+        "deep",
+        "learning",
+        "adapter",
+        "diffusion",
+        "llm",
+        "lora",
+        "parameter-efficient-learning",
+        "python",
+        "pytorch",
+        "transformers"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.15.2",
+    "latest_release_published_at": "2025-04-15T15:27:50.000Z",
+    "latest_stable_release_number": "0.15.2",
+    "latest_stable_release_published_at": "2025-04-15T15:27:50.000Z",
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "peft",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/peft/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/huggingface/peft",
+    "security_policy_url": null
+}

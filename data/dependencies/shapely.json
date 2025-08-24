@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/shapely/shapely/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/shapely/shapely/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 1442,
+    "dependents_count": 2481,
+    "deprecation_reason": null,
+    "description": "Manipulation and analysis of geometric objects",
+    "homepage": "https://shapely.readthedocs.io/en/stable/",
+    "keywords": [
+        "geometry",
+        "topology",
+        "gis"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2025-04-03T09:13:56.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2025-04-03T09:13:56.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause",
+    "name": "shapely",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/shapely/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/shapely/shapely",
+    "security_policy_url": null
+}

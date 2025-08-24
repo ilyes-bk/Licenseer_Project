@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/huggingface/evaluate/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/huggingface/evaluate/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 131,
+    "dependents_count": 272,
+    "deprecation_reason": null,
+    "description": "HuggingFace community-driven open-source library of evaluation",
+    "homepage": "https://github.com/huggingface/evaluate",
+    "keywords": [
+        "metrics",
+        "machine",
+        "learning",
+        "evaluate",
+        "evaluation",
+        "machine-learning"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.3",
+    "latest_release_published_at": "2024-09-11T10:15:30.000Z",
+    "latest_stable_release_number": "0.4.3",
+    "latest_stable_release_published_at": "2024-09-11T10:15:30.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "evaluate",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/evaluate/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/huggingface/evaluate",
+    "security_policy_url": null
+}

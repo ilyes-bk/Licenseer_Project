@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/openai/openai-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 2803,
+    "dependents_count": 6631,
+    "deprecation_reason": null,
+    "description": "The official Python library for the openai API",
+    "homepage": "https://github.com/openai/openai-python",
+    "keywords": [
+        "openai",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.76.0",
+    "latest_release_published_at": "2025-04-23T16:33:51.000Z",
+    "latest_stable_release_number": "1.76.0",
+    "latest_stable_release_published_at": "2025-04-23T16:33:51.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "openai",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/openai/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/openai/openai-python",
+    "security_policy_url": "https://github.com/openai/openai-python/security/policy"
+}

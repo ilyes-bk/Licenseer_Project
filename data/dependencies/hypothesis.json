@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/HypothesisWorks/hypothesis/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 1018,
+    "dependents_count": 1479,
+    "deprecation_reason": null,
+    "description": "A library for property-based testing",
+    "homepage": "https://hypothesis.works",
+    "keywords": [
+        "python",
+        "testing",
+        "fuzzing",
+        "property-based-testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.131.9",
+    "latest_release_published_at": "2025-04-25T05:54:43.000Z",
+    "latest_stable_release_number": "6.131.9",
+    "latest_stable_release_published_at": "2025-04-25T05:54:43.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "hypothesis",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/hypothesis/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/HypothesisWorks/hypothesis",
+    "security_policy_url": null
+}

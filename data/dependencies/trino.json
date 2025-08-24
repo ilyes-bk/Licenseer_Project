@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/trinodb/trino-python-client/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 39,
+    "dependents_count": 84,
+    "deprecation_reason": null,
+    "description": "Client for the Trino distributed SQL Engine",
+    "homepage": "https://github.com/trinodb/trino-python-client",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.333.0",
+    "latest_release_published_at": "2025-02-03T17:59:46.000Z",
+    "latest_stable_release_number": "0.333.0",
+    "latest_stable_release_published_at": "2025-02-03T17:59:46.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "trino",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/trino/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/trinodb/trino-python-client",
+    "security_policy_url": null
+}

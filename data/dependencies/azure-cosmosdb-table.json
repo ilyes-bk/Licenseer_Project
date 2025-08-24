@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-cosmos-table-python/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 19,
+    "dependents_count": 37,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure CosmosDB Table Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-cosmosdb-python",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.6",
+    "latest_release_published_at": "2019-10-25T21:39:28.908Z",
+    "latest_stable_release_number": "1.0.6",
+    "latest_stable_release_published_at": "2019-10-25T21:39:28.908Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "azure-cosmosdb-table",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-cosmosdb-table/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/Azure/azure-cosmosdb-python",
+    "security_policy_url": "https://github.com/Azure/azure-cosmos-table-python/security/policy"
+}

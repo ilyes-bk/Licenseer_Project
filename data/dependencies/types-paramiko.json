@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 36,
+    "dependents_count": 66,
+    "deprecation_reason": null,
+    "description": "Typing stubs for paramiko",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.5.0.20240928",
+    "latest_release_published_at": "2024-09-28T02:41:32.000Z",
+    "latest_stable_release_number": "2.11.6",
+    "latest_stable_release_published_at": "2022-09-19T15:25:50.674Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "types-paramiko",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-paramiko/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

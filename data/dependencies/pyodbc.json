@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 346,
+    "dependents_count": 772,
+    "deprecation_reason": null,
+    "description": "DB API module for ODBC",
+    "homepage": "https://github.com/mkleehammer/pyodbc",
+    "keywords": [
+        "database",
+        "dbapi",
+        "odbc",
+        "python"
+    ],
+    "language": "C++",
+    "latest_release_number": "5.2.0",
+    "latest_release_published_at": "2024-10-16T01:39:23.000Z",
+    "latest_stable_release_number": "5.2.0",
+    "latest_stable_release_published_at": "2024-10-16T01:39:23.000Z",
+    "license_normalized": true,
+    "licenses": "MIT-0 License",
+    "name": "pyodbc",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyodbc/",
+    "repository_license": "MIT-0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mkleehammer/pyodbc",
+    "security_policy_url": null
+}

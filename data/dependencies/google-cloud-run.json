@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/google-cloud-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/google-cloud-python/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 7,
+    "dependents_count": 22,
+    "deprecation_reason": null,
+    "description": "Google Cloud Run API client library",
+    "homepage": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-run",
+    "keywords": [
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.10.17",
+    "latest_release_published_at": "2025-03-17T11:36:06.000Z",
+    "latest_stable_release_number": "0.10.17",
+    "latest_stable_release_published_at": "2025-03-17T11:36:06.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-cloud-run",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-cloud-run/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/google-cloud-python",
+    "security_policy_url": "https://github.com/googleapis/google-cloud-python/security/policy"
+}

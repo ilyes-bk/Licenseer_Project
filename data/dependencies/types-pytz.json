@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 181,
+    "dependents_count": 267,
+    "deprecation_reason": null,
+    "description": "Typing stubs for pytz",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "2025.2.0.20250326",
+    "latest_release_published_at": "2025-03-26T02:53:11.000Z",
+    "latest_stable_release_number": "2022.1.2",
+    "latest_stable_release_published_at": "2022-07-19T09:32:00.653Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "types-pytz",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-pytz/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 638,
+    "dependents_count": 1120,
+    "deprecation_reason": null,
+    "description": "Pexpect allows easy control of interactive console applications.",
+    "homepage": "https://pexpect.readthedocs.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.9.0",
+    "latest_release_published_at": "2023-11-25T06:56:14.000Z",
+    "latest_stable_release_number": "4.9.0",
+    "latest_stable_release_published_at": "2023-11-25T06:56:14.000Z",
+    "license_normalized": true,
+    "licenses": "ISC license",
+    "name": "pexpect",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/pexpect/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pexpect/pexpect",
+    "security_policy_url": null
+}

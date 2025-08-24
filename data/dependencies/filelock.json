@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/tox-dev/filelock/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 1028,
+    "dependents_count": 1870,
+    "deprecation_reason": null,
+    "description": "A platform independent file lock.",
+    "homepage": "https://github.com/tox-dev/py-filelock",
+    "keywords": [
+        "application",
+        "cache",
+        "directory",
+        "log",
+        "user",
+        "filelock",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.18.0",
+    "latest_release_published_at": "2025-03-14T07:11:39.000Z",
+    "latest_stable_release_number": "3.18.0",
+    "latest_stable_release_published_at": "2025-03-14T07:11:39.000Z",
+    "license_normalized": true,
+    "licenses": "The Unlicense (Unlicense)",
+    "name": "filelock",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/filelock/",
+    "repository_license": "Unlicense",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tox-dev/py-filelock",
+    "security_policy_url": "https://github.com/tox-dev/filelock/security/policy"
+}

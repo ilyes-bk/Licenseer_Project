@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/aws/aws-cdk/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws/aws-cdk/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 402,
+    "dependents_count": 952,
+    "deprecation_reason": null,
+    "description": "Version 2 of the AWS Cloud Development Kit library",
+    "homepage": "https://github.com/aws/aws-cdk",
+    "keywords": [
+        "aws",
+        "cloud-infrastructure",
+        "hacktoberfest",
+        "infrastructure-as-code",
+        "typescript"
+    ],
+    "language": "TypeScript",
+    "latest_release_number": "2.192.0",
+    "latest_release_published_at": "2025-04-25T00:11:41.000Z",
+    "latest_stable_release_number": "2.192.0",
+    "latest_stable_release_published_at": "2025-04-25T00:11:41.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "aws-cdk-lib",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/aws-cdk-lib/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aws/aws-cdk",
+    "security_policy_url": "https://github.com/aws/aws-cdk/security/policy"
+}

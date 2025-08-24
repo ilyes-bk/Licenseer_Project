@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+        "name": "Fair License",
+        "spdx_id": "Fair",
+        "category": "Redundant with more popular",
+        "url": "https://opensource.org/license/fair"
+    },
+    "metadata": {
+        "category": "REDUNDANT WITH MORE POPULAR",
+        "version": "N/A",
+        "submitted": "Submitted: January 26, 2004",
+        "submitter": "Submitter: James William Pye",
+        "approved": "Approved: September 12, 2005",
+        "spdx": "SPDX short identifier: Fair",
+        "steward": "N/A",
+        "steward_url": "N/A"
+    },
+    "content": "Fair License (Fair)\n<Copyright Information>\nUsage of the works is permitted provided that this\ninstrument is retained with the works, so that any entity\nthat uses the works is notified of this instrument.\nDISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.\nVersions\n2015, Fair License\n2004, Fair License: http://rhid.com/fair (this URL no longer works)"
+}

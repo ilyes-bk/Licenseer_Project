@@ -1,0 +1,28 @@
+{
+    "code_of_conduct_url": "https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pypa/packaging/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 5109,
+    "dependents_count": 8672,
+    "deprecation_reason": null,
+    "description": "Core utilities for Python packages",
+    "homepage": "https://packaging.pypa.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "25.0",
+    "latest_release_published_at": "2025-04-19T11:48:57.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Apache Software License,BSD License",
+    "name": "packaging",
+    "normalized_licenses": [
+        "Apache-2.0",
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/packaging/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pypa/packaging",
+    "security_policy_url": "https://github.com/pypa/packaging/security/policy"
+}

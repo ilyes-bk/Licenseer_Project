@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-openapi/openapi-spec-validator/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 73,
+    "dependents_count": 163,
+    "deprecation_reason": null,
+    "description": "OpenAPI 2.0 (aka Swagger) and OpenAPI 3 spec validator",
+    "homepage": "https://github.com/python-openapi/openapi-spec-validator",
+    "keywords": [
+        "openapi",
+        "swagger",
+        "schema",
+        "oas",
+        "oas3",
+        "openapi2",
+        "openapi3",
+        "openapi31",
+        "python",
+        "python-library",
+        "specification",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2023-10-13T11:43:38.000Z",
+    "latest_stable_release_number": "0.7.1",
+    "latest_stable_release_published_at": "2023-10-13T11:43:38.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "openapi-spec-validator",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/openapi-spec-validator/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-openapi/openapi-spec-validator",
+    "security_policy_url": "https://github.com/python-openapi/openapi-spec-validator/security/policy"
+}

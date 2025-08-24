@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 18,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "Thin Python bindings to de/compression algorithms in Rust",
+    "homepage": "https://github.com/milesgranger/pyrus-cramjam",
+    "keywords": [
+        "compression",
+        "decompression",
+        "snappy",
+        "zstd",
+        "bz2",
+        "gzip",
+        "lz4",
+        "brotli",
+        "deflate",
+        "blosc2",
+        "bzip2",
+        "python",
+        "rust"
+    ],
+    "language": "Rust",
+    "latest_release_number": "2.11.0rc2",
+    "latest_release_published_at": "2025-04-25T07:16:18.000Z",
+    "latest_stable_release_number": "2.10.0",
+    "latest_stable_release_published_at": "2025-04-12T17:56:47.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cramjam",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cramjam/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/milesgranger/pyrus-cramjam",
+    "security_policy_url": null
+}

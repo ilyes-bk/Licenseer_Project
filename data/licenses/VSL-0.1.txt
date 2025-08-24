@@ -1,0 +1,8 @@
+License Name: The Vovida Software License v. 1.0
+SPDX ID: VSL-0.1
+Category: Non-Reusable
+URL: https://opensource.org/license/vovidapl-php
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

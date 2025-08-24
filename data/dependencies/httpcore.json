@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/encode/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/encode/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 286,
+    "dependents_count": 685,
+    "deprecation_reason": null,
+    "description": "A minimal low-level HTTP client.",
+    "homepage": "https://www.encode.io/httpcore/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.9",
+    "latest_release_published_at": "2025-04-24T22:06:20.000Z",
+    "latest_stable_release_number": "1.0.9",
+    "latest_stable_release_published_at": "2025-04-24T22:06:20.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "httpcore",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/httpcore/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/encode/httpcore",
+    "security_policy_url": "https://github.com/encode/httpcore/security/policy"
+}

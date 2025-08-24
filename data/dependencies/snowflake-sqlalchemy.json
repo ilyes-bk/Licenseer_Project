@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 89,
+    "dependents_count": 191,
+    "deprecation_reason": null,
+    "description": "Snowflake SQLAlchemy Dialect",
+    "homepage": "https://www.snowflake.com/",
+    "keywords": [
+        "Snowflake",
+        "analytics",
+        "cloud",
+        "database",
+        "db",
+        "warehouse",
+        "python",
+        "sql"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7.3",
+    "latest_release_published_at": "2025-01-14T19:50:25.000Z",
+    "latest_stable_release_number": "1.7.3",
+    "latest_stable_release_published_at": "2025-01-14T19:50:25.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "snowflake-sqlalchemy",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/snowflake-sqlalchemy/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/snowflakedb/snowflake-sqlalchemy",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/grpc/grpc/blob/master/CODE-OF-CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/grpc/grpc/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 1347,
+    "dependents_count": 2988,
+    "deprecation_reason": null,
+    "description": "HTTP/2-based RPC framework",
+    "homepage": "https://grpc.io",
+    "keywords": [],
+    "language": "C++",
+    "latest_release_number": "1.72.0",
+    "latest_release_published_at": "2025-04-25T13:27:59.000Z",
+    "latest_stable_release_number": "1.72.0",
+    "latest_stable_release_published_at": "2025-04-25T13:27:59.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "grpcio",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/grpcio/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/grpc/grpc",
+    "security_policy_url": "https://github.com/grpc/grpc/security/policy"
+}

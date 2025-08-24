@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 393,
+    "dependents_count": 612,
+    "deprecation_reason": null,
+    "description": "Pythonic task execution",
+    "homepage": "https://pyinvoke.org",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.2.0",
+    "latest_release_published_at": "2023-07-12T18:05:35.085Z",
+    "latest_stable_release_number": "2.2.0",
+    "latest_stable_release_published_at": "2023-07-12T18:05:35.085Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "invoke",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/invoke/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyinvoke/invoke",
+    "security_policy_url": "https://github.com/pyinvoke/invoke/security/policy"
+}

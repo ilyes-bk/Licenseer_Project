@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 189,
+    "dependents_count": 357,
+    "deprecation_reason": null,
+    "description": "Send file to trash natively under Mac OS X, Windows and Linux",
+    "homepage": "https://github.com/arsenetar/send2trash",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.8.3",
+    "latest_release_published_at": "2024-04-07T00:01:07.000Z",
+    "latest_stable_release_number": "1.8.3",
+    "latest_stable_release_published_at": "2024-04-07T00:01:07.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "Send2Trash",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Send2Trash/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/arsenetar/send2trash",
+    "security_policy_url": null
+}

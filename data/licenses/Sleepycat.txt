@@ -1,0 +1,8 @@
+License Name: The Sleepycat License
+SPDX ID: Sleepycat
+Category: Non-Reusable
+URL: https://opensource.org/license/sleepycat-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

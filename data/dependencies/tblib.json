@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ionelmc/python-tblib/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 137,
+    "dependents_count": 231,
+    "deprecation_reason": null,
+    "description": "Traceback serialization library.",
+    "homepage": "https://github.com/ionelmc/python-tblib",
+    "keywords": [
+        "traceback",
+        "debugging",
+        "exceptions"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.1.0",
+    "latest_release_published_at": "2025-03-31T12:58:26.000Z",
+    "latest_stable_release_number": "3.1.0",
+    "latest_stable_release_published_at": "2025-03-31T12:58:26.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "tblib",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/tblib/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ionelmc/python-tblib",
+    "security_policy_url": null
+}

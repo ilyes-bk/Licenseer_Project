@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 10,
+    "dependents_count": 25,
+    "deprecation_reason": null,
+    "description": "Apache Flink Python API",
+    "homepage": "https://flink.apache.org",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.19.2",
+    "latest_release_published_at": "2025-02-12T19:13:03.000Z",
+    "latest_stable_release_number": "1.19.2",
+    "latest_stable_release_published_at": "2025-02-12T19:13:03.000Z",
+    "license_normalized": true,
+    "licenses": "https://www.apache.org/licenses/LICENSE-2.0",
+    "name": "apache-flink",
+    "normalized_licenses": [
+        "MIT-feh"
+    ],
+    "package_manager_url": "https://pypi.org/project/apache-flink/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

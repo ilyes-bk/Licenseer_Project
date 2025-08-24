@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Installer for Python Build Standalone",
+    "homepage": null,
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2025.4.9",
+    "latest_release_published_at": "2025-04-09T22:01:51.000Z",
+    "latest_stable_release_number": "2025.4.9",
+    "latest_stable_release_published_at": "2025-04-09T22:01:51.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pbs-installer",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pbs-installer/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/frostming/pbs-installer",
+    "security_policy_url": null
+}

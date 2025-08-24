@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": "https://github.com/aws/serverless-application-model/blob/develop/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws/serverless-application-model/blob/develop/CONTRIBUTING.md",
+    "dependent_repos_count": 13,
+    "dependents_count": 23,
+    "deprecation_reason": null,
+    "description": "AWS SAM Translator is a library that transform SAM templates into AWS CloudFormation templates",
+    "homepage": "https://github.com/awslabs/serverless-application-model",
+    "keywords": [
+        "AWS",
+        "SAM",
+        "Serverless",
+        "Application",
+        "Model",
+        "aws-sam",
+        "lambda",
+        "sam-specification",
+        "serverless-application-model",
+        "serverless-applications"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.97.0",
+    "latest_release_published_at": "2025-04-11T05:57:16.000Z",
+    "latest_stable_release_number": "1.97.0",
+    "latest_stable_release_published_at": "2025-04-11T05:57:16.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "aws-sam-translator",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/aws-sam-translator/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/awslabs/serverless-application-model",
+    "security_policy_url": "https://github.com/aws/serverless-application-model/security/policy"
+}

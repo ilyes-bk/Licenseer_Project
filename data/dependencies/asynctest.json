@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 142,
+    "dependents_count": 205,
+    "deprecation_reason": null,
+    "description": "Enhance the standard unittest package with features for testing asyncio libraries",
+    "homepage": "https://github.com/Martiusweb/asynctest/",
+    "keywords": [
+        "unittest",
+        "test",
+        "testing",
+        "asyncio",
+        "tulip",
+        "selectors",
+        "async",
+        "mock"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.13.0",
+    "latest_release_published_at": "2019-05-14T16:42:22.000Z",
+    "latest_stable_release_number": "0.13.0",
+    "latest_stable_release_published_at": "2019-05-14T16:42:22.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2",
+    "name": "asynctest",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/asynctest/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Martiusweb/asynctest",
+    "security_policy_url": null
+}

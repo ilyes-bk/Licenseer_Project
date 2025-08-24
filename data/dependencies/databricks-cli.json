@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/databricks/databricks-cli/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 38,
+    "dependents_count": 87,
+    "deprecation_reason": null,
+    "description": "A command line interface for Databricks",
+    "homepage": "https://github.com/databricks/databricks-cli",
+    "keywords": [
+        "databricks",
+        "cli"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.18.0",
+    "latest_release_published_at": "2023-10-05T09:36:25.000Z",
+    "latest_stable_release_number": "0.18.0",
+    "latest_stable_release_published_at": "2023-10-05T09:36:25.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "databricks-cli",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/databricks-cli/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/databricks/databricks-cli",
+    "security_policy_url": null
+}

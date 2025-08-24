@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/html5lib/html5lib-python/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 573,
+    "dependents_count": 888,
+    "deprecation_reason": null,
+    "description": "HTML parser based on the WHATWG HTML specification",
+    "homepage": "https://github.com/html5lib/html5lib-python",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2020-06-22T23:32:36.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2017-12-07T14:10:04.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "html5lib",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/html5lib/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/html5lib/html5lib-python",
+    "security_policy_url": null
+}

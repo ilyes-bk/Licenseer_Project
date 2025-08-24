@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/naimetti/rfc3339-validator/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 50,
+    "dependents_count": 99,
+    "deprecation_reason": null,
+    "description": "A pure python RFC3339 validator",
+    "homepage": "https://github.com/naimetti/rfc3339-validator",
+    "keywords": [
+        "rfc3339",
+        "validator",
+        "datetime"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.1.4",
+    "latest_release_published_at": "2021-05-12T16:37:52.000Z",
+    "latest_stable_release_number": "0.1.4",
+    "latest_stable_release_published_at": "2021-05-12T16:37:52.000Z",
+    "license_normalized": true,
+    "licenses": "MIT license",
+    "name": "rfc3339-validator",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/rfc3339-validator/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/naimetti/rfc3339-validator",
+    "security_policy_url": null
+}

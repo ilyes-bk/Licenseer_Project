@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 157,
+    "dependents_count": 287,
+    "deprecation_reason": null,
+    "description": "Fastest Python implementation of JSON schema",
+    "homepage": "https://github.com/horejsek/python-fastjsonschema",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.21.1",
+    "latest_release_published_at": "2024-12-02T10:55:07.000Z",
+    "latest_stable_release_number": "2.21.1",
+    "latest_stable_release_published_at": "2024-12-02T10:55:07.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "fastjsonschema",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/fastjsonschema/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/horejsek/python-fastjsonschema",
+    "security_policy_url": null
+}

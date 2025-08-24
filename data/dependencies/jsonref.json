@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 122,
+    "dependents_count": 196,
+    "deprecation_reason": null,
+    "description": "jsonref is a library for automatic dereferencing of JSON Reference objects for Python.",
+    "homepage": "http://jsonref.readthedocs.org",
+    "keywords": [
+        "hacktoberfest"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2023-01-16T16:12:05.406Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2023-01-16T16:12:05.406Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "jsonref",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/jsonref/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

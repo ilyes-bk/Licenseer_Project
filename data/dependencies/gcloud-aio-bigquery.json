@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/talkiq/gcloud-aio/blob/master/.github/CONTRIBUTING.rst",
+    "dependent_repos_count": 2,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "Python Client for Google Cloud BigQuery",
+    "homepage": "https://github.com/talkiq/gcloud-aio",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "7.1.0",
+    "latest_release_published_at": "2024-02-16T10:48:18.000Z",
+    "latest_stable_release_number": "7.1.0",
+    "latest_stable_release_published_at": "2024-02-16T10:48:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "gcloud-aio-bigquery",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gcloud-aio-bigquery/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/talkiq/gcloud-aio",
+    "security_policy_url": null
+}

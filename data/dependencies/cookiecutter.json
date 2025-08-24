@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/cookiecutter/cookiecutter/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/cookiecutter/cookiecutter/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 328,
+    "dependents_count": 551,
+    "deprecation_reason": null,
+    "description": "A command-line utility that creates projects from project templates, e.g. creating a Python package project from a Python package project template.",
+    "homepage": "https://github.com/cookiecutter/cookiecutter",
+    "keywords": [
+        "cookiecutter",
+        "Python",
+        "projects",
+        "project",
+        "templates",
+        "Jinja2",
+        "skeleton",
+        "scaffolding",
+        "directory",
+        "package",
+        "packaging"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.6.0",
+    "latest_release_published_at": "2024-02-21T18:02:39.000Z",
+    "latest_stable_release_number": "2.6.0",
+    "latest_stable_release_published_at": "2024-02-21T18:02:39.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "cookiecutter",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/cookiecutter/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cookiecutter/cookiecutter",
+    "security_policy_url": null
+}

@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/simonpercivall/astunparse/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 227,
+    "dependents_count": 456,
+    "deprecation_reason": null,
+    "description": "An AST unparser for Python",
+    "homepage": "https://github.com/simonpercivall/astunparse",
+    "keywords": [
+        "astunparse",
+        "developer-tools",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.6.3",
+    "latest_release_published_at": "2019-12-22T18:12:11.000Z",
+    "latest_stable_release_number": "1.6.3",
+    "latest_stable_release_published_at": "2019-12-22T18:12:11.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "astunparse",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/astunparse/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/simonpercivall/astunparse",
+    "security_policy_url": null
+}

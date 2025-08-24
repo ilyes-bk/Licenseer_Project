@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 473,
+    "dependents_count": 714,
+    "deprecation_reason": null,
+    "description": "Python extension for computing string edit distances and similarities.",
+    "homepage": "https://github.com/rapidfuzz/python-Levenshtein",
+    "keywords": [
+        "string",
+        "Levenshtein",
+        "comparison",
+        "edit-distance",
+        "hacktoberfest",
+        "levenshtein-distance",
+        "python",
+        "string-comparision",
+        "string-matching",
+        "string-similarity"
+    ],
+    "language": null,
+    "latest_release_number": "0.27.1",
+    "latest_release_published_at": "2025-03-02T19:47:24.000Z",
+    "latest_stable_release_number": "0.27.1",
+    "latest_stable_release_published_at": "2025-03-02T19:47:24.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2.0-or-later",
+    "name": "python-Levenshtein",
+    "normalized_licenses": [
+        "GPL-2.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-Levenshtein/",
+    "repository_license": "GPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/rapidfuzz/python-Levenshtein",
+    "security_policy_url": "https://github.com/rapidfuzz/python-Levenshtein/security/policy"
+}

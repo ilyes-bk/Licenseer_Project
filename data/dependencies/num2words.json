@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": "https://github.com/savoirfairelinux/num2words/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/savoirfairelinux/num2words/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 94,
+    "dependents_count": 165,
+    "deprecation_reason": null,
+    "description": "Modules to convert numbers to words. Easily extensible.",
+    "homepage": "https://github.com/savoirfairelinux/num2words",
+    "keywords": [
+        "number",
+        "word",
+        "numbers",
+        "words",
+        "convert",
+        "conversion",
+        "i18n",
+        "localisation",
+        "localization",
+        "internationalisation",
+        "internationalization",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.5.14",
+    "latest_release_published_at": "2024-12-17T20:17:06.000Z",
+    "latest_stable_release_number": "0.5.14",
+    "latest_stable_release_published_at": "2024-12-17T20:17:06.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL",
+    "name": "num2words",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/num2words/",
+    "repository_license": "LGPL-2.1",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/savoirfairelinux/num2words",
+    "security_policy_url": null
+}

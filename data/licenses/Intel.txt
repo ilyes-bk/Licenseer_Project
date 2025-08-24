@@ -1,0 +1,8 @@
+License Name: Intel Open Source License
+SPDX ID: Intel
+Category: Voluntarily retired
+URL: https://opensource.org/license/intel
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

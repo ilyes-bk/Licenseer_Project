@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typing_extensions/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 7733,
+    "dependents_count": 14828,
+    "deprecation_reason": null,
+    "description": "Backported and Experimental Type Hints for Python 3.8+",
+    "homepage": "https://github.com/python/typing_extensions",
+    "keywords": [
+        "annotations",
+        "backport",
+        "checker",
+        "checking",
+        "function",
+        "hinting",
+        "hints",
+        "type",
+        "typechecking",
+        "typehinting",
+        "typehints",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.13.2",
+    "latest_release_published_at": "2025-04-10T14:19:03.000Z",
+    "latest_stable_release_number": "4.13.2",
+    "latest_stable_release_published_at": "2025-04-10T14:19:03.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "typing-extensions",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/typing-extensions/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typing_extensions",
+    "security_policy_url": "https://github.com/python/typing_extensions/security/policy"
+}

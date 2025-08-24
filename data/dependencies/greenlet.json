@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 534,
+    "dependents_count": 1096,
+    "deprecation_reason": null,
+    "description": "Lightweight in-process concurrent programming",
+    "homepage": "https://greenlet.readthedocs.io/",
+    "keywords": [
+        "greenlet",
+        "coroutine",
+        "concurrency",
+        "threads",
+        "cooperative"
+    ],
+    "language": "C++",
+    "latest_release_number": "3.2.1",
+    "latest_release_published_at": "2025-04-22T14:25:26.000Z",
+    "latest_stable_release_number": "3.2.1",
+    "latest_stable_release_published_at": "2025-04-22T14:25:26.000Z",
+    "license_normalized": true,
+    "licenses": "MIT AND Python-2.0",
+    "name": "greenlet",
+    "normalized_licenses": [
+        "MIT",
+        "Python-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/greenlet/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-greenlet/greenlet",
+    "security_policy_url": null
+}

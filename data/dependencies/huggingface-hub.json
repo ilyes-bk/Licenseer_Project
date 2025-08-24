@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/huggingface/huggingface_hub/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/huggingface/huggingface_hub/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 933,
+    "dependents_count": 1836,
+    "deprecation_reason": null,
+    "description": "Client library to download and publish models, datasets and other repos on the huggingface.co hub",
+    "homepage": "https://github.com/huggingface/huggingface_hub",
+    "keywords": [
+        "model-hub",
+        "machine-learning",
+        "models",
+        "natural-language-processing",
+        "deep-learning",
+        "pytorch",
+        "pretrained-models",
+        "hacktoberfest"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.30.2",
+    "latest_release_published_at": "2025-04-08T08:32:43.000Z",
+    "latest_stable_release_number": "0.30.2",
+    "latest_stable_release_published_at": "2025-04-08T08:32:43.000Z",
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "huggingface-hub",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/huggingface-hub/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/huggingface/huggingface_hub",
+    "security_policy_url": null
+}

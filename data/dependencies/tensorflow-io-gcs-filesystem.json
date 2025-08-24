@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/tensorflow/io/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 67,
+    "dependents_count": 144,
+    "deprecation_reason": null,
+    "description": "TensorFlow IO",
+    "homepage": "https://github.com/tensorflow/io",
+    "keywords": [
+        "tensorflow",
+        "io",
+        "machine",
+        "learning",
+        "dataset",
+        "filesystem",
+        "streaming",
+        "tensorflow-io"
+    ],
+    "language": "C++",
+    "latest_release_number": "0.37.1",
+    "latest_release_published_at": "2024-07-01T23:44:15.000Z",
+    "latest_stable_release_number": "0.37.1",
+    "latest_stable_release_published_at": "2024-07-01T23:44:15.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "tensorflow-io-gcs-filesystem",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tensorflow-io-gcs-filesystem/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tensorflow/io",
+    "security_policy_url": "https://github.com/tensorflow/io/security/policy"
+}

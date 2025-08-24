@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/binaryornot/binaryornot/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 73,
+    "dependents_count": 112,
+    "deprecation_reason": null,
+    "description": "Ultra-lightweight pure Python package to check if a file is binary or text.",
+    "homepage": "https://github.com/audreyr/binaryornot",
+    "keywords": [
+        "binaryornot"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.4",
+    "latest_release_published_at": "2017-08-03T15:55:31.000Z",
+    "latest_stable_release_number": "0.4.4",
+    "latest_stable_release_published_at": "2017-08-03T15:55:31.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "binaryornot",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/binaryornot/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/audreyr/binaryornot",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/uqfoundation/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/uqfoundation/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 381,
+    "dependents_count": 608,
+    "deprecation_reason": null,
+    "description": "better multiprocessing and multithreading in Python",
+    "homepage": "https://github.com/uqfoundation/multiprocess",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.70.18",
+    "latest_release_published_at": "2025-04-17T03:11:04.000Z",
+    "latest_stable_release_number": "0.70.18",
+    "latest_stable_release_published_at": "2025-04-17T03:11:04.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "multiprocess",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/multiprocess/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/uqfoundation/multiprocess",
+    "security_policy_url": "https://github.com/uqfoundation/multiprocess/security/policy"
+}

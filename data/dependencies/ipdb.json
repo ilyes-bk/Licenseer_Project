@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 442,
+    "dependents_count": 676,
+    "deprecation_reason": null,
+    "description": "IPython-enabled pdb",
+    "homepage": "https://github.com/gotcha/ipdb",
+    "keywords": [
+        "pdb",
+        "ipython",
+        "debugger",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.13.13",
+    "latest_release_published_at": "2023-03-09T15:41:00.602Z",
+    "latest_stable_release_number": "0.13.13",
+    "latest_stable_release_published_at": "2023-03-09T15:41:00.602Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "ipdb",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ipdb/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/gotcha/ipdb",
+    "security_policy_url": null
+}

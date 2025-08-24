@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2468,
+    "dependents_count": 4216,
+    "deprecation_reason": null,
+    "description": "Lightweight pipelining with Python functions",
+    "homepage": "https://joblib.readthedocs.io",
+    "keywords": [
+        "caching",
+        "memoization",
+        "multiprocessing",
+        "parallel-computing",
+        "python",
+        "threading"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.2",
+    "latest_release_published_at": "2024-05-02T12:15:00.000Z",
+    "latest_stable_release_number": "1.4.2",
+    "latest_stable_release_published_at": "2024-05-02T12:15:00.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause",
+    "name": "joblib",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/joblib/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/joblib/joblib",
+    "security_policy_url": null
+}

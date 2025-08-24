@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 212,
+    "dependents_count": 394,
+    "deprecation_reason": null,
+    "description": "A final implementation of JSONPath for Python that aims to be standard compliant, including arithmetic and binary comparison operators and providing clear AST for metaprogramming.",
+    "homepage": "https://github.com/h2non/jsonpath-ng",
+    "keywords": [
+        "documents",
+        "filter",
+        "json",
+        "jsonpath",
+        "path",
+        "python",
+        "query",
+        "xpath"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7.0",
+    "latest_release_published_at": "2024-10-11T15:41:42.000Z",
+    "latest_stable_release_number": "1.7.0",
+    "latest_stable_release_published_at": "2024-10-11T15:41:42.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "jsonpath-ng",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/jsonpath-ng/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/h2non/jsonpath-ng",
+    "security_policy_url": null
+}

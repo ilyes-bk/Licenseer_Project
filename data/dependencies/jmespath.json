@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 504,
+    "dependents_count": 1010,
+    "deprecation_reason": null,
+    "description": "JSON Matching Expressions",
+    "homepage": "https://github.com/jmespath/jmespath.py",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2022-06-17T18:00:10.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2022-06-17T18:00:10.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "jmespath",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/jmespath/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jmespath/jmespath.py",
+    "security_policy_url": null
+}

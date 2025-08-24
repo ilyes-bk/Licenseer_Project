@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 156,
+    "dependents_count": 275,
+    "deprecation_reason": null,
+    "description": "Wraps the portalocker recipe for easy usage",
+    "homepage": "http://portalocker.readthedocs.io/en/latest/",
+    "keywords": [
+        "locking",
+        "locks",
+        "with",
+        "statement",
+        "windows",
+        "linux",
+        "unix",
+        "distributed",
+        "lock",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.1.1",
+    "latest_release_published_at": "2024-12-31T14:22:47.000Z",
+    "latest_stable_release_number": "3.1.1",
+    "latest_stable_release_published_at": "2024-12-31T14:22:47.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "portalocker",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/portalocker/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wolph/portalocker",
+    "security_policy_url": null
+}

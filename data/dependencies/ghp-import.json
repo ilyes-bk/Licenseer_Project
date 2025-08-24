@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 80,
+    "dependents_count": 118,
+    "deprecation_reason": null,
+    "description": "Copy your docs directly to the gh-pages branch.",
+    "homepage": "https://github.com/c-w/ghp-import",
+    "keywords": [
+        "gh-pages",
+        "hacktoberfest",
+        "python2",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2022-05-02T15:47:14.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2022-05-02T15:47:14.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "ghp-import",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ghp-import/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/c-w/ghp-import",
+    "security_policy_url": null
+}

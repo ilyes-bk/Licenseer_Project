@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 158,
+    "dependents_count": 260,
+    "deprecation_reason": null,
+    "description": "Backports and enhancements for the contextlib module",
+    "homepage": "http://contextlib2.readthedocs.org",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "21.6.0",
+    "latest_release_published_at": "2021-06-27T06:54:20.000Z",
+    "latest_stable_release_number": "21.6.0",
+    "latest_stable_release_published_at": "2021-06-27T06:54:20.000Z",
+    "license_normalized": true,
+    "licenses": "PSF License",
+    "name": "contextlib2",
+    "normalized_licenses": [
+        "psfrag"
+    ],
+    "package_manager_url": "https://pypi.org/project/contextlib2/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

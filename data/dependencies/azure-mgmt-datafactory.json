@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 8,
+    "dependents_count": 22,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Data Factory Management Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "keywords": [
+        "azure",
+        "sdk",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "9.2.0",
+    "latest_release_published_at": "2025-04-21T04:21:30.000Z",
+    "latest_stable_release_number": "9.2.0",
+    "latest_stable_release_published_at": "2025-04-21T04:21:30.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-mgmt-datafactory",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-mgmt-datafactory/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

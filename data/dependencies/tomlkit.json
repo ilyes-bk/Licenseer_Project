@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 610,
+    "dependents_count": 1016,
+    "deprecation_reason": null,
+    "description": "Style preserving TOML library",
+    "homepage": "https://github.com/sdispater/tomlkit",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.13.2",
+    "latest_release_published_at": "2024-08-14T08:19:40.000Z",
+    "latest_stable_release_number": "0.13.2",
+    "latest_stable_release_published_at": "2024-08-14T08:19:40.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "tomlkit",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/tomlkit/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sdispater/tomlkit",
+    "security_policy_url": null
+}

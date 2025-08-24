@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 353,
+    "dependents_count": 620,
+    "deprecation_reason": null,
+    "description": "Django-filter is a reusable Django application for allowing users to filter querysets dynamically.",
+    "homepage": "https://github.com/carltongibson/django-filter/tree/main",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "25.1",
+    "latest_release_published_at": "2025-02-14T16:30:50.000Z",
+    "latest_stable_release_number": "2.4.0",
+    "latest_stable_release_published_at": "2020-09-27T09:08:52.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "django-filter",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/django-filter/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/carltongibson/django-filter",
+    "security_policy_url": null
+}

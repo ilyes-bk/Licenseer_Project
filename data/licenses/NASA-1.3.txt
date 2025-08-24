@@ -1,0 +1,9 @@
+License Name: NASA Open Source Agreement v1.3
+SPDX ID: NASA-1.3
+Category: Special Purpose
+URL: https://opensource.org/license/nasa1-3-php
+
+Additional Metadata:
+Version: Version 1.3
+Submitted: Submitted: March 23, 2004
+Submitter: Submitter: Robert Padilla

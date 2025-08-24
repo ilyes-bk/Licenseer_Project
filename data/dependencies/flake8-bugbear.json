@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 505,
+    "dependents_count": 733,
+    "deprecation_reason": null,
+    "description": "A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.",
+    "homepage": "https://github.com/PyCQA/flake8-bugbear",
+    "keywords": [
+        "flake8",
+        "bugbear",
+        "bugs",
+        "pyflakes",
+        "pylint",
+        "linter",
+        "qa",
+        "code-quality",
+        "linter-flake8",
+        "linter-plugin"
+    ],
+    "language": "Python",
+    "latest_release_number": "24.12.12",
+    "latest_release_published_at": "2024-12-12T16:49:23.000Z",
+    "latest_stable_release_number": "24.12.12",
+    "latest_stable_release_published_at": "2024-12-12T16:49:23.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "flake8-bugbear",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/flake8-bugbear/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PyCQA/flake8-bugbear",
+    "security_policy_url": null
+}

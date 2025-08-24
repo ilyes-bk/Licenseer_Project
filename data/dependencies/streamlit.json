@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/streamlit/streamlit/blob/develop/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/streamlit/streamlit/blob/develop/CONTRIBUTING.md",
+    "dependent_repos_count": 1039,
+    "dependents_count": 2477,
+    "deprecation_reason": null,
+    "description": "A faster way to build and share data apps",
+    "homepage": "https://streamlit.io",
+    "keywords": [
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "deep-learning",
+        "developer-tools",
+        "machine-learning",
+        "python",
+        "streamlit"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.44.1",
+    "latest_release_published_at": "2025-04-01T20:36:16.000Z",
+    "latest_stable_release_number": "1.44.1",
+    "latest_stable_release_published_at": "2025-04-01T20:36:16.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "streamlit",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/streamlit/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/streamlit/streamlit",
+    "security_policy_url": "https://github.com/streamlit/streamlit/security/policy"
+}

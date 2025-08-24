@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/librosa/librosa/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/librosa/librosa/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 588,
+    "dependents_count": 1039,
+    "deprecation_reason": null,
+    "description": "Python module for audio and music processing",
+    "homepage": "https://librosa.org",
+    "keywords": [
+        "audio",
+        "dsp",
+        "librosa",
+        "music",
+        "python",
+        "scipy"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.11.0",
+    "latest_release_published_at": "2025-03-11T15:09:52.000Z",
+    "latest_stable_release_number": "0.11.0",
+    "latest_stable_release_published_at": "2025-03-11T15:09:52.000Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "librosa",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/librosa/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/librosa/librosa",
+    "security_policy_url": null
+}

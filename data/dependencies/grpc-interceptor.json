@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/d5h-foss/grpc-interceptor/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 16,
+    "dependents_count": 35,
+    "deprecation_reason": null,
+    "description": "Simplifies gRPC interceptors",
+    "homepage": "https://github.com/d5h-foss/grpc-interceptor",
+    "keywords": [
+        "grpc",
+        "interceptor"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.15.4",
+    "latest_release_published_at": "2023-11-16T02:05:40.000Z",
+    "latest_stable_release_number": "0.15.4",
+    "latest_stable_release_published_at": "2023-11-16T02:05:40.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "grpc-interceptor",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/grpc-interceptor/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/d5h-foss/grpc-interceptor",
+    "security_policy_url": null
+}

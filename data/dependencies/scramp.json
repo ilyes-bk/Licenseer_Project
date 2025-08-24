@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 10,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "An implementation of the SCRAM protocol.",
+    "homepage": "https://github.com/tlocke/scramp",
+    "keywords": [
+        "SASL",
+        "SCRAM",
+        "authentication",
+        "python",
+        "scram-sha-1",
+        "scram-sha-1-plus",
+        "scram-sha-256",
+        "scram-sha-256-plus",
+        "scram-sha-512",
+        "scram-sha-512-plus",
+        "scram-sha3-512",
+        "scram-sha3-512-plus"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.5",
+    "latest_release_published_at": "2024-04-13T12:35:17.000Z",
+    "latest_stable_release_number": "1.4.5",
+    "latest_stable_release_published_at": "2024-04-13T12:35:17.000Z",
+    "license_normalized": true,
+    "licenses": "MIT No Attribution",
+    "name": "scramp",
+    "normalized_licenses": [
+        "MIT-0"
+    ],
+    "package_manager_url": "https://pypi.org/project/scramp/",
+    "repository_license": "MIT-0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tlocke/scramp",
+    "security_policy_url": null
+}

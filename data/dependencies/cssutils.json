@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 103,
+    "dependents_count": 134,
+    "deprecation_reason": null,
+    "description": "A CSS Cascading Style Sheets library for Python",
+    "homepage": "https://github.com/jaraco/cssutils",
+    "keywords": [
+        "CSS",
+        "Cascading",
+        "Style",
+        "Sheets",
+        "CSSParser",
+        "DOM",
+        "Level",
+        "2",
+        "Stylesheets"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.11.1",
+    "latest_release_published_at": "2024-06-04T15:51:37.000Z",
+    "latest_stable_release_number": "2.11.1",
+    "latest_stable_release_published_at": "2024-06-04T15:51:37.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Library or Lesser General Public License (LGPL)",
+    "name": "cssutils",
+    "normalized_licenses": [
+        "LGPL-2.0",
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/cssutils/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jaraco/cssutils",
+    "security_policy_url": "https://github.com/jaraco/cssutils/security/policy"
+}

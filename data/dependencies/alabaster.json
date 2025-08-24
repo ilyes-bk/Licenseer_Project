@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 247,
+    "dependents_count": 380,
+    "deprecation_reason": null,
+    "description": "A light, configurable Sphinx theme",
+    "homepage": "https://alabaster.readthedocs.io/",
+    "keywords": [],
+    "language": "HTML",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2024-07-26T18:15:02.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2024-07-26T18:15:02.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "alabaster",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/alabaster/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sphinx-doc/alabaster",
+    "security_policy_url": null
+}

@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 25,
+    "dependents_count": 45,
+    "deprecation_reason": null,
+    "description": "A pytest plugin to report test results as JSON files",
+    "homepage": "https://github.com/numirias/pytest-json-report",
+    "keywords": [
+        "json",
+        "json-output",
+        "json-report",
+        "pytest",
+        "pytest-json",
+        "pytest-plugin",
+        "python",
+        "testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.5.0",
+    "latest_release_published_at": "2022-03-15T21:03:08.000Z",
+    "latest_stable_release_number": "1.5.0",
+    "latest_stable_release_published_at": "2022-03-15T21:03:08.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytest-json-report",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-json-report/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/numirias/pytest-json-report",
+    "security_policy_url": null
+}

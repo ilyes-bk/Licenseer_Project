@@ -1,0 +1,8 @@
+License Name: Sun Public License, Version 1.0
+SPDX ID: SPL-1.0
+Category: Non-Reusable
+URL: https://opensource.org/license/sunpublic-php
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

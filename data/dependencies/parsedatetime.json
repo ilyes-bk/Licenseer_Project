@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 64,
+    "dependents_count": 104,
+    "deprecation_reason": null,
+    "description": "Parse human-readable date/time text.",
+    "homepage": "https://github.com/bear/parsedatetime",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.6",
+    "latest_release_published_at": "2020-05-31T23:50:56.000Z",
+    "latest_stable_release_number": "1.1.2",
+    "latest_stable_release_published_at": "2013-03-04T16:51:05.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "parsedatetime",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/parsedatetime/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bear/parsedatetime",
+    "security_policy_url": null
+}

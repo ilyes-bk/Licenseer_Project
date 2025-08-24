@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 36,
+    "dependents_count": 52,
+    "deprecation_reason": null,
+    "description": "Converts between Gregorian dates and other calendar systems",
+    "homepage": "https://github.com/fitnr/convertdate",
+    "keywords": [
+        "calendar",
+        "date",
+        "time"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.4.0",
+    "latest_release_published_at": "2022-01-22T18:32:32.000Z",
+    "latest_stable_release_number": "2.4.0",
+    "latest_stable_release_published_at": "2022-01-22T18:32:32.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "convertdate",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/convertdate/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/fitnr/convertdate",
+    "security_policy_url": null
+}

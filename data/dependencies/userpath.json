@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 14,
+    "dependents_count": 19,
+    "deprecation_reason": null,
+    "description": "Cross-platform tool for adding locations to the user PATH",
+    "homepage": "",
+    "keywords": [
+        "path",
+        "user",
+        "cross-platform",
+        "devops",
+        "system"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.9.2",
+    "latest_release_published_at": "2024-02-29T21:39:07.000Z",
+    "latest_stable_release_number": "1.9.2",
+    "latest_stable_release_published_at": "2024-02-29T21:39:07.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "userpath",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/userpath/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ofek/userpath",
+    "security_policy_url": null
+}

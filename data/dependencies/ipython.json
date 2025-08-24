@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ipython/ipython/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 4532,
+    "dependents_count": 7132,
+    "deprecation_reason": null,
+    "description": "IPython: Productive Interactive Computing",
+    "homepage": "https://ipython.org",
+    "keywords": [
+        "Interactive",
+        "Interpreter",
+        "Shell",
+        "Embedding",
+        "closember",
+        "data-science",
+        "hacktoberfest",
+        "ipython",
+        "jupyter",
+        "notebook",
+        "python",
+        "repl",
+        "spec-0"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.35.0",
+    "latest_release_published_at": "2025-04-07T12:38:49.000Z",
+    "latest_stable_release_number": "8.35.0",
+    "latest_stable_release_published_at": "2025-04-07T12:38:49.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "ipython",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ipython/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ipython/ipython",
+    "security_policy_url": "https://github.com/ipython/ipython/security/policy"
+}

@@ -1,0 +1,9 @@
+License Name: Lucent Public License, Plan 9, version 1.0
+SPDX ID: LPL-1.0
+Category: Superseded
+URL: https://opensource.org/license/lpl-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: Submitted: April 9, 2003
+Submitter: Submitter: David Presotto

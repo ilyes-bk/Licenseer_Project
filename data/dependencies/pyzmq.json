@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/zeromq/pyzmq/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 810,
+    "dependents_count": 1467,
+    "deprecation_reason": null,
+    "description": "Python bindings for 0MQ",
+    "homepage": "https://pyzmq.readthedocs.org",
+    "keywords": [
+        "cython",
+        "python",
+        "zeromq"
+    ],
+    "language": "Python",
+    "latest_release_number": "26.4.0",
+    "latest_release_published_at": "2025-04-04T12:03:07.000Z",
+    "latest_stable_release_number": "26.4.0",
+    "latest_stable_release_published_at": "2025-04-04T12:03:07.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License\n         \n         Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\n         \n         All rights reserved.\n         \n         Redistribution and use in source and binary forms, with or without\n         modification, are permitted provided that the following conditions are met:\n         \n         1. Redistributions of source code must retain the above copyright notice, this\n            list of conditions and the following disclaimer.\n         \n         2. Redistributions in binary form must reproduce the above copyright notice,\n            this list of conditions and the following disclaimer in the documentation\n            and/or other materials provided with the distribution.\n         \n         3. Neither the name of the copyright holder nor the names of its\n            contributors may be used to endorse or promote products derived from\n            this software without specific prior written permission.\n         \n         THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n         AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n         IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\n         DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\n         FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n         DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\n         SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n         CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\n         OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n         OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n         ",
+    "name": "pyzmq",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyzmq/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/zeromq/pyzmq",
+    "security_policy_url": "https://github.com/zeromq/pyzmq/security/policy"
+}

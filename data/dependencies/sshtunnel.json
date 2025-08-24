@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 117,
+    "dependents_count": 233,
+    "deprecation_reason": null,
+    "description": "Pure python SSH tunnels",
+    "homepage": "https://github.com/pahaz/sshtunnel",
+    "keywords": [
+        "ssh",
+        "tunnel",
+        "paramiko",
+        "proxy",
+        "tcp-forward",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2021-01-11T13:28:30.784Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2021-01-11T13:28:30.784Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sshtunnel",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sshtunnel/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pahaz/sshtunnel",
+    "security_policy_url": null
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 214,
+    "dependents_count": 375,
+    "deprecation_reason": null,
+    "description": "Vestigial utilities from IPython",
+    "homepage": "http://ipython.org",
+    "keywords": [
+        "Interactive",
+        "Interpreter",
+        "Shell",
+        "Web"
+    ],
+    "language": null,
+    "latest_release_number": "0.2.0",
+    "latest_release_published_at": "2017-03-13T22:12:25.000Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2017-03-13T22:12:25.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "ipython_genutils",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ipython_genutils/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

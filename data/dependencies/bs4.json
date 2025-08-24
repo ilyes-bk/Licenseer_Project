@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2279,
+    "dependents_count": 3730,
+    "deprecation_reason": null,
+    "description": "Dummy package for Beautiful Soup (beautifulsoup4)",
+    "homepage": "https://pypi.python.org/pypi/beautifulsoup4",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.0.2",
+    "latest_release_published_at": "2024-01-17T18:15:48.000Z",
+    "latest_stable_release_number": "0.0.2",
+    "latest_stable_release_published_at": "2024-01-17T18:15:48.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "bs4",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/bs4/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

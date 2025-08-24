@@ -1,0 +1,8 @@
+License Name: RealNetworks Public Source License Version 1.0
+SPDX ID: RPSL-1.0
+Category: Non-Reusable
+URL: https://opensource.org/license/real-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 198,
+    "dependents_count": 358,
+    "deprecation_reason": null,
+    "description": "A Python SOAP client",
+    "homepage": "http://docs.python-zeep.org",
+    "keywords": [
+        "python",
+        "soap",
+        "soap-client",
+        "wsdl"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.3.1",
+    "latest_release_published_at": "2024-10-16T05:31:28.000Z",
+    "latest_stable_release_number": "4.3.1",
+    "latest_stable_release_published_at": "2024-10-16T05:31:28.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "zeep",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/zeep/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mvantellingen/python-zeep",
+    "security_policy_url": "https://github.com/mvantellingen/python-zeep/security/policy"
+}

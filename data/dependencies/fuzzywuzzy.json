@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 475,
+    "dependents_count": 715,
+    "deprecation_reason": null,
+    "description": "Fuzzy string matching in python",
+    "homepage": "https://github.com/seatgeek/fuzzywuzzy",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.18.0",
+    "latest_release_published_at": "2020-02-13T21:06:25.000Z",
+    "latest_stable_release_number": "0.18.0",
+    "latest_stable_release_published_at": "2020-02-13T21:06:25.000Z",
+    "license_normalized": true,
+    "licenses": "GPLv2",
+    "name": "fuzzywuzzy",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/fuzzywuzzy/",
+    "repository_license": "GPL-2.0",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/seatgeek/fuzzywuzzy",
+    "security_policy_url": null
+}

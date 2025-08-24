@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/andialbrecht/sqlparse/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/andialbrecht/sqlparse/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 430,
+    "dependents_count": 860,
+    "deprecation_reason": null,
+    "description": "A non-validating SQL parser.",
+    "homepage": "https://github.com/andialbrecht/sqlparse",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.5.3",
+    "latest_release_published_at": "2024-12-10T12:05:27.000Z",
+    "latest_stable_release_number": "0.5.3",
+    "latest_stable_release_published_at": "2024-12-10T12:05:27.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "sqlparse",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sqlparse/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/andialbrecht/sqlparse",
+    "security_policy_url": "https://github.com/andialbrecht/sqlparse/security/policy"
+}

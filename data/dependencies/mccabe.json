@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 355,
+    "dependents_count": 579,
+    "deprecation_reason": null,
+    "description": "McCabe checker, plugin for flake8",
+    "homepage": "https://github.com/pycqa/mccabe",
+    "keywords": [
+        "flake8",
+        "mccabe",
+        "complexity",
+        "complexity-analysis",
+        "flake8-extensions",
+        "flake8-plugin",
+        "linter-flake8",
+        "linter-plugin",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.0",
+    "latest_release_published_at": "2022-01-24T01:14:49.000Z",
+    "latest_stable_release_number": "0.7.0",
+    "latest_stable_release_published_at": "2022-01-24T01:14:49.000Z",
+    "license_normalized": true,
+    "licenses": "Expat license",
+    "name": "mccabe",
+    "normalized_licenses": [
+        "Saxpath"
+    ],
+    "package_manager_url": "https://pypi.org/project/mccabe/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pycqa/mccabe",
+    "security_policy_url": null
+}

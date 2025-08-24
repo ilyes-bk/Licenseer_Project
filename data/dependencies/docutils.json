@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1767,
+    "dependents_count": 3383,
+    "deprecation_reason": null,
+    "description": "Docutils -- Python Documentation Utilities",
+    "homepage": "https://docutils.sourceforge.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.21.2",
+    "latest_release_published_at": "2024-04-23T18:57:14.000Z",
+    "latest_stable_release_number": "0.21.2",
+    "latest_stable_release_published_at": "2024-04-23T18:57:14.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License,GNU General Public License (GPL),Python Software Foundation License,Public Domain",
+    "name": "docutils",
+    "normalized_licenses": [
+        "BSD-3-Clause",
+        "GPL-2.0+",
+        "PSF-2.0",
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/docutils/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://sourceforge.net/projects/docutils.sourceforge.io",
+    "security_policy_url": null
+}

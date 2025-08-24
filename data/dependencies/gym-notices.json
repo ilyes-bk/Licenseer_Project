@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 0,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "Notices for gym",
+    "homepage": "https://github.com/Farama-Foundation/gym-notices",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.0.8",
+    "latest_release_published_at": "2022-08-14T17:00:25.640Z",
+    "latest_stable_release_number": "0.0.8",
+    "latest_stable_release_published_at": "2022-08-14T17:00:25.640Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "gym-notices",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gym-notices/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Farama-Foundation/gym-notices",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 13,
+    "dependents_count": 22,
+    "deprecation_reason": null,
+    "description": "An integration package connecting miscellaneous Google's products and LangChain",
+    "homepage": "https://github.com/langchain-ai/langchain-google",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.0.7",
+    "latest_release_published_at": "2025-02-26T10:31:32.000Z",
+    "latest_stable_release_number": "2.0.7",
+    "latest_stable_release_published_at": "2025-02-26T10:31:32.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "langchain-google-community",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/langchain-google-community/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/langchain-ai/langchain-google",
+    "security_policy_url": null
+}

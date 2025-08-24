@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/SeleniumHQ/.github/blob/trunk/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md",
+    "dependent_repos_count": 2167,
+    "dependents_count": 3977,
+    "deprecation_reason": null,
+    "description": "Official Python bindings for Selenium WebDriver",
+    "homepage": "https://www.selenium.dev",
+    "keywords": [
+        "dotnet",
+        "java",
+        "javascript",
+        "python",
+        "ruby",
+        "rust",
+        "selenium",
+        "webdriver"
+    ],
+    "language": "Java",
+    "latest_release_number": "4.31.0",
+    "latest_release_published_at": "2025-04-05T00:43:04.000Z",
+    "latest_stable_release_number": "4.31.0",
+    "latest_stable_release_published_at": "2025-04-05T00:43:04.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "selenium",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/selenium/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/SeleniumHQ/selenium/security/policy"
+}

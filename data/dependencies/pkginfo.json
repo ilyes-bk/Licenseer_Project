@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 580,
+    "dependents_count": 1656,
+    "deprecation_reason": null,
+    "description": "Query metadata from sdists / bdists / installed packages.",
+    "homepage": "https://code.launchpad.net/~tseaver/pkginfo/trunk",
+    "keywords": [
+        "distribution",
+        "sdist",
+        "installed",
+        "metadata"
+    ],
+    "language": null,
+    "latest_release_number": "1.12.1.2",
+    "latest_release_published_at": "2025-02-19T15:27:33.000Z",
+    "latest_stable_release_number": "1.12.1",
+    "latest_stable_release_published_at": "2025-02-18T18:10:15.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pkginfo",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pkginfo/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

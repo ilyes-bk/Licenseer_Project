@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 44,
+    "dependents_count": 87,
+    "deprecation_reason": null,
+    "description": "GenSON is a powerful, user-friendly JSON Schema generator.",
+    "homepage": "https://github.com/wolverdude/genson/",
+    "keywords": [
+        "json",
+        "schema",
+        "json-schema",
+        "jsonschema",
+        "object",
+        "generate",
+        "generator",
+        "builder",
+        "merge",
+        "draft",
+        "7",
+        "validate",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.3.0",
+    "latest_release_published_at": "2024-05-15T22:08:47.000Z",
+    "latest_stable_release_number": "1.3.0",
+    "latest_stable_release_published_at": "2024-05-15T22:08:47.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "genson",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/genson/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wolverdude/genson",
+    "security_policy_url": null
+}

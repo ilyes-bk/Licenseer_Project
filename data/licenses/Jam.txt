@@ -1,0 +1,9 @@
+License Name: JAM License
+SPDX ID: Jam
+Category: Other/Miscellaneous
+URL: https://opensource.org/license/jam
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: April 25, 2021
+Submitter: Submitter: Jack Hill

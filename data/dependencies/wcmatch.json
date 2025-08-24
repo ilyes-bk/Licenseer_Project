@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 51,
+    "dependents_count": 75,
+    "deprecation_reason": null,
+    "description": "Wildcard/glob file name matcher.",
+    "homepage": "https://github.com/facelessuser/wcmatch",
+    "keywords": [
+        "fnmatch",
+        "glob",
+        "search",
+        "wildcard"
+    ],
+    "language": "Python",
+    "latest_release_number": "10.0",
+    "latest_release_published_at": "2024-09-26T18:39:51.000Z",
+    "latest_stable_release_number": "8.5.2",
+    "latest_stable_release_published_at": "2024-05-15T12:51:06.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "wcmatch",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/wcmatch/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/facelessuser/wcmatch",
+    "security_policy_url": null
+}

@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 211,
+    "dependents_count": 403,
+    "deprecation_reason": null,
+    "description": "Get CPU info with pure Python",
+    "homepage": "https://github.com/workhorsy/py-cpuinfo",
+    "keywords": [
+        "cpu",
+        "cpufreq-info",
+        "cpuid",
+        "cpuinfo",
+        "kstat",
+        "lscpu",
+        "python",
+        "sysctl",
+        "sysinfo"
+    ],
+    "language": "Python",
+    "latest_release_number": "9.0.0",
+    "latest_release_published_at": "2022-10-25T20:39:05.330Z",
+    "latest_stable_release_number": "9.0.0",
+    "latest_stable_release_published_at": "2022-10-25T20:39:05.330Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "py-cpuinfo",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/py-cpuinfo/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/workhorsy/py-cpuinfo",
+    "security_policy_url": null
+}

@@ -1,0 +1,9 @@
+License Name: Zope Public License 2.1
+SPDX ID: ZPL-2.1
+Category: Redundant with more popular
+URL: https://opensource.org/license/zpl-2-1
+
+Additional Metadata:
+Version: Version 2.1
+Submitted: Submitted: April 6, 2021
+Submitter: Submitter: Jens Vagelpohl

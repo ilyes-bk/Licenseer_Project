@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 77,
+    "dependents_count": 242,
+    "deprecation_reason": null,
+    "description": "Simple PDF generation for Python",
+    "homepage": "http://code.google.com/p/pyfpdf",
+    "keywords": [
+        "pdf",
+        "unicode",
+        "png",
+        "jpg",
+        "ttf"
+    ],
+    "language": null,
+    "latest_release_number": "1.7.2",
+    "latest_release_published_at": "2015-01-21T00:07:47.000Z",
+    "latest_stable_release_number": "1.7.2",
+    "latest_stable_release_published_at": "2015-01-21T00:07:47.000Z",
+    "license_normalized": true,
+    "licenses": "LGPLv3+",
+    "name": "fpdf",
+    "normalized_licenses": [
+        "LGPL-3.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/fpdf/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

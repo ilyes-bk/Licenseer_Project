@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/astral-sh/uv/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 229,
+    "dependents_count": 357,
+    "deprecation_reason": null,
+    "description": "An extremely fast Python package and project manager, written in Rust.",
+    "homepage": "https://pypi.org/project/uv/",
+    "keywords": [
+        "uv",
+        "requirements",
+        "packaging",
+        "python",
+        "resolver"
+    ],
+    "language": "Rust",
+    "latest_release_number": "0.6.16",
+    "latest_release_published_at": "2025-04-22T04:16:55.000Z",
+    "latest_stable_release_number": "0.6.16",
+    "latest_stable_release_published_at": "2025-04-22T04:16:55.000Z",
+    "license_normalized": true,
+    "licenses": "MIT OR Apache-2.0",
+    "name": "uv",
+    "normalized_licenses": [
+        "MIT",
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/uv/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/astral-sh/uv",
+    "security_policy_url": "https://github.com/astral-sh/uv/security/policy"
+}

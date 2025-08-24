@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-poetry/cleo/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 109,
+    "dependents_count": 232,
+    "deprecation_reason": null,
+    "description": "Cleo allows you to create beautiful and testable command-line interfaces.",
+    "homepage": "https://github.com/python-poetry/cleo",
+    "keywords": [
+        "cli",
+        "commands",
+        "command-line",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.1",
+    "latest_release_published_at": "2024-11-18T13:58:33.000Z",
+    "latest_stable_release_number": "2.2.1",
+    "latest_stable_release_published_at": "2024-11-18T13:58:33.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cleo",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cleo/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-poetry/cleo",
+    "security_policy_url": null
+}

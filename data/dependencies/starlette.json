@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/encode/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/encode/starlette/blob/master/docs/contributing.md",
+    "dependent_repos_count": 763,
+    "dependents_count": 1529,
+    "deprecation_reason": null,
+    "description": "The little ASGI library that shines.",
+    "homepage": "https://github.com/encode/starlette",
+    "keywords": [
+        "async",
+        "http",
+        "python",
+        "websockets"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.46.2",
+    "latest_release_published_at": "2025-04-13T13:56:16.000Z",
+    "latest_stable_release_number": "0.46.2",
+    "latest_stable_release_published_at": "2025-04-13T13:56:16.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "starlette",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/starlette/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/encode/starlette",
+    "security_policy_url": "https://github.com/encode/starlette/security/policy"
+}

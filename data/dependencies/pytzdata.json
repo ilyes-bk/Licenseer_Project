@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 26,
+    "dependents_count": 43,
+    "deprecation_reason": null,
+    "description": "The Olson timezone database for Python.",
+    "homepage": "https://github.com/sdispater/pytzdata",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2020.1",
+    "latest_release_published_at": "2020-07-13T10:42:10.000Z",
+    "latest_stable_release_number": "2017.3.1",
+    "latest_stable_release_published_at": "2017-11-03T18:29:56.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytzdata",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytzdata/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sdispater/pytzdata",
+    "security_policy_url": null
+}

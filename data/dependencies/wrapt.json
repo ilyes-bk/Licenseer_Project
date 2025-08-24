@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 853,
+    "dependents_count": 1571,
+    "deprecation_reason": null,
+    "description": "Module for decorators, wrappers and monkey patching.",
+    "homepage": "https://github.com/GrahamDumpleton/wrapt",
+    "keywords": [
+        "wrapper",
+        "proxy",
+        "decorator"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.17.2",
+    "latest_release_published_at": "2025-01-14T10:33:13.000Z",
+    "latest_stable_release_number": "1.17.2",
+    "latest_stable_release_published_at": "2025-01-14T10:33:13.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "wrapt",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/wrapt/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/GrahamDumpleton/wrapt",
+    "security_policy_url": null
+}

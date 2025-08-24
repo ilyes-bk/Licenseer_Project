@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/snowflakedb/snowpark-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 25,
+    "dependents_count": 78,
+    "deprecation_reason": null,
+    "description": "Snowflake Snowpark for Python",
+    "homepage": "https://www.snowflake.com/",
+    "keywords": [
+        "Snowflake",
+        "db",
+        "database",
+        "cloud",
+        "analytics",
+        "warehouse",
+        "data-analytics",
+        "data-engineering",
+        "data-science",
+        "dataframe",
+        "python",
+        "sql"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.31.0",
+    "latest_release_published_at": "2025-04-24T18:50:30.000Z",
+    "latest_stable_release_number": "1.31.0",
+    "latest_stable_release_published_at": "2025-04-24T18:50:30.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License, Version 2.0",
+    "name": "snowflake-snowpark-python",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/snowflake-snowpark-python/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/snowflakedb/snowpark-python",
+    "security_policy_url": null
+}

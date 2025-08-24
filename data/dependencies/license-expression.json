@@ -1,0 +1,43 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 27,
+    "dependents_count": 39,
+    "deprecation_reason": null,
+    "description": "license-expression is a comprehensive utility library to parse, compare, simplify and normalize license expressions (such as SPDX license expressions) using boolean logic.",
+    "homepage": "https://github.com/aboutcode-org/license-expression",
+    "keywords": [
+        "open",
+        "source",
+        "license",
+        "expression",
+        "spdx",
+        "boolean",
+        "parse",
+        "normalize",
+        "compare",
+        "licence",
+        "boolean-expression",
+        "license-expression",
+        "licensing",
+        "python",
+        "spdx-license"
+    ],
+    "language": "Python",
+    "latest_release_number": "30.4.1",
+    "latest_release_published_at": "2025-01-14T05:11:38.000Z",
+    "latest_stable_release_number": "30.4.1",
+    "latest_stable_release_published_at": "2025-01-14T05:11:38.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "license-expression",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/license-expression/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aboutcode-org/license-expression",
+    "security_policy_url": null
+}

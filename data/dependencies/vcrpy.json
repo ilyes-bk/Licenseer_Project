@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/kevin1024/vcrpy/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 146,
+    "dependents_count": 230,
+    "deprecation_reason": null,
+    "description": "Automatically mock your HTTP interactions to simplify and speed up testing",
+    "homepage": "https://github.com/kevin1024/vcrpy",
+    "keywords": [
+        "http",
+        "mocking",
+        "python",
+        "testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.0.0",
+    "latest_release_published_at": "2024-12-31T00:07:55.000Z",
+    "latest_stable_release_number": "7.0.0",
+    "latest_stable_release_published_at": "2024-12-31T00:07:55.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "vcrpy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/vcrpy/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kevin1024/vcrpy",
+    "security_policy_url": null
+}

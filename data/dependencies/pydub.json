@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 463,
+    "dependents_count": 906,
+    "deprecation_reason": null,
+    "description": "Manipulate audio with an simple and easy high level interface",
+    "homepage": "http://pydub.com",
+    "keywords": [
+        "audio",
+        "sound",
+        "high-level"
+    ],
+    "language": null,
+    "latest_release_number": "0.25.1",
+    "latest_release_published_at": "2021-03-10T02:09:53.000Z",
+    "latest_stable_release_number": "0.25.1",
+    "latest_stable_release_published_at": "2021-03-10T02:09:53.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pydub",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pydub/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

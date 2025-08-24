@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/JoshData/python-email-validator/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 261,
+    "dependents_count": 499,
+    "deprecation_reason": null,
+    "description": "A robust email address syntax and deliverability validation library.",
+    "homepage": "https://github.com/JoshData/python-email-validator",
+    "keywords": [
+        "email",
+        "address",
+        "validator",
+        "dns",
+        "normalization",
+        "syntax",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.0",
+    "latest_release_published_at": "2024-06-20T11:30:28.000Z",
+    "latest_stable_release_number": "2.2.0",
+    "latest_stable_release_published_at": "2024-06-20T11:30:28.000Z",
+    "license_normalized": false,
+    "licenses": "Unlicense",
+    "name": "email-validator",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/email-validator/",
+    "repository_license": "Unlicense",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/JoshData/python-email-validator",
+    "security_policy_url": null
+}

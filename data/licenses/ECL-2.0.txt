@@ -1,0 +1,9 @@
+License Name: Educational Community License, Version 2.0
+SPDX ID: ECL-2.0
+Category: Special Purpose
+URL: https://opensource.org/license/ecl-2-0
+
+Additional Metadata:
+Version: Version 2.0
+Submitted: Submitted: May 21, 2007
+Submitter: Submitter: Christopher D. Coppola

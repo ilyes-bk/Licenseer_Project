@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 195,
+    "dependents_count": 395,
+    "deprecation_reason": null,
+    "description": "A generator library for concise, unambiguous and URL-safe UUIDs.",
+    "homepage": "https://github.com/skorokithakis/shortuuid/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.13",
+    "latest_release_published_at": "2024-03-11T20:11:04.000Z",
+    "latest_stable_release_number": "1.0.13",
+    "latest_stable_release_published_at": "2024-03-11T20:11:04.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "shortuuid",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/shortuuid/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/skorokithakis/shortuuid",
+    "security_policy_url": null
+}

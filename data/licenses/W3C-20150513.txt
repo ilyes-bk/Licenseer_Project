@@ -1,0 +1,9 @@
+License Name: The W3C® Software and Document license
+SPDX ID: W3C-20150513
+Category: Non-Reusable
+URL: https://opensource.org/license/w3c
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: August 9, 2017
+Submitter: Submitter: Wendy Seltzer

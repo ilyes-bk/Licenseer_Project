@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 402,
+    "dependents_count": 567,
+    "deprecation_reason": null,
+    "description": "Backport of the concurrent.futures package from Python 3",
+    "homepage": "https://github.com/agronholm/pythonfutures",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "3.4.0",
+    "latest_release_published_at": "2022-10-31T21:42:18.266Z",
+    "latest_stable_release_number": "3.4.0",
+    "latest_stable_release_published_at": "2022-10-31T21:42:18.266Z",
+    "license_normalized": true,
+    "licenses": "PSF",
+    "name": "futures",
+    "normalized_licenses": [
+        "Python-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/futures/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/agronholm/pythonfutures",
+    "security_policy_url": null
+}

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 140,
+    "dependents_count": 337,
+    "deprecation_reason": null,
+    "description": "DB-API interface to Microsoft SQL Server for Python. (new Cython-based version)",
+    "homepage": "https://github.com/pymssql/pymssql",
+    "keywords": [
+        "mssql",
+        "SQL",
+        "Server",
+        "database",
+        "DB-API"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.3.4",
+    "latest_release_published_at": "2025-04-02T02:08:50.000Z",
+    "latest_stable_release_number": "2.3.4",
+    "latest_stable_release_published_at": "2025-04-02T02:08:50.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL",
+    "name": "pymssql",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/pymssql/",
+    "repository_license": "LGPL-2.1",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pymssql/pymssql",
+    "security_policy_url": null
+}

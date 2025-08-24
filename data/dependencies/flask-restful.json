@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/flask-restful/flask-restful/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 271,
+    "dependents_count": 457,
+    "deprecation_reason": null,
+    "description": "Simple framework for creating REST APIs",
+    "homepage": "https://www.github.com/flask-restful/flask-restful/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.3.10",
+    "latest_release_published_at": "2023-05-21T03:59:07.841Z",
+    "latest_stable_release_number": "0.3.10",
+    "latest_stable_release_published_at": "2023-05-21T03:59:07.841Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "Flask-RESTful",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Flask-RESTful/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/flask-restful/flask-restful",
+    "security_policy_url": null
+}

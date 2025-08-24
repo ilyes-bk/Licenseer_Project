@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/dbt-labs/dbt-extractor/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 5,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "A tool to analyze and extract information from Jinja used in dbt projects.",
+    "homepage": "https://github.com/dbt-labs/dbt-parser-generator/",
+    "keywords": [
+        "dbt",
+        "jinja2",
+        "parser"
+    ],
+    "language": "Rust",
+    "latest_release_number": "0.6.0",
+    "latest_release_published_at": "2025-04-07T16:46:05.000Z",
+    "latest_stable_release_number": "0.6.0",
+    "latest_stable_release_published_at": "2025-04-07T16:46:05.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "dbt-extractor",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/dbt-extractor/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dbt-labs/dbt-parser-generator",
+    "security_policy_url": null
+}

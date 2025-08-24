@@ -1,0 +1,9 @@
+License Name: IBM Public License Version 1.0
+SPDX ID: IPL-1.0
+Category: Non-Reusable
+URL: https://opensource.org/license/ibmpl-php
+
+Additional Metadata:
+Version: Version IPL-1.0
+Submitted: Submitted: August 15, 2004
+Submitter: Submitter: Daniel Wallace

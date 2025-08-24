@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/bokeh/bokeh/blob/branch-3.8/docs/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/bokeh/bokeh/blob/branch-3.8/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 776,
+    "dependents_count": 1138,
+    "deprecation_reason": null,
+    "description": "Interactive plots and applications in the browser from Python",
+    "homepage": "https://bokeh.org",
+    "keywords": [
+        "bokeh",
+        "data-visualisation",
+        "interactive-plots",
+        "javascript",
+        "jupyter",
+        "notebooks",
+        "numfocus",
+        "plots",
+        "plotting",
+        "python",
+        "visualisation",
+        "visualization"
+    ],
+    "language": "TypeScript",
+    "latest_release_number": "3.7.2",
+    "latest_release_published_at": "2025-03-28T08:06:33.000Z",
+    "latest_stable_release_number": "3.7.2",
+    "latest_stable_release_published_at": "2025-03-28T08:06:33.000Z",
+    "license_normalized": true,
+    "licenses": "Copyright (c) Anaconda, Inc., and Bokeh Contributors\n        All rights reserved.\n        \n        Redistribution and use in source and binary forms, with or without modification,\n        are permitted provided that the following conditions are met:\n        \n        Redistributions of source code must retain the above copyright notice,\n        this list of conditions and the following disclaimer.\n        \n        Redistributions in binary form must reproduce the above copyright notice,\n        this list of conditions and the following disclaimer in the documentation\n        and/or other materials provided with the distribution.\n        \n        Neither the name of Anaconda nor the names of any contributors\n        may be used to endorse or promote products derived from this software\n        without specific prior written permission.\n        \n        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n        AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n        IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n        ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE\n        LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\n        CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\n        SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\n        INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\n        CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\n        ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF\n        THE POSSIBILITY OF SUCH DAMAGE.\n        ",
+    "name": "bokeh",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/bokeh/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bokeh/bokeh",
+    "security_policy_url": "https://github.com/bokeh/bokeh/security/policy"
+}

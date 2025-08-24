@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 180,
+    "dependents_count": 284,
+    "deprecation_reason": null,
+    "description": "A module for monitoring memory usage of a python program",
+    "homepage": "https://github.com/pythonprofilers/memory_profiler",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.61.0",
+    "latest_release_published_at": "2022-11-15T17:59:01.069Z",
+    "latest_stable_release_number": "0.61.0",
+    "latest_stable_release_published_at": "2022-11-15T17:59:01.069Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "memory-profiler",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/memory-profiler/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pythonprofilers/memory_profiler",
+    "security_policy_url": null
+}

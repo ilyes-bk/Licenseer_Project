@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 103,
+    "dependents_count": 191,
+    "deprecation_reason": null,
+    "description": "An implementation of time.monotonic() for Python 2 & < 3.3",
+    "homepage": "https://github.com/atdt/monotonic",
+    "keywords": [
+        "backport",
+        "clock",
+        "compatibility",
+        "monotonic",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.6",
+    "latest_release_published_at": "2021-04-09T21:58:05.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "monotonic",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/monotonic/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/atdt/monotonic",
+    "security_policy_url": null
+}

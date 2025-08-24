@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/encode/httpx/blob/master/docs/code_of_conduct.md",
+    "contribution_guidelines_url": "https://github.com/encode/httpx/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 3712,
+    "dependents_count": 7133,
+    "deprecation_reason": null,
+    "description": "The next generation HTTP client.",
+    "homepage": "https://github.com/encode/httpx",
+    "keywords": [
+        "asyncio",
+        "http",
+        "python",
+        "trio"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.28.1",
+    "latest_release_published_at": "2024-12-06T15:37:21.000Z",
+    "latest_stable_release_number": "0.28.1",
+    "latest_stable_release_published_at": "2024-12-06T15:37:21.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "httpx",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/httpx/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/encode/httpx",
+    "security_policy_url": "https://github.com/encode/httpx/security/policy"
+}

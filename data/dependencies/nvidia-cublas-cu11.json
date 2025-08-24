@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 32,
+    "dependents_count": 82,
+    "deprecation_reason": null,
+    "description": "CUBLAS native runtime libraries",
+    "homepage": "https://developer.nvidia.com/cuda-zone",
+    "keywords": [
+        "cuda",
+        "nvidia",
+        "runtime",
+        "machine",
+        "learning",
+        "deep"
+    ],
+    "language": null,
+    "latest_release_number": "0.0.1",
+    "latest_release_published_at": "2023-02-28T00:59:01.101Z",
+    "latest_stable_release_number": "0.0.1",
+    "latest_stable_release_published_at": "2023-02-28T00:59:01.101Z",
+    "license_normalized": true,
+    "licenses": "NVIDIA Proprietary Software",
+    "name": "nvidia-cublas-cu11",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/nvidia-cublas-cu11/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

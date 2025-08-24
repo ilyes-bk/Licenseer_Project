@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/c0fec0de/anytree/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 244,
+    "dependents_count": 339,
+    "deprecation_reason": null,
+    "description": "Powerful and Lightweight Python Tree Data Structure with various plugins",
+    "homepage": "https://github.com/c0fec0de/anytree",
+    "keywords": [
+        "tree",
+        "data",
+        "treelib",
+        "walk",
+        "structure"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.13.0",
+    "latest_release_published_at": "2025-04-08T21:06:29.000Z",
+    "latest_stable_release_number": "2.13.0",
+    "latest_stable_release_published_at": "2025-04-08T21:06:29.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "anytree",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/anytree/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/c0fec0de/anytree",
+    "security_policy_url": null
+}

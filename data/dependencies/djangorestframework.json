@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/encode/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/encode/django-rest-framework/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 1462,
+    "dependents_count": 2545,
+    "deprecation_reason": null,
+    "description": "Web APIs for Django, made easy.",
+    "homepage": "https://www.django-rest-framework.org/",
+    "keywords": [
+        "api",
+        "django",
+        "python",
+        "rest"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.16.0",
+    "latest_release_published_at": "2025-03-28T14:18:39.000Z",
+    "latest_stable_release_number": "3.16.0",
+    "latest_stable_release_published_at": "2025-03-28T14:18:39.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "djangorestframework",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/djangorestframework/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/encode/django-rest-framework",
+    "security_policy_url": "https://github.com/encode/django-rest-framework/security/policy"
+}

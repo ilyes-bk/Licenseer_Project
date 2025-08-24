@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 100,
+    "dependents_count": 185,
+    "deprecation_reason": null,
+    "description": "Disable App Nap on macOS >= 10.9",
+    "homepage": "http://github.com/minrk/appnope",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.1.4",
+    "latest_release_published_at": "2024-02-06T09:43:09.000Z",
+    "latest_stable_release_number": "0.1.4",
+    "latest_stable_release_published_at": "2024-02-06T09:43:09.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "appnope",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/appnope/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/minrk/appnope",
+    "security_policy_url": null
+}

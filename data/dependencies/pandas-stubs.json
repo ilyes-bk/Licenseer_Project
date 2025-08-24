@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/pandas-dev/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pandas-dev/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 335,
+    "dependents_count": 516,
+    "deprecation_reason": null,
+    "description": "Type annotations for pandas",
+    "homepage": "https://pandas.pydata.org",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.2.3.250308",
+    "latest_release_published_at": "2025-03-08T20:51:03.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "pandas-stubs",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pandas-stubs/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pandas-dev/pandas-stubs",
+    "security_policy_url": "https://github.com/pandas-dev/pandas-stubs/security/policy"
+}

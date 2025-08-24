@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 57,
+    "dependents_count": 108,
+    "deprecation_reason": null,
+    "description": "Fake pymongo stub for testing simple MongoDB-dependent code",
+    "homepage": "https://github.com/mongomock/mongomock",
+    "keywords": [
+        "mocking",
+        "mongodb",
+        "python",
+        "testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.3.0",
+    "latest_release_published_at": "2024-11-16T11:23:24.000Z",
+    "latest_stable_release_number": "4.3.0",
+    "latest_stable_release_published_at": "2024-11-16T11:23:24.000Z",
+    "license_normalized": true,
+    "licenses": "ISC License\n        \n        Copyright (c) 2024, Monogomock Contributors\n        \n        Permission to use, copy, modify, and/or distribute this software for any\n        purpose with or without fee is hereby granted, provided that the above\n        copyright notice and this permission notice appear in all copies.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH\n        REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY\n        AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,\n        INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM\n        LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR\n        OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR\n        PERFORMANCE OF THIS SOFTWARE.",
+    "name": "mongomock",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/mongomock/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mongomock/mongomock",
+    "security_policy_url": null
+}

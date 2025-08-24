@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 257,
+    "dependents_count": 523,
+    "deprecation_reason": null,
+    "description": "Simple, safe way to store and distribute tensors",
+    "homepage": "https://github.com/huggingface/safetensors",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.5.3",
+    "latest_release_published_at": "2025-02-26T09:15:03.000Z",
+    "latest_stable_release_number": "0.5.3",
+    "latest_stable_release_published_at": "2025-02-26T09:15:03.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "safetensors",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/safetensors/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/huggingface/safetensors",
+    "security_policy_url": null
+}

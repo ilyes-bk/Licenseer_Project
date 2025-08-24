@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 135,
+    "dependents_count": 308,
+    "deprecation_reason": null,
+    "description": "Git Object Database",
+    "homepage": "https://github.com/gitpython-developers/gitdb",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.0.12",
+    "latest_release_published_at": "2025-01-02T07:20:43.000Z",
+    "latest_stable_release_number": "4.0.12",
+    "latest_stable_release_published_at": "2025-01-02T07:20:43.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "gitdb",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/gitdb/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/gitpython-developers/gitdb",
+    "security_policy_url": null
+}

@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 885,
+    "dependents_count": 1572,
+    "deprecation_reason": null,
+    "description": "Decorators for Humans",
+    "homepage": null,
+    "keywords": [
+        "decorators",
+        "metaprogramming",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.2.1",
+    "latest_release_published_at": "2025-02-24T04:41:32.000Z",
+    "latest_stable_release_number": "5.2.1",
+    "latest_stable_release_published_at": "2025-02-24T04:41:32.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "decorator",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/decorator/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

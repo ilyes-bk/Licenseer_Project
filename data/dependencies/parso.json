@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/davidhalter/parso/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 260,
+    "dependents_count": 536,
+    "deprecation_reason": null,
+    "description": "A Python Parser",
+    "homepage": "https://github.com/davidhalter/parso",
+    "keywords": [
+        "python",
+        "parser",
+        "parsing"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.8.4",
+    "latest_release_published_at": "2024-04-05T09:43:53.000Z",
+    "latest_stable_release_number": "0.8.4",
+    "latest_stable_release_published_at": "2024-04-05T09:43:53.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "parso",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/parso/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/davidhalter/parso",
+    "security_policy_url": "https://github.com/davidhalter/parso/security/policy"
+}

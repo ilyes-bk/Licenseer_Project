@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": "https://github.com/Toblerity/Fiona/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 151,
+    "dependents_count": 232,
+    "deprecation_reason": null,
+    "description": "Fiona reads and writes spatial data files",
+    "homepage": "https://fiona.readthedocs.io/",
+    "keywords": [
+        "gis",
+        "vector",
+        "feature",
+        "data",
+        "cli",
+        "cython",
+        "gdal",
+        "ogr",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.10.1",
+    "latest_release_published_at": "2024-09-16T20:14:20.000Z",
+    "latest_stable_release_number": "1.10.1",
+    "latest_stable_release_published_at": "2024-09-16T20:14:20.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause",
+    "name": "fiona",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/fiona/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Toblerity/Fiona",
+    "security_policy_url": "https://github.com/Toblerity/Fiona/security/policy"
+}

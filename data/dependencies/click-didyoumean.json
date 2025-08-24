@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 52,
+    "dependents_count": 102,
+    "deprecation_reason": null,
+    "description": "Enables git-like *did-you-mean* feature in click",
+    "homepage": "https://github.com/click-contrib/click-didyoumean",
+    "keywords": [
+        "cli",
+        "click",
+        "console",
+        "didyoumean",
+        "levenshtein-distance",
+        "plugin",
+        "suggestions",
+        "ux"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.3.1",
+    "latest_release_published_at": "2024-03-24T08:22:06.000Z",
+    "latest_stable_release_number": "0.3.1",
+    "latest_stable_release_published_at": "2024-03-24T08:22:06.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "click-didyoumean",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/click-didyoumean/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/click-contrib/click-didyoumean",
+    "security_policy_url": null
+}

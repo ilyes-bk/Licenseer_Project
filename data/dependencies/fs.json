@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 159,
+    "dependents_count": 251,
+    "deprecation_reason": null,
+    "description": "Python's filesystem abstraction layer",
+    "homepage": "https://github.com/PyFilesystem/pyfilesystem2",
+    "keywords": [
+        "filesystem",
+        "filesystem-library",
+        "ftp",
+        "pyfilesystem",
+        "pyfilesystem2",
+        "python",
+        "tar",
+        "zip"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.3.0",
+    "latest_release_published_at": "2023-07-20T15:36:08.195Z",
+    "latest_stable_release_number": "0.3.0",
+    "latest_stable_release_published_at": "2023-07-20T15:36:08.195Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "fs",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/fs/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PyFilesystem/pyfilesystem2",
+    "security_policy_url": null
+}

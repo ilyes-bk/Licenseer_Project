@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 86,
+    "dependents_count": 167,
+    "deprecation_reason": null,
+    "description": "Node.js virtual environment builder",
+    "homepage": "https://github.com/ekalinin/nodeenv",
+    "keywords": [
+        "nodejs",
+        "python",
+        "virtualenv",
+        "virtualenvironment"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.9.1",
+    "latest_release_published_at": "2024-06-04T18:44:08.000Z",
+    "latest_stable_release_number": "1.9.1",
+    "latest_stable_release_published_at": "2024-06-04T18:44:08.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "nodeenv",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/nodeenv/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ekalinin/nodeenv",
+    "security_policy_url": null
+}

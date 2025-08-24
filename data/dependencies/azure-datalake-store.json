@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-data-lake-store-python/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 17,
+    "dependents_count": 41,
+    "deprecation_reason": null,
+    "description": "Azure Data Lake Store Filesystem Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-data-lake-store-python",
+    "keywords": [
+        "azure"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.0a0",
+    "latest_release_published_at": "2024-08-01T19:48:25.000Z",
+    "latest_stable_release_number": "0.0.53",
+    "latest_stable_release_published_at": "2023-05-10T21:18:02.591Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-datalake-store",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-datalake-store/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-data-lake-store-python",
+    "security_policy_url": "https://github.com/Azure/azure-data-lake-store-python/security/policy"
+}

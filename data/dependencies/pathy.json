@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 19,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "pathlib.Path subclasses for local and cloud bucket storage",
+    "homepage": "https://github.com/justindujardin/pathy",
+    "keywords": [
+        "azure",
+        "blobs",
+        "bucket-apis",
+        "bucket-storage-providers",
+        "gcs",
+        "pathy",
+        "s3"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.11.0",
+    "latest_release_published_at": "2024-01-11T23:02:10.000Z",
+    "latest_stable_release_number": "0.11.0",
+    "latest_stable_release_published_at": "2024-01-11T23:02:10.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "pathy",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pathy/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/justindujardin/pathy",
+    "security_policy_url": null
+}

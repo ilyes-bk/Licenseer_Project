@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-cosmos-table-python/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 7,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure CosmosDB Namespace Package [Internal]",
+    "homepage": "https://github.com/Azure/azure-cosmosdb-python",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.0.2",
+    "latest_release_published_at": "2017-10-05T01:51:53.000Z",
+    "latest_stable_release_number": "2.0.2",
+    "latest_stable_release_published_at": "2017-10-05T01:51:53.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "azure-cosmosdb-nspkg",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-cosmosdb-nspkg/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/Azure/azure-cosmosdb-python",
+    "security_policy_url": "https://github.com/Azure/azure-cosmos-table-python/security/policy"
+}

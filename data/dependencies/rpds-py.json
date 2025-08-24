@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 138,
+    "dependents_count": 335,
+    "deprecation_reason": null,
+    "description": "Python bindings to Rust's persistent data structures (rpds)",
+    "homepage": "https://github.com/crate-py/rpds",
+    "keywords": [
+        "data",
+        "structures",
+        "rust",
+        "persistent",
+        "persistent-data-structure",
+        "pyo3",
+        "pyo3-rust-bindings",
+        "python"
+    ],
+    "language": "Rust",
+    "latest_release_number": "0.24.0",
+    "latest_release_published_at": "2025-03-26T14:52:41.000Z",
+    "latest_stable_release_number": "0.24.0",
+    "latest_stable_release_published_at": "2025-03-26T14:52:41.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "rpds-py",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/rpds-py/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/crate-py/rpds",
+    "security_policy_url": "https://github.com/crate-py/rpds/security/policy"
+}

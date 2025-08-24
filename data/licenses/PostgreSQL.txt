@@ -1,0 +1,9 @@
+License Name: The PostgreSQL License
+SPDX ID: PostgreSQL
+Category: Redundant with more popular
+URL: https://opensource.org/license/postgresql
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: September 24, 2009
+Submitter: Submitter: Dave Page

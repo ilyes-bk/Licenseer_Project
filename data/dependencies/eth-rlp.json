@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ethereum/eth-rlp/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 76,
+    "dependents_count": 105,
+    "deprecation_reason": null,
+    "description": "eth-rlp: RLP definitions for common Ethereum objects in Python",
+    "homepage": "https://github.com/ethereum/eth-rlp",
+    "keywords": [
+        "ethereum"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.0",
+    "latest_release_published_at": "2025-02-04T21:51:05.000Z",
+    "latest_stable_release_number": "2.2.0",
+    "latest_stable_release_published_at": "2025-02-04T21:51:05.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "eth-rlp",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/eth-rlp/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ethereum/eth-rlp",
+    "security_policy_url": null
+}

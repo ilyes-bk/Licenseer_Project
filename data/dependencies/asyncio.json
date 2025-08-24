@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 777,
+    "dependents_count": 1410,
+    "deprecation_reason": null,
+    "description": "reference implementation of PEP 3156",
+    "homepage": "http://www.python.org/dev/peps/pep-3156/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "3.4.3",
+    "latest_release_published_at": "2015-03-10T14:09:09.000Z",
+    "latest_stable_release_number": "3.4.3",
+    "latest_stable_release_published_at": "2015-03-10T14:09:09.000Z",
+    "license_normalized": true,
+    "licenses": "PSF",
+    "name": "asyncio",
+    "normalized_licenses": [
+        "Python-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/asyncio/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

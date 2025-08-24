@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 446,
+    "dependents_count": 769,
+    "deprecation_reason": null,
+    "description": "Python binding to the Networking and Cryptography (NaCl) library",
+    "homepage": "https://github.com/pyca/pynacl/",
+    "keywords": [
+        "cryptography",
+        "libsodium",
+        "nacl",
+        "python"
+    ],
+    "language": "C",
+    "latest_release_number": "1.5.0",
+    "latest_release_published_at": "2022-01-07T22:05:49.000Z",
+    "latest_stable_release_number": "1.5.0",
+    "latest_stable_release_published_at": "2022-01-07T22:05:49.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "PyNaCl",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyNaCl/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyca/pynacl",
+    "security_policy_url": null
+}

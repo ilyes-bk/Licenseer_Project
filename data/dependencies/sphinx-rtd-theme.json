@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": "https://github.com/readthedocs/sphinx_rtd_theme/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 5542,
+    "dependents_count": 7671,
+    "deprecation_reason": null,
+    "description": "Read the Docs theme for Sphinx",
+    "homepage": "https://github.com/readthedocs/sphinx_rtd_theme",
+    "keywords": [
+        "sphinx-doc",
+        "sphinx-theme"
+    ],
+    "language": "Sass",
+    "latest_release_number": "3.0.2",
+    "latest_release_published_at": "2024-11-13T11:06:02.000Z",
+    "latest_stable_release_number": "3.0.2",
+    "latest_stable_release_published_at": "2024-11-13T11:06:02.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sphinx-rtd-theme",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinx-rtd-theme/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/readthedocs/sphinx_rtd_theme",
+    "security_policy_url": null
+}

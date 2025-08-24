@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 897,
+    "dependents_count": 1737,
+    "deprecation_reason": null,
+    "description": "A simple Python library for easily displaying tabular data in a visually appealing ASCII table format",
+    "homepage": "https://github.com/prettytable/prettytable",
+    "keywords": [
+        "package",
+        "python",
+        "python-3",
+        "utility-library"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.16.0",
+    "latest_release_published_at": "2025-03-24T19:39:02.000Z",
+    "latest_stable_release_number": "3.16.0",
+    "latest_stable_release_published_at": "2025-03-24T19:39:02.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "prettytable",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/prettytable/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/prettytable/prettytable",
+    "security_policy_url": "https://github.com/prettytable/prettytable/security/policy"
+}

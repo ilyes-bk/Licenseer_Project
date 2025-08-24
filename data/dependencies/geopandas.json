@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/geopandas/geopandas/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/geopandas/geopandas/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 1095,
+    "dependents_count": 1744,
+    "deprecation_reason": null,
+    "description": "Geographic pandas extensions",
+    "homepage": "https://geopandas.org",
+    "keywords": [
+        "GIS",
+        "cartography",
+        "pandas",
+        "shapely",
+        "geoparquet",
+        "geospatial",
+        "python",
+        "spatial"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2024-07-02T12:26:50.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2024-07-02T12:26:50.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause",
+    "name": "geopandas",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/geopandas/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/geopandas/geopandas",
+    "security_policy_url": null
+}

@@ -1,0 +1,8 @@
+License Name: Entessa Public License Version. 1.0
+SPDX ID: Entessa
+Category: Non-Reusable
+URL: https://opensource.org/license/entessa
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

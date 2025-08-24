@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/cdgriffith/Box/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 170,
+    "dependents_count": 294,
+    "deprecation_reason": null,
+    "description": "Advanced Python dictionaries with dot notation access",
+    "homepage": "https://github.com/cdgriffith/Box",
+    "keywords": [
+        "addict",
+        "box",
+        "bunch",
+        "dictionaries",
+        "helper",
+        "object",
+        "pypi",
+        "python",
+        "python-box",
+        "python-library",
+        "python-types",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.3.2",
+    "latest_release_published_at": "2025-01-16T19:10:27.000Z",
+    "latest_stable_release_number": "7.3.2",
+    "latest_stable_release_published_at": "2025-01-16T19:10:27.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-box",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-box/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cdgriffith/Box",
+    "security_policy_url": null
+}

@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 26,
+    "dependents_count": 42,
+    "deprecation_reason": null,
+    "description": "High Level Expressions for Dask",
+    "homepage": null,
+    "keywords": [
+        "dask",
+        "pandas"
+    ],
+    "language": null,
+    "latest_release_number": "2.0.0",
+    "latest_release_published_at": "2025-01-21T12:20:16.000Z",
+    "latest_stable_release_number": "1.1.21",
+    "latest_stable_release_published_at": "2024-12-17T20:26:47.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "dask-expr",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/dask-expr/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

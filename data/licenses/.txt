@@ -1,0 +1,9 @@
+License Name: UNICODE LICENSE V3
+SPDX ID: 
+Category: Special Purpose
+URL: https://opensource.org/license/unicode-license-v3
+
+Additional Metadata:
+Version: Version 3
+Submitted: Submitted: August 24, 2023
+Submitter: Submitter: McCoy Smith

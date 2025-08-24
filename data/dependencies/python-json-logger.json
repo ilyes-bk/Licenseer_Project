@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": "https://github.com/nhairs/python-json-logger/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/nhairs/python-json-logger/blob/main/docs/contributing.md",
+    "dependent_repos_count": 319,
+    "dependents_count": 592,
+    "deprecation_reason": null,
+    "description": "JSON Log Formatter for the Python Logging Package",
+    "homepage": "https://nhairs.github.io/python-json-logger",
+    "keywords": [
+        "python",
+        "python-logging"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.3.0",
+    "latest_release_published_at": "2025-03-07T07:08:25.000Z",
+    "latest_stable_release_number": "3.3.0",
+    "latest_stable_release_published_at": "2025-03-07T07:08:25.000Z",
+    "license_normalized": true,
+    "licenses": "BSD-2-Clause License",
+    "name": "python-json-logger",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-json-logger/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/nhairs/python-json-logger",
+    "security_policy_url": "https://github.com/nhairs/python-json-logger/security/policy"
+}

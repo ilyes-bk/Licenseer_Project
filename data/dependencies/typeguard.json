@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/agronholm/typeguard/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 923,
+    "dependents_count": 2044,
+    "deprecation_reason": null,
+    "description": "Run-time type checker for Python",
+    "homepage": null,
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.4.2",
+    "latest_release_published_at": "2025-02-16T16:28:24.000Z",
+    "latest_stable_release_number": "4.4.1",
+    "latest_stable_release_published_at": "2024-11-03T12:15:00.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "typeguard",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/typeguard/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

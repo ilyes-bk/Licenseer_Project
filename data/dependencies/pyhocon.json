@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 58,
+    "dependents_count": 95,
+    "deprecation_reason": null,
+    "description": "HOCON parser for Python",
+    "homepage": "http://github.com/chimpler/pyhocon/",
+    "keywords": [
+        "hocon",
+        "parser",
+        "configuration",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.3.61",
+    "latest_release_published_at": "2024-05-29T15:09:23.000Z",
+    "latest_stable_release_number": "0.3.61",
+    "latest_stable_release_published_at": "2024-05-29T15:09:23.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "pyhocon",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyhocon/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/chimpler/pyhocon",
+    "security_policy_url": null
+}

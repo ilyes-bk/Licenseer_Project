@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": "https://github.com/vgrem/Office365-REST-Python-Client/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 16,
+    "dependents_count": 54,
+    "deprecation_reason": null,
+    "description": "Microsoft 365 & Microsoft Graph Library for Python",
+    "homepage": "https://github.com/vgrem/Office365-REST-Python-Client",
+    "keywords": [
+        "git",
+        "hacktoberfest",
+        "microsoft-graph",
+        "microsoft-teams",
+        "microsoft365",
+        "office365",
+        "onedrive",
+        "onenote",
+        "outlook",
+        "planner",
+        "python",
+        "sdk-python",
+        "sharepoint",
+        "teams"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.6.1",
+    "latest_release_published_at": "2025-03-30T18:38:47.000Z",
+    "latest_stable_release_number": "2.6.0",
+    "latest_stable_release_published_at": "2025-03-30T16:09:04.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "Office365-REST-Python-Client",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/Office365-REST-Python-Client/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/vgrem/Office365-REST-Python-Client",
+    "security_policy_url": null
+}

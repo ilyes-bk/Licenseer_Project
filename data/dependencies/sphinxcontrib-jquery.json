@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 68,
+    "dependents_count": 114,
+    "deprecation_reason": null,
+    "description": "Extension to include jQuery on newer Sphinx releases",
+    "homepage": null,
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.1",
+    "latest_release_published_at": "2023-03-14T15:03:00.998Z",
+    "latest_stable_release_number": "3.0.0",
+    "latest_stable_release_published_at": "2022-11-03T18:44:22.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "sphinxcontrib-jquery",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinxcontrib-jquery/",
+    "repository_license": "0BSD",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sphinx-contrib/jquery",
+    "security_policy_url": null
+}

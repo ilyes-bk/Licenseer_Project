@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 200,
+    "dependents_count": 401,
+    "deprecation_reason": null,
+    "description": "Distribution utilities",
+    "homepage": "https://github.com/pypa/distlib",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.3.9",
+    "latest_release_published_at": "2024-10-09T18:35:44.000Z",
+    "latest_stable_release_number": "0.3.9",
+    "latest_stable_release_published_at": "2024-10-09T18:35:44.000Z",
+    "license_normalized": false,
+    "licenses": "PSF-2.0",
+    "name": "distlib",
+    "normalized_licenses": [
+        "PSF-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/distlib/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pypa/distlib",
+    "security_policy_url": null
+}

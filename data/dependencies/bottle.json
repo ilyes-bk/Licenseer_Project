@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 292,
+    "dependents_count": 469,
+    "deprecation_reason": null,
+    "description": "Fast and simple WSGI-framework for small web-applications.",
+    "homepage": "http://bottlepy.org/",
+    "keywords": [
+        "bottle",
+        "python",
+        "rest",
+        "web-framework",
+        "wsgi"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.13.3",
+    "latest_release_published_at": "2025-04-21T11:48:34.000Z",
+    "latest_stable_release_number": "0.13.3",
+    "latest_stable_release_published_at": "2025-04-21T11:48:34.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "bottle",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/bottle/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bottlepy/bottle",
+    "security_policy_url": null
+}

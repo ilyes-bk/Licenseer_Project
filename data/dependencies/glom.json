@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 59,
+    "dependents_count": 137,
+    "deprecation_reason": null,
+    "description": "A declarative object transformer and formatter, for conglomerating nested data.",
+    "homepage": "https://github.com/mahmoud/glom",
+    "keywords": [
+        "apis",
+        "cli",
+        "data",
+        "data-transformation",
+        "declarative",
+        "dictionaries",
+        "nested-structures",
+        "python",
+        "recursion",
+        "utilities"
+    ],
+    "language": "Python",
+    "latest_release_number": "24.11.0",
+    "latest_release_published_at": "2024-11-02T23:17:46.000Z",
+    "latest_stable_release_number": "24.11.0",
+    "latest_stable_release_published_at": "2024-11-02T23:17:46.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "glom",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/glom/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mahmoud/glom",
+    "security_policy_url": null
+}

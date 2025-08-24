@@ -1,0 +1,8 @@
+License Name: Multics License
+SPDX ID: Multics
+Category: Non-Reusable
+URL: https://opensource.org/license/multics-txt
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

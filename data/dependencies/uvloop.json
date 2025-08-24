@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 526,
+    "dependents_count": 898,
+    "deprecation_reason": null,
+    "description": "Fast implementation of asyncio event loop on top of libuv",
+    "homepage": "",
+    "keywords": [
+        "asyncio",
+        "networking",
+        "async",
+        "async-await",
+        "async-python",
+        "event-loop",
+        "high-performance",
+        "libuv",
+        "python",
+        "python-3"
+    ],
+    "language": "Cython",
+    "latest_release_number": "0.21.0",
+    "latest_release_published_at": "2024-10-14T23:37:20.000Z",
+    "latest_stable_release_number": "0.21.0",
+    "latest_stable_release_published_at": "2024-10-14T23:37:20.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "uvloop",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/uvloop/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

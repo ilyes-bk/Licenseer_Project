@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ilanschnell/bitarray/blob/master/contributing.md",
+    "dependent_repos_count": 282,
+    "dependents_count": 409,
+    "deprecation_reason": null,
+    "description": "efficient arrays of booleans -- C extension",
+    "homepage": "https://github.com/ilanschnell/bitarray",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "3.3.1",
+    "latest_release_published_at": "2025-04-04T14:01:43.000Z",
+    "latest_stable_release_number": "3.3.1",
+    "latest_stable_release_published_at": "2025-04-04T14:01:43.000Z",
+    "license_normalized": false,
+    "licenses": "PSF-2.0",
+    "name": "bitarray",
+    "normalized_licenses": [
+        "PSF-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/bitarray/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ilanschnell/bitarray",
+    "security_policy_url": null
+}

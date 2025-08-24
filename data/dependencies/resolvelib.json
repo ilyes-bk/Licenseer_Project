@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/sarugaku/resolvelib/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 20,
+    "dependents_count": 24,
+    "deprecation_reason": null,
+    "description": "Resolve abstract dependencies into concrete ones",
+    "homepage": "https://github.com/sarugaku/resolvelib",
+    "keywords": [
+        "dependency",
+        "resolution",
+        "pip",
+        "pipenv",
+        "python",
+        "requirements"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2024-10-31T01:26:07.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2024-10-31T01:26:07.000Z",
+    "license_normalized": true,
+    "licenses": "ISC License",
+    "name": "resolvelib",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/resolvelib/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sarugaku/resolvelib",
+    "security_policy_url": null
+}

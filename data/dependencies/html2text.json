@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/Alir3z4/html2text/blob/master/docs/contributing.md",
+    "dependent_repos_count": 388,
+    "dependents_count": 820,
+    "deprecation_reason": null,
+    "description": "Turn HTML into equivalent Markdown-structured text.",
+    "homepage": "https://github.com/Alir3z4/html2text/",
+    "keywords": [
+        "markdown",
+        "markdown-parser",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2025.4.15",
+    "latest_release_published_at": "2025-04-15T04:02:28.000Z",
+    "latest_stable_release_number": "2025.4.15",
+    "latest_stable_release_published_at": "2025-04-15T04:02:28.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "html2text",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/html2text/",
+    "repository_license": "GPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Alir3z4/html2text",
+    "security_policy_url": null
+}

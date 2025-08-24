@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/scrapinghub/dateparser/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 441,
+    "dependents_count": 747,
+    "deprecation_reason": null,
+    "description": "Date parsing library designed to parse dates from HTML pages",
+    "homepage": "https://github.com/scrapinghub/dateparser",
+    "keywords": [
+        "dateparser",
+        "hacktoberfest"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.2.1",
+    "latest_release_published_at": "2025-02-05T12:34:53.000Z",
+    "latest_stable_release_number": "1.2.1",
+    "latest_stable_release_published_at": "2025-02-05T12:34:53.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "dateparser",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/dateparser/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scrapinghub/dateparser",
+    "security_policy_url": null
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/AzureAD/microsoft-authentication-library-for-python/blob/dev/contributing.md",
+    "dependent_repos_count": 143,
+    "dependents_count": 359,
+    "deprecation_reason": null,
+    "description": "The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect.",
+    "homepage": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
+    "keywords": [
+        "azure",
+        "microsoft-identity-platform",
+        "msal-python",
+        "sdks"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.32.3",
+    "latest_release_published_at": "2025-04-25T13:12:33.000Z",
+    "latest_stable_release_number": "1.32.3",
+    "latest_stable_release_published_at": "2025-04-25T13:12:33.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "msal",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/msal/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
+    "security_policy_url": null
+}

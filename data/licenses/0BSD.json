@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+        "name": "Zero-Clause BSD",
+        "spdx_id": "0BSD",
+        "category": "Other/Miscellaneous",
+        "url": "https://opensource.org/license/0bsd"
+    },
+    "metadata": {
+        "category": "OTHER/MISCELLANEOUS",
+        "version": "Version N/A",
+        "submitted": "Submitted: August 30, 2015",
+        "submitter": "Submitter: Christian Bundy, URL N/A",
+        "approved": "Approved: October 14, 2015",
+        "spdx": "SPDX short identifier: 0BSD",
+        "steward": "N/A",
+        "steward_url": "N/A"
+    },
+    "content": "Note: Despite its name, Zero-Clause BSD is an alteration of the ISC license, and is not textually derived from licenses in the BSD family. Zero-Clause BSD was originally approved under the name “Free Public License 1.0.0”.\nZero-Clause BSD\n=============\nPermission to use, copy, modify, and/or distribute this software for\nany purpose with or without fee is hereby granted.\nTHE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL\nWARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE\nFOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY\nDAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN\nAN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT\nOF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE."
+}

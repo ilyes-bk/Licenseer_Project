@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/boto/s3transfer/blob/develop/CONTRIBUTING.rst",
+    "dependent_repos_count": 235,
+    "dependents_count": 573,
+    "deprecation_reason": null,
+    "description": "An Amazon S3 Transfer Manager",
+    "homepage": "https://github.com/boto/s3transfer",
+    "keywords": [
+        "aws",
+        "cloud",
+        "python",
+        "s3"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.12.0",
+    "latest_release_published_at": "2025-04-22T21:08:08.000Z",
+    "latest_stable_release_number": "0.12.0",
+    "latest_stable_release_published_at": "2025-04-22T21:08:08.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "s3transfer",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/s3transfer/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/boto/s3transfer",
+    "security_policy_url": "https://github.com/boto/s3transfer/security/policy"
+}

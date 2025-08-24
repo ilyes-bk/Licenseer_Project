@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/containerbuildsystem/dockerfile-parse/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 14,
+    "dependents_count": 25,
+    "deprecation_reason": null,
+    "description": "Python library for Dockerfile manipulation",
+    "homepage": "https://github.com/containerbuildsystem/dockerfile-parse",
+    "keywords": [
+        "dockerfile",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.0.1",
+    "latest_release_published_at": "2023-07-18T13:37:03.580Z",
+    "latest_stable_release_number": "2.0.1",
+    "latest_stable_release_published_at": "2023-07-18T13:37:03.580Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "dockerfile-parse",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/dockerfile-parse/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/containerbuildsystem/dockerfile-parse",
+    "security_policy_url": null
+}

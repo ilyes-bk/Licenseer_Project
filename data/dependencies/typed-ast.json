@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typed_ast/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 243,
+    "dependents_count": 388,
+    "deprecation_reason": "Development Status :: 7 - Inactive",
+    "description": "a fork of Python 2 and 3 ast modules with type comment support",
+    "homepage": "https://github.com/python/typed_ast",
+    "keywords": [],
+    "language": "C",
+    "latest_release_number": "1.5.5",
+    "latest_release_published_at": "2023-07-04T18:38:08.820Z",
+    "latest_stable_release_number": "1.5.5",
+    "latest_stable_release_published_at": "2023-07-04T18:38:08.820Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "typed-ast",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/typed-ast/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/python/typed_ast",
+    "security_policy_url": "https://github.com/python/typed_ast/security/policy"
+}

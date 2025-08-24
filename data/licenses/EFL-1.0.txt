@@ -1,0 +1,8 @@
+License Name: Eiffel Forum License, version 1
+SPDX ID: EFL-1.0
+Category: Superseded
+URL: https://opensource.org/license/efl-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

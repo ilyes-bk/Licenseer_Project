@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 987,
+    "dependents_count": 1714,
+    "deprecation_reason": null,
+    "description": "Yet another URL library",
+    "homepage": "https://github.com/aio-libs/yarl",
+    "keywords": [
+        "cython",
+        "cext",
+        "yarl",
+        "aiohttp",
+        "hacktoberfest",
+        "url-parsing",
+        "urls"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.20.0",
+    "latest_release_published_at": "2025-04-17T00:41:27.000Z",
+    "latest_stable_release_number": "1.20.0",
+    "latest_stable_release_published_at": "2025-04-17T00:41:27.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "yarl",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/yarl/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aio-libs/yarl",
+    "security_policy_url": "https://github.com/aio-libs/yarl/security/policy"
+}

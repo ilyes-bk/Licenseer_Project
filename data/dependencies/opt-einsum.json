@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/dgasmith/opt_einsum/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 171,
+    "dependents_count": 363,
+    "deprecation_reason": null,
+    "description": "Path optimization of einsum functions.",
+    "homepage": "https://dgasmith.github.io/opt_einsum/",
+    "keywords": [
+        "contraction",
+        "einsum",
+        "gpu-acceleration",
+        "performance",
+        "python",
+        "tensor",
+        "tensor-contraction"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.4.0",
+    "latest_release_published_at": "2024-09-26T14:33:23.000Z",
+    "latest_stable_release_number": "3.4.0",
+    "latest_stable_release_published_at": "2024-09-26T14:33:23.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "opt-einsum",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/opt-einsum/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

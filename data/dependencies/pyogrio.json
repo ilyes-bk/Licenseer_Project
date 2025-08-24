@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 52,
+    "dependents_count": 76,
+    "deprecation_reason": null,
+    "description": "Vectorized spatial vector file format I/O using GDAL/OGR",
+    "homepage": "https://pyogrio.readthedocs.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.10.0",
+    "latest_release_published_at": "2024-09-28T19:10:10.000Z",
+    "latest_stable_release_number": "0.10.0",
+    "latest_stable_release_published_at": "2024-09-28T19:10:10.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License  Copyright (c) 2020-2024 Brendan C. Ward and pyogrio contributors  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. ",
+    "name": "pyogrio",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyogrio/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/geopandas/pyogrio",
+    "security_policy_url": "https://github.com/geopandas/pyogrio/security/policy"
+}

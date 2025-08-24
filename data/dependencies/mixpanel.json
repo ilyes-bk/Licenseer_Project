@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 17,
+    "dependents_count": 36,
+    "deprecation_reason": null,
+    "description": "Official Mixpanel library for Python",
+    "homepage": "https://github.com/mixpanel/mixpanel-python",
+    "keywords": [
+        "mixpanel",
+        "analytics"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.10.1",
+    "latest_release_published_at": "2024-03-08T22:51:32.000Z",
+    "latest_stable_release_number": "4.10.1",
+    "latest_stable_release_published_at": "2024-03-08T22:51:32.000Z",
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "mixpanel",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/mixpanel/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mixpanel/mixpanel-python",
+    "security_policy_url": null
+}

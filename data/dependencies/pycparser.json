@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 774,
+    "dependents_count": 1539,
+    "deprecation_reason": null,
+    "description": "C parser in Python",
+    "homepage": "https://github.com/eliben/pycparser",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.22",
+    "latest_release_published_at": "2024-03-30T13:22:20.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "pycparser",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pycparser/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/eliben/pycparser",
+    "security_policy_url": "https://github.com/eliben/pycparser/security/policy"
+}

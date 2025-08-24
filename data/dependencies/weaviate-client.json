@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/weaviate/weaviate-python-client/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 74,
+    "dependents_count": 196,
+    "deprecation_reason": null,
+    "description": "A python native Weaviate client",
+    "homepage": "https://github.com/weaviate/weaviate-python-client",
+    "keywords": [
+        "python",
+        "vector-search",
+        "weaviate"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.14.1",
+    "latest_release_published_at": "2025-04-24T12:22:41.000Z",
+    "latest_stable_release_number": "4.14.1",
+    "latest_stable_release_published_at": "2025-04-24T12:22:41.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-clause",
+    "name": "weaviate-client",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/weaviate-client/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/weaviate/weaviate-python-client",
+    "security_policy_url": null
+}

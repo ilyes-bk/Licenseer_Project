@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/mkdocstrings/mkdocstrings/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/mkdocstrings/mkdocstrings/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 551,
+    "dependents_count": 805,
+    "deprecation_reason": null,
+    "description": "Automatic documentation from sources, for MkDocs.",
+    "homepage": "https://mkdocstrings.github.io",
+    "keywords": [
+        "mkdocs",
+        "mkdocs-plugin",
+        "docstrings",
+        "autodoc",
+        "documentation",
+        "material-theme",
+        "mkdocstrings",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.29.1",
+    "latest_release_published_at": "2025-03-31T08:33:09.000Z",
+    "latest_stable_release_number": "0.29.1",
+    "latest_stable_release_published_at": "2025-03-31T08:33:09.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "mkdocstrings",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/mkdocstrings/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mkdocstrings/mkdocstrings",
+    "security_policy_url": null
+}

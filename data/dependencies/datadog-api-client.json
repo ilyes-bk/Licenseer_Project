@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/DataDog/datadog-api-client-python/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 16,
+    "dependents_count": 37,
+    "deprecation_reason": null,
+    "description": "Collection of all Datadog Public endpoints",
+    "homepage": "https://github.com/DataDog/datadog-api-client-python",
+    "keywords": [
+        "openapi",
+        "api",
+        "client",
+        "openapi-generator",
+        "datadog",
+        "datadog-api",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.34.0",
+    "latest_release_published_at": "2025-04-14T13:40:58.000Z",
+    "latest_stable_release_number": "2.34.0",
+    "latest_stable_release_published_at": "2025-04-14T13:40:58.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "datadog-api-client",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/datadog-api-client/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/DataDog/datadog-api-client-python",
+    "security_policy_url": null
+}

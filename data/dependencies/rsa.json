@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 547,
+    "dependents_count": 1190,
+    "deprecation_reason": null,
+    "description": "Pure-Python RSA implementation",
+    "homepage": "https://stuvel.eu/rsa",
+    "keywords": [
+        "python",
+        "python-rsa",
+        "rsa",
+        "rsa-cryptography"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.9.1",
+    "latest_release_published_at": "2025-04-16T09:51:17.000Z",
+    "latest_stable_release_number": "4.9.1",
+    "latest_stable_release_published_at": "2025-04-16T09:51:17.000Z",
+    "license_normalized": true,
+    "licenses": "Apache-2.0",
+    "name": "rsa",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/rsa/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sybrenstuvel/python-rsa",
+    "security_policy_url": "https://github.com/sybrenstuvel/python-rsa/security/policy"
+}

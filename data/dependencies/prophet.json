@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/facebook/prophet/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/facebook/prophet/blob/main/docs/CONTRIBUTING.md",
+    "dependent_repos_count": 57,
+    "dependents_count": 115,
+    "deprecation_reason": null,
+    "description": "Automatic Forecasting Procedure",
+    "homepage": "https://facebook.github.io/prophet/",
+    "keywords": [
+        "forecasting",
+        "python",
+        "r"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.6",
+    "latest_release_published_at": "2024-10-03T00:44:02.000Z",
+    "latest_stable_release_number": "1.1.6",
+    "latest_stable_release_published_at": "2024-10-03T00:44:02.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "prophet",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/prophet/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/facebook/prophet",
+    "security_policy_url": "https://github.com/facebook/prophet/security/policy"
+}

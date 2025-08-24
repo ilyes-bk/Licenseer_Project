@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/liran-funaro/objsize/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 12,
+    "dependents_count": 18,
+    "deprecation_reason": null,
+    "description": "Traversal over Python's objects subtree and calculate the total size of the subtree in bytes (deep size).",
+    "homepage": "https://github.com/liran-funaro/objsize",
+    "keywords": [
+        "object-size",
+        "recursive",
+        "deep",
+        "traversal",
+        "object",
+        "size",
+        "debug",
+        "deep-object-size",
+        "exclusive-objects",
+        "python",
+        "python-objects"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2025-01-19T02:02:01.000Z",
+    "latest_stable_release_number": "0.7.1",
+    "latest_stable_release_published_at": "2025-01-19T02:02:01.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "objsize",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/objsize/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/liran-funaro/objsize",
+    "security_policy_url": null
+}

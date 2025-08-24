@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 49,
+    "dependents_count": 111,
+    "deprecation_reason": null,
+    "description": "PostgreSQL database adapter for Python -- C optimisation distribution",
+    "homepage": "https://psycopg.org/psycopg3/",
+    "keywords": [
+        "database",
+        "development",
+        "driver",
+        "postgresql",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2.6",
+    "latest_release_published_at": "2025-03-12T20:38:12.000Z",
+    "latest_stable_release_number": "3.2.6",
+    "latest_stable_release_published_at": "2025-03-12T20:38:12.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Lesser General Public License v3 (LGPLv3)",
+    "name": "psycopg-binary",
+    "normalized_licenses": [
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/psycopg-binary/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/psycopg/psycopg",
+    "security_policy_url": null
+}

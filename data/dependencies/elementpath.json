@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 22,
+    "dependents_count": 32,
+    "deprecation_reason": null,
+    "description": "XPath 1.0/2.0/3.0/3.1 parsers and selectors for ElementTree and lxml",
+    "homepage": "https://github.com/sissaschool/elementpath",
+    "keywords": [
+        "XPath",
+        "XPath2",
+        "XPath3",
+        "XPath31",
+        "Pratt-parser",
+        "ElementTree",
+        "lxml",
+        "xpath-selector"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.8.0",
+    "latest_release_published_at": "2025-03-03T20:51:03.000Z",
+    "latest_stable_release_number": "4.8.0",
+    "latest_stable_release_published_at": "2025-03-03T20:51:03.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "elementpath",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/elementpath/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sissaschool/elementpath",
+    "security_policy_url": null
+}

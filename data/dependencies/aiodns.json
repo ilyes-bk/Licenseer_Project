@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 321,
+    "dependents_count": 483,
+    "deprecation_reason": null,
+    "description": "Simple DNS resolver for asyncio",
+    "homepage": "https://github.com/saghul/aiodns",
+    "keywords": [
+        "asyncio",
+        "dns",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2.0",
+    "latest_release_published_at": "2024-03-31T11:27:28.000Z",
+    "latest_stable_release_number": "3.2.0",
+    "latest_stable_release_published_at": "2024-03-31T11:27:28.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "aiodns",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aiodns/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/saghul/aiodns",
+    "security_policy_url": "https://github.com/aio-libs/aiodns/security/policy"
+}

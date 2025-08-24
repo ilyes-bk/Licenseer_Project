@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pypa/twine/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 6449,
+    "dependents_count": 10479,
+    "deprecation_reason": null,
+    "description": "Collection of utilities for publishing packages on PyPI",
+    "homepage": "https://twine.readthedocs.io/",
+    "keywords": [
+        "pypi",
+        "pypi-package",
+        "pypi-upload",
+        "python",
+        "python-wheel",
+        "python3",
+        "wheel"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.1.0",
+    "latest_release_published_at": "2025-01-21T18:45:24.000Z",
+    "latest_stable_release_number": "6.1.0",
+    "latest_stable_release_published_at": "2025-01-21T18:45:24.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "twine",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/twine/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pypa/twine",
+    "security_policy_url": null
+}

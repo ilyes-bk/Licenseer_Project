@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/snowballstem/snowball/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 164,
+    "dependents_count": 285,
+    "deprecation_reason": null,
+    "description": "This package provides 29 stemmers for 28 languages generated from Snowball algorithms.",
+    "homepage": "https://github.com/snowballstem/snowball",
+    "keywords": [
+        "stemmer"
+    ],
+    "language": "C",
+    "latest_release_number": "2.2.0",
+    "latest_release_published_at": "2021-11-16T18:38:34.000Z",
+    "latest_stable_release_number": "2.2.0",
+    "latest_stable_release_published_at": "2021-11-16T18:38:34.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "snowballstemmer",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/snowballstemmer/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/snowballstem/snowball",
+    "security_policy_url": null
+}

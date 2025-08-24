@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 35,
+    "dependents_count": 72,
+    "deprecation_reason": null,
+    "description": "A simple Python wrapper for FFmpeg",
+    "homepage": "https://github.com/Ch00k/ffmpy",
+    "keywords": [
+        "ffmpeg",
+        "ffprobe",
+        "ffplay",
+        "ffserver",
+        "wrapper",
+        "media",
+        "audio",
+        "video",
+        "transcoding",
+        "ffmpeg-wrapper"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.5.0",
+    "latest_release_published_at": "2024-12-19T15:52:22.000Z",
+    "latest_stable_release_number": "0.5.0",
+    "latest_stable_release_published_at": "2024-12-19T15:52:22.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "ffmpy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/ffmpy/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Ch00k/ffmpy",
+    "security_policy_url": null
+}

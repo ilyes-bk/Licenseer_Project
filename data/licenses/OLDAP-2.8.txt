@@ -1,0 +1,9 @@
+License Name: OpenLDAP Public License Version 2.8
+SPDX ID: OLDAP-2.8
+Category: Redundant with more popular
+URL: https://opensource.org/license/oldap-2-8
+
+Additional Metadata:
+Version: Version 2.8
+Submitted: Submitted: August 13, 2019
+Submitter: Submitter: Howard Chu

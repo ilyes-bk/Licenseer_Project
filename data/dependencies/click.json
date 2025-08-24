@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/pallets/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pallets/click/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 15505,
+    "dependents_count": 26105,
+    "deprecation_reason": null,
+    "description": "Composable command line interface toolkit",
+    "homepage": "https://click.palletsprojects.com",
+    "keywords": [
+        "cli",
+        "click",
+        "pallets",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.1.8",
+    "latest_release_published_at": "2024-12-21T18:38:41.000Z",
+    "latest_stable_release_number": "8.1.8",
+    "latest_stable_release_published_at": "2024-12-21T18:38:41.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "click",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/click/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pallets/click",
+    "security_policy_url": "https://github.com/pallets/click/security/policy"
+}

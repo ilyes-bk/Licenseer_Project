@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 10,
+    "dependents_count": 29,
+    "deprecation_reason": null,
+    "description": "Chromas fork of hnswlib",
+    "homepage": "https://github.com/chroma-core/hnswlib",
+    "keywords": [],
+    "language": "C++",
+    "latest_release_number": "0.7.6",
+    "latest_release_published_at": "2024-07-22T20:18:26.000Z",
+    "latest_stable_release_number": "0.7.6",
+    "latest_stable_release_published_at": "2024-07-22T20:18:26.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "chroma-hnswlib",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/chroma-hnswlib/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/chroma-core/hnswlib",
+    "security_policy_url": null
+}

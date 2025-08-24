@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 526,
+    "dependents_count": 747,
+    "deprecation_reason": "Development Status :: 7 - Inactive",
+    "description": "Invoke py.test as distutils command with dependency resolution",
+    "homepage": "https://github.com/pytest-dev/pytest-runner/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "6.0.1",
+    "latest_release_published_at": "2023-12-04T01:03:28.000Z",
+    "latest_stable_release_number": "6.0.1",
+    "latest_stable_release_published_at": "2023-12-04T01:03:28.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pytest-runner",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-runner/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/pytest-dev/pytest-runner",
+    "security_policy_url": null
+}

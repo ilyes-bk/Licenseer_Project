@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 218,
+    "dependents_count": 404,
+    "deprecation_reason": null,
+    "description": "pytest plugin for generating HTML reports",
+    "homepage": "https://github.com/pytest-dev/pytest-html",
+    "keywords": [
+        "html",
+        "pytest",
+        "report",
+        "plugin",
+        "pytest-plugin",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.1.1",
+    "latest_release_published_at": "2023-11-07T15:44:27.000Z",
+    "latest_stable_release_number": "4.1.1",
+    "latest_stable_release_published_at": "2023-11-07T15:44:27.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pytest-html",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-html/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-html",
+    "security_policy_url": null
+}

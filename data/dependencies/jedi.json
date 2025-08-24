@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/davidhalter/jedi/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 402,
+    "dependents_count": 751,
+    "deprecation_reason": null,
+    "description": "An autocompletion tool for Python that can be used for text editors.",
+    "homepage": "https://github.com/davidhalter/jedi",
+    "keywords": [
+        "python",
+        "completion",
+        "refactoring",
+        "vim",
+        "auto-complete",
+        "static-analysis",
+        "type-inference"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.19.2",
+    "latest_release_published_at": "2024-11-11T01:41:40.000Z",
+    "latest_stable_release_number": "0.19.2",
+    "latest_stable_release_published_at": "2024-11-11T01:41:40.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "jedi",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/jedi/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/davidhalter/jedi",
+    "security_policy_url": "https://github.com/davidhalter/jedi/security/policy"
+}

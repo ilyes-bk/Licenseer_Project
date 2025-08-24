@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 14,
+    "dependents_count": 19,
+    "deprecation_reason": null,
+    "description": "Python module to generate and modify bytecode",
+    "homepage": "https://github.com/MatthieuDartiailh/bytecode",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.16.2",
+    "latest_release_published_at": "2025-04-14T13:39:24.000Z",
+    "latest_stable_release_number": "0.16.2",
+    "latest_stable_release_published_at": "2025-04-14T13:39:24.000Z",
+    "license_normalized": true,
+    "licenses": "The MIT License (MIT)\n        Copyright Contributors to the bytecode project.\n        \n        Permission is hereby granted, free of charge, to any person obtaining a\n        copy of this software and associated documentation files (the\n        \"Software\"), to deal in the Software without restriction, including\n        without limitation the rights to use, copy, modify, merge, publish,\n        distribute, sublicense, and/or sell copies of the Software, and to\n        permit persons to whom the Software is furnished to do so, subject to\n        the following conditions:\n        \n        The above copyright notice and this permission notice shall be included\n        in all copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS\n        OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\n        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\n        IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\n        CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\n        TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\n        SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n        ",
+    "name": "bytecode",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/bytecode/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/MatthieuDartiailh/bytecode",
+    "security_policy_url": null
+}

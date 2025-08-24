@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/python-bigquery-pandas/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/python-bigquery-pandas/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 69,
+    "dependents_count": 144,
+    "deprecation_reason": null,
+    "description": "Google BigQuery connector for pandas",
+    "homepage": "https://github.com/googleapis/python-bigquery-pandas",
+    "keywords": [
+        "bigquery",
+        "data",
+        "pandas"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.28.0",
+    "latest_release_published_at": "2025-02-24T17:59:56.000Z",
+    "latest_stable_release_number": "0.28.0",
+    "latest_stable_release_published_at": "2025-02-24T17:59:56.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "pandas-gbq",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pandas-gbq/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/python-bigquery-pandas",
+    "security_policy_url": "https://github.com/googleapis/python-bigquery-pandas/security/policy"
+}

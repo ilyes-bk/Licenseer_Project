@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 357,
+    "dependents_count": 782,
+    "deprecation_reason": null,
+    "description": "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information.",
+    "homepage": "https://github.com/Anorov/PySocks",
+    "keywords": [
+        "socks",
+        "proxy",
+        "socks-proxy"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7.1",
+    "latest_release_published_at": "2019-09-20T02:06:20.000Z",
+    "latest_stable_release_number": "1.7.1",
+    "latest_stable_release_published_at": "2019-09-20T02:06:20.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "PySocks",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/PySocks/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Anorov/PySocks",
+    "security_policy_url": null
+}

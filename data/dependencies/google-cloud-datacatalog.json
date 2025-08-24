@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/google-cloud-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/google-cloud-python/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 15,
+    "dependents_count": 31,
+    "deprecation_reason": null,
+    "description": "Google Cloud Datacatalog API client library",
+    "homepage": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-datacatalog",
+    "keywords": [
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.27.0",
+    "latest_release_published_at": "2025-04-23T20:56:11.000Z",
+    "latest_stable_release_number": "3.27.0",
+    "latest_stable_release_published_at": "2025-04-23T20:56:11.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-cloud-datacatalog",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-cloud-datacatalog/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/google-cloud-python",
+    "security_policy_url": "https://github.com/googleapis/google-cloud-python/security/policy"
+}

@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/jpadilla/pyjwt/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1744,
+    "dependents_count": 3328,
+    "deprecation_reason": null,
+    "description": "JSON Web Token implementation in Python",
+    "homepage": "https://github.com/jpadilla/pyjwt",
+    "keywords": [
+        "json",
+        "jwt",
+        "security",
+        "signing",
+        "token",
+        "web",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.10.1",
+    "latest_release_published_at": "2024-11-28T03:43:27.000Z",
+    "latest_stable_release_number": "2.10.1",
+    "latest_stable_release_published_at": "2024-11-28T03:43:27.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "PyJWT",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyJWT/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jpadilla/pyjwt",
+    "security_policy_url": "https://github.com/jpadilla/pyjwt/security/policy"
+}

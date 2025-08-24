@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-babel/babel/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 174,
+    "dependents_count": 266,
+    "deprecation_reason": null,
+    "description": "Internationalization utilities",
+    "homepage": "https://babel.pocoo.org/",
+    "keywords": [
+        "cldr",
+        "gettext",
+        "hacktoberfest",
+        "i18n",
+        "l10n"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.17.0",
+    "latest_release_published_at": "2025-02-01T15:17:37.000Z",
+    "latest_stable_release_number": "2.17.0",
+    "latest_stable_release_published_at": "2025-02-01T15:17:37.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "babel",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/babel/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-babel/babel",
+    "security_policy_url": null
+}

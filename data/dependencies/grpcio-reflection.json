@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 49,
+    "dependents_count": 113,
+    "deprecation_reason": null,
+    "description": "Standard Protobuf Reflection Service for gRPC",
+    "homepage": "https://grpc.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.72.0",
+    "latest_release_published_at": "2025-04-25T13:31:25.000Z",
+    "latest_stable_release_number": "1.71.0",
+    "latest_stable_release_published_at": "2025-03-10T19:27:03.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "grpcio-reflection",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/grpcio-reflection/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

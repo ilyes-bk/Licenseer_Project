@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": "https://github.com/jcrist/msgspec/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jcrist/msgspec/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 0,
+    "dependents_count": 129,
+    "deprecation_reason": null,
+    "description": "A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML.",
+    "homepage": "https://jcristharif.com/msgspec/",
+    "keywords": [
+        "JSON",
+        "msgpack",
+        "MessagePack",
+        "TOML",
+        "YAML",
+        "serialization",
+        "validation",
+        "schema",
+        "deserialization",
+        "json-schema",
+        "jsonschema",
+        "openapi3",
+        "python",
+        "serde"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.19.0",
+    "latest_release_published_at": "2024-12-27T17:39:13.000Z",
+    "latest_stable_release_number": "0.19.0",
+    "latest_stable_release_published_at": "2024-12-27T17:39:13.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "msgspec",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/msgspec/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jcrist/msgspec",
+    "security_policy_url": "https://github.com/jcrist/msgspec/security/policy"
+}

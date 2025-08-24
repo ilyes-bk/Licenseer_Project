@@ -1,0 +1,9 @@
+License Name: Cryptographic Autonomy License
+SPDX ID: CAL-1.0
+Category: Uncategorized
+URL: https://opensource.org/license/cal-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: Submitted: December 4, 2019
+Submitter: Submitter: Van Lindberg

@@ -1,0 +1,9 @@
+License Name: Lawrence Berkeley National Labs BSD Variant License
+SPDX ID: BSD-3-Clause-LBNL
+Category: Special Purpose
+URL: https://opensource.org/license/bsd-3-clause-lbnl
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: May 16, 2019
+Submitter: Submitter: Sebastian Ainslie

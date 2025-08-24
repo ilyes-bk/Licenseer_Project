@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1426,
+    "dependents_count": 2039,
+    "deprecation_reason": null,
+    "description": "A backport of the dataclasses module for Python 3.6",
+    "homepage": "https://github.com/ericvsmith/dataclasses",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.8",
+    "latest_release_published_at": "2020-11-13T14:40:29.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "dataclasses",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/dataclasses/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ericvsmith/dataclasses",
+    "security_policy_url": null
+}

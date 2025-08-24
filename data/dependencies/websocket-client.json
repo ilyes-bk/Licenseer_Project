@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/websocket-client/websocket-client/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 1056,
+    "dependents_count": 1925,
+    "deprecation_reason": null,
+    "description": "WebSocket client for Python with low level API options",
+    "homepage": "https://github.com/websocket-client/websocket-client.git",
+    "keywords": [
+        "websockets",
+        "client",
+        "python",
+        "rfc-6455",
+        "websocket",
+        "websocket-client",
+        "websockets-client"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.8.0",
+    "latest_release_published_at": "2024-04-23T22:16:14.000Z",
+    "latest_stable_release_number": "1.8.0",
+    "latest_stable_release_published_at": "2024-04-23T22:16:14.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "websocket-client",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/websocket-client/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/websocket-client/websocket-client",
+    "security_policy_url": null
+}

@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/dbt-labs/dbt-core/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 120,
+    "dependents_count": 224,
+    "deprecation_reason": null,
+    "description": "With dbt, data analysts and engineers can build analytics the way engineers build applications.",
+    "homepage": "https://github.com/dbt-labs/dbt-core",
+    "keywords": [
+        "analytics",
+        "business-intelligence",
+        "data-modeling",
+        "dbt-viewpoint",
+        "elt",
+        "pypa",
+        "slack"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.10.0b2",
+    "latest_release_published_at": "2025-04-02T19:13:30.000Z",
+    "latest_stable_release_number": "1.9.4",
+    "latest_stable_release_published_at": "2025-04-02T16:55:34.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "dbt-core",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/dbt-core/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dbt-labs/dbt-core",
+    "security_policy_url": "https://github.com/dbt-labs/dbt-core/security/policy"
+}

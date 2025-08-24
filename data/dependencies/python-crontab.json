@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 65,
+    "dependents_count": 126,
+    "deprecation_reason": null,
+    "description": "Python Crontab API",
+    "homepage": "https://gitlab.com/doctormo/python-crontab/",
+    "keywords": [
+        "python"
+    ],
+    "language": null,
+    "latest_release_number": "3.2.0",
+    "latest_release_published_at": "2024-07-01T22:29:08.000Z",
+    "latest_stable_release_number": "3.2.0",
+    "latest_stable_release_published_at": "2024-07-01T22:29:08.000Z",
+    "license_normalized": true,
+    "licenses": "LGPLv3",
+    "name": "python-crontab",
+    "normalized_licenses": [
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-crontab/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://gitlab.com/doctormo/python-crontab",
+    "security_policy_url": null
+}

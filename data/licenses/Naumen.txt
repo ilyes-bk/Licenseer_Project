@@ -1,0 +1,8 @@
+License Name: NAUMEN Public License
+SPDX ID: Naumen
+Category: Non-Reusable
+URL: https://opensource.org/license/naumen-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

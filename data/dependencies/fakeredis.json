@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": "https://github.com/cunla/fakeredis-py/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/cunla/fakeredis-py/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 78,
+    "dependents_count": 129,
+    "deprecation_reason": null,
+    "description": "Python implementation of redis API, can be used for testing purposes.",
+    "homepage": "https://github.com/cunla/fakeredis-py",
+    "keywords": [
+        "redis",
+        "RedisJson",
+        "RedisBloom",
+        "tests",
+        "redis-stack",
+        "dragonfly",
+        "python",
+        "testing",
+        "valkey"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.28.1",
+    "latest_release_published_at": "2025-04-02T15:08:58.000Z",
+    "latest_stable_release_number": "2.28.1",
+    "latest_stable_release_published_at": "2025-04-02T15:08:58.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "fakeredis",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/fakeredis/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cunla/fakeredis-py",
+    "security_policy_url": "https://github.com/cunla/fakeredis-py/security/policy"
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 58,
+    "dependents_count": 76,
+    "deprecation_reason": null,
+    "description": "Typing stubs for jsonschema",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.23.0.20241208",
+    "latest_release_published_at": "2024-12-08T03:02:20.000Z",
+    "latest_stable_release_number": "4.16.1",
+    "latest_stable_release_published_at": "2022-09-27T20:50:39.130Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "types-jsonschema",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-jsonschema/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

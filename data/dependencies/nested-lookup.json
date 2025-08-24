@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/russellballestrini/nested-lookup/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 28,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "Python functions for working with deeply nested documents (lists and dicts)",
+    "homepage": "https://git.unturf.com/python/nested-lookup",
+    "keywords": [
+        "nested",
+        "document",
+        "dictionary",
+        "dict",
+        "list",
+        "lookup",
+        "schema",
+        "json",
+        "xml",
+        "yaml"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.25",
+    "latest_release_published_at": "2022-07-06T18:55:03.000Z",
+    "latest_stable_release_number": "0.2.25",
+    "latest_stable_release_published_at": "2022-07-06T18:55:03.000Z",
+    "license_normalized": true,
+    "licenses": "Public Domain",
+    "name": "nested-lookup",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/nested-lookup/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "",
+    "security_policy_url": null
+}

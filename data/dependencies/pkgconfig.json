@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 26,
+    "dependents_count": 33,
+    "deprecation_reason": null,
+    "description": "Interface Python with pkg-config",
+    "homepage": "https://github.com/matze/pkgconfig",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.5.5",
+    "latest_release_published_at": "2021-07-19T18:49:50.000Z",
+    "latest_stable_release_number": "1.5.5",
+    "latest_stable_release_published_at": "2021-07-19T18:49:50.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pkgconfig",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pkgconfig/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/matze/pkgconfig",
+    "security_policy_url": null
+}

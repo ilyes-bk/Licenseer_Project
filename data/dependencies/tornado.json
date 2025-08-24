@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1335,
+    "dependents_count": 2201,
+    "deprecation_reason": null,
+    "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+    "homepage": "http://www.tornadoweb.org/",
+    "keywords": [
+        "asynchronous",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.4.2",
+    "latest_release_published_at": "2024-11-22T03:06:20.000Z",
+    "latest_stable_release_number": "6.4.2",
+    "latest_stable_release_published_at": "2024-11-22T03:06:20.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "tornado",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tornado/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tornadoweb/tornado",
+    "security_policy_url": "https://github.com/tornadoweb/tornado/security/policy"
+}

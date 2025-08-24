@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 6,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "Google Cloud Audit Protos",
+    "homepage": "https://github.com/googleapis/python-audit-log",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.3.2",
+    "latest_release_published_at": "2025-03-17T11:27:58.000Z",
+    "latest_stable_release_number": "0.3.2",
+    "latest_stable_release_published_at": "2025-03-17T11:27:58.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "google-cloud-audit-log",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-cloud-audit-log/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/googleapis/python-audit-log",
+    "security_policy_url": "https://github.com/googleapis/python-audit-log/security/policy"
+}

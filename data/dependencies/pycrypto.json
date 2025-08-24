@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 447,
+    "dependents_count": 711,
+    "deprecation_reason": null,
+    "description": "Cryptographic modules for Python.",
+    "homepage": "http://www.pycrypto.org/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.6.1",
+    "latest_release_published_at": "2014-06-20T08:10:20.000Z",
+    "latest_stable_release_number": "2.6.1",
+    "latest_stable_release_published_at": "2014-06-20T08:10:20.000Z",
+    "license_normalized": true,
+    "licenses": "Public domain",
+    "name": "pycrypto",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/pycrypto/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": null,
+    "security_policy_url": null
+}

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 392,
+    "dependents_count": 633,
+    "deprecation_reason": null,
+    "description": "a little orm",
+    "homepage": "https://github.com/coleifer/peewee/",
+    "keywords": [
+        "dank",
+        "gametight",
+        "peewee",
+        "python",
+        "sqlite"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.17.9",
+    "latest_release_published_at": "2025-02-05T16:30:35.000Z",
+    "latest_stable_release_number": "3.17.9",
+    "latest_stable_release_published_at": "2025-02-05T16:30:35.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "peewee",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/peewee/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/coleifer/peewee",
+    "security_policy_url": null
+}

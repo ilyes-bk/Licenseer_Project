@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 47,
+    "dependents_count": 87,
+    "deprecation_reason": "Development Status :: 7 - Inactive",
+    "description": "Avro is a serialization and RPC framework.",
+    "homepage": "https://avro.apache.org/",
+    "keywords": [
+        "avro",
+        "serialization",
+        "rpc"
+    ],
+    "language": null,
+    "latest_release_number": "1.10.2",
+    "latest_release_published_at": "2021-03-17T10:43:56.000Z",
+    "latest_stable_release_number": "1.10.2",
+    "latest_stable_release_published_at": "2021-03-17T10:43:56.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "avro-python3",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/avro-python3/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

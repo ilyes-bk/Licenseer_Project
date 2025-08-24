@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/census-instrumentation/opencensus-python/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/census-instrumentation/opencensus-python/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 22,
+    "dependents_count": 59,
+    "deprecation_reason": null,
+    "description": "OpenCensus Azure Monitor Exporter",
+    "homepage": "https://github.com/census-instrumentation/opencensus-python/tree/master/contrib/opencensus-ext-azure",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.1.14",
+    "latest_release_published_at": "2025-01-06T21:52:07.000Z",
+    "latest_stable_release_number": "1.1.14",
+    "latest_stable_release_published_at": "2025-01-06T21:52:07.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "opencensus-ext-azure",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/opencensus-ext-azure/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/census-instrumentation/opencensus-python",
+    "security_policy_url": "https://github.com/census-instrumentation/opencensus-python/security/policy"
+}

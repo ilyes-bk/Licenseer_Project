@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 3262,
+    "dependents_count": 5452,
+    "deprecation_reason": null,
+    "description": "TensorFlow is an open source machine learning framework for everyone.",
+    "homepage": "https://www.tensorflow.org/",
+    "keywords": [
+        "tensorflow",
+        "tensor",
+        "machine",
+        "learning"
+    ],
+    "language": null,
+    "latest_release_number": "2.19.0",
+    "latest_release_published_at": "2025-03-12T01:04:13.000Z",
+    "latest_stable_release_number": "2.19.0",
+    "latest_stable_release_published_at": "2025-03-12T01:04:13.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "tensorflow",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tensorflow/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

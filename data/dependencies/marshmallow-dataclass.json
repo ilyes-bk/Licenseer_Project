@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/lovasoa/marshmallow_dataclass/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 49,
+    "dependents_count": 100,
+    "deprecation_reason": null,
+    "description": "Python library to convert dataclasses into marshmallow schemas.",
+    "homepage": "https://github.com/lovasoa/marshmallow_dataclass",
+    "keywords": [
+        "marshmallow",
+        "dataclass",
+        "serialization",
+        "orm"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.7.1",
+    "latest_release_published_at": "2024-09-12T16:18:50.000Z",
+    "latest_stable_release_number": "8.7.1",
+    "latest_stable_release_published_at": "2024-09-12T16:18:50.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "marshmallow-dataclass",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/marshmallow-dataclass/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lovasoa/marshmallow_dataclass",
+    "security_policy_url": null
+}

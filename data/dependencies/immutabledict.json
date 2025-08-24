@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 66,
+    "dependents_count": 98,
+    "deprecation_reason": null,
+    "description": "Immutable wrapper around dictionaries (a fork of frozendict)",
+    "homepage": "https://github.com/corenting/immutabledict",
+    "keywords": [
+        "immutable",
+        "dictionary",
+        "dict",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.2.1",
+    "latest_release_published_at": "2024-11-17T13:25:19.000Z",
+    "latest_stable_release_number": "4.2.1",
+    "latest_stable_release_published_at": "2024-11-17T13:25:19.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "immutabledict",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/immutabledict/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/corenting/immutabledict",
+    "security_policy_url": null
+}

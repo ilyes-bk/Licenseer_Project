@@ -1,0 +1,9 @@
+License Name: IPA Font License
+SPDX ID: IPA
+Category: Special Purpose
+URL: https://opensource.org/license/ipafont-html
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: Submitted: February 4, 2009
+Submitter: Submitter: Yuko Noguchi, URL N/A

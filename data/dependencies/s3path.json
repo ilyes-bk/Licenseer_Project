@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 11,
+    "dependents_count": 19,
+    "deprecation_reason": null,
+    "description": "s3path is a pathlib extension for AWS S3 Service ",
+    "homepage": "https://github.com/liormizr/s3path",
+    "keywords": [
+        "amazon-s3",
+        "amazon-web-services",
+        "aws-s3",
+        "boto3",
+        "python",
+        "python3",
+        "s3-sdk"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.6.1",
+    "latest_release_published_at": "2025-03-26T11:36:16.000Z",
+    "latest_stable_release_number": "0.6.1",
+    "latest_stable_release_published_at": "2025-03-26T11:36:16.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "s3path",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/s3path/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/liormizr/s3path",
+    "security_policy_url": null
+}

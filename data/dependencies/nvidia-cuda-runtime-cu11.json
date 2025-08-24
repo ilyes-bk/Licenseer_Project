@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 30,
+    "dependents_count": 82,
+    "deprecation_reason": null,
+    "description": "CUDA Runtime native Libraries",
+    "homepage": "https://developer.nvidia.com/cuda-zone",
+    "keywords": [
+        "cuda",
+        "nvidia",
+        "runtime",
+        "machine",
+        "learning",
+        "deep"
+    ],
+    "language": null,
+    "latest_release_number": "11.8.89",
+    "latest_release_published_at": "2022-10-03T21:47:41.725Z",
+    "latest_stable_release_number": "11.8.89",
+    "latest_stable_release_published_at": "2022-10-03T21:47:41.725Z",
+    "license_normalized": true,
+    "licenses": "NVIDIA Proprietary Software",
+    "name": "nvidia-cuda-runtime-cu11",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/nvidia-cuda-runtime-cu11/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

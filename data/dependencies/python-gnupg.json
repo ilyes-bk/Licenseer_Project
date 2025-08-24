@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 123,
+    "dependents_count": 168,
+    "deprecation_reason": null,
+    "description": "A wrapper for the Gnu Privacy Guard (GPG or GnuPG)",
+    "homepage": "https://github.com/vsajip/python-gnupg",
+    "keywords": [
+        "GnuPG",
+        "cryptography",
+        "encryption",
+        "decryption",
+        "signing",
+        "verification",
+        "encryption-decryption",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.5.4",
+    "latest_release_published_at": "2025-01-07T11:58:32.000Z",
+    "latest_stable_release_number": "0.5.4",
+    "latest_stable_release_published_at": "2025-01-07T11:58:32.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "python-gnupg",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-gnupg/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/vsajip/python-gnupg",
+    "security_policy_url": null
+}

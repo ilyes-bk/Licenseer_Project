@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 358,
+    "dependents_count": 684,
+    "deprecation_reason": null,
+    "description": "Library provides the way to automatically manage drivers for different browsers",
+    "homepage": "https://github.com/SergeyPirogov/webdriver_manager",
+    "keywords": [
+        "testing",
+        "selenium",
+        "driver",
+        "test",
+        "automation",
+        "python",
+        "webdriver",
+        "webdrivermanager"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.0.2",
+    "latest_release_published_at": "2024-07-25T08:13:47.000Z",
+    "latest_stable_release_number": "4.0.2",
+    "latest_stable_release_published_at": "2024-07-25T08:13:47.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "webdriver-manager",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/webdriver-manager/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/SergeyPirogov/webdriver_manager",
+    "security_policy_url": null
+}

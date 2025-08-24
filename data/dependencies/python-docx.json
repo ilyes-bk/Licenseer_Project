@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 325,
+    "dependents_count": 680,
+    "deprecation_reason": null,
+    "description": "Create, read, and update Microsoft Word .docx files.",
+    "homepage": "https://github.com/python-openxml/python-docx",
+    "keywords": [
+        "docx",
+        "office",
+        "openxml",
+        "word"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.2",
+    "latest_release_published_at": "2024-05-01T19:41:47.000Z",
+    "latest_stable_release_number": "1.1.2",
+    "latest_stable_release_published_at": "2024-05-01T19:41:47.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-docx",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-docx/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-openxml/python-docx",
+    "security_policy_url": null
+}

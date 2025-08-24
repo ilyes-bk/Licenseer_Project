@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 32,
+    "dependents_count": 70,
+    "deprecation_reason": null,
+    "description": "Shims to make deprecation of pytz easier",
+    "homepage": "https://github.com/pganssle/pytz-deprecation-shim",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.1.0.post0",
+    "latest_release_published_at": "2020-06-17T16:16:28.000Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2020-06-17T02:37:13.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "pytz-deprecation-shim",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytz-deprecation-shim/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pganssle/pytz-deprecation-shim",
+    "security_policy_url": null
+}

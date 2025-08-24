@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 146,
+    "dependents_count": 234,
+    "deprecation_reason": null,
+    "description": "Python2's stdlib csv module is nice, but it doesn't support unicode. This module is a drop-in replacement which *does*.",
+    "homepage": "https://github.com/jdunck/python-unicodecsv",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.14.1",
+    "latest_release_published_at": "2015-09-22T22:00:19.000Z",
+    "latest_stable_release_number": "0.14.1",
+    "latest_stable_release_published_at": "2015-09-22T22:00:19.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "unicodecsv",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/unicodecsv/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jdunck/python-unicodecsv",
+    "security_policy_url": null
+}

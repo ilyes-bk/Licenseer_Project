@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": "https://github.com/adamchainz/time-machine/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 47,
+    "dependents_count": 65,
+    "deprecation_reason": null,
+    "description": "Travel through time in your tests.",
+    "homepage": "",
+    "keywords": [
+        "date",
+        "datetime",
+        "mock",
+        "test",
+        "testing",
+        "tests",
+        "time",
+        "warp",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.16.0",
+    "latest_release_published_at": "2024-10-08T14:20:51.000Z",
+    "latest_stable_release_number": "2.16.0",
+    "latest_stable_release_published_at": "2024-10-08T14:20:51.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "time-machine",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/time-machine/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/adamchainz/time-machine",
+    "security_policy_url": "https://github.com/adamchainz/time-machine/security/policy"
+}

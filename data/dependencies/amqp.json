@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 63,
+    "dependents_count": 156,
+    "deprecation_reason": null,
+    "description": "Low-level AMQP client for Python (fork of amqplib).",
+    "homepage": "http://github.com/celery/py-amqp",
+    "keywords": [
+        "amqp",
+        "rabbitmq",
+        "cloudamqp",
+        "messaging",
+        "amqp-client",
+        "amqp-connection",
+        "amqp-messages",
+        "python",
+        "python-library",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.3.1",
+    "latest_release_published_at": "2024-11-12T19:55:41.000Z",
+    "latest_stable_release_number": "5.3.1",
+    "latest_stable_release_published_at": "2024-11-12T19:55:41.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "amqp",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/amqp/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/celery/py-amqp",
+    "security_policy_url": null
+}

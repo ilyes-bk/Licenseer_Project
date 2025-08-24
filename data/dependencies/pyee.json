@@ -1,0 +1,43 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 145,
+    "dependents_count": 300,
+    "deprecation_reason": null,
+    "description": "A rough port of Node.js's EventEmitter to Python with a few tricks of its own",
+    "homepage": "https://github.com/jfhbrook/public",
+    "keywords": [
+        "events",
+        "emitter",
+        "node",
+        "js",
+        "eventemitter",
+        "event_emitter",
+        "async",
+        "asyncio",
+        "concurrency",
+        "event-emitter",
+        "hacktoberfest",
+        "nodejs",
+        "python",
+        "trio",
+        "twisted"
+    ],
+    "language": "Python",
+    "latest_release_number": "13.0.0",
+    "latest_release_published_at": "2025-03-17T18:53:14.000Z",
+    "latest_stable_release_number": "13.0.0",
+    "latest_stable_release_published_at": "2025-03-17T18:53:14.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyee",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyee/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jfhbrook/pyee",
+    "security_policy_url": null
+}

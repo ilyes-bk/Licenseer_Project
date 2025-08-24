@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/DataDog/sketches-py/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 5,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "Distributed quantile sketches",
+    "homepage": "http://github.com/datadog/sketches-py",
+    "keywords": [
+        "ddsketch",
+        "quantile",
+        "sketch"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.0.1",
+    "latest_release_published_at": "2024-04-01T13:11:38.000Z",
+    "latest_stable_release_number": "3.0.1",
+    "latest_stable_release_published_at": "2024-04-01T13:11:38.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "ddsketch",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ddsketch/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/datadog/sketches-py",
+    "security_policy_url": null
+}

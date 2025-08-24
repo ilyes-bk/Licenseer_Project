@@ -1,0 +1,8 @@
+License Name: The Nethack General Public License
+SPDX ID: NGPL
+Category: Non-Reusable
+URL: https://opensource.org/license/nethack
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

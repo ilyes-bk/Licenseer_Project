@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 128,
+    "dependents_count": 200,
+    "deprecation_reason": null,
+    "description": "Like `typing._eval_type`, but lets older Python versions use newer typing features.",
+    "homepage": "https://github.com/alexmojaki/eval_type_backport",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.2.2",
+    "latest_release_published_at": "2024-12-21T20:09:44.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2024-12-21T20:09:44.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "eval-type-backport",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/eval-type-backport/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/alexmojaki/eval_type_backport",
+    "security_policy_url": null
+}

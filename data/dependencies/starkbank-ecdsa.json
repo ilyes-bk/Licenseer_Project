@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 3,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "A lightweight and fast pure python ECDSA library",
+    "homepage": "https://github.com/starkbank/ecdsa-python.git",
+    "keywords": [
+        "ecdsa",
+        "elliptic",
+        "curve",
+        "stark",
+        "bank",
+        "starkbank",
+        "cryptograph",
+        "secp256k1",
+        "prime256v1"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.0",
+    "latest_release_published_at": "2022-10-24T18:36:05.000Z",
+    "latest_stable_release_number": "2.2.0",
+    "latest_stable_release_published_at": "2022-10-24T18:36:05.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "starkbank-ecdsa",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/starkbank-ecdsa/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/starkbank/ecdsa-python",
+    "security_policy_url": null
+}

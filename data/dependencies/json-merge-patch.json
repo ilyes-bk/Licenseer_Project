@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/OpenDataServices/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 17,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "JSON Merge Patch library (https://tools.ietf.org/html/rfc7386)",
+    "homepage": "https://github.com/open-contracting/json-merge-patch",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.3.0",
+    "latest_release_published_at": "2025-03-25T09:48:40.000Z",
+    "latest_stable_release_number": "0.3.0",
+    "latest_stable_release_published_at": "2025-03-25T09:48:40.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "json-merge-patch",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/json-merge-patch/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/open-contracting/json-merge-patch",
+    "security_policy_url": null
+}

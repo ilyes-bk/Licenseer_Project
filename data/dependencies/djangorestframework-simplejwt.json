@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/jazzband/djangorestframework-simplejwt/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jazzband/djangorestframework-simplejwt/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 64,
+    "dependents_count": 181,
+    "deprecation_reason": null,
+    "description": "A minimal JSON Web Token authentication plugin for Django REST Framework",
+    "homepage": "https://github.com/jazzband/djangorestframework-simplejwt",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "5.5.0",
+    "latest_release_published_at": "2025-02-26T19:36:29.000Z",
+    "latest_stable_release_number": "5.5.0",
+    "latest_stable_release_published_at": "2025-02-26T19:36:29.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "djangorestframework-simplejwt",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/djangorestframework-simplejwt/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jazzband/djangorestframework-simplejwt",
+    "security_policy_url": "https://github.com/jazzband/djangorestframework-simplejwt/security/policy"
+}

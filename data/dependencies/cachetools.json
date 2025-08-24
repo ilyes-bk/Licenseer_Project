@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1144,
+    "dependents_count": 2124,
+    "deprecation_reason": null,
+    "description": "Extensible memoizing collections and decorators",
+    "homepage": "https://github.com/tkem/cachetools/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "6.0.0b3",
+    "latest_release_published_at": "2025-04-08T19:32:28.000Z",
+    "latest_stable_release_number": "5.5.2",
+    "latest_stable_release_published_at": "2025-02-20T21:01:16.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cachetools",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cachetools/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tkem/cachetools",
+    "security_policy_url": "https://github.com/tkem/cachetools/security/policy"
+}

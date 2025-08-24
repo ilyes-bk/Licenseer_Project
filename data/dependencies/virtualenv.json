@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pypa/virtualenv/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 676,
+    "dependents_count": 1111,
+    "deprecation_reason": null,
+    "description": "Virtual Python Environment builder",
+    "homepage": "https://github.com/pypa/virtualenv",
+    "keywords": [
+        "environments",
+        "isolated",
+        "virtual",
+        "cython",
+        "hacktoberfest",
+        "jython",
+        "library",
+        "pypa",
+        "pypy",
+        "pypy3",
+        "python",
+        "virtualenv"
+    ],
+    "language": "Python",
+    "latest_release_number": "20.30.0",
+    "latest_release_published_at": "2025-03-31T16:33:26.000Z",
+    "latest_stable_release_number": "20.30.0",
+    "latest_stable_release_published_at": "2025-03-31T16:33:26.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "virtualenv",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/virtualenv/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pypa/virtualenv",
+    "security_policy_url": "https://github.com/pypa/virtualenv/security/policy"
+}

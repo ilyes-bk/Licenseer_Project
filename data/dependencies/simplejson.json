@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1045,
+    "dependents_count": 1653,
+    "deprecation_reason": null,
+    "description": "Simple, fast, extensible JSON encoder/decoder for Python",
+    "homepage": "https://github.com/simplejson/simplejson",
+    "keywords": [
+        "json",
+        "json-parser",
+        "json-serializer",
+        "python",
+        "python2",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.20.1",
+    "latest_release_published_at": "2025-02-15T05:15:17.000Z",
+    "latest_stable_release_number": "3.20.1",
+    "latest_stable_release_published_at": "2025-02-15T05:15:17.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "simplejson",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/simplejson/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/simplejson/simplejson",
+    "security_policy_url": null
+}

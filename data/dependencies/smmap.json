@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 123,
+    "dependents_count": 291,
+    "deprecation_reason": null,
+    "description": "A pure Python implementation of a sliding window memory map manager",
+    "homepage": "https://github.com/gitpython-developers/smmap",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "5.0.2",
+    "latest_release_published_at": "2025-01-02T07:14:38.000Z",
+    "latest_stable_release_number": "5.0.2",
+    "latest_stable_release_published_at": "2025-01-02T07:14:38.000Z",
+    "license_normalized": true,
+    "licenses": "BSD-3-Clause",
+    "name": "smmap",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/smmap/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/gitpython-developers/smmap",
+    "security_policy_url": null
+}

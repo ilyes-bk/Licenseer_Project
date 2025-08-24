@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-trio/trio-websocket/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 80,
+    "dependents_count": 169,
+    "deprecation_reason": null,
+    "description": "WebSocket library for Trio",
+    "homepage": "https://github.com/python-trio/trio-websocket",
+    "keywords": [
+        "websocket",
+        "client",
+        "server",
+        "trio"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.12.2",
+    "latest_release_published_at": "2025-02-25T05:16:57.000Z",
+    "latest_stable_release_number": "0.12.2",
+    "latest_stable_release_published_at": "2025-02-25T05:16:57.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "trio-websocket",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/trio-websocket/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-trio/trio-websocket",
+    "security_policy_url": null
+}

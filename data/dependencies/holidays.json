@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/vacanza/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/vacanza/holidays/blob/dev/CONTRIBUTING.md",
+    "dependent_repos_count": 139,
+    "dependents_count": 272,
+    "deprecation_reason": null,
+    "description": "Open World Holidays Framework",
+    "homepage": "https://pypi.org/project/holidays",
+    "keywords": [
+        "holidays",
+        "calendar",
+        "l10n",
+        "worldwide",
+        "vacation",
+        "gsoc",
+        "gsoc-2025",
+        "gsoc2025",
+        "holiday",
+        "holiday-api",
+        "holiday-calculation",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.71",
+    "latest_release_published_at": "2025-04-21T20:18:20.000Z",
+    "latest_stable_release_number": "0.27.1",
+    "latest_stable_release_published_at": "2023-06-21T16:43:02.350Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "holidays",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/holidays/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/vacanza/holidays",
+    "security_policy_url": "https://github.com/vacanza/holidays/security/policy"
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 38,
+    "dependents_count": 88,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Key Vault Client Libraries for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/keyvault/azure-keyvault",
+    "keywords": [
+        "azure",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.2.0",
+    "latest_release_published_at": "2022-03-29T18:48:47.000Z",
+    "latest_stable_release_number": "4.2.0",
+    "latest_stable_release_published_at": "2022-03-29T18:48:47.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-keyvault",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-keyvault/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

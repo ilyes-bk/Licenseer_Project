@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 49,
+    "dependents_count": 71,
+    "deprecation_reason": null,
+    "description": "URI parsing, classification and composition",
+    "homepage": "https://github.com/tkem/uritools/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.0.3",
+    "latest_release_published_at": "2024-05-28T18:07:42.000Z",
+    "latest_stable_release_number": "4.0.3",
+    "latest_stable_release_published_at": "2024-05-28T18:07:42.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "uritools",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/uritools/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tkem/uritools",
+    "security_policy_url": "https://github.com/tkem/uritools/security/policy"
+}

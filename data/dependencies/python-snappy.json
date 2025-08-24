@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 88,
+    "dependents_count": 140,
+    "deprecation_reason": null,
+    "description": "Python library for the snappy compression library from Google",
+    "homepage": "http://github.com/intake/python-snappy",
+    "keywords": [
+        "snappy",
+        "compression",
+        "google"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.3",
+    "latest_release_published_at": "2024-08-29T13:16:04.000Z",
+    "latest_stable_release_number": "0.7.3",
+    "latest_stable_release_published_at": "2024-08-29T13:16:04.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "python-snappy",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-snappy/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/intake/python-snappy",
+    "security_policy_url": null
+}

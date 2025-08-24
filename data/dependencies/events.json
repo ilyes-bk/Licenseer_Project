@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pyeve/events/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 44,
+    "dependents_count": 68,
+    "deprecation_reason": null,
+    "description": "Bringing the elegance of C# EventHandler to Python",
+    "homepage": "http://github.com/pyeve/events",
+    "keywords": [
+        "events",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.5",
+    "latest_release_published_at": "2023-07-31T08:23:13.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2017-01-02T08:57:18.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "Events",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Events/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyeve/events",
+    "security_policy_url": null
+}

@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 25,
+    "dependents_count": 66,
+    "deprecation_reason": null,
+    "description": "Use JDBC database drivers from Python 2/3 or Jython with a DB-API.",
+    "homepage": "https://github.com/baztian/jaydebeapi",
+    "keywords": [
+        "db",
+        "api",
+        "java",
+        "jdbc",
+        "bridge",
+        "connect",
+        "sql",
+        "jpype",
+        "jython",
+        "database",
+        "python",
+        "python-2-7",
+        "python-3"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.2.3",
+    "latest_release_published_at": "2020-06-12T07:03:30.000Z",
+    "latest_stable_release_number": "1.2.3",
+    "latest_stable_release_published_at": "2020-06-12T07:03:30.000Z",
+    "license_normalized": true,
+    "licenses": "GNU LGPL",
+    "name": "JayDeBeApi",
+    "normalized_licenses": [
+        "LGPL-2.1+"
+    ],
+    "package_manager_url": "https://pypi.org/project/JayDeBeApi/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/baztian/jaydebeapi",
+    "security_policy_url": null
+}

@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 452,
+    "dependents_count": 743,
+    "deprecation_reason": null,
+    "description": "A sane and fast Markdown parser with useful plugins and renderers",
+    "homepage": "http://mistune.lepture.com/",
+    "keywords": [
+        "markdown"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.1.3",
+    "latest_release_published_at": "2025-03-19T14:27:23.000Z",
+    "latest_stable_release_number": "3.1.3",
+    "latest_stable_release_published_at": "2025-03-19T14:27:23.000Z",
+    "license_normalized": true,
+    "licenses": "BSD-3-Clause",
+    "name": "mistune",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/mistune/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lepture/mistune",
+    "security_policy_url": null
+}

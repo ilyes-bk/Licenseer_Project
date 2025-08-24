@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/twisted/.github/blob/trunk/code_of_conduct.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 48,
+    "dependents_count": 76,
+    "deprecation_reason": null,
+    "description": "Symbolic constants in Python",
+    "homepage": "https://github.com/twisted/constantly",
+    "keywords": [
+        "constants",
+        "enum",
+        "twisted"
+    ],
+    "language": "Python",
+    "latest_release_number": "23.10.4",
+    "latest_release_published_at": "2023-10-28T23:18:23.000Z",
+    "latest_stable_release_number": "23.10.4",
+    "latest_stable_release_published_at": "2023-10-28T23:18:23.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "constantly",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/constantly/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/twisted/constantly",
+    "security_policy_url": "https://github.com/twisted/constantly/security/policy"
+}

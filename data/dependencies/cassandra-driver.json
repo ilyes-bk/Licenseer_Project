@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/datastax/python-driver/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 82,
+    "dependents_count": 140,
+    "deprecation_reason": null,
+    "description": "DataStax Driver for Apache Cassandra",
+    "homepage": "http://github.com/datastax/python-driver",
+    "keywords": [
+        "cassandra",
+        "cql",
+        "orm",
+        "dse",
+        "graph"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.29.2",
+    "latest_release_published_at": "2024-09-10T02:19:21.000Z",
+    "latest_stable_release_number": "3.29.2",
+    "latest_stable_release_published_at": "2024-09-10T02:19:21.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "cassandra-driver",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/cassandra-driver/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/datastax/python-driver",
+    "security_policy_url": null
+}

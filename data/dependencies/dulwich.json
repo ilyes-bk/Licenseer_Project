@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": "https://github.com/jelmer/dulwich/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jelmer/dulwich/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 120,
+    "dependents_count": 235,
+    "deprecation_reason": null,
+    "description": "Python Git Library",
+    "homepage": "https://www.dulwich.io/",
+    "keywords": [
+        "vcs",
+        "git",
+        "cpython",
+        "dulwich",
+        "pypy",
+        "python",
+        "python-3",
+        "version-control"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.22.8",
+    "latest_release_published_at": "2025-03-02T23:06:45.000Z",
+    "latest_stable_release_number": "0.22.8",
+    "latest_stable_release_published_at": "2025-03-02T23:06:45.000Z",
+    "license_normalized": true,
+    "licenses": "Apachev2 or later or GPLv2",
+    "name": "dulwich",
+    "normalized_licenses": [
+        "MulanPSL-2.0",
+        "GPL-3.0+",
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/dulwich/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://www.dulwich.io/code/",
+    "security_policy_url": "https://github.com/jelmer/dulwich/security/policy"
+}

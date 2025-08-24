@@ -1,0 +1,9 @@
+License Name: PHP License 3.0
+SPDX ID: PHP-3.0
+Category: Superseded
+URL: https://opensource.org/license/php-3-0
+
+Additional Metadata:
+Version: Version 3.0
+Submitted: Submitted: May 31, 2003
+Submitter: Submitter: Rasmus Lerdorf

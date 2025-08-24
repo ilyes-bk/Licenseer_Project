@@ -1,0 +1,9 @@
+License Name: EU DataGrid Software License
+SPDX ID: EUDatagrid
+Category: Non-Reusable
+URL: https://opensource.org/license/eudatagrid-php
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: August 19, 2003
+Submitter: Submitter: Bob Jones

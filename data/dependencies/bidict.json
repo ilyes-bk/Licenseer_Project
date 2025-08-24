@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": "https://github.com/jab/bidict/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jab/bidict/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 190,
+    "dependents_count": 293,
+    "deprecation_reason": null,
+    "description": "The bidirectional mapping library for Python.",
+    "homepage": "https://bidict.readthedocs.io",
+    "keywords": [
+        "bidict",
+        "bimap",
+        "bidirectional",
+        "dict",
+        "dictionary",
+        "mapping",
+        "collections",
+        "data-structures",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.23.1",
+    "latest_release_published_at": "2024-02-18T19:09:04.000Z",
+    "latest_stable_release_number": "0.23.1",
+    "latest_stable_release_published_at": "2024-02-18T19:09:04.000Z",
+    "license_normalized": true,
+    "licenses": "MPL 2.0",
+    "name": "bidict",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/bidict/",
+    "repository_license": "MPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jab/bidict",
+    "security_policy_url": null
+}

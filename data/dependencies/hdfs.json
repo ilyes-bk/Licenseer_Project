@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 35,
+    "dependents_count": 67,
+    "deprecation_reason": null,
+    "description": "HdfsCLI: API and command line interface for HDFS.",
+    "homepage": "https://hdfscli.readthedocs.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "2.7.3",
+    "latest_release_published_at": "2023-10-13T00:06:06.000Z",
+    "latest_stable_release_number": "2.7.3",
+    "latest_stable_release_published_at": "2023-10-13T00:06:06.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "hdfs",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/hdfs/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

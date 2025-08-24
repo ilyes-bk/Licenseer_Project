@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/protocolbuffers/protobuf/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/protocolbuffers/protobuf/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 2818,
+    "dependents_count": 5847,
+    "deprecation_reason": null,
+    "description": "Protocol Buffers - Google's data interchange format",
+    "homepage": "https://developers.google.com/protocol-buffers/",
+    "keywords": [
+        "marshalling",
+        "protobuf",
+        "protobuf-runtime",
+        "protoc",
+        "protocol-buffers",
+        "protocol-compiler",
+        "rpc",
+        "serialization"
+    ],
+    "language": "C++",
+    "latest_release_number": "4.25.7",
+    "latest_release_published_at": "2025-04-24T02:56:40.000Z",
+    "latest_stable_release_number": "6.30.2",
+    "latest_stable_release_published_at": "2025-03-26T19:12:41.000Z",
+    "license_normalized": false,
+    "licenses": "3-Clause BSD License",
+    "name": "protobuf",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/protobuf/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/protocolbuffers/protobuf/security/policy"
+}

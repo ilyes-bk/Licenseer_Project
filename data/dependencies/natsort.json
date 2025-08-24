@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/SethMMorton/natsort/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/SethMMorton/natsort/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 591,
+    "dependents_count": 870,
+    "deprecation_reason": null,
+    "description": "Simple yet flexible natural sorting in Python.",
+    "homepage": "https://github.com/SethMMorton/natsort",
+    "keywords": [
+        "natsort",
+        "natural-sort",
+        "python",
+        "sorting",
+        "sorting-interface"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.4.0",
+    "latest_release_published_at": "2023-06-20T04:19:05.975Z",
+    "latest_stable_release_number": "8.4.0",
+    "latest_stable_release_published_at": "2023-06-20T04:19:05.975Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "natsort",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/natsort/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/SethMMorton/natsort",
+    "security_policy_url": null
+}

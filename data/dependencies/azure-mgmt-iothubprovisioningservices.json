@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 5,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure IoT Hub Provisioning Services Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "keywords": [
+        "azure",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.2.0b2",
+    "latest_release_published_at": "2023-06-21T04:30:01.029Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2022-02-07T02:51:58.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-mgmt-iothubprovisioningservices",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-mgmt-iothubprovisioningservices/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

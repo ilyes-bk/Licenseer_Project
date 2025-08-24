@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 322,
+    "dependents_count": 516,
+    "deprecation_reason": null,
+    "description": "PyYAML-based module to produce a bit more pretty and readable YAML-serialized data",
+    "homepage": "https://github.com/mk-fg/pretty-yaml",
+    "keywords": [
+        "yaml",
+        "serialization",
+        "pretty-print",
+        "formatter",
+        "human",
+        "readability",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.1.0",
+    "latest_release_published_at": "2025-01-01T14:52:45.000Z",
+    "latest_stable_release_number": "25.1.0",
+    "latest_stable_release_published_at": "2025-01-01T14:52:45.000Z",
+    "license_normalized": false,
+    "licenses": "WTFPL",
+    "name": "pyaml",
+    "normalized_licenses": [
+        "WTFPL"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyaml/",
+    "repository_license": "WTFPL",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mk-fg/pretty-yaml",
+    "security_policy_url": null
+}

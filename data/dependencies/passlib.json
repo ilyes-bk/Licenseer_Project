@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 325,
+    "dependents_count": 615,
+    "deprecation_reason": null,
+    "description": "comprehensive password hashing framework supporting over 30 schemes",
+    "homepage": "https://passlib.readthedocs.io",
+    "keywords": [
+        "password",
+        "secret",
+        "hash",
+        "security"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7.4",
+    "latest_release_published_at": "2020-10-08T19:42:50.202Z",
+    "latest_stable_release_number": "1.7.4",
+    "latest_stable_release_published_at": "2020-10-08T19:42:50.202Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "passlib",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/passlib/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": "Removed",
+    "repository_url": null,
+    "security_policy_url": null
+}

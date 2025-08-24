@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 86,
+    "dependents_count": 151,
+    "deprecation_reason": null,
+    "description": "Implementation of JOSE Web standards",
+    "homepage": "https://github.com/latchset/jwcrypto",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.5.6",
+    "latest_release_published_at": "2024-03-06T19:58:29.000Z",
+    "latest_stable_release_number": "1.5.6",
+    "latest_stable_release_published_at": "2024-03-06T19:58:29.000Z",
+    "license_normalized": true,
+    "licenses": "LGPLv3+",
+    "name": "jwcrypto",
+    "normalized_licenses": [
+        "LGPL-3.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/jwcrypto/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/latchset/jwcrypto",
+    "security_policy_url": "https://github.com/latchset/jwcrypto/security/policy"
+}

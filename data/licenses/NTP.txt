@@ -1,0 +1,9 @@
+License Name: NTP License
+SPDX ID: NTP
+Category: Uncategorized
+URL: https://opensource.org/license/ntp-license-php
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: February 26, 2008
+Submitter: Submitter: Harlan Stenn, URL N/A

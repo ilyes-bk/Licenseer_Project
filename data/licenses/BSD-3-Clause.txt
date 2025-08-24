@@ -1,0 +1,8 @@
+License Name: The 3-Clause BSD License
+SPDX ID: BSD-3-Clause
+Category: Popular / Strong Community
+URL: https://opensource.org/license/bsd-3-clause
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

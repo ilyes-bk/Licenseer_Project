@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/graphql-python/gql/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 121,
+    "dependents_count": 325,
+    "deprecation_reason": null,
+    "description": "GraphQL client for Python",
+    "homepage": "https://github.com/graphql-python/gql",
+    "keywords": [
+        "api",
+        "graphql",
+        "protocol",
+        "rest",
+        "relay",
+        "gql",
+        "client",
+        "async-transport",
+        "graphql-client",
+        "websockets-transport"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.5.2",
+    "latest_release_published_at": "2025-03-06T10:41:07.000Z",
+    "latest_stable_release_number": "3.5.2",
+    "latest_stable_release_published_at": "2025-03-06T10:41:07.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "gql",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gql/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/graphql-python/gql",
+    "security_policy_url": null
+}

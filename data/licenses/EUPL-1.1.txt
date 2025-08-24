@@ -1,0 +1,9 @@
+License Name: The European Union Public License, version 1.1
+SPDX ID: EUPL-1.1
+Category: Superseded
+URL: https://opensource.org/license/eupl-1-1
+
+Additional Metadata:
+Version: Version 1.1
+Submitted: Submitted: May 13, 2008
+Submitter: Submitter: Patrice-Emmanuel Schmitz

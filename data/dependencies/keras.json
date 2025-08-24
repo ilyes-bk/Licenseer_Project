@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/keras-team/keras/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 619,
+    "dependents_count": 1175,
+    "deprecation_reason": null,
+    "description": "Multi-backend Keras",
+    "homepage": "https://keras.io/",
+    "keywords": [
+        "data-science",
+        "deep-learning",
+        "jax",
+        "machine-learning",
+        "neural-networks",
+        "python",
+        "pytorch",
+        "tensorflow"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.9.2",
+    "latest_release_published_at": "2025-04-02T19:03:07.000Z",
+    "latest_stable_release_number": "3.9.2",
+    "latest_stable_release_published_at": "2025-04-02T19:03:07.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "keras",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/keras/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/keras-team/keras",
+    "security_policy_url": "https://github.com/keras-team/keras/security/policy"
+}

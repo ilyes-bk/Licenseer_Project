@@ -1,0 +1,9 @@
+License Name: Simple Public License
+SPDX ID: SimPL-2.0
+Category: Uncategorized
+URL: https://opensource.org/license/simpl-2-0-html
+
+Additional Metadata:
+Version: Version 2.0
+Submitted: Submitted: March 16, 2007
+Submitter: Submitter: Jim Sfekas

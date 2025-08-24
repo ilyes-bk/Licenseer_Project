@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pytries/marisa-trie/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 35,
+    "dependents_count": 54,
+    "deprecation_reason": null,
+    "description": "Static memory-efficient and fast Trie-like structures for Python.",
+    "homepage": "https://github.com/pytries/marisa-trie",
+    "keywords": [
+        "cython-wrapper",
+        "marisa",
+        "marisa-trie",
+        "pypy3",
+        "python",
+        "python3",
+        "python310",
+        "python312",
+        "python313",
+        "python37",
+        "python38",
+        "python39",
+        "tree-structure",
+        "trie"
+    ],
+    "language": "Cython",
+    "latest_release_number": "1.2.1",
+    "latest_release_published_at": "2024-10-12T11:28:25.000Z",
+    "latest_stable_release_number": "1.2.1",
+    "latest_stable_release_published_at": "2024-10-12T11:28:25.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "marisa-trie",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/marisa-trie/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytries/marisa-trie",
+    "security_policy_url": null
+}

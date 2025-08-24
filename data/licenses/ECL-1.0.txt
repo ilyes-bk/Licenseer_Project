@@ -1,0 +1,8 @@
+License Name: Educational Community License, Version 1.0
+SPDX ID: ECL-1.0
+Category: Superseded
+URL: https://opensource.org/license/ecl-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

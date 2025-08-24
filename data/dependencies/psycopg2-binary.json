@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1395,
+    "dependents_count": 2815,
+    "deprecation_reason": null,
+    "description": "psycopg2 - Python-PostgreSQL Database Adapter",
+    "homepage": "https://psycopg.org/",
+    "keywords": [
+        "database",
+        "driver",
+        "postgresql",
+        "python"
+    ],
+    "language": "C",
+    "latest_release_number": "2.9.10",
+    "latest_release_published_at": "2024-10-16T11:18:58.000Z",
+    "latest_stable_release_number": "2.9.10",
+    "latest_stable_release_published_at": "2024-10-16T11:18:58.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL with exceptions",
+    "name": "psycopg2-binary",
+    "normalized_licenses": [
+        "BSD-3-Clause-Attribution"
+    ],
+    "package_manager_url": "https://pypi.org/project/psycopg2-binary/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/psycopg/psycopg2",
+    "security_policy_url": null
+}

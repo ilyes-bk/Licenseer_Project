@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/Unstructured-IO/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Unstructured-IO/unstructured-python-client/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 14,
+    "dependents_count": 32,
+    "deprecation_reason": null,
+    "description": "Python Client SDK for Unstructured API",
+    "homepage": "https://github.com/Unstructured-IO/unstructured-python-client.git",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.34.0",
+    "latest_release_published_at": "2025-04-22T21:00:08.000Z",
+    "latest_stable_release_number": "0.34.0",
+    "latest_stable_release_published_at": "2025-04-22T21:00:08.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "unstructured-client",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/unstructured-client/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Unstructured-IO/unstructured-python-client",
+    "security_policy_url": "https://github.com/Unstructured-IO/unstructured-python-client/security/policy"
+}

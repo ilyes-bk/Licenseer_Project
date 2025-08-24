@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 40,
+    "dependents_count": 61,
+    "deprecation_reason": null,
+    "description": "A drop-in replacement for pprint that's actually pretty",
+    "homepage": "https://github.com/wolever/pprintpp",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2018-07-01T01:42:36.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2018-07-01T01:42:36.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "pprintpp",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pprintpp/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wolever/pprintpp",
+    "security_policy_url": null
+}

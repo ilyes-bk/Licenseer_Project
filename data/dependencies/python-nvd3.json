@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/areski/python-nvd3/blob/develop/CONTRIBUTING.rst",
+    "dependent_repos_count": 5,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "Python NVD3 - Chart Library for d3.js",
+    "homepage": "http://github.com/areski/python-nvd3",
+    "keywords": [
+        "plot",
+        "graph",
+        "nvd3",
+        "d3"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.16.0",
+    "latest_release_published_at": "2024-04-22T07:55:15.000Z",
+    "latest_stable_release_number": "0.16.0",
+    "latest_stable_release_published_at": "2024-04-22T07:55:15.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-nvd3",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-nvd3/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/areski/python-nvd3",
+    "security_policy_url": null
+}

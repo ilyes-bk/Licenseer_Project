@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1201,
+    "dependents_count": 2589,
+    "deprecation_reason": null,
+    "description": "Retry code until it succeeds",
+    "homepage": "https://github.com/jd/tenacity",
+    "keywords": [
+        "failure",
+        "hacktoberfest",
+        "python",
+        "retry",
+        "retry-library"
+    ],
+    "language": "Python",
+    "latest_release_number": "9.1.2",
+    "latest_release_published_at": "2025-04-02T08:25:07.000Z",
+    "latest_stable_release_number": "9.1.2",
+    "latest_stable_release_published_at": "2025-04-02T08:25:07.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "tenacity",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tenacity/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jd/tenacity",
+    "security_policy_url": null
+}

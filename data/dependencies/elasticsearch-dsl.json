@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/elastic/elasticsearch-dsl-py/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 135,
+    "dependents_count": 240,
+    "deprecation_reason": null,
+    "description": "Python client for Elasticsearch",
+    "homepage": "https://github.com/elasticsearch/elasticsearch-dsl-py",
+    "keywords": [
+        "elasticsearch",
+        "python",
+        "search"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.18.0",
+    "latest_release_published_at": "2025-04-16T11:54:12.000Z",
+    "latest_stable_release_number": "8.18.0",
+    "latest_stable_release_published_at": "2025-04-16T11:54:12.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "elasticsearch-dsl",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/elasticsearch-dsl/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/elasticsearch/elasticsearch-dsl-py",
+    "security_policy_url": "https://github.com/elastic/elasticsearch-dsl-py/security/policy"
+}

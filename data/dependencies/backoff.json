@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 497,
+    "dependents_count": 969,
+    "deprecation_reason": null,
+    "description": "Function decoration for backoff and retry",
+    "homepage": "https://github.com/litl/backoff",
+    "keywords": [
+        "retry",
+        "backoff",
+        "decorators",
+        "asynchronous",
+        "asyncio",
+        "exceptions",
+        "exponential",
+        "python",
+        "retrying",
+        "synchronous"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.1",
+    "latest_release_published_at": "2022-10-05T19:20:40.382Z",
+    "latest_stable_release_number": "2.2.1",
+    "latest_stable_release_published_at": "2022-10-05T19:20:40.382Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "backoff",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/backoff/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/litl/backoff",
+    "security_policy_url": null
+}

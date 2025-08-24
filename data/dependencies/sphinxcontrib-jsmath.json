@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 140,
+    "dependents_count": 253,
+    "deprecation_reason": null,
+    "description": "A sphinx extension which renders display math in HTML via JavaScript",
+    "homepage": "http://sphinx-doc.org/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2019-01-21T16:10:14.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2019-01-21T16:10:14.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "sphinxcontrib-jsmath",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinxcontrib-jsmath/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

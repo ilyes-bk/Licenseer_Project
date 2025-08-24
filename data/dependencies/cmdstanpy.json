@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/stan-dev/cmdstanpy/blob/develop/CONTRIBUTING.md",
+    "dependent_repos_count": 23,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "Python interface to CmdStan",
+    "homepage": "https://github.com/stan-dev/cmdstanpy",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.2.5",
+    "latest_release_published_at": "2024-12-11T20:14:32.000Z",
+    "latest_stable_release_number": "1.2.5",
+    "latest_stable_release_published_at": "2024-12-11T20:14:32.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "cmdstanpy",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/cmdstanpy/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/stan-dev/cmdstanpy",
+    "security_policy_url": null
+}

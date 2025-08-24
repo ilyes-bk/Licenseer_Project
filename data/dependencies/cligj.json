@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": "https://github.com/mapbox/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/mapbox/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 34,
+    "dependents_count": 59,
+    "deprecation_reason": null,
+    "description": "Click params for commmand line interfaces to GeoJSON",
+    "homepage": "https://github.com/mapbox/cligj",
+    "keywords": [
+        "banished"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.2",
+    "latest_release_published_at": "2021-05-28T21:23:26.000Z",
+    "latest_stable_release_number": "0.7.2",
+    "latest_stable_release_published_at": "2021-05-28T21:23:26.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "cligj",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/cligj/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mapbox/cligj",
+    "security_policy_url": "https://github.com/mapbox/cligj/security/policy"
+}

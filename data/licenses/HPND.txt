@@ -1,0 +1,9 @@
+License Name: Historical Permission Notice and Disclaimer
+SPDX ID: HPND
+Category: Redundant with more popular
+URL: https://opensource.org/license/historical-php
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: November 9, 2002
+Submitter: Submitter: Bruce Dodson

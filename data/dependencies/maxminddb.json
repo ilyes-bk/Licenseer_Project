@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 31,
+    "dependents_count": 46,
+    "deprecation_reason": null,
+    "description": "Reader for the MaxMind DB format",
+    "homepage": "https://www.maxmind.com/",
+    "keywords": [
+        "geoip",
+        "geoip2",
+        "maxmind",
+        "mmdb"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.6.3",
+    "latest_release_published_at": "2025-01-09T16:09:49.000Z",
+    "latest_stable_release_number": "2.6.3",
+    "latest_stable_release_published_at": "2025-01-09T16:09:49.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License, Version 2.0",
+    "name": "maxminddb",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/maxminddb/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/maxmind/MaxMind-DB-Reader-python",
+    "security_policy_url": null
+}

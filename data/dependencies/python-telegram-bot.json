@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-telegram-bot/python-telegram-bot/blob/master/.github/CONTRIBUTING.rst",
+    "dependent_repos_count": 274,
+    "dependents_count": 523,
+    "deprecation_reason": null,
+    "description": "We have made you a wrapper you can't refuse",
+    "homepage": "https://python-telegram-bot.org",
+    "keywords": [
+        "api",
+        "bot",
+        "python",
+        "telegram",
+        "wrapper",
+        "chatbot",
+        "framework"
+    ],
+    "language": "Python",
+    "latest_release_number": "22.0",
+    "latest_release_published_at": "2025-03-15T08:57:41.000Z",
+    "latest_stable_release_number": "21.11.1",
+    "latest_stable_release_published_at": "2025-03-01T11:46:52.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Lesser General Public License v3 (LGPLv3)",
+    "name": "python-telegram-bot",
+    "normalized_licenses": [
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-telegram-bot/",
+    "repository_license": "GPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "security_policy_url": null
+}

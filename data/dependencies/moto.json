@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/getmoto/moto/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/getmoto/moto/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 240,
+    "dependents_count": 454,
+    "deprecation_reason": null,
+    "description": "A library that allows you to easily mock out tests based on AWS infrastructure",
+    "homepage": "https://github.com/getmoto/moto",
+    "keywords": [
+        "aws",
+        "ec2",
+        "s3",
+        "boto3",
+        "mock",
+        "boto"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.1.4",
+    "latest_release_published_at": "2025-04-20T20:16:16.000Z",
+    "latest_stable_release_number": "5.1.4",
+    "latest_stable_release_published_at": "2025-04-20T20:16:16.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "moto",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/moto/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/getmoto/moto",
+    "security_policy_url": null
+}

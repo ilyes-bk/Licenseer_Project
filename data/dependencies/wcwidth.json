@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 621,
+    "dependents_count": 1171,
+    "deprecation_reason": null,
+    "description": "Measures the displayed width of unicode strings in a terminal",
+    "homepage": "https://github.com/jquast/wcwidth",
+    "keywords": [
+        "cjk",
+        "combining",
+        "console",
+        "eastasian",
+        "emoji",
+        "emulator",
+        "terminal",
+        "unicode",
+        "wcswidth",
+        "wcwidth",
+        "xterm"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.13",
+    "latest_release_published_at": "2024-01-06T02:10:55.000Z",
+    "latest_stable_release_number": "0.2.13",
+    "latest_stable_release_published_at": "2024-01-06T02:10:55.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "wcwidth",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/wcwidth/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jquast/wcwidth",
+    "security_policy_url": null
+}

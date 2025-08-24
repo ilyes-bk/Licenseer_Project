@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/keras-team/tf-keras/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 6,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "Deep learning for humans.",
+    "homepage": "https://keras.io/",
+    "keywords": [
+        "keras",
+        "tensorflow",
+        "machine",
+        "learning",
+        "deep"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.20.0.dev2025042509",
+    "latest_release_published_at": "2025-04-25T10:02:18.000Z",
+    "latest_stable_release_number": "0.0.0",
+    "latest_stable_release_published_at": "2023-09-19T22:52:23.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "tf-keras-nightly",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tf-keras-nightly/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/keras-team/tf-keras/security/policy"
+}

@@ -1,0 +1,43 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/piskvorky/smart_open/blob/develop/CONTRIBUTING.md",
+    "dependent_repos_count": 182,
+    "dependents_count": 387,
+    "deprecation_reason": null,
+    "description": "Utils for streaming large files (S3, HDFS, GCS, Azure Blob Storage, gzip, bz2...)",
+    "homepage": "https://github.com/piskvorky/smart_open",
+    "keywords": [
+        "file",
+        "streaming",
+        "s3",
+        "hdfs",
+        "gcs",
+        "azure",
+        "blob",
+        "storage",
+        "boto",
+        "bz2",
+        "gzip-stream",
+        "hacktoberfest",
+        "python",
+        "streaming-data",
+        "webhdfs"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.1.0",
+    "latest_release_published_at": "2024-12-17T13:19:21.000Z",
+    "latest_stable_release_number": "7.1.0",
+    "latest_stable_release_published_at": "2024-12-17T13:19:21.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "smart-open",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/smart-open/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/piskvorky/smart_open",
+    "security_policy_url": null
+}

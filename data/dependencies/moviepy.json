@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/Zulko/moviepy/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 368,
+    "dependents_count": 680,
+    "deprecation_reason": null,
+    "description": "Video editing with Python",
+    "homepage": "https://zulko.github.io/moviepy/",
+    "keywords": [
+        "video",
+        "editing",
+        "audio",
+        "compositing",
+        "ffmpeg",
+        "animation",
+        "gif",
+        "hacktoberfest",
+        "python",
+        "video-editing",
+        "video-processing"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.2",
+    "latest_release_published_at": "2025-01-10T11:54:12.000Z",
+    "latest_stable_release_number": "2.1.2",
+    "latest_stable_release_published_at": "2025-01-10T11:54:12.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "moviepy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/moviepy/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

@@ -1,0 +1,9 @@
+License Name: ISC License
+SPDX ID: ISC
+Category: Uncategorized
+URL: https://opensource.org/license/isc-license-txt
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A
+Submitter: Submitter: Harlan Stenn

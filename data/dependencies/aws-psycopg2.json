@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 3,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "A aws psycopg2 package from psycopg2.",
+    "homepage": "https://github.com/AbhimanyuHK/aws-psycopg2",
+    "keywords": [
+        "aws",
+        "aws-lambda",
+        "postgresql",
+        "psycopg2",
+        "psycopg2-extension",
+        "python",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.3.8",
+    "latest_release_published_at": "2022-07-02T13:24:48.000Z",
+    "latest_stable_release_number": "1.3.8",
+    "latest_stable_release_published_at": "2022-07-02T13:24:48.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "aws-psycopg2",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aws-psycopg2/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/AbhimanyuHK/aws-psycopg2",
+    "security_policy_url": null
+}

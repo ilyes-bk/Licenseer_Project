@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 268,
+    "dependents_count": 415,
+    "deprecation_reason": null,
+    "description": "Extension pack for Python Markdown.",
+    "homepage": "https://github.com/facelessuser/pymdown-extensions",
+    "keywords": [
+        "extensions",
+        "markdown",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "10.14.3",
+    "latest_release_published_at": "2025-02-01T15:43:13.000Z",
+    "latest_stable_release_number": "10.14.3",
+    "latest_stable_release_published_at": "2025-02-01T15:43:13.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pymdown-extensions",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pymdown-extensions/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/facelessuser/pymdown-extensions",
+    "security_policy_url": "https://github.com/facelessuser/pymdown-extensions/security/policy"
+}

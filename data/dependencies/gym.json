@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/openai/gym/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 573,
+    "dependents_count": 975,
+    "deprecation_reason": null,
+    "description": "Gym: A universal API for reinforcement learning environments",
+    "homepage": "https://www.gymlibrary.dev/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.0.1",
+    "latest_release_published_at": "2023-07-20T15:30:49.667Z",
+    "latest_stable_release_number": "0.0.1",
+    "latest_stable_release_published_at": "2023-07-20T15:30:49.667Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "gym",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gym/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pydantic/pydantic/blob/main/docs/contributing.md",
+    "dependent_repos_count": 10388,
+    "dependents_count": 22597,
+    "deprecation_reason": null,
+    "description": "Data validation using Python type hints",
+    "homepage": "https://github.com/pydantic/pydantic",
+    "keywords": [
+        "hints",
+        "json-schema",
+        "parsing",
+        "pydantic",
+        "python",
+        "python310",
+        "python311",
+        "python312",
+        "python313",
+        "python39",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.10.22",
+    "latest_release_published_at": "2025-04-24T13:36:55.000Z",
+    "latest_stable_release_number": "1.10.22",
+    "latest_stable_release_published_at": "2025-04-24T13:36:55.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pydantic",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pydantic/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pydantic/pydantic",
+    "security_policy_url": "https://github.com/pydantic/pydantic/security/policy"
+}

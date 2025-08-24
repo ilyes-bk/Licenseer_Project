@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1414,
+    "dependents_count": 2492,
+    "deprecation_reason": null,
+    "description": "Foreign Function Interface for Python calling C code.",
+    "homepage": "http://cffi.readthedocs.org",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.17.1",
+    "latest_release_published_at": "2024-09-04T20:43:30.000Z",
+    "latest_stable_release_number": "1.17.1",
+    "latest_stable_release_published_at": "2024-09-04T20:43:30.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cffi",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cffi/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-cffi/cffi",
+    "security_policy_url": null
+}

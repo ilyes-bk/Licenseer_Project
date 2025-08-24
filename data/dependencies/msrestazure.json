@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 48,
+    "dependents_count": 236,
+    "deprecation_reason": "Development Status :: 7 - Inactive",
+    "description": "AutoRest swagger generator Python client runtime. Azure-specific module.",
+    "homepage": "https://github.com/Azure/msrestazure-for-python",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.6.4.post1",
+    "latest_release_published_at": "2024-04-10T21:00:49.000Z",
+    "latest_stable_release_number": "0.6.4",
+    "latest_stable_release_published_at": "2020-06-29T20:04:03.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "msrestazure",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/msrestazure/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/Azure/msrestazure-for-python",
+    "security_policy_url": "https://github.com/Azure/msrestazure-for-python/security/policy"
+}

@@ -1,0 +1,9 @@
+License Name: Common Public License Version 1.0
+SPDX ID: CPL-1.0
+Category: Superseded
+URL: https://opensource.org/license/cpl1-0-txt
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A
+Submitter: Submitter: Dan Streetman, Steve Gerdt

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/microsoft/kiota-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/microsoft/kiota-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 11,
+    "dependents_count": 20,
+    "deprecation_reason": null,
+    "description": "Core abstractions for kiota generated libraries in Python",
+    "homepage": "https://github.com/microsoft/kiota#readme",
+    "keywords": [
+        "kiota",
+        "openAPI",
+        "Microsoft",
+        "Graph",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.9.3",
+    "latest_release_published_at": "2025-03-24T16:34:15.000Z",
+    "latest_stable_release_number": "1.9.3",
+    "latest_stable_release_published_at": "2025-03-24T16:34:15.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "microsoft-kiota-http",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/microsoft-kiota-http/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/microsoft/kiota-python",
+    "security_policy_url": "https://github.com/microsoft/kiota-python/security/policy"
+}

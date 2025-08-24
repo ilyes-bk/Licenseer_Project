@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/keras-team/keras-applications/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 56,
+    "dependents_count": 100,
+    "deprecation_reason": null,
+    "description": "Reference implementations of popular deep learning models",
+    "homepage": "https://github.com/keras-team/keras-applications",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.8",
+    "latest_release_published_at": "2021-02-17T08:24:21.865Z",
+    "latest_stable_release_number": "1.0.8",
+    "latest_stable_release_published_at": "2021-02-17T08:24:21.865Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "Keras-Applications",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/Keras-Applications/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/keras-team/keras-applications",
+    "security_policy_url": null
+}

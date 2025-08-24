@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/DataDog/dd-trace-py/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 35,
+    "dependents_count": 75,
+    "deprecation_reason": null,
+    "description": "Datadog APM client library",
+    "homepage": "https://github.com/DataDog/dd-trace-py",
+    "keywords": [
+        "apm",
+        "ci",
+        "datadog",
+        "debugging",
+        "error-monitoring",
+        "observability",
+        "profiling",
+        "python",
+        "security",
+        "tracing"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.6.0rc1",
+    "latest_release_published_at": "2025-04-24T20:06:54.000Z",
+    "latest_stable_release_number": "2.21.6",
+    "latest_stable_release_published_at": "2025-04-17T13:00:37.000Z",
+    "license_normalized": true,
+    "licenses": "LICENSE.BSD3",
+    "name": "ddtrace",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/ddtrace/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/DataDog/dd-trace-py",
+    "security_policy_url": "https://github.com/DataDog/dd-trace-py/security/policy"
+}

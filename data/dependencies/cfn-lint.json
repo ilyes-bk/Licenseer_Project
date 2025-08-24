@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/aws-cloudformation/cfn-lint/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws-cloudformation/cfn-lint/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 18,
+    "dependents_count": 25,
+    "deprecation_reason": null,
+    "description": "Checks CloudFormation templates for practices and behaviour that could potentially be improved",
+    "homepage": "https://github.com/aws-cloudformation/cfn-lint",
+    "keywords": [
+        "aws",
+        "cloudformation",
+        "lint",
+        "aws-cloudformation",
+        "cfn-lint",
+        "linter"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.34.2",
+    "latest_release_published_at": "2025-04-24T21:51:16.000Z",
+    "latest_stable_release_number": "1.34.2",
+    "latest_stable_release_published_at": "2025-04-24T21:51:16.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "cfn-lint",
+    "normalized_licenses": [
+        "MIT-0"
+    ],
+    "package_manager_url": "https://pypi.org/project/cfn-lint/",
+    "repository_license": "MIT-0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aws-cloudformation/cfn-lint",
+    "security_policy_url": "https://github.com/aws-cloudformation/cfn-lint/security/policy"
+}

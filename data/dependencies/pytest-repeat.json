@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 37,
+    "dependents_count": 64,
+    "deprecation_reason": null,
+    "description": "pytest plugin for repeating tests",
+    "homepage": "https://github.com/pytest-dev/pytest-repeat",
+    "keywords": [
+        "plugin",
+        "pytest",
+        "repeat"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.9.4",
+    "latest_release_published_at": "2025-04-07T14:59:51.000Z",
+    "latest_stable_release_number": "0.9.4",
+    "latest_stable_release_published_at": "2025-04-07T14:59:51.000Z",
+    "license_normalized": true,
+    "licenses": "This Source Code Form is subject to the terms of the Mozilla Public\n        License, v. 2.0. If a copy of the MPL was not distributed with this\n        file, You can obtain one at https://www.mozilla.org/en-US/MPL/2.0/.",
+    "name": "pytest-repeat",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-repeat/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-repeat",
+    "security_policy_url": null
+}

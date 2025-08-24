@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/scikit-build/cmake-python-distributions/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 211,
+    "dependents_count": 350,
+    "deprecation_reason": null,
+    "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software",
+    "homepage": "https://cmake.org",
+    "keywords": [
+        "CMake",
+        "build",
+        "c++",
+        "fortran",
+        "cross-platform",
+        "cross-compilation",
+        "build-system",
+        "c-plus-plus",
+        "kitware",
+        "python",
+        "scikit-build"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.0.0",
+    "latest_release_published_at": "2025-03-27T23:48:30.000Z",
+    "latest_stable_release_number": "4.0.0",
+    "latest_stable_release_published_at": "2025-03-27T23:48:30.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "cmake",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/cmake/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scikit-build/cmake-python-distributions",
+    "security_policy_url": null
+}

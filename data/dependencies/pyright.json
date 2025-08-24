@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 491,
+    "dependents_count": 807,
+    "deprecation_reason": null,
+    "description": "Command line wrapper for pyright",
+    "homepage": "https://github.com/RobertCraigie/pyright-python",
+    "keywords": [
+        "cli",
+        "pip",
+        "python",
+        "typechecking"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.400",
+    "latest_release_published_at": "2025-04-24T12:55:17.000Z",
+    "latest_stable_release_number": "1.1.400",
+    "latest_stable_release_published_at": "2025-04-24T12:55:17.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyright",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyright/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/RobertCraigie/pyright-python",
+    "security_policy_url": null
+}

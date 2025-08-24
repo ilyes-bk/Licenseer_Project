@@ -1,0 +1,9 @@
+License Name: CUA Office Public License
+SPDX ID: CUA-OPL-1.0
+Category: Voluntarily retired
+URL: https://opensource.org/license/cuaoffice-php
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: December 20, 2003
+Submitter: Submitter: Patranun Limudomporn

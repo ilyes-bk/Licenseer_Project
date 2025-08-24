@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 69,
+    "dependents_count": 117,
+    "deprecation_reason": null,
+    "description": "Read and write PDFs with Python, powered by qpdf",
+    "homepage": "https://pikepdf.readthedocs.io/",
+    "keywords": [
+        "PDF",
+        "existing-pdfs",
+        "pdf-generation",
+        "pdf-manipulation",
+        "pikepdf",
+        "pypdf2",
+        "python",
+        "qpdf"
+    ],
+    "language": "Python",
+    "latest_release_number": "9.7.0",
+    "latest_release_published_at": "2025-04-07T22:51:47.000Z",
+    "latest_stable_release_number": "9.7.0",
+    "latest_stable_release_published_at": "2025-04-07T22:51:47.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "pikepdf",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pikepdf/",
+    "repository_license": "MPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pikepdf/pikepdf",
+    "security_policy_url": null
+}

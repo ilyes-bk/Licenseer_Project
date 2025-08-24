@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/pylint-dev/pylint/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pylint-dev/pylint/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 3913,
+    "dependents_count": 5994,
+    "deprecation_reason": null,
+    "description": "python code static checker",
+    "homepage": "https://github.com/pylint-dev/pylint",
+    "keywords": [
+        "lint",
+        "linter",
+        "python",
+        "static",
+        "code",
+        "analysis",
+        "closember",
+        "code-quality",
+        "hacktoberfest",
+        "pep8",
+        "static-analysis",
+        "static-code-analysis"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.3.6",
+    "latest_release_published_at": "2025-03-20T11:25:36.000Z",
+    "latest_stable_release_number": "3.3.6",
+    "latest_stable_release_published_at": "2025-03-20T11:25:36.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "pylint",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pylint/",
+    "repository_license": "GPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pylint-dev/pylint",
+    "security_policy_url": "https://github.com/pylint-dev/pylint/security/policy"
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 139,
+    "dependents_count": 206,
+    "deprecation_reason": null,
+    "description": "click_default_group",
+    "homepage": null,
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.2.4",
+    "latest_release_published_at": "2023-08-04T07:54:56.000Z",
+    "latest_stable_release_number": "1.2.4",
+    "latest_stable_release_published_at": "2023-08-04T07:54:56.000Z",
+    "license_normalized": true,
+    "licenses": "Public Domain",
+    "name": "click-default-group",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/click-default-group/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/click-contrib/click-default-group",
+    "security_policy_url": null
+}

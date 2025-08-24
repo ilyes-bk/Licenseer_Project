@@ -1,0 +1,9 @@
+License Name: PHP License 3.01
+SPDX ID: PHP-3.01
+Category: Non-Reusable
+URL: https://opensource.org/license/php-3-01
+
+Additional Metadata:
+Version: Version 3.01
+Submitted: Submitted: March 4, 2020
+Submitter: Submitter: Ben Ramsey

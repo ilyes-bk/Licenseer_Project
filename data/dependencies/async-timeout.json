@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 809,
+    "dependents_count": 1358,
+    "deprecation_reason": null,
+    "description": "Timeout context manager for asyncio programs",
+    "homepage": "https://github.com/aio-libs/async-timeout",
+    "keywords": [
+        "asyncio"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.0.1",
+    "latest_release_published_at": "2024-11-06T16:41:37.000Z",
+    "latest_stable_release_number": "5.0.1",
+    "latest_stable_release_published_at": "2024-11-06T16:41:37.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2",
+    "name": "async-timeout",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/async-timeout/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aio-libs/async-timeout",
+    "security_policy_url": "https://github.com/aio-libs/async-timeout/security/policy"
+}

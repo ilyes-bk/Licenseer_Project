@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": "https://github.com/rthalley/dnspython/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/rthalley/dnspython/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 717,
+    "dependents_count": 1192,
+    "deprecation_reason": null,
+    "description": "DNS toolkit",
+    "homepage": "https://www.dnspython.org",
+    "keywords": [
+        "asyncio",
+        "ddns",
+        "dns",
+        "dns-over-https",
+        "dns-over-quic",
+        "dns-over-tls",
+        "dnspython",
+        "dnssec",
+        "edns",
+        "edns0",
+        "idna",
+        "stub-resolver",
+        "trio"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.7.0",
+    "latest_release_published_at": "2024-10-05T20:14:57.000Z",
+    "latest_stable_release_number": "2.7.0",
+    "latest_stable_release_published_at": "2024-10-05T20:14:57.000Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "dnspython",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/dnspython/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/rthalley/dnspython/security/policy"
+}

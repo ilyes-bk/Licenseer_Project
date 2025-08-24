@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pyca/cryptography/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 4052,
+    "dependents_count": 7550,
+    "deprecation_reason": null,
+    "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+    "homepage": "https://github.com/pyca/cryptography",
+    "keywords": [
+        "cryptography",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "44.0.2",
+    "latest_release_published_at": "2025-03-02T00:00:06.000Z",
+    "latest_stable_release_number": "44.0.2",
+    "latest_stable_release_published_at": "2025-03-02T00:00:06.000Z",
+    "license_normalized": true,
+    "licenses": "Apache-2.0 OR BSD-3-Clause",
+    "name": "cryptography",
+    "normalized_licenses": [
+        "Apache-2.0",
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/cryptography/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyca/cryptography",
+    "security_policy_url": null
+}

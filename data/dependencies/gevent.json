@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/gevent/gevent/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 817,
+    "dependents_count": 1285,
+    "deprecation_reason": null,
+    "description": "Coroutine-based network library",
+    "homepage": "http://www.gevent.org/",
+    "keywords": [
+        "greenlet",
+        "coroutine",
+        "cooperative",
+        "multitasking",
+        "light",
+        "threads",
+        "monkey",
+        "asyncio",
+        "coroutines",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.4.2",
+    "latest_release_published_at": "2025-04-24T13:53:02.000Z",
+    "latest_stable_release_number": "25.4.2",
+    "latest_stable_release_published_at": "2025-04-24T13:53:02.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "gevent",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gevent/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/gevent/gevent",
+    "security_policy_url": null
+}

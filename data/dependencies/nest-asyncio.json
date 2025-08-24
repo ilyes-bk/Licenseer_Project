@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 524,
+    "dependents_count": 1012,
+    "deprecation_reason": null,
+    "description": "Patch asyncio to allow nested event loops",
+    "homepage": "https://github.com/erdewit/nest_asyncio",
+    "keywords": [
+        "asyncio",
+        "nested",
+        "eventloop",
+        "event-loop",
+        "recursive"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.6.0",
+    "latest_release_published_at": "2024-01-21T14:25:17.000Z",
+    "latest_stable_release_number": "1.6.0",
+    "latest_stable_release_published_at": "2024-01-21T14:25:17.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "nest-asyncio",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/nest-asyncio/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/erdewit/nest_asyncio",
+    "security_policy_url": null
+}

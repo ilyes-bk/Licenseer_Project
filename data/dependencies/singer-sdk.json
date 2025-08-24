@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/meltano/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/meltano/sdk/blob/main/docs/CONTRIBUTING.md",
+    "dependent_repos_count": 42,
+    "dependents_count": 138,
+    "deprecation_reason": null,
+    "description": "A framework for building Singer taps",
+    "homepage": "https://sdk.meltano.com/en/latest/",
+    "keywords": [
+        "ELT",
+        "Meltano",
+        "SDK",
+        "Singer",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.45.10",
+    "latest_release_published_at": "2025-04-16T18:03:14.000Z",
+    "latest_stable_release_number": "0.45.10",
+    "latest_stable_release_published_at": "2025-04-16T18:03:14.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "singer-sdk",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/singer-sdk/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/meltano/sdk",
+    "security_policy_url": "https://github.com/meltano/sdk/security/policy"
+}

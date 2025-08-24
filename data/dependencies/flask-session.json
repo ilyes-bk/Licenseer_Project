@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": "https://github.com/pallets-eco/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pallets-eco/flask-session/blob/development/CONTRIBUTING.rst",
+    "dependent_repos_count": 63,
+    "dependents_count": 107,
+    "deprecation_reason": null,
+    "description": "Server-side session support for Flask",
+    "homepage": "https://flask-session.readthedocs.io",
+    "keywords": [
+        "flask",
+        "sessions"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.8.0",
+    "latest_release_published_at": "2024-03-26T07:56:11.000Z",
+    "latest_stable_release_number": "0.8.0",
+    "latest_stable_release_published_at": "2024-03-26T07:56:11.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "Flask-Session",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Flask-Session/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pallets-eco/flask-session",
+    "security_policy_url": "https://github.com/pallets-eco/flask-session/security/policy"
+}

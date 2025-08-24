@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aio-libs/aiobotocore/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 151,
+    "dependents_count": 253,
+    "deprecation_reason": null,
+    "description": "Async client for aws services using botocore and aiohttp",
+    "homepage": "https://aiobotocore.aio-libs.org",
+    "keywords": [
+        "aiohttp",
+        "asyncio",
+        "aws",
+        "aws-sdk",
+        "botocore",
+        "cloud",
+        "cloud-management"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.21.1",
+    "latest_release_published_at": "2025-03-04T18:30:56.000Z",
+    "latest_stable_release_number": "2.21.1",
+    "latest_stable_release_published_at": "2025-03-04T18:30:56.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "aiobotocore",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/aiobotocore/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aio-libs/aiobotocore",
+    "security_policy_url": "https://github.com/aio-libs/aiobotocore/security/policy"
+}

@@ -1,0 +1,9 @@
+License Name: The wxWindows Library Licence
+SPDX ID: wxWindows
+Category: Non-Reusable
+URL: https://opensource.org/license/wxwindows-php
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: October 22, 2002
+Submitter: Submitter: Julian Smart

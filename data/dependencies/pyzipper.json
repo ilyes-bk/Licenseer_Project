@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/danifus/pyzipper/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 21,
+    "dependents_count": 37,
+    "deprecation_reason": null,
+    "description": "AES encryption for zipfile.",
+    "homepage": "https://github.com/danifus/pyzipper",
+    "keywords": [
+        "zip",
+        "aes",
+        "encrypt",
+        "decrypt"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.3.6",
+    "latest_release_published_at": "2022-07-31T10:00:00.234Z",
+    "latest_stable_release_number": "0.3.6",
+    "latest_stable_release_published_at": "2022-07-31T10:00:00.234Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyzipper",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyzipper/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/danifus/pyzipper",
+    "security_policy_url": null
+}

@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/urwid/urwid/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 194,
+    "dependents_count": 259,
+    "deprecation_reason": null,
+    "description": "A full-featured console (xterm et al.) user interface library",
+    "homepage": "https://urwid.org/",
+    "keywords": [
+        "curses",
+        "ui",
+        "widget",
+        "scroll",
+        "listbox",
+        "user",
+        "interface",
+        "text",
+        "layout",
+        "console",
+        "ncurses"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.6.16",
+    "latest_release_published_at": "2024-10-15T16:07:22.000Z",
+    "latest_stable_release_number": "2.6.16",
+    "latest_stable_release_published_at": "2024-10-15T16:07:22.000Z",
+    "license_normalized": false,
+    "licenses": "LGPL-2.1-only",
+    "name": "urwid",
+    "normalized_licenses": [
+        "LGPL-2.1-only"
+    ],
+    "package_manager_url": "https://pypi.org/project/urwid/",
+    "repository_license": "LGPL-2.1",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/urwid/urwid",
+    "security_policy_url": null
+}

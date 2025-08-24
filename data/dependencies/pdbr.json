@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 3,
+    "dependents_count": 5,
+    "deprecation_reason": null,
+    "description": "Pdb with Rich library.",
+    "homepage": "https://github.com/cansarigol/pdbr",
+    "keywords": [
+        "celery",
+        "debugger",
+        "debugger-color",
+        "ipython",
+        "pdb",
+        "python",
+        "rich",
+        "traceback"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.9.0",
+    "latest_release_published_at": "2025-02-02T19:00:24.000Z",
+    "latest_stable_release_number": "0.9.0",
+    "latest_stable_release_published_at": "2025-02-02T19:00:24.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "pdbr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pdbr/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cansarigol/pdbr",
+    "security_policy_url": null
+}

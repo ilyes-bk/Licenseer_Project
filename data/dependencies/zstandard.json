@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/indygreg/python-zstandard/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 270,
+    "dependents_count": 432,
+    "deprecation_reason": null,
+    "description": "Zstandard bindings for Python",
+    "homepage": "https://github.com/indygreg/python-zstandard",
+    "keywords": [
+        "zstandard",
+        "zstd",
+        "compression",
+        "python"
+    ],
+    "language": "C",
+    "latest_release_number": "0.23.0",
+    "latest_release_published_at": "2024-07-15T00:13:27.000Z",
+    "latest_stable_release_number": "0.23.0",
+    "latest_stable_release_published_at": "2024-07-15T00:13:27.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "zstandard",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/zstandard/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/indygreg/python-zstandard",
+    "security_policy_url": null
+}

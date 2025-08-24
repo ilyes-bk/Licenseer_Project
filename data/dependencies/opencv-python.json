@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/opencv/opencv-python/blob/4.x/CONTRIBUTING.md",
+    "dependent_repos_count": 3856,
+    "dependents_count": 7661,
+    "deprecation_reason": null,
+    "description": "Wrapper package for OpenCV python bindings.",
+    "homepage": "https://github.com/opencv/opencv-python",
+    "keywords": [
+        "manylinux",
+        "opencv",
+        "opencv-contrib-python",
+        "opencv-python",
+        "precompiled",
+        "pypi",
+        "python",
+        "python-3",
+        "wheel"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.11.0.86",
+    "latest_release_published_at": "2025-01-16T13:51:35.000Z",
+    "latest_stable_release_number": "3.1.0",
+    "latest_stable_release_published_at": "2021-11-15T11:00:25.551Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "opencv-python",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/opencv-python/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/opencv/opencv-python",
+    "security_policy_url": null
+}

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 220,
+    "dependents_count": 457,
+    "deprecation_reason": null,
+    "description": "Confluent's Python client for Apache Kafka",
+    "homepage": "https://github.com/confluentinc/confluent-kafka-python",
+    "keywords": [
+        "confluent",
+        "kafka-client",
+        "kafka-protocol",
+        "librdkafka",
+        "python-client"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.10.0",
+    "latest_release_published_at": "2025-04-17T21:16:23.000Z",
+    "latest_stable_release_number": "2.10.0",
+    "latest_stable_release_published_at": "2025-04-17T21:16:23.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "confluent-kafka",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/confluent-kafka/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/confluentinc/confluent-kafka-python",
+    "security_policy_url": null
+}

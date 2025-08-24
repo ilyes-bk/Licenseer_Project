@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 446,
+    "dependents_count": 742,
+    "deprecation_reason": null,
+    "description": "Python interface to Graphviz's Dot",
+    "homepage": "https://github.com/pydot/pydot",
+    "keywords": [
+        "graphviz",
+        "dot",
+        "graphs",
+        "visualization",
+        "dot-language",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.0.4",
+    "latest_release_published_at": "2025-01-05T16:18:42.000Z",
+    "latest_stable_release_number": "3.0.4",
+    "latest_stable_release_published_at": "2025-01-05T16:18:42.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pydot",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pydot/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pydot/pydot",
+    "security_policy_url": "https://github.com/pydot/pydot/security/policy"
+}

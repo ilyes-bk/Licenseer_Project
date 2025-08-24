@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 25,
+    "dependents_count": 40,
+    "deprecation_reason": null,
+    "description": "Uses tokenized query returned by python-sqlparse and generates query metadata",
+    "homepage": "https://github.com/macbre/sql-metadata",
+    "keywords": [
+        "database",
+        "hive",
+        "hiveql",
+        "metadata",
+        "mysql-query",
+        "parser",
+        "python-package",
+        "python3-library",
+        "sql",
+        "sql-parser",
+        "sqlparse"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.16.0",
+    "latest_release_published_at": "2025-04-23T17:06:41.000Z",
+    "latest_stable_release_number": "2.16.0",
+    "latest_stable_release_published_at": "2025-04-23T17:06:41.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sql_metadata",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sql_metadata/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/macbre/sql-metadata",
+    "security_policy_url": null
+}

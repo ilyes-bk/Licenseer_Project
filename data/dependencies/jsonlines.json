@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 160,
+    "dependents_count": 263,
+    "deprecation_reason": null,
+    "description": "Library with helpers for the jsonlines file format",
+    "homepage": "https://github.com/wbolster/jsonlines",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.0.0",
+    "latest_release_published_at": "2023-09-01T12:34:42.000Z",
+    "latest_stable_release_number": "4.0.0",
+    "latest_stable_release_published_at": "2023-09-01T12:34:42.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "jsonlines",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/jsonlines/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wbolster/jsonlines",
+    "security_policy_url": null
+}

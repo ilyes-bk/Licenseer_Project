@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 6,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "MkDocs extension that lists all dependencies according to a mkdocs.yml file",
+    "homepage": null,
+    "keywords": [
+        "mkdocs"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.0",
+    "latest_release_published_at": "2023-11-20T17:51:08.000Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2023-11-20T17:51:08.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "mkdocs-get-deps",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/mkdocs-get-deps/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mkdocs/get-deps",
+    "security_policy_url": null
+}

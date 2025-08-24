@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 162,
+    "dependents_count": 276,
+    "deprecation_reason": null,
+    "description": "Python wrapper for hiredis",
+    "homepage": "https://github.com/redis/hiredis-py",
+    "keywords": [
+        "Redis"
+    ],
+    "language": "C",
+    "latest_release_number": "3.1.0",
+    "latest_release_published_at": "2024-12-04T14:44:05.000Z",
+    "latest_stable_release_number": "3.1.0",
+    "latest_stable_release_published_at": "2024-12-04T14:44:05.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "hiredis",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/hiredis/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/redis/hiredis-py",
+    "security_policy_url": null
+}

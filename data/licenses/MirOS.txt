@@ -1,0 +1,9 @@
+License Name: MirOS License
+SPDX ID: MirOS
+Category: Uncategorized
+URL: https://opensource.org/license/miros-html
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: July 5, 2008
+Submitter: Submitter: Thorsten Glaser

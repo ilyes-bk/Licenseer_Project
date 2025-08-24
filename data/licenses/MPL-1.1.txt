@@ -1,0 +1,8 @@
+License Name: Mozilla Public License 1.1
+SPDX ID: MPL-1.1
+Category: Superseded
+URL: https://opensource.org/license/mpl-1-1
+
+Additional Metadata:
+Version: Version 1.1
+Submitted: N/A

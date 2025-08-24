@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/databricks/databricks-sql-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 45,
+    "dependents_count": 109,
+    "deprecation_reason": null,
+    "description": "Databricks SQL Connector for Python",
+    "homepage": "https://github.com/databricks/databricks-sql-python",
+    "keywords": [
+        "databricks",
+        "dwh",
+        "python3",
+        "sql"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.0.3",
+    "latest_release_published_at": "2025-04-22T07:48:00.000Z",
+    "latest_stable_release_number": "4.0.3",
+    "latest_stable_release_published_at": "2025-04-22T07:48:00.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "databricks-sql-connector",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/databricks-sql-connector/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/databricks/databricks-sql-python",
+    "security_policy_url": null
+}

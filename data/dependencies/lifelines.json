@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/CamDavidsonPilon/lifelines/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/CamDavidsonPilon/lifelines/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 61,
+    "dependents_count": 100,
+    "deprecation_reason": null,
+    "description": "Survival analysis in Python, including Kaplan Meier, Nelson Aalen and regression",
+    "homepage": "https://github.com/CamDavidsonPilon/lifelines",
+    "keywords": [
+        "cox-regression",
+        "data-science",
+        "maximum-likelihood",
+        "python",
+        "reliability-analysis",
+        "statistics",
+        "survival-analysis"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.30.0",
+    "latest_release_published_at": "2024-10-29T12:00:41.000Z",
+    "latest_stable_release_number": "0.30.0",
+    "latest_stable_release_published_at": "2024-10-29T12:00:41.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "lifelines",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/lifelines/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/CamDavidsonPilon/lifelines",
+    "security_policy_url": null
+}

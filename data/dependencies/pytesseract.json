@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 321,
+    "dependents_count": 650,
+    "deprecation_reason": null,
+    "description": "Python-tesseract is a python wrapper for Google's Tesseract-OCR",
+    "homepage": "https://github.com/madmaze/pytesseract",
+    "keywords": [
+        "python-tesseract",
+        "OCR",
+        "Python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.3.13",
+    "latest_release_published_at": "2024-08-16T02:36:10.000Z",
+    "latest_stable_release_number": "0.3.13",
+    "latest_stable_release_published_at": "2024-08-16T02:36:10.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "pytesseract",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytesseract/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/madmaze/pytesseract",
+    "security_policy_url": null
+}

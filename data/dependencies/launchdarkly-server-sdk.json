@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/launchdarkly/python-server-sdk/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 8,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "LaunchDarkly SDK for Python",
+    "homepage": "https://docs.launchdarkly.com/sdk/server-side/python",
+    "keywords": [
+        "feature-flags",
+        "feature-toggles",
+        "launchdarkly",
+        "launchdarkly-sdk",
+        "managed-by-terraform",
+        "python",
+        "sdk"
+    ],
+    "language": "Python",
+    "latest_release_number": "9.11.0",
+    "latest_release_published_at": "2025-04-16T18:26:26.000Z",
+    "latest_stable_release_number": "9.11.0",
+    "latest_stable_release_published_at": "2025-04-16T18:26:26.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "launchdarkly-server-sdk",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/launchdarkly-server-sdk/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/launchdarkly/python-server-sdk",
+    "security_policy_url": "https://github.com/launchdarkly/python-server-sdk/security/policy"
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1568,
+    "dependents_count": 3680,
+    "deprecation_reason": null,
+    "description": "Cryptographic library for Python",
+    "homepage": "https://www.pycryptodome.org",
+    "keywords": [
+        "cryptography",
+        "python",
+        "security"
+    ],
+    "language": "C",
+    "latest_release_number": "3.22.0",
+    "latest_release_published_at": "2025-03-15T23:02:23.000Z",
+    "latest_stable_release_number": "3.22.0",
+    "latest_stable_release_published_at": "2025-03-15T23:02:23.000Z",
+    "license_normalized": true,
+    "licenses": "BSD, Public Domain",
+    "name": "pycryptodome",
+    "normalized_licenses": [
+        "BSD-3-Clause",
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/pycryptodome/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Legrandin/pycryptodome",
+    "security_policy_url": null
+}

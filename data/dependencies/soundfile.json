@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/bastibe/python-soundfile/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 387,
+    "dependents_count": 680,
+    "deprecation_reason": null,
+    "description": "An audio library based on libsndfile, CFFI and NumPy",
+    "homepage": "https://github.com/bastibe/python-soundfile",
+    "keywords": [
+        "audio",
+        "libsndfile"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.13.1",
+    "latest_release_published_at": "2025-01-25T09:16:44.000Z",
+    "latest_stable_release_number": "0.13.1",
+    "latest_stable_release_published_at": "2025-01-25T09:16:44.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "soundfile",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/soundfile/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bastibe/python-soundfile",
+    "security_policy_url": null
+}

@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 32,
+    "dependents_count": 77,
+    "deprecation_reason": null,
+    "description": "CUFFT native runtime libraries",
+    "homepage": "https://developer.nvidia.com/cuda-zone",
+    "keywords": [
+        "cuda",
+        "nvidia",
+        "runtime",
+        "machine",
+        "learning",
+        "deep"
+    ],
+    "language": null,
+    "latest_release_number": "11.3.3.83",
+    "latest_release_published_at": "2025-03-07T01:44:56.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "NVIDIA Proprietary Software",
+    "name": "nvidia-cufft-cu12",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/nvidia-cufft-cu12/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

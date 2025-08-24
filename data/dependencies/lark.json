@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 280,
+    "dependents_count": 441,
+    "deprecation_reason": null,
+    "description": "a modern parsing library",
+    "homepage": "https://github.com/lark-parser/lark",
+    "keywords": [
+        "Earley",
+        "LALR",
+        "parser",
+        "parsing",
+        "ast",
+        "cyk",
+        "grammar",
+        "lark",
+        "parse",
+        "parser-library",
+        "parsing-engine",
+        "parsing-library",
+        "python",
+        "tree"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.2.2",
+    "latest_release_published_at": "2024-08-13T19:48:58.000Z",
+    "latest_stable_release_number": "1.2.2",
+    "latest_stable_release_published_at": "2024-08-13T19:48:58.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "lark",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/lark/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lark-parser/lark",
+    "security_policy_url": null
+}

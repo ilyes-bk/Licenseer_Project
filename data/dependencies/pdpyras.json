@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/PagerDuty/pdpyras/blob/main/docs/contributing.html",
+    "dependent_repos_count": 8,
+    "dependents_count": 18,
+    "deprecation_reason": null,
+    "description": "PagerDuty Python REST API Sessions",
+    "homepage": "https://pagerduty.github.io/pdpyras",
+    "keywords": [
+        "in-scope",
+        "pagerduty",
+        "python",
+        "type-library"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.4.0",
+    "latest_release_published_at": "2024-12-19T19:47:05.000Z",
+    "latest_stable_release_number": "5.4.0",
+    "latest_stable_release_published_at": "2024-12-19T19:47:05.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pdpyras",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pdpyras/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pagerduty/pdpyras",
+    "security_policy_url": null
+}

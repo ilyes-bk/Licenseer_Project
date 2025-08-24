@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 12,
+    "dependents_count": 27,
+    "deprecation_reason": null,
+    "description": "Ben Hodgson: A teeny Python library for creating Python dicts from protocol buffers and the reverse. Useful as an intermediate step before serialisation (e.g. to JSON). Kapor: upgrade it to PB3 and PY3, rename it to protobuf3-to-dict",
+    "homepage": "https://github.com/kaporzhu/protobuf-to-dict",
+    "keywords": [
+        "protobuf",
+        "json",
+        "dict"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.1.5",
+    "latest_release_published_at": "2017-02-23T04:43:57.000Z",
+    "latest_stable_release_number": "0.1.5",
+    "latest_stable_release_published_at": "2017-02-23T04:43:57.000Z",
+    "license_normalized": true,
+    "licenses": "Public Domain",
+    "name": "protobuf3-to-dict",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/protobuf3-to-dict/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kaporzhu/protobuf-to-dict",
+    "security_policy_url": null
+}

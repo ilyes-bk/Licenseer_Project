@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 266,
+    "dependents_count": 441,
+    "deprecation_reason": null,
+    "description": "ISO country, subdivision, language, currency and script definitions and their translations",
+    "homepage": "https://github.com/flyingcircusio/pycountry",
+    "keywords": [
+        "country",
+        "subdivision",
+        "language",
+        "currency",
+        "iso",
+        "3166",
+        "639",
+        "4217",
+        "15924",
+        "3166-1",
+        "3166-2",
+        "3166-3"
+    ],
+    "language": "Python",
+    "latest_release_number": "24.6.1",
+    "latest_release_published_at": "2024-06-01T04:11:49.000Z",
+    "latest_stable_release_number": "24.6.1",
+    "latest_stable_release_published_at": "2024-06-01T04:11:49.000Z",
+    "license_normalized": false,
+    "licenses": "LGPL-2.1-only",
+    "name": "pycountry",
+    "normalized_licenses": [
+        "LGPL-2.1-only"
+    ],
+    "package_manager_url": "https://pypi.org/project/pycountry/",
+    "repository_license": "LGPL-2.1",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/flyingcircusio/pycountry",
+    "security_policy_url": null
+}

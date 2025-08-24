@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/Lightning-AI/torchmetrics/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Lightning-AI/torchmetrics/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 333,
+    "dependents_count": 549,
+    "deprecation_reason": null,
+    "description": "PyTorch native Metrics",
+    "homepage": "https://github.com/Lightning-AI/torchmetrics",
+    "keywords": [
+        "deep",
+        "learning",
+        "machine",
+        "pytorch",
+        "metrics",
+        "AI",
+        "analyses",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7.1",
+    "latest_release_published_at": "2025-04-07T19:39:50.000Z",
+    "latest_stable_release_number": "1.7.1",
+    "latest_stable_release_published_at": "2025-04-07T19:39:50.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "torchmetrics",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/torchmetrics/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Lightning-AI/torchmetrics",
+    "security_policy_url": null
+}

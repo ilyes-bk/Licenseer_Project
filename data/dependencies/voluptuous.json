@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 220,
+    "dependents_count": 325,
+    "deprecation_reason": null,
+    "description": "Python data validation library",
+    "homepage": "https://github.com/alecthomas/voluptuous",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.15.2",
+    "latest_release_published_at": "2024-07-02T19:09:58.000Z",
+    "latest_stable_release_number": "0.15.2",
+    "latest_stable_release_published_at": "2024-07-02T19:09:58.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "voluptuous",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/voluptuous/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/alecthomas/voluptuous",
+    "security_policy_url": null
+}

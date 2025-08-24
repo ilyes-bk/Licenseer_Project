@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 360,
+    "dependents_count": 802,
+    "deprecation_reason": null,
+    "description": "Validating URI References per RFC 3986",
+    "homepage": "http://rfc3986.readthedocs.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "2.0.0",
+    "latest_release_published_at": "2022-01-10T00:54:02.787Z",
+    "latest_stable_release_number": "2.0.0",
+    "latest_stable_release_published_at": "2022-01-10T00:54:02.787Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "rfc3986",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/rfc3986/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

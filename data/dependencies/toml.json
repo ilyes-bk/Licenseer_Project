@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/uiri/toml/blob/master/CONTRIBUTING",
+    "dependent_repos_count": 3133,
+    "dependents_count": 5158,
+    "deprecation_reason": null,
+    "description": "Python Library for Tom's Obvious, Minimal Language",
+    "homepage": "https://github.com/uiri/toml",
+    "keywords": [
+        "hacktoberfest",
+        "hacktoberfest2020"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.10.2",
+    "latest_release_published_at": "2020-11-01T01:40:20.000Z",
+    "latest_stable_release_number": "0.10.2",
+    "latest_stable_release_published_at": "2020-11-01T01:40:20.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "toml",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/toml/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/uiri/toml",
+    "security_policy_url": null
+}

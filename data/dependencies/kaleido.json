@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/plotly/Kaleido/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 456,
+    "dependents_count": 718,
+    "deprecation_reason": null,
+    "description": "Static image export for web-based visualization libraries with zero dependencies",
+    "homepage": "",
+    "keywords": [],
+    "language": "HTML",
+    "latest_release_number": "1.0.0rc11",
+    "latest_release_published_at": "2025-03-27T20:54:46.000Z",
+    "latest_stable_release_number": "0.4.2",
+    "latest_stable_release_published_at": "2024-11-18T20:11:44.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "kaleido",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/kaleido/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/plotly/Kaleido",
+    "security_policy_url": null
+}

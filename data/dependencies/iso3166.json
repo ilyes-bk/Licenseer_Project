@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 49,
+    "dependents_count": 67,
+    "deprecation_reason": null,
+    "description": "Self-contained ISO 3166-1 country definitions.",
+    "homepage": "http://github.com/deactivated/python-iso3166",
+    "keywords": [
+        "iso",
+        "3166-1",
+        "country",
+        "codes"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.1",
+    "latest_release_published_at": "2022-07-12T04:09:01.345Z",
+    "latest_stable_release_number": "2.1.1",
+    "latest_stable_release_published_at": "2022-07-12T04:09:01.345Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "iso3166",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/iso3166/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/deactivated/python-iso3166",
+    "security_policy_url": null
+}

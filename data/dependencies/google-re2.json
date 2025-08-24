@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/google/re2/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 12,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "RE2 Python bindings",
+    "homepage": "https://github.com/google/re2",
+    "keywords": [],
+    "language": "C++",
+    "latest_release_number": "1.1.20240702",
+    "latest_release_published_at": "2024-07-01T14:07:46.000Z",
+    "latest_stable_release_number": "1.1.20240702",
+    "latest_stable_release_published_at": "2024-07-01T14:07:46.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "google-re2",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-re2/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/google/re2",
+    "security_policy_url": "https://github.com/google/re2/security/policy"
+}

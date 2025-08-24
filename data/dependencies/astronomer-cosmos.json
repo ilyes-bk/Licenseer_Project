@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/astronomer/astronomer-cosmos/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/astronomer/astronomer-cosmos/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Orchestrate your dbt projects in Airflow",
+    "homepage": "https://github.com/astronomer/astronomer-cosmos",
+    "keywords": [
+        "airflow",
+        "apache-airflow",
+        "astronomer",
+        "dags",
+        "dbt",
+        "airflow-operators",
+        "python",
+        "workflow"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.10.0a1",
+    "latest_release_published_at": "2025-04-17T11:05:42.000Z",
+    "latest_stable_release_number": "1.9.2",
+    "latest_stable_release_published_at": "2025-03-18T20:26:29.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "astronomer-cosmos",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/astronomer-cosmos/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/astronomer/astronomer-cosmos",
+    "security_policy_url": null
+}

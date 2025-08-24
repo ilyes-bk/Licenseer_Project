@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 61,
+    "dependents_count": 96,
+    "deprecation_reason": null,
+    "description": "ZSTD Bindings for Python",
+    "homepage": "https://github.com/sergey-dryabzhinsky/python-zstd",
+    "keywords": [
+        "zstd",
+        "zstandard",
+        "compression",
+        "c",
+        "python"
+    ],
+    "language": "C",
+    "latest_release_number": "1.5.6.7",
+    "latest_release_published_at": "2025-04-02T18:28:56.000Z",
+    "latest_stable_release_number": "1.3.4",
+    "latest_stable_release_published_at": "2018-04-03T19:18:58.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "zstd",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/zstd/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sergey-dryabzhinsky/python-zstd",
+    "security_policy_url": null
+}

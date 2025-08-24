@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/burnash/gspread/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/burnash/gspread/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 166,
+    "dependents_count": 344,
+    "deprecation_reason": null,
+    "description": "Google Spreadsheets Python API",
+    "homepage": "https://docs.gspread.org",
+    "keywords": [
+        "spreadsheets",
+        "google-spreadsheets",
+        "google-sheets",
+        "google-sheets-api",
+        "google-sheets-api-v4",
+        "gspread",
+        "spreadsheet"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.2.0",
+    "latest_release_published_at": "2025-02-27T18:16:14.000Z",
+    "latest_stable_release_number": "6.2.0",
+    "latest_stable_release_published_at": "2025-02-27T18:16:14.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "gspread",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gspread/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/burnash/gspread",
+    "security_policy_url": null
+}

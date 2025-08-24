@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": "https://github.com/plotly/plotly.py/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/plotly/plotly.py/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 2847,
+    "dependents_count": 4974,
+    "deprecation_reason": null,
+    "description": "An open-source interactive data visualization library for Python",
+    "homepage": "https://plotly.com/python/",
+    "keywords": [
+        "d3",
+        "dashboard",
+        "declarative",
+        "graph-library",
+        "interactive",
+        "jupyter-notebook",
+        "plotly",
+        "plotly-dash",
+        "plotlyjs",
+        "python",
+        "regl",
+        "sparkles",
+        "visualization",
+        "webgl"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.1.0b0",
+    "latest_release_published_at": "2025-03-31T18:47:11.000Z",
+    "latest_stable_release_number": "6.0.1",
+    "latest_stable_release_published_at": "2025-03-17T15:02:18.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License\n        \n        Copyright (c) 2016-2024 Plotly Technologies Inc.\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in\n        all copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n        THE SOFTWARE.\n        ",
+    "name": "plotly",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/plotly/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/plotly/plotly.py",
+    "security_policy_url": "https://github.com/plotly/plotly.py/security/policy"
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/uqfoundation/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/uqfoundation/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 24,
+    "dependents_count": 45,
+    "deprecation_reason": null,
+    "description": "utilities for filesystem exploration and automated builds",
+    "homepage": "https://github.com/uqfoundation/pox",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.3.6",
+    "latest_release_published_at": "2025-04-16T00:05:48.000Z",
+    "latest_stable_release_number": "0.3.6",
+    "latest_stable_release_published_at": "2025-04-16T00:05:48.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "pox",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pox/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/uqfoundation/pox",
+    "security_policy_url": "https://github.com/uqfoundation/pox/security/policy"
+}

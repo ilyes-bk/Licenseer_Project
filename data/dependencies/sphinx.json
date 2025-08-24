@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/sphinx-doc/sphinx/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 11438,
+    "dependents_count": 15918,
+    "deprecation_reason": null,
+    "description": "Python documentation generator",
+    "homepage": "https://www.sphinx-doc.org/",
+    "keywords": [
+        "docs",
+        "documentation",
+        "documentation-tool",
+        "markdown",
+        "python",
+        "restructuredtext",
+        "sphinx"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.2.3",
+    "latest_release_published_at": "2025-03-02T22:31:56.000Z",
+    "latest_stable_release_number": "8.2.3",
+    "latest_stable_release_published_at": "2025-03-02T22:31:56.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "Sphinx",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/Sphinx/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sphinx-doc/sphinx",
+    "security_policy_url": null
+}

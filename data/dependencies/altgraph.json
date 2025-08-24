@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 58,
+    "dependents_count": 149,
+    "deprecation_reason": null,
+    "description": "Python graph (network) package",
+    "homepage": "https://altgraph.readthedocs.io",
+    "keywords": [
+        "graph",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.17.4",
+    "latest_release_published_at": "2023-09-25T09:04:50.000Z",
+    "latest_stable_release_number": "0.17.4",
+    "latest_stable_release_published_at": "2023-09-25T09:04:50.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "altgraph",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/altgraph/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ronaldoussoren/altgraph",
+    "security_policy_url": null
+}

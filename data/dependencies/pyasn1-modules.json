@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 339,
+    "dependents_count": 783,
+    "deprecation_reason": null,
+    "description": "A collection of ASN.1-based protocols modules",
+    "homepage": "https://github.com/pyasn1/pyasn1-modules",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.2",
+    "latest_release_published_at": "2025-03-28T02:41:19.000Z",
+    "latest_stable_release_number": "0.4.2",
+    "latest_stable_release_published_at": "2025-03-28T02:41:19.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "pyasn1-modules",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyasn1-modules/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyasn1/pyasn1-modules",
+    "security_policy_url": null
+}

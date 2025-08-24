@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/ansible/ansible/blob/devel/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/ansible/ansible/blob/devel/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 197,
+    "dependents_count": 312,
+    "deprecation_reason": null,
+    "description": "Radically simple IT automation",
+    "homepage": "https://ansible.com/",
+    "keywords": [
+        "ansible",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "12.0.0a2",
+    "latest_release_published_at": "2025-04-24T18:15:29.000Z",
+    "latest_stable_release_number": "11.5.0",
+    "latest_stable_release_published_at": "2025-04-22T17:43:38.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3.0-or-later",
+    "name": "ansible",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://pypi.org/project/ansible/",
+    "repository_license": "GPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/ansible/ansible/security/policy"
+}

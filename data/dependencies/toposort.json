@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 110,
+    "dependents_count": 167,
+    "deprecation_reason": null,
+    "description": "Implements a topological sort algorithm.",
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.10",
+    "latest_release_published_at": "2023-02-25T20:09:02.530Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Apache License Version 2.0",
+    "name": "toposort",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/toposort/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

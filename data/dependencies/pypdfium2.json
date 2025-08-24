@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 64,
+    "dependents_count": 123,
+    "deprecation_reason": null,
+    "description": "Python bindings to PDFium",
+    "homepage": "https://github.com/pypdfium2-team/pypdfium2",
+    "keywords": [
+        "pdf",
+        "pdfium",
+        "pdf-documents",
+        "pdf-to-image",
+        "python",
+        "rasterisation"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.0.0b1",
+    "latest_release_published_at": "2025-02-03T21:34:55.000Z",
+    "latest_stable_release_number": "4.30.1",
+    "latest_stable_release_published_at": "2024-12-19T19:27:39.000Z",
+    "license_normalized": true,
+    "licenses": "BSD-3-Clause, Apache-2.0, PdfiumThirdParty",
+    "name": "pypdfium2",
+    "normalized_licenses": [
+        "BSD-3-Clause",
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pypdfium2/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pypdfium2-team/pypdfium2",
+    "security_policy_url": null
+}

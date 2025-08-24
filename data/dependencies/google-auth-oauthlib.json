@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/google-auth-library-python-oauthlib/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/google-auth-library-python-oauthlib/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 366,
+    "dependents_count": 864,
+    "deprecation_reason": null,
+    "description": "Google Authentication Library",
+    "homepage": "https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib",
+    "keywords": [
+        "google",
+        "auth",
+        "oauth",
+        "client",
+        "oauthlib"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.2.2",
+    "latest_release_published_at": "2025-04-22T16:40:28.000Z",
+    "latest_stable_release_number": "1.2.2",
+    "latest_stable_release_published_at": "2025-04-22T16:40:28.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-auth-oauthlib",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-auth-oauthlib/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib",
+    "security_policy_url": "https://github.com/googleapis/google-auth-library-python-oauthlib/security/policy"
+}

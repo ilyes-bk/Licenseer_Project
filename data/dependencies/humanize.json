@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-humanize/humanize/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 545,
+    "dependents_count": 874,
+    "deprecation_reason": null,
+    "description": "Python humanize utilities",
+    "homepage": "https://github.com/python-humanize/humanize",
+    "keywords": [
+        "humanize",
+        "time",
+        "size",
+        "date",
+        "hacktoberfest",
+        "humanise",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.12.2",
+    "latest_release_published_at": "2025-03-24T17:12:37.000Z",
+    "latest_stable_release_number": "4.12.2",
+    "latest_stable_release_published_at": "2025-03-24T17:12:37.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "humanize",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/humanize/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-humanize/humanize",
+    "security_policy_url": "https://github.com/python-humanize/humanize/security/policy"
+}

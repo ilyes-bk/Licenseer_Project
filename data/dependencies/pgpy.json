@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 27,
+    "dependents_count": 42,
+    "deprecation_reason": null,
+    "description": "Pretty Good Privacy for Python",
+    "homepage": "https://github.com/SecurityInnovation/PGPy",
+    "keywords": [
+        "OpenPGP",
+        "PGP",
+        "Pretty",
+        "Good",
+        "Privacy",
+        "GPG",
+        "GnuPG",
+        "encryption",
+        "signature"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.6.0",
+    "latest_release_published_at": "2022-11-24T02:35:34.754Z",
+    "latest_stable_release_number": "0.6.0",
+    "latest_stable_release_published_at": "2022-11-24T02:35:34.754Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "PGPy",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/PGPy/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/SecurityInnovation/PGPy",
+    "security_policy_url": null
+}

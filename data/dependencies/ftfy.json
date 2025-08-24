@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 212,
+    "dependents_count": 359,
+    "deprecation_reason": null,
+    "description": "Fixes mojibake and other problems with Unicode, after the fact",
+    "homepage": "https://ftfy.readthedocs.io/en/latest/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "6.3.1",
+    "latest_release_published_at": "2024-10-26T00:50:33.000Z",
+    "latest_stable_release_number": "6.3.1",
+    "latest_stable_release_published_at": "2024-10-26T00:50:33.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "ftfy",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ftfy/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/rspeer/python-ftfy",
+    "security_policy_url": null
+}

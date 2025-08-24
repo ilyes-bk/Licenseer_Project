@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 216,
+    "dependents_count": 492,
+    "deprecation_reason": null,
+    "description": "Strict separation of settings from code.",
+    "homepage": "http://github.com/henriquebastos/python-decouple/",
+    "keywords": [
+        "configuration-files",
+        "environment-variables",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.8",
+    "latest_release_published_at": "2023-03-01T19:40:02.580Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-decouple",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-decouple/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/henriquebastos/python-decouple",
+    "security_policy_url": null
+}

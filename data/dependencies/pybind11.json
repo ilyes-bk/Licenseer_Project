@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pybind/pybind11/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 387,
+    "dependents_count": 612,
+    "deprecation_reason": null,
+    "description": "Seamless operability between C++11 and Python",
+    "homepage": "https://github.com/pybind/pybind11",
+    "keywords": [
+        "C++11",
+        "Python",
+        "bindings"
+    ],
+    "language": "C++",
+    "latest_release_number": "2.13.6",
+    "latest_release_published_at": "2024-09-14T00:35:20.000Z",
+    "latest_stable_release_number": "2.13.6",
+    "latest_stable_release_published_at": "2024-09-14T00:35:20.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "pybind11",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pybind11/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pybind/pybind11",
+    "security_policy_url": "https://github.com/pybind/pybind11/security/policy"
+}

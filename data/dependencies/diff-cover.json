@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 35,
+    "dependents_count": 53,
+    "deprecation_reason": null,
+    "description": "Run coverage and linting reports on diffs",
+    "homepage": "https://github.com/Bachmann1234/diff-cover",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "9.2.4",
+    "latest_release_published_at": "2025-03-09T00:40:29.000Z",
+    "latest_stable_release_number": "9.2.4",
+    "latest_stable_release_published_at": "2025-03-09T00:40:29.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "diff-cover",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/diff-cover/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Bachmann1234/diff-cover",
+    "security_policy_url": null
+}

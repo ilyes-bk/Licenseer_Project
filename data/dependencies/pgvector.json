@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 76,
+    "dependents_count": 182,
+    "deprecation_reason": null,
+    "description": "pgvector support for Python",
+    "homepage": "https://github.com/pgvector/pgvector-python",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2025-03-16T00:55:59.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2025-03-16T00:55:59.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pgvector",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pgvector/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pgvector/pgvector-python",
+    "security_policy_url": "https://github.com/pgvector/pgvector-python/security/policy"
+}

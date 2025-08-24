@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "simple fixed-width integers",
+    "homepage": "https://github.com/nneonneo/fixedint",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.2.0",
+    "latest_release_published_at": "2022-09-20T03:06:38.108Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2022-09-20T03:06:38.108Z",
+    "license_normalized": true,
+    "licenses": "PSF",
+    "name": "fixedint",
+    "normalized_licenses": [
+        "Python-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/fixedint/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/nneonneo/fixedint",
+    "security_policy_url": null
+}

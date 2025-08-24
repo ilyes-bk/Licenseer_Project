@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1271,
+    "dependents_count": 2377,
+    "deprecation_reason": null,
+    "description": "Library for building powerful interactive command lines in Python",
+    "homepage": "https://python-prompt-toolkit.readthedocs.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "3.0.51",
+    "latest_release_published_at": "2025-04-15T09:18:44.000Z",
+    "latest_stable_release_number": "3.0.50",
+    "latest_stable_release_published_at": "2025-01-20T15:55:29.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "prompt-toolkit",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/prompt-toolkit/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

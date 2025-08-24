@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 164,
+    "dependents_count": 243,
+    "deprecation_reason": null,
+    "description": "Typing stubs for toml",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.10.8.20240310",
+    "latest_release_published_at": "2024-03-10T02:18:36.000Z",
+    "latest_stable_release_number": "0.10.8",
+    "latest_stable_release_published_at": "2022-07-12T15:28:00.453Z",
+    "license_normalized": true,
+    "licenses": "Apache-2.0 license",
+    "name": "types-toml",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-toml/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

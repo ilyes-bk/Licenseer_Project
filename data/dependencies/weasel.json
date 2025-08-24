@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 3,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "Weasel: A small and easy workflow system",
+    "homepage": "https://github.com/explosion/weasel/",
+    "keywords": [
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.1",
+    "latest_release_published_at": "2024-05-15T08:52:52.000Z",
+    "latest_stable_release_number": "0.4.1",
+    "latest_stable_release_published_at": "2024-05-15T08:52:52.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "weasel",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/weasel/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/explosion/weasel",
+    "security_policy_url": null
+}

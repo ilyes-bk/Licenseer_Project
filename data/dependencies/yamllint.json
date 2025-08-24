@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/adrienverge/yamllint/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 181,
+    "dependents_count": 278,
+    "deprecation_reason": null,
+    "description": "A linter for YAML files.",
+    "homepage": "https://github.com/adrienverge/yamllint",
+    "keywords": [
+        "yaml",
+        "lint",
+        "linter",
+        "syntax",
+        "checker",
+        "yamllint"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.37.0",
+    "latest_release_published_at": "2025-03-23T09:21:42.000Z",
+    "latest_stable_release_number": "1.37.0",
+    "latest_stable_release_published_at": "2025-03-23T09:21:42.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3.0-or-later",
+    "name": "yamllint",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://pypi.org/project/yamllint/",
+    "repository_license": "GPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/adrienverge/yamllint",
+    "security_policy_url": null
+}

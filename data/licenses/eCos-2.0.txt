@@ -1,0 +1,9 @@
+License Name: eCos License version 2.0
+SPDX ID: eCos-2.0
+Category: Non-Reusable
+URL: https://opensource.org/license/ecos-2-0
+
+Additional Metadata:
+Version: Version 2.0
+Submitted: Submitted: August 29, 2014
+Submitter: Submitter: John Dallaway

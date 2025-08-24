@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "Common code used by all DiracX packages",
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.0.1a43",
+    "latest_release_published_at": "2025-04-17T09:44:39.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "GPL-3.0-only",
+    "name": "diracx-core",
+    "normalized_licenses": [
+        "GPL-3.0-only"
+    ],
+    "package_manager_url": "https://pypi.org/project/diracx-core/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

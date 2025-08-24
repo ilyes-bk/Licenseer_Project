@@ -1,0 +1,9 @@
+License Name: The X.Net, Inc. License
+SPDX ID: Xnet
+Category: Redundant with more popular
+URL: https://opensource.org/license/xnet
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: August 5, 2001
+Submitter: Submitter: Carl W. Brown - Russell Nelson

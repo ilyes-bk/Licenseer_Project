@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1454,
+    "dependents_count": 2465,
+    "deprecation_reason": null,
+    "description": "Alternative regular expression module, to replace re.",
+    "homepage": "https://github.com/mrabarnett/mrab-regex",
+    "keywords": [],
+    "language": "C",
+    "latest_release_number": "2024.11.6",
+    "latest_release_published_at": "2024-11-06T20:08:57.000Z",
+    "latest_stable_release_number": "2024.11.6",
+    "latest_stable_release_published_at": "2024-11-06T20:08:57.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "regex",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/regex/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mrabarnett/mrab-regex",
+    "security_policy_url": null
+}

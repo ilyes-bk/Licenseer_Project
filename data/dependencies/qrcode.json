@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 370,
+    "dependents_count": 707,
+    "deprecation_reason": null,
+    "description": "QR Code image generator",
+    "homepage": "https://github.com/lincolnloop/python-qrcode",
+    "keywords": [
+        "qr",
+        "denso-wave",
+        "IEC18004"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.1",
+    "latest_release_published_at": "2025-04-02T14:27:04.000Z",
+    "latest_stable_release_number": "7.4.2",
+    "latest_stable_release_published_at": "2023-02-05T22:12:06.208Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "qrcode",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/qrcode/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lincolnloop/python-qrcode",
+    "security_policy_url": null
+}

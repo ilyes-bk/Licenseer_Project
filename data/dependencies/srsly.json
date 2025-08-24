@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 73,
+    "dependents_count": 134,
+    "deprecation_reason": null,
+    "description": "Modern high-performance serialization utilities for Python",
+    "homepage": "https://github.com/explosion/srsly",
+    "keywords": [
+        "json",
+        "msgpack",
+        "pickle",
+        "python",
+        "python-2",
+        "python-3",
+        "serialization",
+        "ujson",
+        "yaml"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.5.1",
+    "latest_release_published_at": "2025-01-17T09:25:04.000Z",
+    "latest_stable_release_number": "2.5.1",
+    "latest_stable_release_published_at": "2025-01-17T09:25:04.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "srsly",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/srsly/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/explosion/srsly",
+    "security_policy_url": null
+}

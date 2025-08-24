@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "NVIDIA cuSPARSELt",
+    "homepage": "https://developer.nvidia.com/cusparselt",
+    "keywords": [
+        "cuda",
+        "nvidia",
+        "machine",
+        "learning",
+        "high-performance",
+        "computing"
+    ],
+    "language": null,
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2025-02-26T00:15:44.000Z",
+    "latest_stable_release_number": "0.7.0",
+    "latest_stable_release_published_at": "2025-01-31T19:14:28.000Z",
+    "license_normalized": true,
+    "licenses": "NVIDIA Proprietary Software",
+    "name": "nvidia-cusparselt-cu12",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/nvidia-cusparselt-cu12/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

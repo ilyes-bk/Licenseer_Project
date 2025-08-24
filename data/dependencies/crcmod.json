@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 98,
+    "dependents_count": 184,
+    "deprecation_reason": null,
+    "description": "CRC Generator",
+    "homepage": "http://crcmod.sourceforge.net/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.7",
+    "latest_release_published_at": "2010-06-27T14:35:29.000Z",
+    "latest_stable_release_number": "1.6.1",
+    "latest_stable_release_published_at": "2010-03-07T16:07:58.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "crcmod",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/crcmod/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://sourceforge.net/projects/crcmod.sourceforge.net",
+    "security_policy_url": null
+}

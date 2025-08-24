@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/shap/shap/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 338,
+    "dependents_count": 621,
+    "deprecation_reason": null,
+    "description": "A unified approach to explain the output of any machine learning model.",
+    "homepage": "https://shap.readthedocs.io",
+    "keywords": [
+        "deep-learning",
+        "explainability",
+        "gradient-boosting",
+        "interpretability",
+        "machine-learning",
+        "shap",
+        "shapley"
+    ],
+    "language": "Jupyter Notebook",
+    "latest_release_number": "0.47.2",
+    "latest_release_published_at": "2025-04-17T18:14:16.000Z",
+    "latest_stable_release_number": "0.47.2",
+    "latest_stable_release_published_at": "2025-04-17T18:14:16.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "shap",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/shap/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/shap/shap",
+    "security_policy_url": null
+}

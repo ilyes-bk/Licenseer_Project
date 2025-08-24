@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 156,
+    "dependents_count": 349,
+    "deprecation_reason": null,
+    "description": "Tool to Detect Surrounding Shell",
+    "homepage": "https://github.com/sarugaku/shellingham",
+    "keywords": [
+        "shell"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.5.4",
+    "latest_release_published_at": "2023-10-24T04:13:38.000Z",
+    "latest_stable_release_number": "1.5.4",
+    "latest_stable_release_published_at": "2023-10-24T04:13:38.000Z",
+    "license_normalized": true,
+    "licenses": "ISC License",
+    "name": "shellingham",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/shellingham/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sarugaku/shellingham",
+    "security_policy_url": null
+}

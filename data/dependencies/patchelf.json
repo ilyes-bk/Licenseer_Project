@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 16,
+    "dependents_count": 37,
+    "deprecation_reason": null,
+    "description": "A small utility to modify the dynamic linker and RPATH of ELF executables.",
+    "homepage": "https://github.com/NixOS/patchelf",
+    "keywords": [
+        "auditwheel",
+        "elf",
+        "manylinux",
+        "musllinux",
+        "patchelf"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.17.2.2",
+    "latest_release_published_at": "2025-03-16T08:30:10.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPL-3.0-or-later",
+    "name": "patchelf",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://pypi.org/project/patchelf/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mayeut/patchelf-pypi",
+    "security_policy_url": null
+}

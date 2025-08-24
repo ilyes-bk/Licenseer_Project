@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 983,
+    "dependents_count": 2320,
+    "deprecation_reason": null,
+    "description": "Store and access your passwords safely.",
+    "homepage": null,
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "25.6.0",
+    "latest_release_published_at": "2024-12-25T15:26:44.000Z",
+    "latest_stable_release_number": "25.6.0",
+    "latest_stable_release_published_at": "2024-12-25T15:26:44.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "keyring",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/keyring/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jaraco/keyring",
+    "security_policy_url": "https://github.com/jaraco/keyring/security/policy"
+}

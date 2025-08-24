@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 203,
+    "dependents_count": 321,
+    "deprecation_reason": null,
+    "description": "Cython implementation of Toolz: High performance functional utilities",
+    "homepage": "https://github.com/pytoolz/cytoolz",
+    "keywords": [
+        "functional",
+        "utility",
+        "itertools",
+        "functools",
+        "iterator",
+        "generator",
+        "curry",
+        "memoize",
+        "lazy",
+        "streaming",
+        "bigdata",
+        "cython",
+        "toolz",
+        "cytoolz"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2024-12-13T05:44:27.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2024-12-13T05:44:27.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "cytoolz",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/cytoolz/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytoolz/cytoolz",
+    "security_policy_url": null
+}

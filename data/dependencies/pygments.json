@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 3012,
+    "dependents_count": 5463,
+    "deprecation_reason": null,
+    "description": "Pygments is a syntax highlighting package written in Python.",
+    "homepage": "https://pygments.org",
+    "keywords": [
+        "syntax",
+        "highlighting",
+        "python",
+        "syntax-highlighting"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.19.1",
+    "latest_release_published_at": "2025-01-06T17:26:25.000Z",
+    "latest_stable_release_number": "2.19.1",
+    "latest_stable_release_published_at": "2025-01-06T17:26:25.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "Pygments",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Pygments/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pygments/pygments",
+    "security_policy_url": null
+}

@@ -1,0 +1,11 @@
+# This is a placeholder for the Licenseer architecture diagram.
+# The actual image will need to be created by the user.
+# 
+# The diagram should illustrate the KG+LLM+RAG architecture with:
+# - Knowledge Graph component (Neo4j)
+# - LLM-based license parser
+# - RAG module for retrieving license text
+# - Connections between components
+# - Input/output flows
+#
+# The referenced image should be placed in this location and named 'licenseer_architecture.png' 

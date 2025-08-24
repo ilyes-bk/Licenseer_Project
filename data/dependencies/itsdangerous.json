@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/pallets/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pallets/itsdangerous/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 659,
+    "dependents_count": 1144,
+    "deprecation_reason": null,
+    "description": "Safely pass data to untrusted environments and back.",
+    "homepage": "https://itsdangerous.palletsprojects.com",
+    "keywords": [
+        "hmac",
+        "itsdangerous",
+        "pallets",
+        "python",
+        "security",
+        "serialization"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.0",
+    "latest_release_published_at": "2024-04-16T21:28:14.000Z",
+    "latest_stable_release_number": "2.2.0",
+    "latest_stable_release_published_at": "2024-04-16T21:28:14.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "itsdangerous",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/itsdangerous/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pallets/itsdangerous",
+    "security_policy_url": "https://github.com/pallets/itsdangerous/security/policy"
+}

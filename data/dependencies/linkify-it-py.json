@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 81,
+    "dependents_count": 115,
+    "deprecation_reason": null,
+    "description": "Links recognition library with FULL unicode support.",
+    "homepage": "https://github.com/tsutsu3/linkify-it-py",
+    "keywords": [
+        "linkify",
+        "linkifier",
+        "autolink",
+        "autolinker"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.0.3",
+    "latest_release_published_at": "2024-02-04T14:48:02.000Z",
+    "latest_stable_release_number": "2.0.3",
+    "latest_stable_release_published_at": "2024-02-04T14:48:02.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "linkify-it-py",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/linkify-it-py/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tsutsu3/linkify-it-py",
+    "security_policy_url": null
+}

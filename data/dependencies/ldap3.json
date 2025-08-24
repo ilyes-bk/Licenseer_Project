@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 164,
+    "dependents_count": 298,
+    "deprecation_reason": null,
+    "description": "A strictly RFC 4510 conforming LDAP V3 pure Python client library",
+    "homepage": "https://github.com/cannatag/ldap3",
+    "keywords": [
+        "python3",
+        "python2",
+        "ldap"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.10.2rc2",
+    "latest_release_published_at": "2025-04-19T19:25:55.000Z",
+    "latest_stable_release_number": "2.9.1",
+    "latest_stable_release_published_at": "2021-07-18T06:34:15.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL v3",
+    "name": "ldap3",
+    "normalized_licenses": [
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ldap3/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cannatag/ldap3",
+    "security_policy_url": null
+}

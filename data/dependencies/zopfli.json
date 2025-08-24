@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 11,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Zopfli module for python",
+    "homepage": "https://github.com/fonttools/py-zopfli",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.2.3.post1",
+    "latest_release_published_at": "2024-10-18T15:40:29.000Z",
+    "latest_stable_release_number": "0.2.3",
+    "latest_stable_release_published_at": "2023-09-08T14:01:03.000Z",
+    "license_normalized": true,
+    "licenses": "ASL",
+    "name": "zopfli",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/zopfli/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/fonttools/py-zopfli",
+    "security_policy_url": null
+}

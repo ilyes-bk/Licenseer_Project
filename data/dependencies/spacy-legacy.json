@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 22,
+    "dependents_count": 46,
+    "deprecation_reason": null,
+    "description": "Legacy registered functions for spaCy backwards compatibility",
+    "homepage": "https://spacy.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "4.0.0.dev1",
+    "latest_release_published_at": "2024-01-25T15:03:45.000Z",
+    "latest_stable_release_number": "3.0.12",
+    "latest_stable_release_published_at": "2023-01-23T09:09:11.260Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "spacy-legacy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/spacy-legacy/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

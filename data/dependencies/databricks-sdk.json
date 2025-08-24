@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/databricks/databricks-sdk-py/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 48,
+    "dependents_count": 116,
+    "deprecation_reason": null,
+    "description": "Databricks SDK for Python (Beta)",
+    "homepage": "https://databricks-sdk-py.readthedocs.io/",
+    "keywords": [
+        "databricks",
+        "sdk",
+        "databricks-sdk",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.50.0",
+    "latest_release_published_at": "2025-04-14T16:11:51.000Z",
+    "latest_stable_release_number": "0.49.0",
+    "latest_stable_release_published_at": "2025-03-28T10:44:30.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "databricks-sdk",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/databricks-sdk/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/databricks/databricks-sdk-py/security/policy"
+}

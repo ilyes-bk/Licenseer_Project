@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 54,
+    "dependents_count": 81,
+    "deprecation_reason": null,
+    "description": "execnet: rapid multi-Python deployment",
+    "homepage": "https://execnet.readthedocs.io/en/latest/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "2.1.1",
+    "latest_release_published_at": "2024-04-08T09:04:17.000Z",
+    "latest_stable_release_number": "2.1.1",
+    "latest_stable_release_published_at": "2024-04-08T09:04:17.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "execnet",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/execnet/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

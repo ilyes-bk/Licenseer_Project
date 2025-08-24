@@ -1,0 +1,9 @@
+License Name: Mulan Permissive Software License v2
+SPDX ID: MulanPSL-2.0
+Category: International
+URL: https://opensource.org/license/mulanpsl-2-0
+
+Additional Metadata:
+Version: Version 2.0
+Submitted: Submitted: January 6, 2020
+Submitter: Submitter: Zhou Minghui

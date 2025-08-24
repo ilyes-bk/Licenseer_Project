@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/boto/boto3/blob/develop/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/boto/boto3/blob/develop/CONTRIBUTING.rst",
+    "dependent_repos_count": 4799,
+    "dependents_count": 9496,
+    "deprecation_reason": null,
+    "description": "The AWS SDK for Python",
+    "homepage": "https://github.com/boto/boto3",
+    "keywords": [
+        "aws",
+        "aws-sdk",
+        "cloud",
+        "cloud-management",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.38.2",
+    "latest_release_published_at": "2025-04-24T19:34:01.000Z",
+    "latest_stable_release_number": "1.38.2",
+    "latest_stable_release_published_at": "2025-04-24T19:34:01.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "boto3",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/boto3/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/boto/boto3",
+    "security_policy_url": "https://github.com/boto/boto3/security/policy"
+}

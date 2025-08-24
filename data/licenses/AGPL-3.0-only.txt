@@ -1,0 +1,9 @@
+License Name: GNU Affero General Public License version 3
+SPDX ID: AGPL-3.0-only
+Category: Uncategorized
+URL: https://opensource.org/license/agpl-v3
+
+Additional Metadata:
+Version: Version 3.0
+Submitted: Submitted: January 30, 2008
+Submitter: Submitter: Stefano Maffulli

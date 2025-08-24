@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": "https://github.com/dpgaspar/.github/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/dpgaspar/Flask-AppBuilder/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 23,
+    "dependents_count": 48,
+    "deprecation_reason": null,
+    "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more.",
+    "homepage": "https://github.com/dpgaspar/flask-appbuilder/",
+    "keywords": [
+        "authentication",
+        "crud",
+        "flask",
+        "python",
+        "rbac",
+        "rest",
+        "rest-api",
+        "sql",
+        "web"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.0.0a8",
+    "latest_release_published_at": "2025-04-22T08:02:22.000Z",
+    "latest_stable_release_number": "4.6.2",
+    "latest_stable_release_published_at": "2025-04-19T09:29:43.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "Flask-AppBuilder",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Flask-AppBuilder/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dpgaspar/flask-appbuilder",
+    "security_policy_url": "https://github.com/dpgaspar/Flask-AppBuilder/security/policy"
+}

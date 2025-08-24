@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/aws/constructs/blob/10.x/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws/constructs/blob/10.x/CONTRIBUTING.md",
+    "dependent_repos_count": 525,
+    "dependents_count": 1304,
+    "deprecation_reason": null,
+    "description": "A programming model for software-defined state",
+    "homepage": "https://github.com/aws/constructs",
+    "keywords": [],
+    "language": "TypeScript",
+    "latest_release_number": "10.4.2",
+    "latest_release_published_at": "2024-10-14T12:57:59.000Z",
+    "latest_stable_release_number": "10.4.2",
+    "latest_stable_release_published_at": "2024-10-14T12:57:59.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "constructs",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/constructs/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aws/constructs",
+    "security_policy_url": "https://github.com/aws/constructs/security/policy"
+}

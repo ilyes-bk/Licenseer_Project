@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/marshmallow-code/marshmallow/blob/dev/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/marshmallow-code/marshmallow/blob/dev/CONTRIBUTING.rst",
+    "dependent_repos_count": 923,
+    "dependents_count": 1604,
+    "deprecation_reason": null,
+    "description": "A lightweight library for converting complex datatypes to and from native Python datatypes.",
+    "homepage": "https://marshmallow.readthedocs.io/",
+    "keywords": [
+        "deserialization",
+        "marshalling",
+        "python",
+        "schema",
+        "serde",
+        "serialization",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.0.0",
+    "latest_release_published_at": "2025-04-17T02:25:53.000Z",
+    "latest_stable_release_number": "4.0.0",
+    "latest_stable_release_published_at": "2025-04-17T02:25:53.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "marshmallow",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/marshmallow/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/marshmallow-code/marshmallow",
+    "security_policy_url": "https://github.com/marshmallow-code/marshmallow/security/policy"
+}

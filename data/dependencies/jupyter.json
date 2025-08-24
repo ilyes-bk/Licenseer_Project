@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1614,
+    "dependents_count": 2597,
+    "deprecation_reason": null,
+    "description": "Jupyter metapackage. Install all the Jupyter components in one go.",
+    "homepage": "https://jupyter.org",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2024-08-30T07:15:47.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2024-08-30T07:15:47.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "jupyter",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/jupyter/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

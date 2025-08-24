@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pyscaffold/configupdater/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 25,
+    "dependents_count": 36,
+    "deprecation_reason": null,
+    "description": "Parser like ConfigParser but for updating configuration files",
+    "homepage": "https://github.com/pyscaffold/configupdater",
+    "keywords": [
+        "configuration-files",
+        "python",
+        "updating"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2",
+    "latest_release_published_at": "2023-11-27T17:16:43.000Z",
+    "latest_stable_release_number": "3.1.1",
+    "latest_stable_release_published_at": "2022-06-26T18:37:24.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "ConfigUpdater",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/ConfigUpdater/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyscaffold/configupdater",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 256,
+    "dependents_count": 466,
+    "deprecation_reason": null,
+    "description": "lightweight wrapper around basic LLVM functionality",
+    "homepage": "http://llvmlite.readthedocs.io",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.44.0",
+    "latest_release_published_at": "2025-01-20T11:12:18.000Z",
+    "latest_stable_release_number": "0.44.0",
+    "latest_stable_release_published_at": "2025-01-20T11:12:18.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "llvmlite",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/llvmlite/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/numba/llvmlite",
+    "security_policy_url": null
+}

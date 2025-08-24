@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 565,
+    "dependents_count": 1189,
+    "deprecation_reason": null,
+    "description": "A streaming multipart parser for Python",
+    "homepage": "https://github.com/Kludex/python-multipart",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.0.20",
+    "latest_release_published_at": "2024-12-16T19:45:44.000Z",
+    "latest_stable_release_number": "0.0.20",
+    "latest_stable_release_published_at": "2024-12-16T19:45:44.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "python-multipart",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-multipart/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Kludex/python-multipart",
+    "security_policy_url": "https://github.com/Kludex/python-multipart/security/policy"
+}

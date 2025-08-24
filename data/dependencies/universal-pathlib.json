@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/fsspec/universal_pathlib/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 60,
+    "dependents_count": 87,
+    "deprecation_reason": null,
+    "description": "pathlib api extended to use fsspec backends",
+    "homepage": "https://github.com/fsspec/universal_pathlib",
+    "keywords": [
+        "filesystem-spec",
+        "pathlib"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.6",
+    "latest_release_published_at": "2024-12-13T00:58:24.000Z",
+    "latest_stable_release_number": "0.2.6",
+    "latest_stable_release_published_at": "2024-12-13T00:58:24.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "universal-pathlib",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/universal-pathlib/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/fsspec/universal_pathlib",
+    "security_policy_url": null
+}

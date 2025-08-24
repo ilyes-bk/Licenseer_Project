@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 68,
+    "dependents_count": 117,
+    "deprecation_reason": null,
+    "description": "File transport adapter for Requests",
+    "homepage": "https://github.com/dashea/requests-file",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2024-05-21T16:27:57.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2024-05-21T16:27:57.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "requests-file",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/requests-file/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dashea/requests-file",
+    "security_policy_url": null
+}

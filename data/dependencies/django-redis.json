@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/jazzband/django-redis/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jazzband/django-redis/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 86,
+    "dependents_count": 162,
+    "deprecation_reason": null,
+    "description": "Full featured redis cache backend for Django.",
+    "homepage": "https://github.com/jazzband/django-redis",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "5.4.0",
+    "latest_release_published_at": "2023-10-01T20:21:33.000Z",
+    "latest_stable_release_number": "5.4.0",
+    "latest_stable_release_published_at": "2023-10-01T20:21:33.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "django-redis",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/django-redis/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jazzband/django-redis",
+    "security_policy_url": "https://github.com/jazzband/django-redis/security/policy"
+}

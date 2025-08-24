@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 144,
+    "dependents_count": 208,
+    "deprecation_reason": null,
+    "description": "(Soon to be) the fastest pure-Python PEG parser I could muster",
+    "homepage": "https://github.com/erikrose/parsimonious",
+    "keywords": [
+        "parse",
+        "parser",
+        "parsing",
+        "peg",
+        "packrat",
+        "grammar",
+        "language"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.10.0",
+    "latest_release_published_at": "2022-09-03T17:03:02.762Z",
+    "latest_stable_release_number": "0.10.0",
+    "latest_stable_release_published_at": "2022-09-03T17:03:02.762Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "parsimonious",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/parsimonious/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/erikrose/parsimonious",
+    "security_policy_url": null
+}

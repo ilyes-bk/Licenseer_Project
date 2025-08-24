@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 15,
+    "dependents_count": 47,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Event Hubs Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/eventhub/azure-eventhub",
+    "keywords": [
+        "azure",
+        "sdk",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.15.0",
+    "latest_release_published_at": "2025-04-15T23:17:42.000Z",
+    "latest_stable_release_number": "5.15.0",
+    "latest_stable_release_published_at": "2025-04-15T23:17:42.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-eventhub",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-eventhub/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

@@ -1,0 +1,28 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 68,
+    "dependents_count": 89,
+    "deprecation_reason": null,
+    "description": "Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL",
+    "homepage": "https://github.com/cedadev/ndg_httpsclient/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.5.1",
+    "latest_release_published_at": "2018-07-23T16:02:43.000Z",
+    "latest_stable_release_number": "0.5.1",
+    "latest_stable_release_published_at": "2018-07-23T16:02:43.000Z",
+    "license_normalized": true,
+    "licenses": "BSD - See ndg/httpsclient/LICENCE file for details",
+    "name": "ndg-httpsclient",
+    "normalized_licenses": [
+        "BSD-2-Clause-FreeBSD",
+        "MirOS"
+    ],
+    "package_manager_url": "https://pypi.org/project/ndg-httpsclient/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cedadev/ndg_httpsclient",
+    "security_policy_url": null
+}

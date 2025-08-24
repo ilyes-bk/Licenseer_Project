@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 44,
+    "dependents_count": 88,
+    "deprecation_reason": null,
+    "description": "Manage calls to calloc/free through Cython",
+    "homepage": "https://github.com/explosion/cymem",
+    "keywords": [
+        "cython",
+        "python"
+    ],
+    "language": "Cython",
+    "latest_release_number": "2.0.11",
+    "latest_release_published_at": "2025-01-16T21:49:17.000Z",
+    "latest_stable_release_number": "2.0.11",
+    "latest_stable_release_published_at": "2025-01-16T21:49:17.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cymem",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cymem/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/explosion/cymem",
+    "security_policy_url": null
+}

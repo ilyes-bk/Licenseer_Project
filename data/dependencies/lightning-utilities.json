@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 30,
+    "dependents_count": 66,
+    "deprecation_reason": null,
+    "description": "Lightning toolbox for across the our ecosystem.",
+    "homepage": "https://github.com/Lightning-AI/utilities",
+    "keywords": [
+        "Utilities",
+        "DevOps",
+        "CI/CD",
+        "ci-cd",
+        "developer-tools",
+        "github-actions"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.14.3",
+    "latest_release_published_at": "2025-04-03T15:59:55.000Z",
+    "latest_stable_release_number": "0.14.3",
+    "latest_stable_release_published_at": "2025-04-03T15:59:55.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "lightning-utilities",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/lightning-utilities/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Lightning-AI/utilities",
+    "security_policy_url": null
+}

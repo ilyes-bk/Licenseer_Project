@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 754,
+    "dependents_count": 998,
+    "deprecation_reason": null,
+    "description": "Python docstring style checker",
+    "homepage": "https://www.pydocstyle.org/en/stable/",
+    "keywords": [
+        "docstrings",
+        "linter",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.3.0",
+    "latest_release_published_at": "2023-01-17T20:31:11.783Z",
+    "latest_stable_release_number": "6.3.0",
+    "latest_stable_release_published_at": "2023-01-17T20:31:11.783Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pydocstyle",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pydocstyle/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/PyCQA/pydocstyle",
+    "security_policy_url": null
+}

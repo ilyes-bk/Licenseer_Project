@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 46,
+    "dependents_count": 96,
+    "deprecation_reason": null,
+    "description": "A simple, safe single expression evaluator library.",
+    "homepage": "",
+    "keywords": [
+        "ast",
+        "eval",
+        "expression",
+        "parse",
+        "simple",
+        "evaluation",
+        "library",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.3",
+    "latest_release_published_at": "2024-11-02T10:29:45.000Z",
+    "latest_stable_release_number": "1.0.3",
+    "latest_stable_release_published_at": "2024-11-02T10:29:45.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "simpleeval",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/simpleeval/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

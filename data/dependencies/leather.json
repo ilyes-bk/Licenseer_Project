@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Python charting for 80% of humans.",
+    "homepage": "https://leather.readthedocs.io/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2024-02-23T22:03:34.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2024-02-23T22:03:34.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "leather",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/leather/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

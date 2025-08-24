@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/pallets-eco/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/pallets-eco/flask-caching/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 106,
+    "dependents_count": 198,
+    "deprecation_reason": null,
+    "description": "Adds caching support to Flask applications.",
+    "homepage": "https://github.com/pallets-eco/flask-caching",
+    "keywords": [
+        "cache",
+        "extension",
+        "flask",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.3.1",
+    "latest_release_published_at": "2025-02-23T01:34:37.000Z",
+    "latest_stable_release_number": "2.3.1",
+    "latest_stable_release_published_at": "2025-02-23T01:34:37.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "Flask-Caching",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Flask-Caching/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pallets-eco/flask-caching",
+    "security_policy_url": "https://github.com/pallets-eco/flask-caching/security/policy"
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/opensearch-project/opensearch-py/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/opensearch-project/opensearch-py/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 76,
+    "dependents_count": 168,
+    "deprecation_reason": null,
+    "description": "Python client for OpenSearch",
+    "homepage": "https://github.com/opensearch-project/opensearch-py",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.8.0",
+    "latest_release_published_at": "2024-11-29T21:05:56.000Z",
+    "latest_stable_release_number": "2.8.0",
+    "latest_stable_release_published_at": "2024-11-29T21:05:56.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "opensearch-py",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/opensearch-py/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/opensearch-project/opensearch-py",
+    "security_policy_url": "https://github.com/opensearch-project/opensearch-py/security/policy"
+}

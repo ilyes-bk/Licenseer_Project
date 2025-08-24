@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/fsspec/adlfs/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 74,
+    "dependents_count": 125,
+    "deprecation_reason": null,
+    "description": "Access Azure Datalake Gen1 with fsspec and dask",
+    "homepage": "",
+    "keywords": [
+        "file-system",
+        "dask",
+        "azure",
+        "hactoberfest"
+    ],
+    "language": "Python",
+    "latest_release_number": "2024.12.0",
+    "latest_release_published_at": "2024-12-15T19:06:27.000Z",
+    "latest_stable_release_number": "2024.12.0",
+    "latest_stable_release_published_at": "2024-12-15T19:06:27.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "adlfs",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/adlfs/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

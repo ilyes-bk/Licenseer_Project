@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 134,
+    "dependents_count": 258,
+    "deprecation_reason": null,
+    "description": "Jupyter interactive widgets for Jupyter Notebook",
+    "homepage": "http://jupyter.org",
+    "keywords": [
+        "Interactive",
+        "Interpreter",
+        "Shell",
+        "Web",
+        "notebook",
+        "widgets",
+        "Jupyter"
+    ],
+    "language": null,
+    "latest_release_number": "4.0.14",
+    "latest_release_published_at": "2025-04-10T13:01:23.000Z",
+    "latest_stable_release_number": "3.6.10",
+    "latest_stable_release_published_at": "2024-10-22T08:12:57.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "widgetsnbextension",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/widgetsnbextension/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

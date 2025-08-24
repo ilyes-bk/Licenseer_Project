@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 349,
+    "dependents_count": 553,
+    "deprecation_reason": null,
+    "description": "Python Lex & Yacc",
+    "homepage": "http://www.dabeaz.com/ply/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "3.11",
+    "latest_release_published_at": "2018-02-15T19:01:27.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "ply",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ply/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

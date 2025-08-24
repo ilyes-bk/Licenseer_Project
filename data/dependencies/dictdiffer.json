@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/inveniosoftware/dictdiffer/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 113,
+    "dependents_count": 183,
+    "deprecation_reason": null,
+    "description": "Dictdiffer is a library that helps you to diff and patch dictionaries.",
+    "homepage": "https://github.com/inveniosoftware/dictdiffer",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.9.0",
+    "latest_release_published_at": "2021-07-22T13:25:52.374Z",
+    "latest_stable_release_number": "0.9.0",
+    "latest_stable_release_published_at": "2021-07-22T13:25:52.374Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "dictdiffer",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/dictdiffer/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/inveniosoftware/dictdiffer",
+    "security_policy_url": null
+}

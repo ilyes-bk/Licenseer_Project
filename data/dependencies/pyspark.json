@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/apache/.github/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/apache/spark/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 555,
+    "dependents_count": 1250,
+    "deprecation_reason": null,
+    "description": "Apache Spark Python API",
+    "homepage": "https://github.com/apache/spark/tree/master/python",
+    "keywords": [
+        "big-data",
+        "java",
+        "jdbc",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql"
+    ],
+    "language": "Scala",
+    "latest_release_number": "3.5.5",
+    "latest_release_published_at": "2025-02-27T09:16:31.000Z",
+    "latest_stable_release_number": "3.5.5",
+    "latest_stable_release_published_at": "2025-02-27T09:16:31.000Z",
+    "license_normalized": true,
+    "licenses": "http://www.apache.org/licenses/LICENSE-2.0",
+    "name": "pyspark",
+    "normalized_licenses": [
+        "MIT-feh"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyspark/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/apache/spark",
+    "security_policy_url": "https://github.com/apache/spark/security/policy"
+}

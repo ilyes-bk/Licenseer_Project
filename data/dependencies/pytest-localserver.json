@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 32,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "pytest plugin to test server connections locally.",
+    "homepage": "https://github.com/pytest-dev/pytest-localserver",
+    "keywords": [
+        "pytest",
+        "server",
+        "localhost",
+        "http",
+        "smtp",
+        "https",
+        "pytest-plugin",
+        "python",
+        "test",
+        "testing",
+        "unit-testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.9.0.post0",
+    "latest_release_published_at": "2024-10-06T04:00:05.000Z",
+    "latest_stable_release_number": "0.9.0",
+    "latest_stable_release_published_at": "2024-08-17T21:54:24.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pytest-localserver",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-localserver/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-localserver",
+    "security_policy_url": null
+}

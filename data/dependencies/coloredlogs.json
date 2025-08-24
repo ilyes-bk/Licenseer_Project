@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 704,
+    "dependents_count": 1225,
+    "deprecation_reason": null,
+    "description": "Colored terminal output for Python's logging module",
+    "homepage": "https://coloredlogs.readthedocs.io",
+    "keywords": [
+        "ansi-colors",
+        "cron",
+        "html",
+        "logging",
+        "python",
+        "syslog",
+        "terminal"
+    ],
+    "language": "Python",
+    "latest_release_number": "15.0.1",
+    "latest_release_published_at": "2021-06-11T10:24:04.382Z",
+    "latest_stable_release_number": "15.0.1",
+    "latest_stable_release_published_at": "2021-06-11T10:24:04.382Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "coloredlogs",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/coloredlogs/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

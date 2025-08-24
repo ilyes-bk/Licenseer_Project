@@ -1,0 +1,9 @@
+License Name: LaTeX Project Public License, Version 1.3c
+SPDX ID: LPPL-1.3c
+Category: Non-Reusable
+URL: https://opensource.org/license/lppl
+
+Additional Metadata:
+Version: Version 1.3c
+Submitted: Submitted: September 8, 2009
+Submitter: Submitter: Will Robertson

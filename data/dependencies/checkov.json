@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": "https://github.com/bridgecrewio/checkov/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/bridgecrewio/checkov/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 4,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Infrastructure as code static analysis",
+    "homepage": "https://github.com/bridgecrewio/checkov",
+    "keywords": [
+        "aws",
+        "aws-security",
+        "azure",
+        "cloudformation",
+        "compliance",
+        "devops",
+        "gcp",
+        "hacktoberfest",
+        "infrastructure-as-code",
+        "kubernetes",
+        "scans",
+        "static-analysis",
+        "terraform"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2.408",
+    "latest_release_published_at": "2025-04-24T09:39:01.000Z",
+    "latest_stable_release_number": "3.2.408",
+    "latest_stable_release_published_at": "2025-04-24T09:39:01.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "checkov",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/checkov/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bridgecrewio/checkov",
+    "security_policy_url": "https://github.com/bridgecrewio/checkov/security/policy"
+}

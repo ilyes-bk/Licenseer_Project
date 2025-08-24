@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 45,
+    "dependents_count": 124,
+    "deprecation_reason": null,
+    "description": "Community maintained hooks for PyInstaller",
+    "homepage": "https://github.com/pyinstaller/pyinstaller-hooks-contrib",
+    "keywords": [
+        "pyinstaller",
+        "development",
+        "hooks",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2025.3",
+    "latest_release_published_at": "2025-04-16T16:56:09.000Z",
+    "latest_stable_release_number": "0.0.0",
+    "latest_stable_release_published_at": "2020-04-12T12:34:53.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License,GNU General Public License v2 (GPLv2)",
+    "name": "pyinstaller-hooks-contrib",
+    "normalized_licenses": [
+        "Apache-2.0",
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyinstaller-hooks-contrib/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyinstaller/pyinstaller-hooks-contrib",
+    "security_policy_url": null
+}

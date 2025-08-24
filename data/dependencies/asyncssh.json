@@ -1,0 +1,28 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ronf/asyncssh/blob/develop/CONTRIBUTING.rst",
+    "dependent_repos_count": 101,
+    "dependents_count": 186,
+    "deprecation_reason": null,
+    "description": "AsyncSSH: Asynchronous SSHv2 client and server library",
+    "homepage": "http://asyncssh.timeheart.net",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.20.0",
+    "latest_release_published_at": "2025-02-17T18:50:03.000Z",
+    "latest_stable_release_number": "2.20.0",
+    "latest_stable_release_published_at": "2025-02-17T18:50:03.000Z",
+    "license_normalized": true,
+    "licenses": "EPL-2.0 OR GPL-2.0-or-later",
+    "name": "asyncssh",
+    "normalized_licenses": [
+        "EPL-2.0",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://pypi.org/project/asyncssh/",
+    "repository_license": "EPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ronf/asyncssh",
+    "security_policy_url": null
+}

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 172,
+    "dependents_count": 304,
+    "deprecation_reason": null,
+    "description": "Toolbox for imbalanced dataset in machine learning",
+    "homepage": "https://imbalanced-learn.org/",
+    "keywords": [
+        "data-analysis",
+        "data-science",
+        "machine-learning",
+        "python",
+        "statistics"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.13.0",
+    "latest_release_published_at": "2024-12-20T16:50:20.000Z",
+    "latest_stable_release_number": "0.13.0",
+    "latest_stable_release_published_at": "2024-12-20T16:50:20.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "imbalanced-learn",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/imbalanced-learn/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+    "security_policy_url": null
+}

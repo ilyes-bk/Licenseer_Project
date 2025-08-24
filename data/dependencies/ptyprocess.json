@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 266,
+    "dependents_count": 505,
+    "deprecation_reason": null,
+    "description": "Run a subprocess in a pseudo terminal",
+    "homepage": "https://github.com/pexpect/ptyprocess",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.7.0",
+    "latest_release_published_at": "2020-12-28T15:15:28.000Z",
+    "latest_stable_release_number": "0.7.0",
+    "latest_stable_release_published_at": "2020-12-28T15:15:28.000Z",
+    "license_normalized": true,
+    "licenses": "ISC License (ISCL)",
+    "name": "ptyprocess",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/ptyprocess/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pexpect/ptyprocess",
+    "security_policy_url": null
+}

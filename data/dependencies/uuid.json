@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 182,
+    "dependents_count": 461,
+    "deprecation_reason": null,
+    "description": "UUID object and generation functions (Python 2.3 or higher)",
+    "homepage": "http://zesty.ca/python/",
+    "keywords": [
+        "uuid",
+        "guid",
+        "unique",
+        "identifier",
+        "rfc4122"
+    ],
+    "language": null,
+    "latest_release_number": "1.30",
+    "latest_release_published_at": "2007-05-26T11:13:24.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "UNKNOWN",
+    "name": "uuid",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/uuid/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

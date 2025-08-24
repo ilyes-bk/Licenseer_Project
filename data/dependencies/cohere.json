@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 140,
+    "dependents_count": 317,
+    "deprecation_reason": null,
+    "description": "Python Library for Accessing the Cohere API",
+    "homepage": "https://docs.cohere.ai",
+    "keywords": [
+        "python",
+        "sdk"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.15.0",
+    "latest_release_published_at": "2025-04-15T13:39:49.000Z",
+    "latest_stable_release_number": "5.14.2",
+    "latest_stable_release_published_at": "2025-04-02T18:08:09.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cohere",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cohere/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

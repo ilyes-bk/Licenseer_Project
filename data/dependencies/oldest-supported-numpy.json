@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/scipy/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/scipy/.github/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 9,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "Meta-package that provides the oldest NumPy that supports a given Python version and platform. If wheels for the platform became available on PyPI only for a more recent NumPy version, then that NumPy version is specified.",
+    "homepage": "https://github.com/scipy/oldest-supported-numpy",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2023.12.21",
+    "latest_release_published_at": "2023-12-21T16:03:16.000Z",
+    "latest_stable_release_number": "2023.12.21",
+    "latest_stable_release_published_at": "2023-12-21T16:03:16.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "oldest-supported-numpy",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/oldest-supported-numpy/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scipy/oldest-supported-numpy",
+    "security_policy_url": "https://github.com/scipy/oldest-supported-numpy/security/policy"
+}

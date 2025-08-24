@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 258,
+    "dependents_count": 402,
+    "deprecation_reason": null,
+    "description": "IPv4/IPv6 manipulation library",
+    "homepage": "https://github.com/phihag/ipaddress",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.23",
+    "latest_release_published_at": "2019-10-18T01:30:27.000Z",
+    "latest_stable_release_number": "1.0.23",
+    "latest_stable_release_published_at": "2019-10-18T01:30:27.000Z",
+    "license_normalized": true,
+    "licenses": "Python Software Foundation License",
+    "name": "ipaddress",
+    "normalized_licenses": [
+        "PSF-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ipaddress/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/phihag/ipaddress",
+    "security_policy_url": null
+}

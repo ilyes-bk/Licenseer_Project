@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 30,
+    "dependents_count": 63,
+    "deprecation_reason": null,
+    "description": "AWS signature version 4 signing process for the python requests module",
+    "homepage": "https://github.com/davidmuller/aws-requests-auth",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.3",
+    "latest_release_published_at": "2020-05-27T23:10:33.000Z",
+    "latest_stable_release_number": "0.4.3",
+    "latest_stable_release_published_at": "2020-05-27T23:10:33.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "aws-requests-auth",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/aws-requests-auth/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/davidmuller/aws-requests-auth",
+    "security_policy_url": null
+}

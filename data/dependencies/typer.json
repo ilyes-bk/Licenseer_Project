@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/fastapi/typer/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 2667,
+    "dependents_count": 5489,
+    "deprecation_reason": null,
+    "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "homepage": "https://github.com/fastapi/typer",
+    "keywords": [
+        "cli",
+        "click",
+        "python",
+        "python3",
+        "shell",
+        "terminal",
+        "typehints",
+        "typer"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.15.2",
+    "latest_release_published_at": "2025-02-27T19:17:32.000Z",
+    "latest_stable_release_number": "0.15.2",
+    "latest_stable_release_published_at": "2025-02-27T19:17:32.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "typer",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/typer/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/fastapi/typer",
+    "security_policy_url": "https://github.com/fastapi/typer/security/policy"
+}

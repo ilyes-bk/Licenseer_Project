@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/hynek/argon2-cffi/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/hynek/argon2-cffi/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 190,
+    "dependents_count": 352,
+    "deprecation_reason": null,
+    "description": "Argon2 for Python",
+    "homepage": "https://argon2-cffi.readthedocs.io/",
+    "keywords": [
+        "hash",
+        "hashing",
+        "password",
+        "security",
+        "argon2",
+        "cffi",
+        "password-hash",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "23.1.0",
+    "latest_release_published_at": "2023-08-15T14:13:10.000Z",
+    "latest_stable_release_number": "23.1.0",
+    "latest_stable_release_published_at": "2023-08-15T14:13:10.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "argon2-cffi",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/argon2-cffi/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": "https://github.com/hynek/argon2-cffi/security/policy"
+}

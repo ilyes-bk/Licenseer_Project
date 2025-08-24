@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/python-crc32c/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/python-crc32c/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 57,
+    "dependents_count": 161,
+    "deprecation_reason": null,
+    "description": "A python wrapper of the C library 'Google CRC32C'",
+    "homepage": "https://github.com/googleapis/python-crc32c",
+    "keywords": [],
+    "language": "Shell",
+    "latest_release_number": "1.7.1",
+    "latest_release_published_at": "2025-03-26T14:29:09.000Z",
+    "latest_stable_release_number": "1.7.1",
+    "latest_stable_release_published_at": "2025-03-26T14:29:09.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-crc32c",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-crc32c/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/python-crc32c",
+    "security_policy_url": "https://github.com/googleapis/python-crc32c/security/policy"
+}

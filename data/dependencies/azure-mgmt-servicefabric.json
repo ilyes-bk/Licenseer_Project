@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 6,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Service Fabric Management Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "keywords": [
+        "azure",
+        "sdk",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.0b1",
+    "latest_release_published_at": "2024-02-22T05:20:06.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2023-12-18T03:33:10.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-mgmt-servicefabric",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-mgmt-servicefabric/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

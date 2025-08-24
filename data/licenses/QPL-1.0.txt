@@ -1,0 +1,8 @@
+License Name: The Q Public License Version
+SPDX ID: QPL-1.0
+Category: Other/Miscellaneous
+URL: https://opensource.org/license/qpl-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

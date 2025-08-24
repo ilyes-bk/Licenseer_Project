@@ -1,0 +1,9 @@
+License Name: The Universal Permissive License Version 1.0
+SPDX ID: UPL-1.0
+Category: Other/Miscellaneous
+URL: https://opensource.org/license/upl
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: Submitted: April 11, 2014
+Submitter: Submitter: Jim Wright

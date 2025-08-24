@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/semgrep/semgrep/blob/develop/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/semgrep/semgrep/blob/develop/CONTRIBUTING.md",
+    "dependent_repos_count": 38,
+    "dependents_count": 57,
+    "deprecation_reason": null,
+    "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "homepage": "https://github.com/returntocorp/semgrep",
+    "keywords": [
+        "c",
+        "go",
+        "java",
+        "javascript",
+        "python",
+        "r2c",
+        "ruby",
+        "sast",
+        "semgrep",
+        "static-analysis",
+        "static-code-analysis",
+        "typescript"
+    ],
+    "language": "OCaml",
+    "latest_release_number": "1.120.0",
+    "latest_release_published_at": "2025-04-23T00:52:39.000Z",
+    "latest_stable_release_number": "1.120.0",
+    "latest_stable_release_published_at": "2025-04-23T00:52:39.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Lesser General Public License v2 (LGPLv2)",
+    "name": "semgrep",
+    "normalized_licenses": [
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/semgrep/",
+    "repository_license": "LGPL-2.1",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/returntocorp/semgrep",
+    "security_policy_url": "https://github.com/semgrep/semgrep/security/policy"
+}

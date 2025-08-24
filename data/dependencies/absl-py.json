@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/abseil/abseil-py/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 531,
+    "dependents_count": 1002,
+    "deprecation_reason": null,
+    "description": "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py.",
+    "homepage": "https://github.com/abseil/abseil-py",
+    "keywords": [
+        "application",
+        "flags",
+        "logging",
+        "python",
+        "python-library",
+        "testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.2.2",
+    "latest_release_published_at": "2025-04-03T12:41:03.000Z",
+    "latest_stable_release_number": "2.2.2",
+    "latest_stable_release_published_at": "2025-04-03T12:41:03.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "absl-py",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/absl-py/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/abseil/abseil-py",
+    "security_policy_url": null
+}

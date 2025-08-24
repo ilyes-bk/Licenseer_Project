@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 284,
+    "dependents_count": 459,
+    "deprecation_reason": null,
+    "description": "Parameterized testing with any Python test framework",
+    "homepage": "https://github.com/wolever/parameterized",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.9.0",
+    "latest_release_published_at": "2023-03-27T02:02:06.801Z",
+    "latest_stable_release_number": "0.9.0",
+    "latest_stable_release_published_at": "2023-03-27T02:02:06.801Z",
+    "license_normalized": true,
+    "licenses": "FreeBSD",
+    "name": "parameterized",
+    "normalized_licenses": [
+        "BSD-2-Clause-FreeBSD"
+    ],
+    "package_manager_url": "https://pypi.org/project/parameterized/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wolever/parameterized",
+    "security_policy_url": null
+}

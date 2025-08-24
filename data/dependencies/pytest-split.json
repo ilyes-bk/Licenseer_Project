@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 34,
+    "dependents_count": 58,
+    "deprecation_reason": null,
+    "description": "Pytest plugin which splits the test suite to equally sized sub suites based on test execution time.",
+    "homepage": "https://jerry-git.github.io/pytest-split",
+    "keywords": [
+        "pytest",
+        "plugin",
+        "split",
+        "tests",
+        "pytest-plugin"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.10.0",
+    "latest_release_published_at": "2024-10-16T15:45:18.000Z",
+    "latest_stable_release_number": "0.10.0",
+    "latest_stable_release_published_at": "2024-10-16T15:45:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytest-split",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-split/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jerry-git/pytest-split",
+    "security_policy_url": null
+}

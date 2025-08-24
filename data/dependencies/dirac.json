@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/DIRACGrid/DIRAC/blob/integration/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 2,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "DIRAC is an interware, meaning a software framework for distributed computing.",
+    "homepage": "https://github.com/DIRACGrid/DIRAC/",
+    "keywords": [
+        "distributed-computing",
+        "grid",
+        "interware",
+        "workflow-management",
+        "workload-management"
+    ],
+    "language": "Python",
+    "latest_release_number": "8.0.73",
+    "latest_release_published_at": "2025-04-16T12:08:39.000Z",
+    "latest_stable_release_number": "8.0.73",
+    "latest_stable_release_published_at": "2025-04-16T12:08:39.000Z",
+    "license_normalized": false,
+    "licenses": "GPL-3.0-only",
+    "name": "DIRAC",
+    "normalized_licenses": [
+        "GPL-3.0-only"
+    ],
+    "package_manager_url": "https://pypi.org/project/DIRAC/",
+    "repository_license": "GPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/DIRACGrid/DIRAC",
+    "security_policy_url": "https://github.com/DIRACGrid/DIRAC/security/policy"
+}

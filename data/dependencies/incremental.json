@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": "https://github.com/twisted/.github/blob/trunk/code_of_conduct.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 91,
+    "dependents_count": 141,
+    "deprecation_reason": null,
+    "description": "A small library that versions your Python projects.",
+    "homepage": "https://github.com/twisted/incremental",
+    "keywords": [
+        "python",
+        "versioning"
+    ],
+    "language": "Python",
+    "latest_release_number": "24.7.2",
+    "latest_release_published_at": "2024-07-29T20:03:53.000Z",
+    "latest_stable_release_number": "24.7.2",
+    "latest_stable_release_published_at": "2024-07-29T20:03:53.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "incremental",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/incremental/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/twisted/incremental",
+    "security_policy_url": "https://github.com/twisted/incremental/security/policy"
+}

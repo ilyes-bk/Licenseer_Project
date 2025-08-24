@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/aws-cloudformation/cloudformation-cli-java-plugin/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws-cloudformation/cloudformation-cli-java-plugin/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "The CloudFormation Provider Development Toolkit Java Plugin allows you to autogenerate java code based on an input schema.",
+    "homepage": "https://github.com/aws-cloudformation/aws-cloudformation-rpdk-java-plugin/",
+    "keywords": [
+        "Amazon",
+        "Web",
+        "Services",
+        "AWS",
+        "CloudFormation",
+        "cloudformation-cli",
+        "java",
+        "resources"
+    ],
+    "language": "Java",
+    "latest_release_number": "2.2.3",
+    "latest_release_published_at": "2025-04-10T19:02:24.000Z",
+    "latest_stable_release_number": "2.2.3",
+    "latest_stable_release_published_at": "2025-04-10T19:02:24.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "cloudformation-cli-java-plugin",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/cloudformation-cli-java-plugin/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aws-cloudformation/aws-cloudformation-rpdk-java-plugin",
+    "security_policy_url": "https://github.com/aws-cloudformation/cloudformation-cli-java-plugin/security/policy"
+}

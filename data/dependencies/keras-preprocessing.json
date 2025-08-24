@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/keras-team/keras-preprocessing/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 96,
+    "dependents_count": 215,
+    "deprecation_reason": null,
+    "description": "Easy data preprocessing and data augmentation for deep learning models",
+    "homepage": "https://github.com/keras-team/keras-preprocessing",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.1.2",
+    "latest_release_published_at": "2020-05-14T03:55:22.223Z",
+    "latest_stable_release_number": "1.1.2",
+    "latest_stable_release_published_at": "2020-05-14T03:55:22.223Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "Keras-Preprocessing",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/Keras-Preprocessing/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/keras-team/keras-preprocessing",
+    "security_policy_url": null
+}

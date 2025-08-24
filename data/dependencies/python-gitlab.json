@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": "https://github.com/python-gitlab/python-gitlab/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python-gitlab/python-gitlab/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 196,
+    "dependents_count": 406,
+    "deprecation_reason": null,
+    "description": "The python wrapper for the GitLab REST and GraphQL APIs.",
+    "homepage": "https://github.com/python-gitlab/python-gitlab",
+    "keywords": [
+        "api",
+        "client",
+        "gitlab",
+        "python",
+        "python-gitlab",
+        "wrapper",
+        "gitlab-api",
+        "gitlab-ci",
+        "gitlab-cli",
+        "hacktoberfest"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.6.0",
+    "latest_release_published_at": "2025-01-28T16:33:36.000Z",
+    "latest_stable_release_number": "5.6.0",
+    "latest_stable_release_published_at": "2025-01-28T16:33:36.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL-3.0-or-later",
+    "name": "python-gitlab",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-gitlab/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-gitlab/python-gitlab",
+    "security_policy_url": "https://github.com/python-gitlab/python-gitlab/security/policy"
+}

@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/google-cloud-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/google-cloud-python/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 339,
+    "dependents_count": 761,
+    "deprecation_reason": null,
+    "description": "Common protobufs used in Google APIs",
+    "homepage": "https://googleapis.github.io/google-cloud-python/",
+    "keywords": [
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.70.0",
+    "latest_release_published_at": "2025-04-14T10:17:01.000Z",
+    "latest_stable_release_number": "1.70.0",
+    "latest_stable_release_published_at": "2025-04-14T10:17:01.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "googleapis-common-protos",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/googleapis-common-protos/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/google-cloud-python",
+    "security_policy_url": "https://github.com/googleapis/google-cloud-python/security/policy"
+}

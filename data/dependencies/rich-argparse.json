@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/hamdanal/rich-argparse/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 103,
+    "dependents_count": 168,
+    "deprecation_reason": null,
+    "description": "Rich help formatters for argparse and optparse",
+    "homepage": "https://github.com/hamdanal/rich-argparse",
+    "keywords": [
+        "argparse",
+        "help-formatter",
+        "optparse",
+        "rich",
+        "cli",
+        "click",
+        "python",
+        "rich-argparse",
+        "syntax-highlighting",
+        "typer"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7.0",
+    "latest_release_published_at": "2025-02-08T19:00:17.000Z",
+    "latest_stable_release_number": "1.7.0",
+    "latest_stable_release_published_at": "2025-02-08T19:00:17.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "rich-argparse",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/rich-argparse/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/hamdanal/rich-argparse",
+    "security_policy_url": null
+}

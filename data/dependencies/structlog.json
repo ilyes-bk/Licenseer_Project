@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/hynek/structlog/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/hynek/structlog/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 445,
+    "dependents_count": 865,
+    "deprecation_reason": null,
+    "description": "Structured Logging for Python",
+    "homepage": "https://www.structlog.org/",
+    "keywords": [
+        "log",
+        "logging",
+        "structure",
+        "structured",
+        "python",
+        "structured-logging"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.2.0",
+    "latest_release_published_at": "2025-03-11T17:41:09.000Z",
+    "latest_stable_release_number": "25.2.0",
+    "latest_stable_release_published_at": "2025-03-11T17:41:09.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License,MIT License",
+    "name": "structlog",
+    "normalized_licenses": [
+        "Apache-2.0",
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/structlog/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/hynek/structlog",
+    "security_policy_url": "https://github.com/hynek/structlog/security/policy"
+}

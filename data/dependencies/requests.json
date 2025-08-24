@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/psf/requests/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/psf/requests/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 44159,
+    "dependents_count": 82106,
+    "deprecation_reason": null,
+    "description": "Python HTTP for Humans.",
+    "homepage": "https://requests.readthedocs.io",
+    "keywords": [
+        "client",
+        "cookies",
+        "forhumans",
+        "http",
+        "humans",
+        "python",
+        "python-requests",
+        "requests"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.32.3",
+    "latest_release_published_at": "2024-05-29T15:37:47.000Z",
+    "latest_stable_release_number": "2.32.3",
+    "latest_stable_release_published_at": "2024-05-29T15:37:47.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "requests",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/requests/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/psf/requests",
+    "security_policy_url": "https://github.com/psf/requests/security/policy"
+}

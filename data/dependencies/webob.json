@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 119,
+    "dependents_count": 370,
+    "deprecation_reason": null,
+    "description": "WSGI request and response object",
+    "homepage": "http://webob.org/",
+    "keywords": [
+        "wsgi",
+        "request",
+        "web",
+        "http"
+    ],
+    "language": null,
+    "latest_release_number": "1.8.9",
+    "latest_release_published_at": "2024-10-24T03:19:18.000Z",
+    "latest_stable_release_number": "1.8.9",
+    "latest_stable_release_published_at": "2024-10-24T03:19:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "WebOb",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/WebOb/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

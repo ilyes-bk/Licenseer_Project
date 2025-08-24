@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 351,
+    "dependents_count": 689,
+    "deprecation_reason": null,
+    "description": "Persistent/Functional/Immutable data structures",
+    "homepage": "https://github.com/tobgu/pyrsistent/",
+    "keywords": [
+        "datastructures",
+        "functional",
+        "immutable",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.20.0",
+    "latest_release_published_at": "2023-10-25T21:06:04.000Z",
+    "latest_stable_release_number": "0.20.0",
+    "latest_stable_release_published_at": "2023-10-25T21:06:04.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyrsistent",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyrsistent/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tobgu/pyrsistent",
+    "security_policy_url": null
+}

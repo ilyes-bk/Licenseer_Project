@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": "https://github.com/apache/arrow/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/apache/arrow/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 2423,
+    "dependents_count": 4468,
+    "deprecation_reason": null,
+    "description": "Python library for Apache Arrow",
+    "homepage": "https://arrow.apache.org/",
+    "keywords": [
+        "arrow",
+        "parquet"
+    ],
+    "language": "C++",
+    "latest_release_number": "19.0.1",
+    "latest_release_published_at": "2025-02-18T18:51:37.000Z",
+    "latest_stable_release_number": "19.0.1",
+    "latest_stable_release_published_at": "2025-02-18T18:51:37.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "pyarrow",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyarrow/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/apache/arrow",
+    "security_policy_url": "https://github.com/apache/arrow/security/policy"
+}

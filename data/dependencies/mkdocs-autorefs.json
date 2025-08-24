@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/mkdocstrings/autorefs/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/mkdocstrings/autorefs/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 255,
+    "dependents_count": 382,
+    "deprecation_reason": null,
+    "description": "Automatically link across pages in MkDocs.",
+    "homepage": "https://mkdocstrings.github.io/autorefs",
+    "keywords": [
+        "mkdocs",
+        "mkdocs-plugin",
+        "docstrings",
+        "autodoc",
+        "anchor",
+        "cross-linking",
+        "cross-references",
+        "mkdocstrings"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.1",
+    "latest_release_published_at": "2025-03-08T13:35:18.000Z",
+    "latest_stable_release_number": "1.4.1",
+    "latest_stable_release_published_at": "2025-03-08T13:35:18.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "mkdocs-autorefs",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/mkdocs-autorefs/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mkdocstrings/autorefs",
+    "security_policy_url": null
+}

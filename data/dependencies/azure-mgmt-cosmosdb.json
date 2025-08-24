@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 12,
+    "dependents_count": 21,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Cosmos DB Management Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "keywords": [
+        "azure",
+        "sdk",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "10.0.0b5",
+    "latest_release_published_at": "2024-12-23T05:47:22.000Z",
+    "latest_stable_release_number": "9.7.0",
+    "latest_stable_release_published_at": "2024-11-19T03:19:28.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-mgmt-cosmosdb",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-mgmt-cosmosdb/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

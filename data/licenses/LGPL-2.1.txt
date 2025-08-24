@@ -1,0 +1,8 @@
+License Name: GNU Lesser General Public License version 2.1
+SPDX ID: LGPL-2.1
+Category: Popular / Strong Community
+URL: https://opensource.org/license/lgpl-2-1
+
+Additional Metadata:
+Version: Version 2.1
+Submitted: N/A

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/wireservice/agate/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 19,
+    "dependents_count": 35,
+    "deprecation_reason": null,
+    "description": "A data analysis library that is optimized for humans instead of machines.",
+    "homepage": "https://agate.readthedocs.org/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.13.0",
+    "latest_release_published_at": "2025-01-29T06:24:06.000Z",
+    "latest_stable_release_number": "1.13.0",
+    "latest_stable_release_published_at": "2025-01-29T06:24:06.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "agate",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/agate/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/wireservice/agate",
+    "security_policy_url": null
+}

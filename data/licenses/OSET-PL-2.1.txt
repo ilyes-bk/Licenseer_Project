@@ -1,0 +1,9 @@
+License Name: OSET Public License version 2.1
+SPDX ID: OSET-PL-2.1
+Category: Special Purpose
+URL: https://opensource.org/license/opl-2-1
+
+Additional Metadata:
+Version: Version 2.1
+Submitted: Submitted: September 1, 2015
+Submitter: Submitter: Heather Meeker

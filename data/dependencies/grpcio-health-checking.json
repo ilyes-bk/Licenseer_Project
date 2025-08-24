@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 52,
+    "dependents_count": 103,
+    "deprecation_reason": null,
+    "description": "Standard Health Checking Service for gRPC",
+    "homepage": "https://grpc.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.72.0",
+    "latest_release_published_at": "2025-04-25T13:30:16.000Z",
+    "latest_stable_release_number": "1.71.0",
+    "latest_stable_release_published_at": "2025-03-10T19:26:06.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "grpcio-health-checking",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/grpcio-health-checking/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 16,
+    "dependents_count": 72,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Namespace Package [Internal]",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "keywords": [
+        "azure",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.0.2",
+    "latest_release_published_at": "2018-10-02T22:51:03.000Z",
+    "latest_stable_release_number": "3.0.2",
+    "latest_stable_release_published_at": "2018-10-02T22:51:03.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-nspkg",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-nspkg/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

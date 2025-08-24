@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 5,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "Rich toolkit for building command-line applications",
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.14.3",
+    "latest_release_published_at": "2025-04-23T14:54:51.000Z",
+    "latest_stable_release_number": "0.14.2",
+    "latest_stable_release_published_at": "2025-04-23T14:32:58.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "rich-toolkit",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/rich-toolkit/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

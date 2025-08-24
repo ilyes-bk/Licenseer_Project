@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/talkiq/gcloud-aio/blob/master/.github/CONTRIBUTING.rst",
+    "dependent_repos_count": 7,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "Python Client for Google Cloud Auth",
+    "homepage": "https://github.com/talkiq/gcloud-aio",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "5.4.1",
+    "latest_release_published_at": "2025-04-03T18:28:30.000Z",
+    "latest_stable_release_number": "5.4.1",
+    "latest_stable_release_published_at": "2025-04-03T18:28:30.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "gcloud-aio-auth",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/gcloud-aio-auth/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/talkiq/gcloud-aio",
+    "security_policy_url": null
+}

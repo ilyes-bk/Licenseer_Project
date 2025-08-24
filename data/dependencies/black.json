@@ -1,0 +1,40 @@
+{
+    "code_of_conduct_url": "https://github.com/psf/black/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/psf/black/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 10058,
+    "dependents_count": 15570,
+    "deprecation_reason": null,
+    "description": "The uncompromising code formatter.",
+    "homepage": "https://black.readthedocs.io/en/stable/",
+    "keywords": [
+        "automation",
+        "autopep8",
+        "formatter",
+        "gofmt",
+        "pyfmt",
+        "rustfmt",
+        "yapf",
+        "code",
+        "codeformatter",
+        "hacktoberfest",
+        "pre-commit-hook",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.1.0",
+    "latest_release_published_at": "2025-01-29T04:15:38.000Z",
+    "latest_stable_release_number": "25.1.0",
+    "latest_stable_release_published_at": "2025-01-29T04:15:38.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "black",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/black/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/psf/black",
+    "security_policy_url": "https://github.com/psf/black/security/policy"
+}

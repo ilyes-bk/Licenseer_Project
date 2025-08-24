@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/open-telemetry/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/open-telemetry/opentelemetry-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 73,
+    "dependents_count": 278,
+    "deprecation_reason": null,
+    "description": "OpenTelemetry Semantic Conventions",
+    "homepage": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
+    "keywords": [
+        "correlationcontext",
+        "distributed-tracing",
+        "logging",
+        "metrics",
+        "opentelemetry",
+        "python",
+        "sdk",
+        "tracecontext"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.53b1",
+    "latest_release_published_at": "2025-04-15T16:02:10.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "opentelemetry-semantic-conventions",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/opentelemetry-semantic-conventions/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/open-telemetry/opentelemetry-python",
+    "security_policy_url": "https://github.com/open-telemetry/opentelemetry-python/security/policy"
+}

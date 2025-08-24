@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/tableau/server-client-python/blob/master/contributing.md",
+    "dependent_repos_count": 18,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "A Python module for working with the Tableau Server REST API.",
+    "homepage": "https://tableau.github.io/server-client-python/",
+    "keywords": [
+        "python",
+        "rest-api",
+        "tableau",
+        "tableau-api"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.37",
+    "latest_release_published_at": "2025-03-24T17:07:54.000Z",
+    "latest_stable_release_number": "0.23.4",
+    "latest_stable_release_published_at": "2022-12-22T22:41:11.604Z",
+    "license_normalized": true,
+    "licenses": "The MIT License (MIT)\n        \n        Copyright (c) 2022 Tableau\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.\n        ",
+    "name": "tableauserverclient",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/tableauserverclient/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tableau/server-client-python",
+    "security_policy_url": null
+}

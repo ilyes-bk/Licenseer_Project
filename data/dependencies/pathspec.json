@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 408,
+    "dependents_count": 730,
+    "deprecation_reason": null,
+    "description": "Utility library for gitignore style pattern matching of file paths.",
+    "homepage": null,
+    "keywords": [
+        "gitignore-patterns",
+        "python",
+        "wildmatch"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.12.1",
+    "latest_release_published_at": "2023-12-10T22:30:43.000Z",
+    "latest_stable_release_number": "0.12.1",
+    "latest_stable_release_published_at": "2023-12-10T22:30:43.000Z",
+    "license_normalized": true,
+    "licenses": "Mozilla Public License 2.0 (MPL 2.0)",
+    "name": "pathspec",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pathspec/",
+    "repository_license": "MPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/cpburnz/python-pathspec",
+    "security_policy_url": null
+}

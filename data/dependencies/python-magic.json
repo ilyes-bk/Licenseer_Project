@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 598,
+    "dependents_count": 944,
+    "deprecation_reason": null,
+    "description": "File type identification using libmagic",
+    "homepage": "http://github.com/ahupp/python-magic",
+    "keywords": [
+        "mime",
+        "magic",
+        "file"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.27",
+    "latest_release_published_at": "2022-06-07T20:16:57.000Z",
+    "latest_stable_release_number": "0.4.27",
+    "latest_stable_release_published_at": "2022-06-07T20:16:57.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-magic",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-magic/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ahupp/python-magic",
+    "security_policy_url": null
+}

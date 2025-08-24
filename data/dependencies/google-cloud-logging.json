@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/python-logging/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/python-logging/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 98,
+    "dependents_count": 241,
+    "deprecation_reason": null,
+    "description": "Stackdriver Logging API client library",
+    "homepage": "https://github.com/googleapis/python-logging",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "3.12.1",
+    "latest_release_published_at": "2025-04-22T20:50:23.000Z",
+    "latest_stable_release_number": "3.12.1",
+    "latest_stable_release_published_at": "2025-04-22T20:50:23.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-cloud-logging",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-cloud-logging/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/python-logging",
+    "security_policy_url": "https://github.com/googleapis/python-logging/security/policy"
+}

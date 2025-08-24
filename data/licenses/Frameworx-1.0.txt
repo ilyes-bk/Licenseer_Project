@@ -1,0 +1,8 @@
+License Name: Frameworx License 1.0
+SPDX ID: Frameworx-1.0
+Category: Non-Reusable
+URL: https://opensource.org/license/frameworx-php
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: N/A

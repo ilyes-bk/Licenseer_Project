@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 57,
+    "dependents_count": 132,
+    "deprecation_reason": null,
+    "description": "Clang Python Bindings, mirrored from the official LLVM repo: https://github.com/llvm/llvm-project/tree/main/clang/bindings/python, to make the installation process easier.",
+    "homepage": "https://github.com/sighingnow/libclang",
+    "keywords": [
+        "Clang",
+        "Python",
+        "Bindings"
+    ],
+    "language": "Python",
+    "latest_release_number": "18.1.1",
+    "latest_release_published_at": "2024-03-17T15:00:26.000Z",
+    "latest_stable_release_number": "18.1.1",
+    "latest_stable_release_published_at": "2024-03-17T15:00:26.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "libclang",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/libclang/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sighingnow/libclang",
+    "security_policy_url": null
+}

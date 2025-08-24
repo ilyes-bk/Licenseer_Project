@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pytest-dev/pytest-cov/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 14759,
+    "dependents_count": 21584,
+    "deprecation_reason": null,
+    "description": "Pytest plugin for measuring coverage.",
+    "homepage": "https://github.com/pytest-dev/pytest-cov",
+    "keywords": [
+        "cover",
+        "coverage",
+        "pytest",
+        "py",
+        "test",
+        "distributed",
+        "parallel",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.1.1",
+    "latest_release_published_at": "2025-04-05T14:07:49.000Z",
+    "latest_stable_release_number": "6.1.1",
+    "latest_stable_release_published_at": "2025-04-05T14:07:49.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytest-cov",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-cov/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-cov",
+    "security_policy_url": "https://github.com/pytest-dev/pytest-cov/security/policy"
+}

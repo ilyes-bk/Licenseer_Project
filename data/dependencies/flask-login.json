@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/maxcountryman/flask-login/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 248,
+    "dependents_count": 424,
+    "deprecation_reason": null,
+    "description": "User authentication and session management for Flask.",
+    "homepage": "https://github.com/maxcountryman/flask-login",
+    "keywords": [
+        "authentication",
+        "login-system",
+        "session-management"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.6.3",
+    "latest_release_published_at": "2023-10-30T14:53:19.000Z",
+    "latest_stable_release_number": "0.6.3",
+    "latest_stable_release_published_at": "2023-10-30T14:53:19.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "Flask-Login",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/Flask-Login/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/maxcountryman/flask-login",
+    "security_policy_url": null
+}

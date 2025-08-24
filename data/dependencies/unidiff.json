@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 52,
+    "dependents_count": 85,
+    "deprecation_reason": null,
+    "description": "Unified diff parsing/metadata extraction library.",
+    "homepage": "http://github.com/matiasb/python-unidiff",
+    "keywords": [
+        "unified",
+        "diff",
+        "parse",
+        "metadata"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.5",
+    "latest_release_published_at": "2023-03-10T01:05:45.466Z",
+    "latest_stable_release_number": "0.7.5",
+    "latest_stable_release_published_at": "2023-03-10T01:05:45.466Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "unidiff",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/unidiff/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/matiasb/python-unidiff",
+    "security_policy_url": null
+}

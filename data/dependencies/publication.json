@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 529,
+    "dependents_count": 1391,
+    "deprecation_reason": null,
+    "description": "Publication helps you maintain public-api-friendly modules by preventing unintentional access to private implementation details via introspection.",
+    "homepage": "https://github.com/glyph/publication",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.0.3",
+    "latest_release_published_at": "2019-01-15T07:52:22.000Z",
+    "latest_stable_release_number": "0.0.3",
+    "latest_stable_release_published_at": "2019-01-15T07:52:22.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "publication",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/publication/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/glyph/publication",
+    "security_policy_url": null
+}

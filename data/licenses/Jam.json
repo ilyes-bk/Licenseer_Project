@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+        "name": "JAM License",
+        "spdx_id": "Jam",
+        "category": "Other/Miscellaneous",
+        "url": "https://opensource.org/license/jam"
+    },
+    "metadata": {
+        "category": "OTHER/MISCELLANEOUS",
+        "version": "Version N/A",
+        "submitted": "Submitted: April 25, 2021",
+        "submitter": "Submitter: Jack Hill",
+        "approved": "Approved: September 17, 2021",
+        "spdx": "SPDX short identifier: Jam",
+        "steward": "JAM software",
+        "steward_url": "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README"
+    },
+    "content": "License is hereby granted to use this software and distribute it freely, as long as this copyright notice is retained and modifications are clearly marked.\nALL WARRANTIES ARE HEREBY DISCLAIMED."
+}

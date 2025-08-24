@@ -1,0 +1,8 @@
+License Name: The Sybase Open Source Licence
+SPDX ID: Watcom-1.0
+Category: Non-Reusable
+URL: https://opensource.org/license/sybase-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

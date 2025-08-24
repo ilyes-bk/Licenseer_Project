@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/encode/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/encode/uvicorn/blob/master/docs/contributing.md",
+    "dependent_repos_count": 2107,
+    "dependents_count": 4559,
+    "deprecation_reason": null,
+    "description": "The lightning-fast ASGI server.",
+    "homepage": "https://www.uvicorn.org/",
+    "keywords": [
+        "asgi",
+        "asyncio",
+        "http",
+        "http-server",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.34.2",
+    "latest_release_published_at": "2025-04-19T06:02:48.000Z",
+    "latest_stable_release_number": "0.34.2",
+    "latest_stable_release_published_at": "2025-04-19T06:02:48.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "uvicorn",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/uvicorn/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/encode/uvicorn",
+    "security_policy_url": "https://github.com/encode/uvicorn/security/policy"
+}

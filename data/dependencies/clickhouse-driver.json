@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/mymarilyn/clickhouse-driver/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 147,
+    "dependents_count": 223,
+    "deprecation_reason": null,
+    "description": "Python driver with native interface for ClickHouse",
+    "homepage": "https://github.com/mymarilyn/clickhouse-driver",
+    "keywords": [
+        "ClickHouse",
+        "db",
+        "database",
+        "cloud",
+        "analytics",
+        "driver",
+        "native",
+        "yandex"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.9",
+    "latest_release_published_at": "2024-08-16T18:02:51.000Z",
+    "latest_stable_release_number": "0.2.9",
+    "latest_stable_release_published_at": "2024-08-16T18:02:51.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "clickhouse-driver",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/clickhouse-driver/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mymarilyn/clickhouse-driver",
+    "security_policy_url": null
+}

@@ -1,0 +1,9 @@
+License Name: Microsoft Reciprocal License
+SPDX ID: MS-RL
+Category: Uncategorized
+URL: https://opensource.org/license/ms-rl-html
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: October 3, 2007
+Submitter: Submitter: Rick Moen

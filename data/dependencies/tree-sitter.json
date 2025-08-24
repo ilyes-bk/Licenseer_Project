@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 181,
+    "dependents_count": 313,
+    "deprecation_reason": null,
+    "description": "Python bindings to the Tree-sitter parsing library",
+    "homepage": "https://tree-sitter.github.io/tree-sitter/",
+    "keywords": [
+        "incremental",
+        "parsing",
+        "tree-sitter",
+        "binding",
+        "python"
+    ],
+    "language": "C",
+    "latest_release_number": "0.24.0",
+    "latest_release_published_at": "2025-01-17T05:05:42.000Z",
+    "latest_stable_release_number": "0.24.0",
+    "latest_stable_release_published_at": "2025-01-17T05:05:42.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "tree-sitter",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/tree-sitter/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tree-sitter/py-tree-sitter",
+    "security_policy_url": null
+}

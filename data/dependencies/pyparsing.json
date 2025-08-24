@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pyparsing/pyparsing/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 2041,
+    "dependents_count": 3679,
+    "deprecation_reason": null,
+    "description": "pyparsing module - Classes and methods to define and execute parsing grammars",
+    "homepage": "https://github.com/pyparsing/pyparsing/",
+    "keywords": [
+        "parser-combinators",
+        "parsing",
+        "parsing-expression-grammar",
+        "parsing-library",
+        "peg-parsers",
+        "python",
+        "python-2",
+        "python-3",
+        "python2",
+        "python3",
+        "text-processing"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2.3",
+    "latest_release_published_at": "2025-03-25T05:01:24.000Z",
+    "latest_stable_release_number": "3.2.3",
+    "latest_stable_release_published_at": "2025-03-25T05:01:24.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pyparsing",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyparsing/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyparsing/pyparsing",
+    "security_policy_url": "https://github.com/pyparsing/pyparsing/security/policy"
+}

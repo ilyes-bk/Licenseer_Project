@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/facebookresearch/xformers/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/facebookresearch/xformers/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 54,
+    "dependents_count": 101,
+    "deprecation_reason": null,
+    "description": "XFormers: A collection of composable Transformer building blocks.",
+    "homepage": "https://facebookresearch.github.io/xformers/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.0.30.dev1005",
+    "latest_release_published_at": "2025-02-27T21:57:07.000Z",
+    "latest_stable_release_number": "0.0.29",
+    "latest_stable_release_published_at": "2024-12-27T12:35:47.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "xformers",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/xformers/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/facebookresearch/xformers",
+    "security_policy_url": "https://github.com/facebookresearch/xformers/security/policy"
+}

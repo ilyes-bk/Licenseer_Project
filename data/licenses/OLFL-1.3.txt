@@ -1,0 +1,9 @@
+License Name: Open Logistics Foundation License v1.3
+SPDX ID: OLFL-1.3
+Category: Special Purpose
+URL: https://opensource.org/license/olfl-1-3
+
+Additional Metadata:
+Version: Version 1.3
+Submitted: Submitted: January 17, 2023
+Submitter: Submitter: Andreas Nettsträter

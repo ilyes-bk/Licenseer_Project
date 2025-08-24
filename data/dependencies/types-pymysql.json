@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 17,
+    "dependents_count": 31,
+    "deprecation_reason": null,
+    "description": "Typing stubs for PyMySQL",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.0.20241103",
+    "latest_release_published_at": "2024-11-03T02:49:43.000Z",
+    "latest_stable_release_number": "1.0.19",
+    "latest_stable_release_published_at": "2022-04-29T21:17:24.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "types-PyMySQL",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-PyMySQL/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

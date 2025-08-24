@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/JessicaTegner/.github/blob/main/.github/CONTRIBUTING.MD",
+    "dependent_repos_count": 429,
+    "dependents_count": 653,
+    "deprecation_reason": null,
+    "description": "Thin wrapper for pandoc.",
+    "homepage": "https://github.com/JessicaTegner/pypandoc",
+    "keywords": [
+        "formatting",
+        "hacktoberfest",
+        "hacktoberfest2022",
+        "html",
+        "markdown",
+        "pandoc",
+        "pdf",
+        "pdf-generation",
+        "pypandoc",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.15",
+    "latest_release_published_at": "2025-01-08T17:39:09.000Z",
+    "latest_stable_release_number": "1.8.1",
+    "latest_stable_release_published_at": "2022-05-23T01:37:16.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pypandoc",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pypandoc/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/JessicaTegner/pypandoc",
+    "security_policy_url": "https://github.com/JessicaTegner/pypandoc/security/policy"
+}

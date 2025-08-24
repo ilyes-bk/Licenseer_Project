@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 29,
+    "dependents_count": 53,
+    "deprecation_reason": null,
+    "description": "Swagger UI bundled for usage with Python",
+    "homepage": "https://github.com/spec-first/swagger_ui_bundle",
+    "keywords": [
+        "swagger-ui"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2023-11-01T19:58:15.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2023-11-01T19:58:15.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "swagger-ui-bundle",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/swagger-ui-bundle/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/spec-first/swagger_ui_bundle",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 27,
+    "dependents_count": 63,
+    "deprecation_reason": null,
+    "description": "Gremlin-Python for Apache TinkerPop",
+    "homepage": "https://tinkerpop.apache.org",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "4.0.0b1",
+    "latest_release_published_at": "2025-01-23T21:38:06.000Z",
+    "latest_stable_release_number": "3.7.3",
+    "latest_stable_release_published_at": "2024-10-29T17:46:38.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2",
+    "name": "gremlinpython",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/gremlinpython/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

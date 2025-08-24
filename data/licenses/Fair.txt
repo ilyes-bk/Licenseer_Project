@@ -1,0 +1,9 @@
+License Name: Fair License
+SPDX ID: Fair
+Category: Redundant with more popular
+URL: https://opensource.org/license/fair
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: January 26, 2004
+Submitter: Submitter: James William Pye

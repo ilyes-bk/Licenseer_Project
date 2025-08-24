@@ -1,0 +1,8 @@
+License Name: Nokia Open Source License Version 1.0a
+SPDX ID: NOKIA
+Category: Non-Reusable
+URL: https://opensource.org/license/nokia
+
+Additional Metadata:
+Version: Version 1.0a
+Submitted: N/A

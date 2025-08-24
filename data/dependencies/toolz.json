@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 547,
+    "dependents_count": 933,
+    "deprecation_reason": null,
+    "description": "List processing tools and functional utilities",
+    "homepage": "https://github.com/pytoolz/toolz/",
+    "keywords": [
+        "functional",
+        "utility",
+        "itertools",
+        "functools"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2024-10-04T16:17:01.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2024-10-04T16:17:01.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "toolz",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/toolz/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytoolz/toolz",
+    "security_policy_url": null
+}

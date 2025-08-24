@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 133,
+    "dependents_count": 242,
+    "deprecation_reason": null,
+    "description": "Create, read, and update PowerPoint 2007+ (.pptx) files.",
+    "homepage": "https://github.com/scanny/python-pptx",
+    "keywords": [
+        "powerpoint",
+        "ppt",
+        "pptx",
+        "openxml",
+        "office"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.2",
+    "latest_release_published_at": "2024-08-07T17:33:28.000Z",
+    "latest_stable_release_number": "1.0.2",
+    "latest_stable_release_published_at": "2024-08-07T17:33:28.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-pptx",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-pptx/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scanny/python-pptx",
+    "security_policy_url": null
+}

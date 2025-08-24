@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 108,
+    "dependents_count": 158,
+    "deprecation_reason": null,
+    "description": "HTML cleaner from lxml project",
+    "homepage": "https://github.com/fedora-python/lxml_html_clean/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.2",
+    "latest_release_published_at": "2025-04-09T11:33:57.000Z",
+    "latest_stable_release_number": "0.4.2",
+    "latest_stable_release_published_at": "2025-04-09T11:33:57.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "lxml-html-clean",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/lxml-html-clean/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/fedora-python/lxml_html_clean",
+    "security_policy_url": null
+}

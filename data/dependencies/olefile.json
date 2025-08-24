@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 85,
+    "dependents_count": 135,
+    "deprecation_reason": null,
+    "description": "Python package to parse, read and write Microsoft OLE2 files (Structured Storage or Compound Document, Microsoft Office)",
+    "homepage": "https://www.decalage.info/python/olefileio",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.47",
+    "latest_release_published_at": "2023-12-01T16:22:51.000Z",
+    "latest_stable_release_number": "0.45.1",
+    "latest_stable_release_published_at": "2018-01-25T10:22:22.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "olefile",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/olefile/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

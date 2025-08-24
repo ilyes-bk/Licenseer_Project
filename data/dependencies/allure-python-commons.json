@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": "https://github.com/allure-framework/allure-python/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/allure-framework/allure-python/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 22,
+    "dependents_count": 72,
+    "deprecation_reason": null,
+    "description": "Contains the API for end users as well as helper functions and classes to build Allure adapters for Python test frameworks",
+    "homepage": "https://allurereport.org/",
+    "keywords": [
+        "allure",
+        "reporting",
+        "report-engine",
+        "behave",
+        "pytest",
+        "robotframework"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.14.0",
+    "latest_release_published_at": "2025-04-03T15:07:16.000Z",
+    "latest_stable_release_number": "2.14.0",
+    "latest_stable_release_published_at": "2025-04-03T15:07:16.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "allure-python-commons",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/allure-python-commons/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/allure-framework/allure-python",
+    "security_policy_url": null
+}

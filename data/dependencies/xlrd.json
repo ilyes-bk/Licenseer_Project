@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1160,
+    "dependents_count": 1991,
+    "deprecation_reason": null,
+    "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
+    "homepage": "http://www.python-excel.org/",
+    "keywords": [
+        "xls",
+        "excel",
+        "spreadsheet",
+        "workbook"
+    ],
+    "language": null,
+    "latest_release_number": "2.0.1",
+    "latest_release_published_at": "2020-12-11T11:31:40.086Z",
+    "latest_stable_release_number": "2.0.1",
+    "latest_stable_release_published_at": "2020-12-11T11:31:40.086Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "xlrd",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/xlrd/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

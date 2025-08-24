@@ -1,0 +1,8 @@
+License Name: The University of Illinois/NCSA Open Source License
+SPDX ID: NCSA
+Category: Redundant with more popular
+URL: https://opensource.org/license/uoi-ncsa-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

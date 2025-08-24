@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/omnilib/aioitertools/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/omnilib/aioitertools/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 27,
+    "dependents_count": 43,
+    "deprecation_reason": null,
+    "description": "itertools and builtins for AsyncIO and mixed iterables",
+    "homepage": "https://aioitertools.omnilib.dev",
+    "keywords": [
+        "asyncio",
+        "hacktoberfest",
+        "itertools",
+        "python",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.12.0",
+    "latest_release_published_at": "2024-09-02T03:33:40.000Z",
+    "latest_stable_release_number": "0.12.0",
+    "latest_stable_release_published_at": "2024-09-02T03:33:40.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "aioitertools",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aioitertools/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

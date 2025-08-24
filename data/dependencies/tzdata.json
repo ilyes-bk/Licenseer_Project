@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 648,
+    "dependents_count": 1389,
+    "deprecation_reason": null,
+    "description": "Provider of IANA time zone data",
+    "homepage": "https://github.com/python/tzdata",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2025.2",
+    "latest_release_published_at": "2025-03-23T13:54:41.000Z",
+    "latest_stable_release_number": "1.2016.8",
+    "latest_stable_release_published_at": "2016-11-03T01:18:51.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "tzdata",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tzdata/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/tzdata",
+    "security_policy_url": "https://github.com/python/tzdata/security/policy"
+}

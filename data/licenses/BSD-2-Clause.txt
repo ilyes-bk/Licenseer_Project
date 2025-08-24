@@ -1,0 +1,8 @@
+License Name: The 2-Clause BSD License
+SPDX ID: BSD-2-Clause
+Category: Popular / Strong Community
+URL: https://opensource.org/license/bsd-2-clause
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

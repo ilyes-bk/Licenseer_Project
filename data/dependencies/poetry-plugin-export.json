@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 0,
+    "dependents_count": 44,
+    "deprecation_reason": null,
+    "description": "Poetry plugin to export the dependencies to various formats",
+    "homepage": "https://python-poetry.org/",
+    "keywords": [
+        "poetry",
+        "poetry-plugin",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.9.0",
+    "latest_release_published_at": "2025-01-12T15:44:23.000Z",
+    "latest_stable_release_number": "1.9.0",
+    "latest_stable_release_published_at": "2025-01-12T15:44:23.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "poetry-plugin-export",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/poetry-plugin-export/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-poetry/poetry-plugin-export",
+    "security_policy_url": null
+}

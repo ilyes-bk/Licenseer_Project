@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/frostming/unearth/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/frostming/unearth/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 7,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "A utility to fetch and download python packages",
+    "homepage": "https://github.com/frostming/unearth",
+    "keywords": [
+        "downloader",
+        "pypi",
+        "utility"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.17.5",
+    "latest_release_published_at": "2025-04-09T02:54:45.000Z",
+    "latest_stable_release_number": "0.17.5",
+    "latest_stable_release_published_at": "2025-04-09T02:54:45.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "unearth",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/unearth/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/frostming/unearth",
+    "security_policy_url": null
+}

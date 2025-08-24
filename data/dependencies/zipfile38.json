@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 0,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "Read and write ZIP files - backport of the zipfile module from Python 3.8",
+    "homepage": "https://github.com/lorencarvalho/zipfile38",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.0.3",
+    "latest_release_published_at": "2020-12-03T15:33:53.000Z",
+    "latest_stable_release_number": "0.0.3",
+    "latest_stable_release_published_at": "2020-12-03T15:33:53.000Z",
+    "license_normalized": true,
+    "licenses": "Python Software Foundation License",
+    "name": "zipfile38",
+    "normalized_licenses": [
+        "PSF-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/zipfile38/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lorencarvalho/zipfile38",
+    "security_policy_url": null
+}

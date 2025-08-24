@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 53,
+    "dependents_count": 150,
+    "deprecation_reason": null,
+    "description": "Poetry PEP 517 Build Backend",
+    "homepage": "https://github.com/python-poetry/poetry-core",
+    "keywords": [
+        "packaging",
+        "dependency",
+        "poetry",
+        "build-tools",
+        "pep517",
+        "py",
+        "pypi",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.2",
+    "latest_release_published_at": "2025-03-29T20:38:15.000Z",
+    "latest_stable_release_number": "2.1.2",
+    "latest_stable_release_published_at": "2025-03-29T20:38:15.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "poetry-core",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/poetry-core/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-poetry/poetry-core",
+    "security_policy_url": null
+}

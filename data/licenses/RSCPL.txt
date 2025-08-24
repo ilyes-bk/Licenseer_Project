@@ -1,0 +1,8 @@
+License Name: The Ricoh Source Code Public License
+SPDX ID: RSCPL
+Category: Non-Reusable
+URL: https://opensource.org/license/ricohpl-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

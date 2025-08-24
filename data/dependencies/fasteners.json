@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 115,
+    "dependents_count": 189,
+    "deprecation_reason": null,
+    "description": "A python package that provides useful locks",
+    "homepage": "https://github.com/harlowja/fasteners",
+    "keywords": [
+        "lock",
+        "thread",
+        "process",
+        "fasteners"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.19",
+    "latest_release_published_at": "2023-09-19T17:11:18.000Z",
+    "latest_stable_release_number": "0.17.3",
+    "latest_stable_release_published_at": "2022-01-25T14:54:23.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "fasteners",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/fasteners/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/harlowja/fasteners",
+    "security_policy_url": null
+}

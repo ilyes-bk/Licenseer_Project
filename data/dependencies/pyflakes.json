@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 495,
+    "dependents_count": 757,
+    "deprecation_reason": null,
+    "description": "passive checker of Python programs",
+    "homepage": "https://github.com/PyCQA/pyflakes",
+    "keywords": [
+        "hacktoberfest",
+        "linter",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.3.2",
+    "latest_release_published_at": "2025-03-31T13:21:18.000Z",
+    "latest_stable_release_number": "3.3.2",
+    "latest_stable_release_published_at": "2025-03-31T13:21:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyflakes",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyflakes/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PyCQA/pyflakes",
+    "security_policy_url": null
+}

@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/python-attrs/attrs/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python-attrs/attrs/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 3419,
+    "dependents_count": 5838,
+    "deprecation_reason": null,
+    "description": "Classes Without Boilerplate",
+    "homepage": "https://www.attrs.org/",
+    "keywords": [
+        "attribute",
+        "boilerplate",
+        "class",
+        "attributes",
+        "classes",
+        "oop",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.3.0",
+    "latest_release_published_at": "2025-03-13T11:10:21.000Z",
+    "latest_stable_release_number": "25.3.0",
+    "latest_stable_release_published_at": "2025-03-13T11:10:21.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "attrs",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/attrs/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-attrs/attrs",
+    "security_policy_url": "https://github.com/python-attrs/attrs/security/policy"
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 4,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "Snowplow event tracker for Python. Add analytics to your Python and Django apps, webapps and games",
+    "homepage": "http://snowplow.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2025-02-21T10:58:45.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2025-02-21T10:58:45.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "snowplow-tracker",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/snowplow-tracker/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

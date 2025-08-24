@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/kislyuk/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/kislyuk/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 13,
+    "dependents_count": 20,
+    "deprecation_reason": null,
+    "description": "Command-line YAML/XML processor - jq wrapper for YAML/XML documents",
+    "homepage": "https://github.com/kislyuk/yq",
+    "keywords": [
+        "cli",
+        "command-line",
+        "jq",
+        "json",
+        "xml",
+        "yaml",
+        "yml"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.4.3",
+    "latest_release_published_at": "2024-04-27T15:39:41.000Z",
+    "latest_stable_release_number": "3.4.3",
+    "latest_stable_release_published_at": "2024-04-27T15:39:41.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "yq",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/yq/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kislyuk/yq",
+    "security_policy_url": "https://github.com/kislyuk/yq/security/policy"
+}

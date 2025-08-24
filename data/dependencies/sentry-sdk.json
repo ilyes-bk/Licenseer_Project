@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/getsentry/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/getsentry/sentry-python/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 359,
+    "dependents_count": 756,
+    "deprecation_reason": null,
+    "description": "Python client for Sentry (https://sentry.io)",
+    "homepage": "https://github.com/getsentry/sentry-python",
+    "keywords": [
+        "crash-reporting",
+        "hacktoberfest",
+        "python",
+        "sdk",
+        "sentry",
+        "sentry-python",
+        "tag-production",
+        "team-web-backend"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.27.0",
+    "latest_release_published_at": "2025-04-24T10:09:35.000Z",
+    "latest_stable_release_number": "2.27.0",
+    "latest_stable_release_published_at": "2025-04-24T10:09:35.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sentry-sdk",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sentry-sdk/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/getsentry/sentry-python",
+    "security_policy_url": "https://github.com/getsentry/sentry-python/security/policy"
+}

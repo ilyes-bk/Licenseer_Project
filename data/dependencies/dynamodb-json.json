@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 7,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "A DynamoDB json util from and to python objects",
+    "homepage": "https://github.com/Alonreznik/dynamodb-json",
+    "keywords": [
+        "python",
+        "dynamodb",
+        "amazon",
+        "json",
+        "aws",
+        "dump-strings",
+        "dynamodb-json",
+        "json-parser",
+        "serverless"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.2",
+    "latest_release_published_at": "2024-05-18T17:58:13.000Z",
+    "latest_stable_release_number": "1.4.2",
+    "latest_stable_release_published_at": "2024-05-18T17:58:13.000Z",
+    "license_normalized": true,
+    "licenses": "Mozilla",
+    "name": "dynamodb-json",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/dynamodb-json/",
+    "repository_license": "MPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Alonreznik/dynamodb-json",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/uqfoundation/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/uqfoundation/.github/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 22,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "distributed and parallel Python",
+    "homepage": "https://github.com/uqfoundation/ppft",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.7.7",
+    "latest_release_published_at": "2025-04-16T01:47:39.000Z",
+    "latest_stable_release_number": "1.7.7",
+    "latest_stable_release_published_at": "2025-04-16T01:47:39.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "ppft",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ppft/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/uqfoundation/ppft",
+    "security_policy_url": "https://github.com/uqfoundation/ppft/security/policy"
+}

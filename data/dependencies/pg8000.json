@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 72,
+    "dependents_count": 127,
+    "deprecation_reason": null,
+    "description": "PostgreSQL interface library",
+    "homepage": "https://github.com/tlocke/pg8000",
+    "keywords": [
+        "dbapi",
+        "postgresql",
+        "postgresql-driver",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.31.2",
+    "latest_release_published_at": "2024-04-28T16:57:44.000Z",
+    "latest_stable_release_number": "1.31.2",
+    "latest_stable_release_published_at": "2024-04-28T16:57:44.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "pg8000",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pg8000/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tlocke/pg8000",
+    "security_policy_url": null
+}

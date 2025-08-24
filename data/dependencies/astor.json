@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 220,
+    "dependents_count": 398,
+    "deprecation_reason": null,
+    "description": "Read/rewrite/write Python ASTs",
+    "homepage": "https://github.com/berkerpeksag/astor",
+    "keywords": [
+        "ast",
+        "codegen",
+        "PEP",
+        "8"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.8.1",
+    "latest_release_published_at": "2019-12-10T01:50:33.000Z",
+    "latest_stable_release_number": "0.8.1",
+    "latest_stable_release_published_at": "2019-12-10T01:50:33.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "astor",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/astor/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/berkerpeksag/astor",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/python-cloud-core/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/python-cloud-core/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 116,
+    "dependents_count": 286,
+    "deprecation_reason": null,
+    "description": "Google Cloud API client core library",
+    "homepage": "https://github.com/googleapis/python-cloud-core",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.4.3",
+    "latest_release_published_at": "2025-03-10T21:05:37.000Z",
+    "latest_stable_release_number": "2.4.3",
+    "latest_stable_release_published_at": "2025-03-10T21:05:37.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-cloud-core",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-cloud-core/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/python-cloud-core",
+    "security_policy_url": "https://github.com/googleapis/python-cloud-core/security/policy"
+}

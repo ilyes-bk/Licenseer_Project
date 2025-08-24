@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 96,
+    "dependents_count": 164,
+    "deprecation_reason": null,
+    "description": "An XML Schema validator and decoder",
+    "homepage": "https://github.com/sissaschool/xmlschema",
+    "keywords": [
+        "decoder",
+        "elementtree",
+        "encoder",
+        "lxml",
+        "validator",
+        "xml",
+        "xml-data-binding",
+        "xmlschema",
+        "xmlschema11",
+        "xsd"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.0.1",
+    "latest_release_published_at": "2025-04-13T20:41:21.000Z",
+    "latest_stable_release_number": "4.0.1",
+    "latest_stable_release_published_at": "2025-04-13T20:41:21.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "xmlschema",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/xmlschema/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sissaschool/xmlschema",
+    "security_policy_url": null
+}

@@ -1,0 +1,9 @@
+License Name: Motosoto Open Source License
+SPDX ID: Motosoto
+Category: Non-Reusable
+URL: https://opensource.org/license/motosoto
+
+Additional Metadata:
+Version: Version 0.9
+Submitted: Submitted: April 23, 2001
+Submitter: Submitter: Leon Gommans

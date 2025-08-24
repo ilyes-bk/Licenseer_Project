@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/pydata/patsy/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 197,
+    "dependents_count": 336,
+    "deprecation_reason": null,
+    "description": "A Python package for describing statistical models and for building design matrices.",
+    "homepage": "https://github.com/pydata/patsy",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2024-11-12T14:10:52.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2024-11-12T14:10:52.000Z",
+    "license_normalized": true,
+    "licenses": "2-clause BSD",
+    "name": "patsy",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/patsy/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pydata/patsy",
+    "security_policy_url": null
+}

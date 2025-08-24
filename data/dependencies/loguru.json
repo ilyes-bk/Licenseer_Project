@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/Delgan/loguru/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 2524,
+    "dependents_count": 5095,
+    "deprecation_reason": null,
+    "description": "Python logging made (stupidly) simple",
+    "homepage": "https://github.com/Delgan/loguru",
+    "keywords": [
+        "loguru",
+        "logging",
+        "logger",
+        "log",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.3",
+    "latest_release_published_at": "2024-12-06T11:20:54.000Z",
+    "latest_stable_release_number": "0.7.3",
+    "latest_stable_release_published_at": "2024-12-06T11:20:54.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "loguru",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/loguru/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Delgan/loguru",
+    "security_policy_url": "https://github.com/Delgan/loguru/security/policy"
+}

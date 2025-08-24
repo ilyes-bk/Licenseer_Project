@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 460,
+    "dependents_count": 888,
+    "deprecation_reason": null,
+    "description": "Character encoding aliases for legacy web content",
+    "homepage": "https://github.com/SimonSapin/python-webencodings",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.5.1",
+    "latest_release_published_at": "2017-04-05T20:21:32.000Z",
+    "latest_stable_release_number": "0.5.1",
+    "latest_stable_release_published_at": "2017-04-05T20:21:32.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "webencodings",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/webencodings/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/SimonSapin/python-webencodings",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 168,
+    "dependents_count": 278,
+    "deprecation_reason": null,
+    "description": "sphinxcontrib-serializinghtml is a sphinx extension which outputs \"serialized\" HTML files (json and pickle)",
+    "homepage": "https://www.sphinx-doc.org/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.0.0",
+    "latest_release_published_at": "2024-07-29T01:10:08.000Z",
+    "latest_stable_release_number": "2.0.0",
+    "latest_stable_release_published_at": "2024-07-29T01:10:08.000Z",
+    "license_normalized": false,
+    "licenses": "BSD License",
+    "name": "sphinxcontrib-serializinghtml",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinxcontrib-serializinghtml/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sphinx-doc/sphinxcontrib-serializinghtml",
+    "security_policy_url": null
+}

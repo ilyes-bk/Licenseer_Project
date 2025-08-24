@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 113,
+    "dependents_count": 205,
+    "deprecation_reason": null,
+    "description": "An extension module for click to enable registering CLI commands via setuptools entry-points.",
+    "homepage": "https://github.com/click-contrib/click-plugins",
+    "keywords": [
+        "click",
+        "plugin",
+        "setuptools",
+        "entry-point"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2019-04-04T04:27:03.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2019-04-04T04:27:03.000Z",
+    "license_normalized": true,
+    "licenses": "New BSD",
+    "name": "click-plugins",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/click-plugins/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/click-contrib/click-plugins",
+    "security_policy_url": null
+}

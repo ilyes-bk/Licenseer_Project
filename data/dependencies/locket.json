@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/mwilliamson/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 40,
+    "dependents_count": 79,
+    "deprecation_reason": null,
+    "description": "File-based locks for Python on Linux and Windows",
+    "homepage": "http://github.com/mwilliamson/locket.py",
+    "keywords": [
+        "lock",
+        "filelock",
+        "lockfile",
+        "process"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2022-04-20T22:04:42.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2022-04-20T22:04:42.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "locket",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/locket/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mwilliamson/locket.py",
+    "security_policy_url": null
+}

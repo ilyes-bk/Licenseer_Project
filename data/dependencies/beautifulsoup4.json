@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 9505,
+    "dependents_count": 13760,
+    "deprecation_reason": null,
+    "description": "Screen-scraping library",
+    "homepage": "https://www.crummy.com/software/BeautifulSoup/bs4/",
+    "keywords": [
+        "HTML",
+        "XML",
+        "parse",
+        "soup"
+    ],
+    "language": null,
+    "latest_release_number": "4.13.4",
+    "latest_release_published_at": "2025-04-15T17:05:12.000Z",
+    "latest_stable_release_number": "4.13.4",
+    "latest_stable_release_published_at": "2025-04-15T17:05:12.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "beautifulsoup4",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/beautifulsoup4/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/jsvine/pdfplumber/blob/stable/CONTRIBUTING.md",
+    "dependent_repos_count": 140,
+    "dependents_count": 302,
+    "deprecation_reason": null,
+    "description": "Plumb a PDF for detailed information about each char, rectangle, and line.",
+    "homepage": "https://github.com/jsvine/pdfplumber",
+    "keywords": [
+        "pdf",
+        "pdf-parsing",
+        "table-extraction"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.11.6",
+    "latest_release_published_at": "2025-03-28T03:19:00.000Z",
+    "latest_stable_release_number": "0.11.6",
+    "latest_stable_release_published_at": "2025-03-28T03:19:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pdfplumber",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pdfplumber/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jsvine/pdfplumber",
+    "security_policy_url": null
+}

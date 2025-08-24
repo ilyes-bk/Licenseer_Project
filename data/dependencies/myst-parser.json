@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/executablebooks/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/executablebooks/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 1782,
+    "dependents_count": 2427,
+    "deprecation_reason": null,
+    "description": "An extended [CommonMark](https://spec.commonmark.org/) compliant parser,",
+    "homepage": "https://github.com/executablebooks/MyST-Parser",
+    "keywords": [
+        "markdown",
+        "lexer",
+        "parser",
+        "development",
+        "docutils",
+        "sphinx",
+        "markdown-parser",
+        "sphinx-extension"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.0.1",
+    "latest_release_published_at": "2025-02-12T10:53:02.000Z",
+    "latest_stable_release_number": "4.0.1",
+    "latest_stable_release_published_at": "2025-02-12T10:53:02.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "myst-parser",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/myst-parser/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/executablebooks/MyST-Parser",
+    "security_policy_url": null
+}

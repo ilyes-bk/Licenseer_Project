@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1478,
+    "dependents_count": 2329,
+    "deprecation_reason": null,
+    "description": "Python Serial Port Extension",
+    "homepage": "https://github.com/pyserial/pyserial",
+    "keywords": [
+        "python",
+        "serial"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.5",
+    "latest_release_published_at": "2020-11-23T04:08:17.709Z",
+    "latest_stable_release_number": "3.2.1",
+    "latest_stable_release_published_at": "2016-10-14T20:49:04.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "pyserial",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyserial/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pyserial/pyserial",
+    "security_policy_url": null
+}

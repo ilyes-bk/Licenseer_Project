@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-sdk-for-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 357,
+    "dependents_count": 819,
+    "deprecation_reason": null,
+    "description": "Microsoft Azure Blob Storage Client Library for Python",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/storage/azure-storage-blob",
+    "keywords": [
+        "azure",
+        "sdk",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "12.25.1",
+    "latest_release_published_at": "2025-03-27T17:13:06.000Z",
+    "latest_stable_release_number": "12.25.1",
+    "latest_stable_release_published_at": "2025-03-27T17:13:06.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "azure-storage-blob",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-storage-blob/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-sdk-for-python",
+    "security_policy_url": "https://github.com/Azure/azure-sdk-for-python/security/policy"
+}

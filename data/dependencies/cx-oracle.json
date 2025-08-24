@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": "https://github.com/oracle/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/oracle/python-cx_Oracle/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 122,
+    "dependents_count": 312,
+    "deprecation_reason": null,
+    "description": "Python interface to Oracle",
+    "homepage": "https://oracle.github.io/python-cx_Oracle",
+    "keywords": [
+        "Oracle",
+        "database",
+        "database-connector",
+        "db-connection",
+        "odpi",
+        "oracle-database",
+        "oracle-db",
+        "python",
+        "python-library",
+        "python-module"
+    ],
+    "language": "C",
+    "latest_release_number": "5.0.2",
+    "latest_release_published_at": "2023-07-20T16:04:57.864Z",
+    "latest_stable_release_number": "5.0.2",
+    "latest_stable_release_published_at": "2023-07-20T16:04:57.864Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "cx-Oracle",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/cx-Oracle/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/oracle/python-cx_Oracle",
+    "security_policy_url": "https://github.com/oracle/python-cx_Oracle/security/policy"
+}

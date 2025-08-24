@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/daviddrysdale/python-phonenumbers/blob/dev/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 209,
+    "dependents_count": 451,
+    "deprecation_reason": null,
+    "description": "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers.",
+    "homepage": "https://github.com/daviddrysdale/python-phonenumbers",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "9.0.4",
+    "latest_release_published_at": "2025-04-25T06:20:49.000Z",
+    "latest_stable_release_number": "9.0.4",
+    "latest_stable_release_published_at": "2025-04-25T06:20:49.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "phonenumbers",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/phonenumbers/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/daviddrysdale/python-phonenumbers",
+    "security_policy_url": null
+}

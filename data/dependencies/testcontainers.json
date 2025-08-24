@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/testcontainers/testcontainers-python/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 55,
+    "dependents_count": 92,
+    "deprecation_reason": null,
+    "description": "Python library for throwaway instances of anything that can run in a Docker container",
+    "homepage": "https://testcontainers-python.readthedocs.io/en/latest/",
+    "keywords": [
+        "testing",
+        "logging",
+        "docker",
+        "test",
+        "automation",
+        "database",
+        "python",
+        "python3",
+        "selenium",
+        "testcontainers"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.10.0",
+    "latest_release_published_at": "2025-04-02T16:13:25.000Z",
+    "latest_stable_release_number": "4.10.0",
+    "latest_stable_release_published_at": "2025-04-02T16:13:25.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "testcontainers",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/testcontainers/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/testcontainers/testcontainers-python",
+    "security_policy_url": null
+}

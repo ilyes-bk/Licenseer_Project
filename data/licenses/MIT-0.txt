@@ -1,0 +1,9 @@
+License Name: MIT No Attribution License
+SPDX ID: MIT-0
+Category: Other/Miscellaneous
+URL: https://opensource.org/license/mit-0
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: May 15, 2020
+Submitter: Submitter: Tobie Langel, URL N/A

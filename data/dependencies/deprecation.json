@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 280,
+    "dependents_count": 490,
+    "deprecation_reason": null,
+    "description": "A library to handle automated deprecations",
+    "homepage": "http://deprecation.readthedocs.io/",
+    "keywords": [
+        "deprecation"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2020-04-20T14:23:36.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2020-04-20T14:23:36.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2",
+    "name": "deprecation",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/deprecation/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/briancurtin/deprecation",
+    "security_policy_url": null
+}

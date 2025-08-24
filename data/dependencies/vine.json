@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 45,
+    "dependents_count": 113,
+    "deprecation_reason": null,
+    "description": "Python promises.",
+    "homepage": "https://github.com/celery/vine",
+    "keywords": [
+        "promise",
+        "promises",
+        "lazy",
+        "future",
+        "futures",
+        "promise-api",
+        "promise-library",
+        "python",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.1.0",
+    "latest_release_published_at": "2023-11-05T08:46:51.000Z",
+    "latest_stable_release_number": "5.1.0",
+    "latest_stable_release_published_at": "2023-11-05T08:46:51.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "vine",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/vine/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/celery/vine",
+    "security_policy_url": "https://github.com/celery/vine/security/policy"
+}

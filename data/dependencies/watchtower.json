@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/kislyuk/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/kislyuk/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 13,
+    "dependents_count": 36,
+    "deprecation_reason": null,
+    "description": "Python CloudWatch Logging",
+    "homepage": "https://github.com/kislyuk/watchtower",
+    "keywords": [
+        "aws",
+        "aws-cloudwatch-logs",
+        "cloudwatch-logs",
+        "python",
+        "python-logging"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.4.0",
+    "latest_release_published_at": "2025-02-25T15:07:02.000Z",
+    "latest_stable_release_number": "3.4.0",
+    "latest_stable_release_published_at": "2025-02-25T15:07:02.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "watchtower",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/watchtower/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kislyuk/watchtower",
+    "security_policy_url": "https://github.com/kislyuk/watchtower/security/policy"
+}

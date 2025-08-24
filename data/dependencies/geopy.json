@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/geopy/geopy/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 325,
+    "dependents_count": 576,
+    "deprecation_reason": null,
+    "description": "Python Geocoding Toolbox",
+    "homepage": "https://github.com/geopy/geopy",
+    "keywords": [
+        "geocode",
+        "geocoding",
+        "gis",
+        "geographical",
+        "maps",
+        "earth",
+        "distance",
+        "geocoder",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.4.1",
+    "latest_release_published_at": "2023-11-23T21:49:30.000Z",
+    "latest_stable_release_number": "2.4.1",
+    "latest_stable_release_published_at": "2023-11-23T21:49:30.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "geopy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/geopy/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/geopy/geopy",
+    "security_policy_url": null
+}

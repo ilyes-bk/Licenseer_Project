@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/mypy/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 7076,
+    "dependents_count": 10838,
+    "deprecation_reason": null,
+    "description": "Optional static typing for Python",
+    "homepage": "https://www.mypy-lang.org/",
+    "keywords": [
+        "linter",
+        "python",
+        "typechecker",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.15.0",
+    "latest_release_published_at": "2025-02-05T03:49:29.000Z",
+    "latest_stable_release_number": "1.15.0",
+    "latest_stable_release_published_at": "2025-02-05T03:49:29.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "mypy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/mypy/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/mypy",
+    "security_policy_url": "https://github.com/python/mypy/security/policy"
+}

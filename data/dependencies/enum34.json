@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 853,
+    "dependents_count": 1334,
+    "deprecation_reason": null,
+    "description": "Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4",
+    "homepage": "https://bitbucket.org/stoneleaf/enum34",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.1.10",
+    "latest_release_published_at": "2020-03-10T17:47:58.000Z",
+    "latest_stable_release_number": "1.1.10",
+    "latest_stable_release_published_at": "2020-03-10T17:47:58.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "enum34",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/enum34/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://bitbucket.org/stoneleaf/enum34",
+    "security_policy_url": null
+}

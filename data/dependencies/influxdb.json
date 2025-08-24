@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 136,
+    "dependents_count": 226,
+    "deprecation_reason": null,
+    "description": "InfluxDB client",
+    "homepage": "https://github.com/influxdb/influxdb-python",
+    "keywords": [
+        "influxdata",
+        "influxdb",
+        "python",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.3.2",
+    "latest_release_published_at": "2024-04-18T21:45:06.000Z",
+    "latest_stable_release_number": "5.3.2",
+    "latest_stable_release_published_at": "2024-04-18T21:45:06.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "influxdb",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/influxdb/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": "Unmaintained",
+    "repository_url": "https://github.com/influxdb/influxdb-python",
+    "security_policy_url": null
+}

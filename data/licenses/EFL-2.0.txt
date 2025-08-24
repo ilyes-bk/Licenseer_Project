@@ -1,0 +1,9 @@
+License Name: Eiffel Forum License, Version 2
+SPDX ID: EFL-2.0
+Category: Redundant with more popular
+URL: https://opensource.org/license/ver2_eiffel-php
+
+Additional Metadata:
+Version: N/A
+Submitted: Submitted: December 6, 2002
+Submitter: Submitter: Christian Couder

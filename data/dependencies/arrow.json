@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 743,
+    "dependents_count": 1274,
+    "deprecation_reason": null,
+    "description": "Better dates & times for Python",
+    "homepage": "https://arrow.readthedocs.io",
+    "keywords": [
+        "arrow",
+        "date",
+        "time",
+        "datetime",
+        "timestamp",
+        "timezone",
+        "humanize",
+        "hacktoberfest",
+        "python",
+        "timezones"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.3.0",
+    "latest_release_published_at": "2023-09-30T22:11:16.000Z",
+    "latest_stable_release_number": "1.3.0",
+    "latest_stable_release_published_at": "2023-09-30T22:11:16.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "arrow",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/arrow/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/arrow-py/arrow",
+    "security_policy_url": null
+}

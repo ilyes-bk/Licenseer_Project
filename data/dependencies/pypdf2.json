@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/py-pdf/pypdf/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 476,
+    "dependents_count": 966,
+    "deprecation_reason": null,
+    "description": "A pure-python PDF library capable of splitting, merging, cropping, and transforming PDF files",
+    "homepage": "https://pypdf2.readthedocs.io/en/latest/",
+    "keywords": [
+        "help-wanted",
+        "pdf",
+        "pdf-documents",
+        "pdf-manipulation",
+        "pdf-parser",
+        "pdf-parsing",
+        "pypdf2",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.0.1",
+    "latest_release_published_at": "2023-01-02T18:14:02.166Z",
+    "latest_stable_release_number": "3.0.1",
+    "latest_stable_release_published_at": "2023-01-02T18:14:02.166Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "PyPDF2",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyPDF2/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/py-pdf/PyPDF2",
+    "security_policy_url": "https://github.com/py-pdf/pypdf/security/policy"
+}

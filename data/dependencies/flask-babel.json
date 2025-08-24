@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 53,
+    "dependents_count": 100,
+    "deprecation_reason": null,
+    "description": "Adds i18n/l10n support for Flask applications.",
+    "homepage": "https://github.com/python-babel/flask-babel",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.0.0",
+    "latest_release_published_at": "2023-10-02T01:10:48.000Z",
+    "latest_stable_release_number": "4.0.0",
+    "latest_stable_release_published_at": "2023-10-02T01:10:48.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "flask-babel",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/flask-babel/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-babel/flask-babel",
+    "security_policy_url": null
+}

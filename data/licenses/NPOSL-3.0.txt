@@ -1,0 +1,9 @@
+License Name: Non-Profit Open Software License version 3.0
+SPDX ID: NPOSL-3.0
+Category: Uncategorized
+URL: https://opensource.org/license/nposl-3-0
+
+Additional Metadata:
+Version: Version 3.0
+Submitted: Submitted: August 7, 2007
+Submitter: Submitter: Lawrence Rosen

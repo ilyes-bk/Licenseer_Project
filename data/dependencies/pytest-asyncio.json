@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2232,
+    "dependents_count": 3705,
+    "deprecation_reason": null,
+    "description": "Pytest support for asyncio",
+    "homepage": "https://github.com/pytest-dev/pytest-asyncio",
+    "keywords": [
+        "asyncio",
+        "pytest-plugin",
+        "python",
+        "testing"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.26.0",
+    "latest_release_published_at": "2025-03-25T06:22:27.000Z",
+    "latest_stable_release_number": "0.26.0",
+    "latest_stable_release_published_at": "2025-03-25T06:22:27.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "pytest-asyncio",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-asyncio/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-asyncio",
+    "security_policy_url": null
+}

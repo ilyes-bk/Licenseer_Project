@@ -1,0 +1,43 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/ijl/orjson/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 1306,
+    "dependents_count": 2244,
+    "deprecation_reason": null,
+    "description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+    "homepage": "",
+    "keywords": [
+        "fast",
+        "json",
+        "dataclass",
+        "dataclasses",
+        "datetime",
+        "rfc",
+        "8259",
+        "3339",
+        "deserialization",
+        "numpy",
+        "pyo3",
+        "python",
+        "rust",
+        "serialization"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.10.16",
+    "latest_release_published_at": "2025-03-24T16:58:41.000Z",
+    "latest_stable_release_number": "3.10.16",
+    "latest_stable_release_published_at": "2025-03-24T16:58:41.000Z",
+    "license_normalized": true,
+    "licenses": "Apache-2.0 OR MIT",
+    "name": "orjson",
+    "normalized_licenses": [
+        "Apache-2.0",
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/orjson/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ijl/orjson",
+    "security_policy_url": null
+}

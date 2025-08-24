@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 157,
+    "dependents_count": 225,
+    "deprecation_reason": null,
+    "description": "When they're not builtins, they're boltons.",
+    "homepage": "https://github.com/mahmoud/boltons",
+    "keywords": [
+        "cache",
+        "data-science",
+        "data-structures",
+        "file",
+        "json",
+        "python",
+        "queue",
+        "recursive",
+        "standard-library",
+        "statistics",
+        "utilities"
+    ],
+    "language": "Python",
+    "latest_release_number": "25.0.0",
+    "latest_release_published_at": "2025-02-03T05:57:56.000Z",
+    "latest_stable_release_number": "25.0.0",
+    "latest_stable_release_published_at": "2025-02-03T05:57:56.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "boltons",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/boltons/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mahmoud/boltons",
+    "security_policy_url": null
+}

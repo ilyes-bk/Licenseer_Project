@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/behave/behave/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 106,
+    "dependents_count": 181,
+    "deprecation_reason": null,
+    "description": "behave is behaviour-driven development, Python style",
+    "homepage": "http://github.com/behave/behave",
+    "keywords": [
+        "bdd",
+        "bdd-framework",
+        "behave",
+        "behavior-driven-development",
+        "cucumber-like",
+        "gherkin",
+        "python",
+        "python3"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.2.7.dev6",
+    "latest_release_published_at": "2024-09-24T04:38:55.000Z",
+    "latest_stable_release_number": "1.2.6",
+    "latest_stable_release_published_at": "2018-02-25T20:06:34.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "behave",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/behave/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/behave/behave",
+    "security_policy_url": "https://github.com/behave/behave/security/policy"
+}

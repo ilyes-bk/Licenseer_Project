@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/python-openapi/openapi-schema-validator/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 16,
+    "dependents_count": 27,
+    "deprecation_reason": null,
+    "description": "OpenAPI schema validation for Python",
+    "homepage": "https://github.com/python-openapi/openapi-schema-validator",
+    "keywords": [
+        "openapi",
+        "swagger",
+        "schema",
+        "oas",
+        "oas3",
+        "openapi3",
+        "openapi31",
+        "python",
+        "python-library",
+        "validation"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.6.3",
+    "latest_release_published_at": "2025-01-10T18:08:19.000Z",
+    "latest_stable_release_number": "0.6.3",
+    "latest_stable_release_published_at": "2025-01-10T18:08:19.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "openapi-schema-validator",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/openapi-schema-validator/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-openapi/openapi-schema-validator",
+    "security_policy_url": "https://github.com/python-openapi/openapi-schema-validator/security/policy"
+}

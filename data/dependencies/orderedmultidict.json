@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 31,
+    "dependents_count": 45,
+    "deprecation_reason": null,
+    "description": "Ordered Multivalue Dictionary",
+    "homepage": "https://github.com/gruns/orderedmultidict",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2019-07-10T20:11:45.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2019-07-10T20:11:45.000Z",
+    "license_normalized": false,
+    "licenses": "Unlicense",
+    "name": "orderedmultidict",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/orderedmultidict/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/gruns/orderedmultidict",
+    "security_policy_url": null
+}

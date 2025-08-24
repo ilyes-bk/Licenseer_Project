@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 844,
+    "dependents_count": 1484,
+    "deprecation_reason": null,
+    "description": "XGBoost Python Package",
+    "homepage": "https://xgboost.readthedocs.io/",
+    "keywords": [
+        "distributed-systems",
+        "gbdt",
+        "gbm",
+        "gbrt",
+        "machine-learning",
+        "xgboost"
+    ],
+    "language": "C++",
+    "latest_release_number": "3.0.0",
+    "latest_release_published_at": "2025-03-15T13:45:01.000Z",
+    "latest_stable_release_number": "3.0.0",
+    "latest_stable_release_published_at": "2025-03-15T13:45:01.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "xgboost",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/xgboost/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dmlc/xgboost",
+    "security_policy_url": "https://github.com/dmlc/xgboost/security/policy"
+}

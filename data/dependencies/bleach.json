@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/mozilla/bleach/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/mozilla/bleach/blob/main/CONTRIBUTING.rst",
+    "dependent_repos_count": 627,
+    "dependents_count": 1165,
+    "deprecation_reason": null,
+    "description": "An easy safelist-based HTML-sanitizing tool.",
+    "homepage": "https://github.com/mozilla/bleach",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "6.2.0",
+    "latest_release_published_at": "2024-10-29T18:30:38.000Z",
+    "latest_stable_release_number": "6.2.0",
+    "latest_stable_release_published_at": "2024-10-29T18:30:38.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "bleach",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/bleach/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mozilla/bleach",
+    "security_policy_url": "https://github.com/mozilla/bleach/security/policy"
+}

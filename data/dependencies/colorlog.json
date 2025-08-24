@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/borntyping/python-colorlog/blob/main/docs/CONTRIBUTING.md",
+    "dependent_repos_count": 765,
+    "dependents_count": 1320,
+    "deprecation_reason": null,
+    "description": "Add colours to the output of Python's logging module.",
+    "homepage": "https://github.com/borntyping/python-colorlog",
+    "keywords": [
+        "library",
+        "logging",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.9.0",
+    "latest_release_published_at": "2024-10-29T18:34:49.000Z",
+    "latest_stable_release_number": "6.9.0",
+    "latest_stable_release_published_at": "2024-10-29T18:34:49.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "colorlog",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/colorlog/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/borntyping/python-colorlog",
+    "security_policy_url": null
+}

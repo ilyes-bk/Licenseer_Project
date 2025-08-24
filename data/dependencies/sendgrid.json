@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/sendgrid/sendgrid-python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/sendgrid/sendgrid-python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 68,
+    "dependents_count": 161,
+    "deprecation_reason": null,
+    "description": "Twilio SendGrid library for Python",
+    "homepage": "https://github.com/sendgrid/sendgrid-python/",
+    "keywords": [
+        "email",
+        "python",
+        "sendgrid",
+        "transactional-emails"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.0.0rc2",
+    "latest_release_published_at": "2024-10-24T13:29:06.000Z",
+    "latest_stable_release_number": "6.11.0",
+    "latest_stable_release_published_at": "2023-12-01T05:18:34.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sendgrid",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sendgrid/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sendgrid/sendgrid-python",
+    "security_policy_url": null
+}

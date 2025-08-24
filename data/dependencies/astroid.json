@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 306,
+    "dependents_count": 491,
+    "deprecation_reason": null,
+    "description": "An abstract syntax tree for Python with inference support.",
+    "homepage": "https://pylint.readthedocs.io/projects/astroid/en/latest/",
+    "keywords": [
+        "static",
+        "code",
+        "analysis",
+        "python",
+        "abstract",
+        "syntax",
+        "tree",
+        "ast",
+        "closember",
+        "hacktoberfest",
+        "inference-engine",
+        "parser",
+        "static-analysis",
+        "static-code-analysis"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.3.9",
+    "latest_release_published_at": "2025-03-09T11:54:34.000Z",
+    "latest_stable_release_number": "3.3.9",
+    "latest_stable_release_published_at": "2025-03-09T11:54:34.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL-2.1-or-later",
+    "name": "astroid",
+    "normalized_licenses": [
+        "LGPL-2.1"
+    ],
+    "package_manager_url": "https://pypi.org/project/astroid/",
+    "repository_license": "LGPL-2.1",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pylint-dev/astroid",
+    "security_policy_url": "https://github.com/pylint-dev/astroid/security/policy"
+}

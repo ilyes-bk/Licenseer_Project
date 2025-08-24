@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 74,
+    "dependents_count": 132,
+    "deprecation_reason": null,
+    "description": "Connexion - API first applications with OpenAPI/Swagger",
+    "homepage": "https://github.com/spec-first/connexion",
+    "keywords": [
+        "api",
+        "swagger",
+        "openapi",
+        "api-first",
+        "api-rest",
+        "flask-extensions",
+        "microservices",
+        "python",
+        "web"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2.0",
+    "latest_release_published_at": "2025-01-08T09:13:49.000Z",
+    "latest_stable_release_number": "3.2.0",
+    "latest_stable_release_published_at": "2025-01-08T09:13:49.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "connexion",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/connexion/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/spec-first/connexion",
+    "security_policy_url": null
+}

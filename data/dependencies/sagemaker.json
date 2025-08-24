@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/aws/sagemaker-python-sdk/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws/sagemaker-python-sdk/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 58,
+    "dependents_count": 121,
+    "deprecation_reason": null,
+    "description": "Open source library for training and deploying models on Amazon SageMaker.",
+    "homepage": "https://github.com/aws/sagemaker-python-sdk",
+    "keywords": [
+        "AI",
+        "AWS",
+        "Amazon",
+        "ML",
+        "MXNet",
+        "Tensorflow",
+        "huggingface",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "sagemaker"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.243.3",
+    "latest_release_published_at": "2025-04-23T13:36:09.000Z",
+    "latest_stable_release_number": "2.243.3",
+    "latest_stable_release_published_at": "2025-04-23T13:36:09.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "sagemaker",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/sagemaker/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aws/sagemaker-python-sdk",
+    "security_policy_url": "https://github.com/aws/sagemaker-python-sdk/security/policy"
+}

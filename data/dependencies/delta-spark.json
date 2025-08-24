@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/delta-io/delta/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/delta-io/delta/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 36,
+    "dependents_count": 86,
+    "deprecation_reason": null,
+    "description": "Python APIs for using Delta Lake with Apache Spark",
+    "homepage": "https://github.com/delta-io/delta/",
+    "keywords": [
+        "delta",
+        "io",
+        "acid",
+        "analytics",
+        "big-data",
+        "delta-lake",
+        "spark"
+    ],
+    "language": "Scala",
+    "latest_release_number": "3.3.1",
+    "latest_release_published_at": "2025-04-24T19:45:34.000Z",
+    "latest_stable_release_number": "3.3.1",
+    "latest_stable_release_published_at": "2025-04-24T19:45:34.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "delta-spark",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/delta-spark/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/delta-io/delta",
+    "security_policy_url": null
+}

@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 350,
+    "dependents_count": 596,
+    "deprecation_reason": null,
+    "description": "ECDSA cryptographic signature library (pure python)",
+    "homepage": "http://github.com/tlsfuzzer/python-ecdsa",
+    "keywords": [
+        "cryptography",
+        "digital-signatures",
+        "ecdh",
+        "ecdsa",
+        "elliptic-curves",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.19.1",
+    "latest_release_published_at": "2025-03-13T11:52:41.000Z",
+    "latest_stable_release_number": "0.19.1",
+    "latest_stable_release_published_at": "2025-03-13T11:52:41.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "ecdsa",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/ecdsa/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tlsfuzzer/python-ecdsa",
+    "security_policy_url": "https://github.com/tlsfuzzer/python-ecdsa/security/policy"
+}

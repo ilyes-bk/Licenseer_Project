@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/kislyuk/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/kislyuk/.github/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 532,
+    "dependents_count": 1045,
+    "deprecation_reason": null,
+    "description": "Bash tab completion for argparse",
+    "homepage": "https://github.com/kislyuk/argcomplete",
+    "keywords": [
+        "argparse",
+        "bash",
+        "bash-completion",
+        "python",
+        "tab-completion",
+        "zsh",
+        "zsh-completion"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.6.2",
+    "latest_release_published_at": "2025-04-03T04:57:01.000Z",
+    "latest_stable_release_number": "3.6.2",
+    "latest_stable_release_published_at": "2025-04-03T04:57:01.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "argcomplete",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/argcomplete/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kislyuk/argcomplete",
+    "security_policy_url": "https://github.com/kislyuk/argcomplete/security/policy"
+}

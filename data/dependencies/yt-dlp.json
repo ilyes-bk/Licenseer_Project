@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 328,
+    "dependents_count": 576,
+    "deprecation_reason": null,
+    "description": "A feature-rich command-line audio/video downloader",
+    "homepage": "https://discord.gg/H5MNcFW63r",
+    "keywords": [
+        "sponsorblock",
+        "video-downloader",
+        "youtube-dl",
+        "youtube-dlc",
+        "youtube-downloader",
+        "yt-dlp",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2025.4.24.232927.dev0",
+    "latest_release_published_at": "2025-04-24T23:34:48.000Z",
+    "latest_stable_release_number": "2025.3.31",
+    "latest_stable_release_published_at": "2025-03-31T22:03:49.000Z",
+    "license_normalized": true,
+    "licenses": "This is free and unencumbered software released into the public domain.\n        \n        Anyone is free to copy, modify, publish, use, compile, sell, or\n        distribute this software, either in source code form or as a compiled\n        binary, for any purpose, commercial or non-commercial, and by any\n        means.\n        \n        In jurisdictions that recognize copyright laws, the author or authors\n        of this software dedicate any and all copyright interest in the\n        software to the public domain. We make this dedication for the benefit\n        of the public at large and to the detriment of our heirs and\n        successors. We intend this dedication to be an overt act of\n        relinquishment in perpetuity of all present and future rights to this\n        software under copyright law.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n        EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\n        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\n        IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR\n        OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,\n        ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\n        OTHER DEALINGS IN THE SOFTWARE.\n        \n        For more information, please refer to <http://unlicense.org/>",
+    "name": "yt-dlp",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/yt-dlp/",
+    "repository_license": "Unlicense",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/yt-dlp/yt-dlp",
+    "security_policy_url": null
+}

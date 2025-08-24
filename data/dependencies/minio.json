@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/minio/minio-py/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 185,
+    "dependents_count": 430,
+    "deprecation_reason": null,
+    "description": "MinIO Python SDK for Amazon S3 Compatible Cloud Storage",
+    "homepage": "https://github.com/minio/minio-py",
+    "keywords": [
+        "aws-s3",
+        "minio",
+        "minio-client",
+        "s3-bucket",
+        "sdk"
+    ],
+    "language": "Python",
+    "latest_release_number": "7.2.15",
+    "latest_release_published_at": "2025-01-19T08:57:24.000Z",
+    "latest_stable_release_number": "7.2.15",
+    "latest_stable_release_published_at": "2025-01-19T08:57:24.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "minio",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/minio/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/minio/minio-py",
+    "security_policy_url": null
+}

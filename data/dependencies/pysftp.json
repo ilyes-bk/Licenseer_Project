@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 72,
+    "dependents_count": 161,
+    "deprecation_reason": null,
+    "description": "A friendly face on SFTP",
+    "homepage": "https://bitbucket.org/dundeemt/pysftp",
+    "keywords": [
+        "sftp",
+        "ssh",
+        "ftp",
+        "internet"
+    ],
+    "language": null,
+    "latest_release_number": "0.2.9",
+    "latest_release_published_at": "2016-07-06T00:19:28.000Z",
+    "latest_stable_release_number": "0.2.9",
+    "latest_stable_release_published_at": "2016-07-06T00:19:28.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "pysftp",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pysftp/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://bitbucket.org/dundeemt/pysftp",
+    "security_policy_url": null
+}

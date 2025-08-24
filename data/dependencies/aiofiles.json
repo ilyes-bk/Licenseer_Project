@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1015,
+    "dependents_count": 1841,
+    "deprecation_reason": null,
+    "description": "File support for asyncio.",
+    "homepage": "https://github.com/Tinche/aiofiles",
+    "keywords": [
+        "asyncio"
+    ],
+    "language": "Python",
+    "latest_release_number": "24.1.0",
+    "latest_release_published_at": "2024-06-24T11:02:01.000Z",
+    "latest_stable_release_number": "24.1.0",
+    "latest_stable_release_published_at": "2024-06-24T11:02:01.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "aiofiles",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/aiofiles/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Tinche/aiofiles",
+    "security_policy_url": "https://github.com/Tinche/aiofiles/security/policy"
+}

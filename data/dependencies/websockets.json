@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/python-websockets/websockets/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1755,
+    "dependents_count": 3201,
+    "deprecation_reason": null,
+    "description": "An implementation of the WebSocket Protocol (RFC 6455 & 7692)",
+    "homepage": "https://github.com/python-websockets/websockets",
+    "keywords": [
+        "WebSocket",
+        "python",
+        "python3",
+        "websocket-client",
+        "websocket-library",
+        "websocket-server",
+        "websockets"
+    ],
+    "language": "Python",
+    "latest_release_number": "15.0.1",
+    "latest_release_published_at": "2025-03-05T20:01:35.000Z",
+    "latest_stable_release_number": "15.0.1",
+    "latest_stable_release_published_at": "2025-03-05T20:01:35.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "websockets",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/websockets/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-websockets/websockets",
+    "security_policy_url": "https://github.com/python-websockets/websockets/security/policy"
+}

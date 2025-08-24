@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/python-hyper/h11/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python-hyper/h11/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 435,
+    "dependents_count": 1010,
+    "deprecation_reason": null,
+    "description": "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1",
+    "homepage": "https://github.com/python-hyper/h11",
+    "keywords": [
+        "http",
+        "python",
+        "sans-io"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.16.0",
+    "latest_release_published_at": "2025-04-24T03:35:24.000Z",
+    "latest_stable_release_number": "0.16.0",
+    "latest_stable_release_published_at": "2025-04-24T03:35:24.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "h11",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/h11/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-hyper/h11",
+    "security_policy_url": null
+}

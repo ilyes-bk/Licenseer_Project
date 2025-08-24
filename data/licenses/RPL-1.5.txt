@@ -1,0 +1,9 @@
+License Name: Reciprocal Public License 1.5
+SPDX ID: RPL-1.5
+Category: Uncategorized
+URL: https://opensource.org/license/rpl-1-5
+
+Additional Metadata:
+Version: Version 1.5
+Submitted: Submitted: July 24, 2007
+Submitter: Submitter: William J. Edney, URL N/A

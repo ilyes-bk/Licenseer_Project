@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": "https://github.com/lepture/authlib/blob/main/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 243,
+    "dependents_count": 421,
+    "deprecation_reason": null,
+    "description": "The ultimate Python library in building OAuth and OpenID Connect servers and clients.",
+    "homepage": "https://authlib.org/",
+    "keywords": [
+        "django",
+        "flask",
+        "jose",
+        "jwe",
+        "jwk",
+        "jws",
+        "jwt",
+        "oauth",
+        "oauth2",
+        "oauth2-provider",
+        "oauth2-server",
+        "oidc",
+        "openid-connect"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.5.2",
+    "latest_release_published_at": "2025-04-02T10:31:34.000Z",
+    "latest_stable_release_number": "1.5.2",
+    "latest_stable_release_published_at": "2025-04-02T10:31:34.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "Authlib",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/Authlib/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lepture/authlib",
+    "security_policy_url": "https://github.com/lepture/authlib/security/policy"
+}

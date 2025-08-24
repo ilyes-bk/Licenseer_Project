@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/PythonCharmers/python-future/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 2325,
+    "dependents_count": 3347,
+    "deprecation_reason": null,
+    "description": "Clean single-source support for Python 3 and 2",
+    "homepage": "https://python-future.org",
+    "keywords": [
+        "future",
+        "past",
+        "python3",
+        "migration",
+        "futurize",
+        "backport",
+        "six",
+        "2to3",
+        "modernize",
+        "pasteurize",
+        "3to2"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2024-02-21T11:52:35.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2024-02-21T11:52:35.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "future",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/future/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PythonCharmers/python-future",
+    "security_policy_url": "https://github.com/PythonCharmers/python-future/security/policy"
+}

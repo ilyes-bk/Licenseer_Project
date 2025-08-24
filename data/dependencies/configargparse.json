@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 238,
+    "dependents_count": 372,
+    "deprecation_reason": null,
+    "description": "A drop-in replacement for argparse that allows options to also be set via config files and/or environment variables.",
+    "homepage": "https://github.com/bw2/ConfigArgParse",
+    "keywords": [
+        "options",
+        "argparse",
+        "ConfigArgParse",
+        "config",
+        "environment",
+        "variables",
+        "envvars",
+        "ENV",
+        "optparse",
+        "YAML",
+        "INI"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.7",
+    "latest_release_published_at": "2023-07-23T16:20:03.000Z",
+    "latest_stable_release_number": "1.5.5",
+    "latest_stable_release_published_at": "2023-06-27T20:28:04.302Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "ConfigArgParse",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/ConfigArgParse/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/bw2/ConfigArgParse",
+    "security_policy_url": null
+}

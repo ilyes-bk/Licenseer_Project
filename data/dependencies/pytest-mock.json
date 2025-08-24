@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pytest-dev/pytest-mock/blob/main/docs/contributing.rst",
+    "dependent_repos_count": 2022,
+    "dependents_count": 3323,
+    "deprecation_reason": null,
+    "description": "Thin-wrapper around the mock package for easier use with pytest",
+    "homepage": "https://github.com/pytest-dev/pytest-mock/",
+    "keywords": [
+        "pytest",
+        "mock",
+        "hacktoberfest"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.14.0",
+    "latest_release_published_at": "2024-03-21T22:14:02.000Z",
+    "latest_stable_release_number": "3.14.0",
+    "latest_stable_release_published_at": "2024-03-21T22:14:02.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytest-mock",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-mock/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-mock",
+    "security_policy_url": "https://github.com/pytest-dev/pytest-mock/security/policy"
+}

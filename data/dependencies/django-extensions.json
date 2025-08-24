@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/django-extensions/django-extensions/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 204,
+    "dependents_count": 343,
+    "deprecation_reason": null,
+    "description": "Extensions for Django",
+    "homepage": "https://github.com/django-extensions/django-extensions",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "4.1",
+    "latest_release_published_at": "2025-04-11T01:15:37.000Z",
+    "latest_stable_release_number": "3.2.3",
+    "latest_stable_release_published_at": "2023-06-05T17:10:00.484Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "django-extensions",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/django-extensions/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/django-extensions/django-extensions",
+    "security_policy_url": null
+}

@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 313,
+    "dependents_count": 743,
+    "deprecation_reason": null,
+    "description": "Chroma.",
+    "homepage": "https://github.com/chroma-core/chroma",
+    "keywords": [
+        "document-retrieval",
+        "embeddings",
+        "llms"
+    ],
+    "language": "Rust",
+    "latest_release_number": "1.0.7",
+    "latest_release_published_at": "2025-04-24T23:26:31.000Z",
+    "latest_stable_release_number": "1.0.7",
+    "latest_stable_release_published_at": "2025-04-24T23:26:31.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "chromadb",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/chromadb/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/chroma-core/chroma",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 627,
+    "dependents_count": 932,
+    "deprecation_reason": null,
+    "description": "pytest plugin to abort hanging tests",
+    "homepage": "https://github.com/pytest-dev/pytest-timeout",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.3.1",
+    "latest_release_published_at": "2024-03-07T21:03:58.000Z",
+    "latest_stable_release_number": "2.3.1",
+    "latest_stable_release_published_at": "2024-03-07T21:03:58.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytest-timeout",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-timeout/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-timeout",
+    "security_policy_url": null
+}

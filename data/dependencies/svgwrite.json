@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 121,
+    "dependents_count": 175,
+    "deprecation_reason": "Development Status :: 7 - Inactive",
+    "description": "A Python library to create SVG drawings.",
+    "homepage": "http://github.com/mozman/svgwrite.git",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.4.3",
+    "latest_release_published_at": "2022-07-14T14:07:12.390Z",
+    "latest_stable_release_number": "1.4.3",
+    "latest_stable_release_published_at": "2022-07-14T14:07:12.390Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "svgwrite",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/svgwrite/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mozman/svgwrite",
+    "security_policy_url": null
+}

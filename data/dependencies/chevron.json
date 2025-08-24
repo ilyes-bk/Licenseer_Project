@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 59,
+    "dependents_count": 111,
+    "deprecation_reason": null,
+    "description": "Mustache templating language renderer",
+    "homepage": "https://github.com/noahmorrison/chevron",
+    "keywords": [
+        "mustache",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.14.0",
+    "latest_release_published_at": "2021-01-02T22:47:57.000Z",
+    "latest_stable_release_number": "0.14.0",
+    "latest_stable_release_published_at": "2021-01-02T22:47:57.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "chevron",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/chevron/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/noahmorrison/chevron",
+    "security_policy_url": null
+}

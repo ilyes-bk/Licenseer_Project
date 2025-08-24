@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/aws/jsii/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/aws/jsii/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 584,
+    "dependents_count": 1496,
+    "deprecation_reason": null,
+    "description": "Python client for jsii runtime",
+    "homepage": "https://github.com/aws/jsii",
+    "keywords": [
+        "aws",
+        "cross-language",
+        "hacktoberfest",
+        "node",
+        "typescript"
+    ],
+    "language": "TypeScript",
+    "latest_release_number": "1.111.0",
+    "latest_release_published_at": "2025-04-02T16:35:48.000Z",
+    "latest_stable_release_number": "1.111.0",
+    "latest_stable_release_published_at": "2025-04-02T16:35:48.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "jsii",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/jsii/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/aws/jsii",
+    "security_policy_url": "https://github.com/aws/jsii/security/policy"
+}

@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/python/.github/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python/typeshed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 310,
+    "dependents_count": 528,
+    "deprecation_reason": null,
+    "description": "Typing stubs for python-dateutil",
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.9.0.20241206",
+    "latest_release_published_at": "2024-12-06T02:56:39.000Z",
+    "latest_stable_release_number": "2.8.19",
+    "latest_stable_release_published_at": "2022-07-19T09:30:25.238Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "types-python-dateutil",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-python-dateutil/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python/typeshed",
+    "security_policy_url": "https://github.com/python/typeshed/security/policy"
+}

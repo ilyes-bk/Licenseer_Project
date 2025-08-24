@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/requests/toolbelt/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 661,
+    "dependents_count": 1974,
+    "deprecation_reason": null,
+    "description": "A utility belt for advanced users of python-requests",
+    "homepage": "https://toolbelt.readthedocs.io/",
+    "keywords": [
+        "http",
+        "python",
+        "python-requests",
+        "toolbox"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2023-05-01T04:12:06.235Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2023-05-01T04:12:06.235Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "requests-toolbelt",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/requests-toolbelt/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/requests/toolbelt",
+    "security_policy_url": "https://github.com/requests/toolbelt/security/policy"
+}

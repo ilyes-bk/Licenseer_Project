@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": "https://github.com/huggingface/datasets/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/huggingface/datasets/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 981,
+    "dependents_count": 1910,
+    "deprecation_reason": null,
+    "description": "HuggingFace community-driven open-source library of datasets",
+    "homepage": "https://github.com/huggingface/datasets",
+    "keywords": [
+        "datasets",
+        "machine",
+        "learning",
+        "computer-vision",
+        "deep-learning",
+        "hacktoberfest",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "numpy",
+        "pandas",
+        "pytorch",
+        "speech",
+        "tensorflow"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.5.0",
+    "latest_release_published_at": "2025-03-27T16:34:12.000Z",
+    "latest_stable_release_number": "3.5.0",
+    "latest_stable_release_published_at": "2025-03-27T16:34:12.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "datasets",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/datasets/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/huggingface/datasets",
+    "security_policy_url": "https://github.com/huggingface/datasets/security/policy"
+}

@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1402,
+    "dependents_count": 1965,
+    "deprecation_reason": null,
+    "description": "Pythonic argument parser, that will make you smile",
+    "homepage": "http://docopt.org",
+    "keywords": [
+        "option",
+        "arguments",
+        "parsing",
+        "optparse",
+        "argparse",
+        "getopt"
+    ],
+    "language": null,
+    "latest_release_number": "0.6.2",
+    "latest_release_published_at": "2014-06-16T11:18:57.000Z",
+    "latest_stable_release_number": "0.6.2",
+    "latest_stable_release_published_at": "2014-06-16T11:18:57.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "docopt",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/docopt/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

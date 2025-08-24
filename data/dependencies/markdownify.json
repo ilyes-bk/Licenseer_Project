@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 195,
+    "dependents_count": 346,
+    "deprecation_reason": null,
+    "description": "Convert HTML to markdown.",
+    "homepage": "http://github.com/matthewwithanm/python-markdownify",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2025-03-05T11:54:39.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2025-03-05T11:54:39.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "markdownify",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/markdownify/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/matthewwithanm/python-markdownify",
+    "security_policy_url": null
+}

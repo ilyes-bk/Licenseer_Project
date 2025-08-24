@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 24,
+    "dependents_count": 42,
+    "deprecation_reason": null,
+    "description": "Generate and parse RFC 3339 timestamps",
+    "homepage": "https://github.com/kurtraschke/pyRFC3339",
+    "keywords": [
+        "rfc",
+        "3339",
+        "timestamp"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.0.1",
+    "latest_release_published_at": "2024-11-04T01:57:08.000Z",
+    "latest_stable_release_number": "2.0.1",
+    "latest_stable_release_published_at": "2024-11-04T01:57:08.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyRFC3339",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyRFC3339/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kurtraschke/pyRFC3339",
+    "security_policy_url": null
+}

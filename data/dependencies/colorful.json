@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": "https://github.com/timofurrer/colorful/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 53,
+    "dependents_count": 90,
+    "deprecation_reason": null,
+    "description": "Terminal string styling done right, in Python.",
+    "homepage": "http://github.com/timofurrer/colorful",
+    "keywords": [
+        "256-colors",
+        "ansi",
+        "colors",
+        "console",
+        "linux",
+        "macosx",
+        "nesting-styles",
+        "python",
+        "python3",
+        "string",
+        "style",
+        "terminal",
+        "truecolor",
+        "windows"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.5.6",
+    "latest_release_published_at": "2024-01-07T19:38:53.000Z",
+    "latest_stable_release_number": "0.5.6",
+    "latest_stable_release_published_at": "2024-01-07T19:38:53.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "colorful",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/colorful/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/timofurrer/colorful",
+    "security_policy_url": null
+}

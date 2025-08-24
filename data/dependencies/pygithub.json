@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/PyGithub/PyGithub/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 726,
+    "dependents_count": 1151,
+    "deprecation_reason": null,
+    "description": "Use the full Github API v3",
+    "homepage": "https://pygithub.readthedocs.io/",
+    "keywords": [
+        "github",
+        "github-api",
+        "pygithub",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.6.1",
+    "latest_release_published_at": "2025-02-21T13:45:55.000Z",
+    "latest_stable_release_number": "2.6.1",
+    "latest_stable_release_published_at": "2025-02-21T13:45:55.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Library or Lesser General Public License (LGPL)",
+    "name": "PyGithub",
+    "normalized_licenses": [
+        "LGPL-2.0",
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyGithub/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pygithub/pygithub",
+    "security_policy_url": null
+}

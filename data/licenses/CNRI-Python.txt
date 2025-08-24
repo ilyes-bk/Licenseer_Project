@@ -1,0 +1,9 @@
+License Name: The CNRI portion of the multi-part Python License
+SPDX ID: CNRI-Python
+Category: Non-Reusable
+URL: https://opensource.org/license/cnri-python
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A
+Submitter: Submitter: Van Lindberg

@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": "https://github.com/delta-io/delta-rs/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/delta-io/delta-rs/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 53,
+    "dependents_count": 104,
+    "deprecation_reason": null,
+    "description": "Native Delta Lake Python binding based on delta-rs with Pandas integration",
+    "homepage": "https://github.com/delta-io/delta-rs",
+    "keywords": [
+        "deltalake",
+        "delta",
+        "datalake",
+        "pandas",
+        "arrow",
+        "databricks",
+        "delta-lake",
+        "pandas-dataframe",
+        "python",
+        "rust"
+    ],
+    "language": "Rust",
+    "latest_release_number": "0.25.5",
+    "latest_release_published_at": "2025-04-03T16:57:16.000Z",
+    "latest_stable_release_number": "0.25.5",
+    "latest_stable_release_published_at": "2025-04-03T16:57:16.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "deltalake",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/deltalake/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/delta-io/delta-rs",
+    "security_policy_url": null
+}

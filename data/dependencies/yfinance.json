@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/ranaroussi/yfinance/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 314,
+    "dependents_count": 622,
+    "deprecation_reason": null,
+    "description": "Download market data from Yahoo! Finance API",
+    "homepage": "https://github.com/ranaroussi/yfinance",
+    "keywords": [
+        "pandas",
+        "yahoo",
+        "finance",
+        "datareader",
+        "financial-data",
+        "fix-yahoo-finance",
+        "market-data",
+        "python",
+        "stock-data",
+        "yahoo-finance",
+        "yahoo-finance-api"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.2.56",
+    "latest_release_published_at": "2025-04-23T21:26:33.000Z",
+    "latest_stable_release_number": "0.2.56",
+    "latest_stable_release_published_at": "2025-04-23T21:26:33.000Z",
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "yfinance",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/yfinance/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/ranaroussi/yfinance",
+    "security_policy_url": null
+}

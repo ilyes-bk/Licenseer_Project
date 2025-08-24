@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 62,
+    "dependents_count": 118,
+    "deprecation_reason": null,
+    "description": "Simple retry client for aiohttp",
+    "homepage": "https://github.com/inyutin/aiohttp_retry",
+    "keywords": [
+        "aiohttp",
+        "retry",
+        "client",
+        "backoff",
+        "failure",
+        "python",
+        "retries"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.9.1",
+    "latest_release_published_at": "2024-11-06T10:44:52.000Z",
+    "latest_stable_release_number": "2.9.1",
+    "latest_stable_release_published_at": "2024-11-06T10:44:52.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "aiohttp-retry",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aiohttp-retry/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/inyutin/aiohttp_retry",
+    "security_policy_url": null
+}

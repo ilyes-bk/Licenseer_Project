@@ -1,0 +1,9 @@
+License Name: The Unlicense
+SPDX ID: Unlicense
+Category: Special Purpose
+URL: https://opensource.org/license/unlicense
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: March 28, 2020
+Submitter: Submitter: Steffen Jaeckel

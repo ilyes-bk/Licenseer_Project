@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/omry/omegaconf/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 393,
+    "dependents_count": 649,
+    "deprecation_reason": null,
+    "description": "A flexible configuration library",
+    "homepage": "https://github.com/omry/omegaconf",
+    "keywords": [
+        "yaml",
+        "configuration",
+        "config",
+        "configuration-files",
+        "configuration-loader",
+        "python",
+        "python-types",
+        "schema-validator",
+        "yaml-configuration"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.4.0.dev3",
+    "latest_release_published_at": "2024-02-29T17:01:39.000Z",
+    "latest_stable_release_number": "2.3.0",
+    "latest_stable_release_published_at": "2022-12-08T21:01:02.889Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "omegaconf",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/omegaconf/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/omry/omegaconf",
+    "security_policy_url": null
+}

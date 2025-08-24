@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 47,
+    "dependents_count": 70,
+    "deprecation_reason": null,
+    "description": "HCL configuration parser for python",
+    "homepage": "https://github.com/virtuald/pyhcl",
+    "keywords": [
+        "configuration",
+        "hcl",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.4.5",
+    "latest_release_published_at": "2023-09-01T05:25:15.000Z",
+    "latest_stable_release_number": "0.4.5",
+    "latest_stable_release_published_at": "2023-09-01T05:25:15.000Z",
+    "license_normalized": true,
+    "licenses": "Mozilla Public License 2.0 (MPL 2.0)",
+    "name": "pyhcl",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyhcl/",
+    "repository_license": "MPL-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/virtuald/pyhcl",
+    "security_policy_url": null
+}

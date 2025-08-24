@@ -1,0 +1,43 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/mtkennerly/dunamai/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 42,
+    "dependents_count": 63,
+    "deprecation_reason": null,
+    "description": "Dynamic version generation",
+    "homepage": "https://github.com/mtkennerly/dunamai",
+    "keywords": [
+        "version",
+        "versioning",
+        "dynamic",
+        "bazaar",
+        "cli",
+        "darcs",
+        "dynamic-version",
+        "fossil",
+        "fossil-scm",
+        "git",
+        "mercurial",
+        "pijul",
+        "python",
+        "semantic-versioning",
+        "subversion"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.23.1",
+    "latest_release_published_at": "2025-03-21T02:26:06.000Z",
+    "latest_stable_release_number": "1.23.1",
+    "latest_stable_release_published_at": "2025-03-21T02:26:06.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "dunamai",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/dunamai/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mtkennerly/dunamai",
+    "security_policy_url": null
+}

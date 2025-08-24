@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": "https://github.com/drivendataorg/cloudpathlib/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/drivendataorg/cloudpathlib/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 32,
+    "dependents_count": 58,
+    "deprecation_reason": null,
+    "description": "pathlib-style classes for cloud storage services.",
+    "homepage": "https://cloudpathlib.drivendata.org",
+    "keywords": [
+        "pathlib",
+        "cloud",
+        "storage",
+        "s3",
+        "azure",
+        "blob",
+        "google",
+        "azure-blob",
+        "cloud-storage",
+        "google-cloud-storage",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.21.0",
+    "latest_release_published_at": "2025-03-04T01:13:36.000Z",
+    "latest_stable_release_number": "0.21.0",
+    "latest_stable_release_published_at": "2025-03-04T01:13:36.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "cloudpathlib",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cloudpathlib/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/drivendataorg/cloudpathlib",
+    "security_policy_url": null
+}

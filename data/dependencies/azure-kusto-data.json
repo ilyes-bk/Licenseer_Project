@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/Azure/azure-kusto-python/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Azure/azure-kusto-python/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 15,
+    "dependents_count": 31,
+    "deprecation_reason": null,
+    "description": "Kusto Data Client",
+    "homepage": "https://github.com/Azure/azure-kusto-python",
+    "keywords": [
+        "kusto",
+        "wrapper",
+        "client",
+        "library",
+        "azure-data-explorer",
+        "python",
+        "sdk"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.0.2",
+    "latest_release_published_at": "2025-03-30T11:29:48.000Z",
+    "latest_stable_release_number": "5.0.2",
+    "latest_stable_release_published_at": "2025-03-30T11:29:48.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "azure-kusto-data",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/azure-kusto-data/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Azure/azure-kusto-python",
+    "security_policy_url": "https://github.com/Azure/azure-kusto-python/security/policy"
+}

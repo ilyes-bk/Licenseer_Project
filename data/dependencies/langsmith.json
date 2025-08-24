@@ -1,0 +1,39 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 104,
+    "dependents_count": 266,
+    "deprecation_reason": null,
+    "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform.",
+    "homepage": "https://smith.langchain.com/",
+    "keywords": [
+        "langsmith",
+        "langchain",
+        "llm",
+        "nlp",
+        "language",
+        "translation",
+        "evaluation",
+        "tracing",
+        "platform",
+        "language-model",
+        "observability"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.3.34",
+    "latest_release_published_at": "2025-04-24T21:47:13.000Z",
+    "latest_stable_release_number": "0.3.34",
+    "latest_stable_release_published_at": "2025-04-24T21:47:13.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "langsmith",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/langsmith/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/langchain-ai/langsmith-sdk",
+    "security_policy_url": null
+}

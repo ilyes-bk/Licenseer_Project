@@ -1,0 +1,9 @@
+License Name: Reciprocal Public License, version 1.1
+SPDX ID: RPL-1.1
+Category: Superseded
+URL: https://opensource.org/license/rpl-1-1
+
+Additional Metadata:
+Version: Version 1.1
+Submitted: Submitted: October 16, 2002
+Submitter: Submitter: Randall Burns

@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": "https://github.com/Qiskit/rustworkx/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/Qiskit/rustworkx/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 37,
+    "dependents_count": 62,
+    "deprecation_reason": null,
+    "description": "A python graph library implemented in Rust",
+    "homepage": "https://github.com/Qiskit/rustworkx",
+    "keywords": [
+        "Networks",
+        "network",
+        "graph",
+        "Theory",
+        "DAG",
+        "graph-theory",
+        "python",
+        "rust"
+    ],
+    "language": "Rust",
+    "latest_release_number": "0.16.0",
+    "latest_release_published_at": "2025-01-24T01:21:50.000Z",
+    "latest_stable_release_number": "0.16.0",
+    "latest_stable_release_published_at": "2025-01-24T01:21:50.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "rustworkx",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/rustworkx/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Qiskit/rustworkx",
+    "security_policy_url": "https://github.com/Qiskit/rustworkx/security/policy"
+}

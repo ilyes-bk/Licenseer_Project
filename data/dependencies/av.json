@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 232,
+    "dependents_count": 356,
+    "deprecation_reason": null,
+    "description": "Pythonic bindings for FFmpeg's libraries.",
+    "homepage": "https://pyav.basswood-io.com",
+    "keywords": [
+        "ffmpeg",
+        "pyav",
+        "python"
+    ],
+    "language": "Cython",
+    "latest_release_number": "14.3.0",
+    "latest_release_published_at": "2025-04-06T10:20:10.000Z",
+    "latest_stable_release_number": "14.3.0",
+    "latest_stable_release_published_at": "2025-04-06T10:20:10.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "av",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/av/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/PyAV-Org/PyAV",
+    "security_policy_url": null
+}

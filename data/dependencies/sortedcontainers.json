@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 463,
+    "dependents_count": 794,
+    "deprecation_reason": null,
+    "description": "Sorted Containers -- Sorted List, Sorted Dict, Sorted Set",
+    "homepage": "http://www.grantjenks.com/docs/sortedcontainers/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "2.4.0",
+    "latest_release_published_at": "2021-05-16T22:03:41.000Z",
+    "latest_stable_release_number": "2.4.0",
+    "latest_stable_release_published_at": "2021-05-16T22:03:41.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "sortedcontainers",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/sortedcontainers/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

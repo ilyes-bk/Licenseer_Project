@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 32,
+    "dependents_count": 59,
+    "deprecation_reason": null,
+    "description": "pytest plugin for test session metadata",
+    "homepage": "https://github.com/pytest-dev/pytest-metadata",
+    "keywords": [
+        "metadata",
+        "pytest",
+        "plugin"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.1.1",
+    "latest_release_published_at": "2024-02-12T19:38:42.000Z",
+    "latest_stable_release_number": "3.1.1",
+    "latest_stable_release_published_at": "2024-02-12T19:38:42.000Z",
+    "license_normalized": true,
+    "licenses": "Mozilla Public License 2.0 (MPL 2.0)",
+    "name": "pytest-metadata",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-metadata/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-metadata",
+    "security_policy_url": null
+}

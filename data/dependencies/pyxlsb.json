@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 30,
+    "dependents_count": 44,
+    "deprecation_reason": null,
+    "description": "Excel 2007-2010 Binary Workbook (xlsb) parser",
+    "homepage": "https://github.com/willtrnr/pyxlsb",
+    "keywords": [
+        "excel",
+        "python",
+        "xlsb"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.10",
+    "latest_release_published_at": "2022-10-14T19:22:56.890Z",
+    "latest_stable_release_number": "1.0.10",
+    "latest_stable_release_published_at": "2022-10-14T19:22:56.890Z",
+    "license_normalized": true,
+    "licenses": "LGPLv3+",
+    "name": "pyxlsb",
+    "normalized_licenses": [
+        "LGPL-3.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyxlsb/",
+    "repository_license": "LGPL-3.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/willtrnr/pyxlsb",
+    "security_policy_url": null
+}

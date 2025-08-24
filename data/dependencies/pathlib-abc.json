@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 4,
+    "dependents_count": 8,
+    "deprecation_reason": null,
+    "description": "Backport of pathlib ABCs",
+    "homepage": "https://github.com/barneygale/pathlib-abc",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.1",
+    "latest_release_published_at": "2025-03-25T19:47:03.000Z",
+    "latest_stable_release_number": "0.4.1",
+    "latest_stable_release_published_at": "2025-03-25T19:47:03.000Z",
+    "license_normalized": true,
+    "licenses": "1. This LICENSE AGREEMENT is between the Python Software Foundation\n        (\"PSF\"), and the Individual or Organization (\"Licensee\") accessing and\n        otherwise using this software (\"Python\") in source or binary form and\n        its associated documentation.\n        \n        2. Subject to the terms and conditions of this License Agreement, PSF hereby\n        grants Licensee a nonexclusive, royalty-free, world-wide license to reproduce,\n        analyze, test, perform and/or display publicly, prepare derivative works,\n        distribute, and otherwise use Python alone or in any derivative version,\n        provided, however, that PSF's License Agreement and PSF's notice of copyright,\n        i.e., \"Copyright (c) 2001-2024 Python Software Foundation; All Rights Reserved\"\n        are retained in Python alone or in any derivative version prepared by Licensee.\n        \n        3. In the event Licensee prepares a derivative work that is based on\n        or incorporates Python or any part thereof, and wants to make\n        the derivative work available to others as provided herein, then\n        Licensee hereby agrees to include in any such work a brief summary of\n        the changes made to Python.\n        \n        4. PSF is making Python available to Licensee on an \"AS IS\"\n        basis.  PSF MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR\n        IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PSF MAKES NO AND\n        DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS\n        FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON WILL NOT\n        INFRINGE ANY THIRD PARTY RIGHTS.\n        \n        5. PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON\n        FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS\n        A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE USING PYTHON,\n        OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.\n        \n        6. This License Agreement will automatically terminate upon a material\n        breach of its terms and conditions.\n        \n        7. Nothing in this License Agreement shall be deemed to create any\n        relationship of agency, partnership, or joint venture between PSF and\n        Licensee.  This License Agreement does not grant permission to use PSF\n        trademarks or trade name in a trademark sense to endorse or promote\n        products or services of Licensee, or any third party.\n        \n        8. By copying, installing or otherwise using Python, Licensee\n        agrees to be bound by the terms and conditions of this License\n        Agreement.\n        ",
+    "name": "pathlib-abc",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/pathlib-abc/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/barneygale/pathlib-abc",
+    "security_policy_url": null
+}

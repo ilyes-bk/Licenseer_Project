@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 977,
+    "dependents_count": 1809,
+    "deprecation_reason": null,
+    "description": "Python for Window Extensions",
+    "homepage": "https://github.com/mhammond/pywin32",
+    "keywords": [
+        "python",
+        "windows"
+    ],
+    "language": "C++",
+    "latest_release_number": "310",
+    "latest_release_published_at": "2025-03-17T00:55:46.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "PSF",
+    "name": "pywin32",
+    "normalized_licenses": [
+        "Python-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pywin32/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mhammond/pywin32",
+    "security_policy_url": null
+}

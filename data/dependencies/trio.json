@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/python-trio/trio/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/python-trio/trio/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 328,
+    "dependents_count": 539,
+    "deprecation_reason": null,
+    "description": "A friendly Python library for async concurrency and I/O",
+    "homepage": "https://github.com/python-trio/trio",
+    "keywords": [
+        "async",
+        "io",
+        "networking",
+        "trio",
+        "async-await",
+        "python",
+        "structured-concurrency"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.30.0",
+    "latest_release_published_at": "2025-04-21T00:48:17.000Z",
+    "latest_stable_release_number": "0.30.0",
+    "latest_stable_release_published_at": "2025-04-21T00:48:17.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "trio",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/trio/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-trio/trio",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 177,
+    "dependents_count": 291,
+    "deprecation_reason": null,
+    "description": "Getting image size from png/jpeg/jpeg2000/gif file",
+    "homepage": "https://github.com/shibukawa/imagesize_py",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.4.1",
+    "latest_release_published_at": "2022-07-01T12:21:02.000Z",
+    "latest_stable_release_number": "1.4.1",
+    "latest_stable_release_published_at": "2022-07-01T12:21:02.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "imagesize",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/imagesize/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/shibukawa/imagesize_py",
+    "security_policy_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 9,
+    "dependents_count": 13,
+    "deprecation_reason": null,
+    "description": "A command line tool for interacting with cloud storage services.",
+    "homepage": "https://cloud.google.com/storage/docs/gsutil",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "5.34",
+    "latest_release_published_at": "2025-04-16T08:47:32.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "gsutil",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/gsutil/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

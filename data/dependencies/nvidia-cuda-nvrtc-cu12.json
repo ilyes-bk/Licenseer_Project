@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 31,
+    "dependents_count": 82,
+    "deprecation_reason": null,
+    "description": "NVRTC native runtime libraries",
+    "homepage": "https://developer.nvidia.com/cuda-zone",
+    "keywords": [
+        "cuda",
+        "nvidia",
+        "runtime",
+        "machine",
+        "learning",
+        "deep"
+    ],
+    "language": null,
+    "latest_release_number": "12.8.93",
+    "latest_release_published_at": "2025-03-07T01:42:13.000Z",
+    "latest_stable_release_number": "12.8.61",
+    "latest_stable_release_published_at": "2025-01-23T17:49:44.000Z",
+    "license_normalized": true,
+    "licenses": "NVIDIA Proprietary Software",
+    "name": "nvidia-cuda-nvrtc-cu12",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/nvidia-cuda-nvrtc-cu12/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

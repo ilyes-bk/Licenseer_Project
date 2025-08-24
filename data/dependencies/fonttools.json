@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/fonttools/fonttools/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/fonttools/fonttools/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 551,
+    "dependents_count": 1154,
+    "deprecation_reason": null,
+    "description": "Tools to manipulate font files",
+    "homepage": "http://github.com/fonttools/fonttools",
+    "keywords": [
+        "fonts",
+        "opentype",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "4.57.0",
+    "latest_release_published_at": "2025-04-03T11:05:28.000Z",
+    "latest_stable_release_number": "4.57.0",
+    "latest_stable_release_published_at": "2025-04-03T11:05:28.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "fonttools",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/fonttools/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/fonttools/fonttools",
+    "security_policy_url": "https://github.com/fonttools/fonttools/security/policy"
+}

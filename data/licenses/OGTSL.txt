@@ -1,0 +1,8 @@
+License Name: Open Group Test Suite License
+SPDX ID: OGTSL
+Category: Uncategorized
+URL: https://opensource.org/license/opengroup-php
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

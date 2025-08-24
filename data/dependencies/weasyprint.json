@@ -1,0 +1,34 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 131,
+    "dependents_count": 233,
+    "deprecation_reason": null,
+    "description": "The Awesome Document Factory",
+    "homepage": "https://weasyprint.org/",
+    "keywords": [
+        "html",
+        "css",
+        "pdf",
+        "converter",
+        "python",
+        "weasyprint"
+    ],
+    "language": "Python",
+    "latest_release_number": "65.1",
+    "latest_release_published_at": "2025-04-14T12:15:00.000Z",
+    "latest_stable_release_number": "0.42.3",
+    "latest_stable_release_published_at": "2018-03-27T21:00:42.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "weasyprint",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/weasyprint/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Kozea/WeasyPrint",
+    "security_policy_url": null
+}

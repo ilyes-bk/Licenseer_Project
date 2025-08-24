@@ -1,0 +1,9 @@
+License Name: Unicode, Inc. License Agreement – Data Files and Software
+SPDX ID: Unicode-DFS-2015
+Category: Special Purpose
+URL: https://opensource.org/license/unicode-inc-license-agreement-data-files-and-software
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: November 29, 2017
+Submitter: Submitter: Sascha Brawer

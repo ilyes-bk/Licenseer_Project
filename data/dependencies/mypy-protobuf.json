@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 66,
+    "dependents_count": 121,
+    "deprecation_reason": null,
+    "description": "Generate mypy stub files from protobuf specs",
+    "homepage": "https://github.com/nipunn1313/mypy-protobuf",
+    "keywords": [
+        "mypy",
+        "proto",
+        "dropbox"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.6.0",
+    "latest_release_published_at": "2024-04-01T20:24:40.000Z",
+    "latest_stable_release_number": "3.6.0",
+    "latest_stable_release_published_at": "2024-04-01T20:24:40.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "mypy-protobuf",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/mypy-protobuf/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/nipunn1313/mypy-protobuf",
+    "security_policy_url": null
+}

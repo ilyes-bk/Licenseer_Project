@@ -1,0 +1,9 @@
+License Name: SIL OPEN FONT LICENSE
+SPDX ID: OFL-1.1
+Category: Special Purpose
+URL: https://opensource.org/license/ofl-1-1
+
+Additional Metadata:
+Version: Version 1.1
+Submitted: Submitted: November 5, 2008
+Submitter: Submitter: Yuko Noguchi

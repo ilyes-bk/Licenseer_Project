@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/googleapis/google-api-python-client/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/googleapis/google-api-python-client/blob/main/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 1084,
+    "dependents_count": 2140,
+    "deprecation_reason": null,
+    "description": "Google API Client Library for Python",
+    "homepage": "https://github.com/googleapis/google-api-python-client/",
+    "keywords": [
+        "google",
+        "api",
+        "client"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.168.0",
+    "latest_release_published_at": "2025-04-24T17:25:24.000Z",
+    "latest_stable_release_number": "2.168.0",
+    "latest_stable_release_published_at": "2025-04-24T17:25:24.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "google-api-python-client",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/google-api-python-client/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/googleapis/google-api-python-client",
+    "security_policy_url": "https://github.com/googleapis/google-api-python-client/security/policy"
+}

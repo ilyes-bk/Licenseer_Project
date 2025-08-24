@@ -1,0 +1,8 @@
+License Name: Computer Associates Trusted Open Source License 1.1
+SPDX ID: CATOSL-1.1
+Category: Non-Reusable
+URL: https://opensource.org/license/ca-tosl1-1-php
+
+Additional Metadata:
+Version: Version 1.1
+Submitted: N/A

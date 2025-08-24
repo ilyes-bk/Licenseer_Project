@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": "https://github.com/sendgrid/python-http-client/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/sendgrid/python-http-client/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 13,
+    "dependents_count": 19,
+    "deprecation_reason": null,
+    "description": "HTTP REST client, simplified for Python",
+    "homepage": "https://github.com/sendgrid/python-http-client",
+    "keywords": [
+        "REST",
+        "HTTP",
+        "API"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.3.7",
+    "latest_release_published_at": "2022-03-09T20:23:54.000Z",
+    "latest_stable_release_number": "3.3.7",
+    "latest_stable_release_published_at": "2022-03-09T20:23:54.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-http-client",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-http-client/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sendgrid/python-http-client",
+    "security_policy_url": null
+}

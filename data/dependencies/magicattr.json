@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 7,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "A getattr and setattr that works on nested objects, lists, dicts, and any combination thereof without resorting to eval",
+    "homepage": "https://github.com/frmdstryr/magicattr",
+    "keywords": [
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.1.6",
+    "latest_release_published_at": "2022-01-25T16:56:47.000Z",
+    "latest_stable_release_number": "0.1.6",
+    "latest_stable_release_published_at": "2022-01-25T16:56:47.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "magicattr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/magicattr/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/frmdstryr/magicattr",
+    "security_policy_url": null
+}

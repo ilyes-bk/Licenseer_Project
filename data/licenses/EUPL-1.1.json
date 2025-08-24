@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+        "name": "The European Union Public License, version 1.1",
+        "spdx_id": "EUPL-1.1",
+        "category": "Superseded",
+        "url": "https://opensource.org/license/eupl-1-1"
+    },
+    "metadata": {
+        "category": "SUPERSEDED",
+        "version": "Version 1.1",
+        "submitted": "Submitted: May 13, 2008",
+        "submitter": "Submitter: Patrice-Emmanuel Schmitz",
+        "approved": "Approved: March 4, 2009",
+        "spdx": "SPDX short identifier: EUPL-1.1",
+        "steward": "European Commission",
+        "steward_url": "https://wayback.archive-it.org/12090/20200210204548/https://ec.europa.eu/idabc/en/document/7774.html"
+    },
+    "content": "Please see http://joinup.ec.europa.eu/software/page/eupl for all the co-equal version of the EUPL-1.1 into various European languages. (This matrix showing the EUPL-1.1’s compatibility with other OSI-approved licenses may also be useful.)"
+}

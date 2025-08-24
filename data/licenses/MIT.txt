@@ -1,0 +1,8 @@
+License Name: The MIT License
+SPDX ID: MIT
+Category: Popular / Strong Community
+URL: https://opensource.org/license/mit
+
+Additional Metadata:
+Version: Version N/A
+Submitted: N/A

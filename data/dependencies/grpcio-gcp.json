@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 7,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "gRPC extensions for Google Cloud Platform",
+    "homepage": "https://grpc.io",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.2.2",
+    "latest_release_published_at": "2018-09-10T18:27:42.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2018-09-10T18:27:42.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "grpcio-gcp",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/grpcio-gcp/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": null,
+    "security_policy_url": null
+}

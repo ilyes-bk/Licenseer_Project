@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 14,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "New time-based UUID formats which are suited for use as a database key",
+    "homepage": "https://github.com/oittaa/uuid6-python",
+    "keywords": [
+        "uuid",
+        "uuid6",
+        "uuid7",
+        "uuid8",
+        "uuidv6",
+        "uuidv7",
+        "uuidv8",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2024.7.10",
+    "latest_release_published_at": "2024-07-10T16:39:36.000Z",
+    "latest_stable_release_number": "2024.7.10",
+    "latest_stable_release_published_at": "2024-07-10T16:39:36.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "uuid6",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/uuid6/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/oittaa/uuid6-python",
+    "security_policy_url": null
+}

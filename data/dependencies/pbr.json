@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 421,
+    "dependents_count": 1035,
+    "deprecation_reason": null,
+    "description": "Python Build Reasonableness",
+    "homepage": "https://docs.openstack.org/pbr/latest/",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "6.1.1",
+    "latest_release_published_at": "2025-02-04T14:28:03.000Z",
+    "latest_stable_release_number": "6.1.1",
+    "latest_stable_release_published_at": "2025-02-04T14:28:03.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "pbr",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pbr/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://opendev.org/openstack/pbr",
+    "security_policy_url": null
+}

@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 188,
+    "dependents_count": 316,
+    "deprecation_reason": null,
+    "description": "URL manipulation made simple.",
+    "homepage": "https://github.com/gruns/furl",
+    "keywords": [
+        "library",
+        "manipulating-urls",
+        "python",
+        "python3",
+        "url",
+        "url-manipulation",
+        "url-parsing",
+        "urls"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.1.4",
+    "latest_release_published_at": "2025-03-09T05:36:19.000Z",
+    "latest_stable_release_number": "2.1.4",
+    "latest_stable_release_published_at": "2025-03-09T05:36:19.000Z",
+    "license_normalized": false,
+    "licenses": "Unlicense",
+    "name": "furl",
+    "normalized_licenses": [
+        "Unlicense"
+    ],
+    "package_manager_url": "https://pypi.org/project/furl/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/gruns/furl",
+    "security_policy_url": null
+}

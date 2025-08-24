@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 423,
+    "dependents_count": 779,
+    "deprecation_reason": null,
+    "description": "Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds",
+    "homepage": "https://github.com/kurtmckee/feedparser",
+    "keywords": [
+        "atom",
+        "cdf",
+        "feed",
+        "parser",
+        "rdf",
+        "rss",
+        "json",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "6.0.11",
+    "latest_release_published_at": "2023-12-10T16:03:19.000Z",
+    "latest_stable_release_number": "6.0.11",
+    "latest_stable_release_published_at": "2023-12-10T16:03:19.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "feedparser",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/feedparser/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/kurtmckee/feedparser",
+    "security_policy_url": null
+}

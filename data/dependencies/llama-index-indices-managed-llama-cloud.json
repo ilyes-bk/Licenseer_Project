@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 7,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "llama-index indices llama-cloud integration",
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.6.11",
+    "latest_release_published_at": "2025-04-02T22:46:03.000Z",
+    "latest_stable_release_number": "0.6.10",
+    "latest_stable_release_published_at": "2025-03-31T20:51:21.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "llama-index-indices-managed-llama-cloud",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/llama-index-indices-managed-llama-cloud/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

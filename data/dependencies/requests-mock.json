@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 606,
+    "dependents_count": 1026,
+    "deprecation_reason": null,
+    "description": "Mock out responses from the requests package",
+    "homepage": "https://requests-mock.readthedocs.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "1.12.1",
+    "latest_release_published_at": "2024-03-29T03:54:27.000Z",
+    "latest_stable_release_number": "1.12.1",
+    "latest_stable_release_published_at": "2024-03-29T03:54:27.000Z",
+    "license_normalized": true,
+    "licenses": "Apache-2",
+    "name": "requests-mock",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/requests-mock/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jamielennox/requests-mock",
+    "security_policy_url": null
+}

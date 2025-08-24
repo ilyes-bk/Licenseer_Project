@@ -1,0 +1,8 @@
+License Name: The zlib/libpng License
+SPDX ID: Zlib
+Category: Other/Miscellaneous
+URL: https://opensource.org/license/zlib
+
+Additional Metadata:
+Version: N/A
+Submitted: N/A

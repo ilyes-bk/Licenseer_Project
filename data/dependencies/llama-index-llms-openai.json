@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 29,
+    "dependents_count": 121,
+    "deprecation_reason": null,
+    "description": "llama-index llms openai integration",
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "0.3.38",
+    "latest_release_published_at": "2025-04-21T21:52:06.000Z",
+    "latest_stable_release_number": "0.3.37",
+    "latest_stable_release_published_at": "2025-04-16T19:45:44.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "llama-index-llms-openai",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/llama-index-llms-openai/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

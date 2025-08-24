@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 164,
+    "dependents_count": 358,
+    "deprecation_reason": null,
+    "description": "JSON Referencing + Python",
+    "homepage": "https://github.com/python-jsonschema/referencing",
+    "keywords": [
+        "asyncapi",
+        "json",
+        "jsonschema",
+        "openapi",
+        "referencing",
+        "api",
+        "hypermedia",
+        "json-schema"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.36.2",
+    "latest_release_published_at": "2025-01-25T08:48:14.000Z",
+    "latest_stable_release_number": "0.36.2",
+    "latest_stable_release_published_at": "2025-01-25T08:48:14.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "referencing",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/referencing/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/python-jsonschema/referencing",
+    "security_policy_url": "https://github.com/python-jsonschema/referencing/security/policy"
+}

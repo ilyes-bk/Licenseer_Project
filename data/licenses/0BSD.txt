@@ -1,0 +1,9 @@
+License Name: Zero-Clause BSD
+SPDX ID: 0BSD
+Category: Other/Miscellaneous
+URL: https://opensource.org/license/0bsd
+
+Additional Metadata:
+Version: Version N/A
+Submitted: Submitted: August 30, 2015
+Submitter: Submitter: Christian Bundy, URL N/A

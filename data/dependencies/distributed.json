@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/dask/distributed/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 368,
+    "dependents_count": 592,
+    "deprecation_reason": null,
+    "description": "Distributed scheduler for Dask",
+    "homepage": "https://distributed.dask.org",
+    "keywords": [
+        "dask",
+        "distributed-computing",
+        "hacktoberfest",
+        "pydata",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2025.4.0",
+    "latest_release_published_at": "2025-04-22T18:32:37.000Z",
+    "latest_stable_release_number": "2025.4.0",
+    "latest_stable_release_published_at": "2025-04-22T18:32:37.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "distributed",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/distributed/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dask/distributed",
+    "security_policy_url": "https://github.com/dask/distributed/security/policy"
+}

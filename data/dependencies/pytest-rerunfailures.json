@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pytest-dev/pytest-rerunfailures/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 300,
+    "dependents_count": 594,
+    "deprecation_reason": null,
+    "description": "pytest plugin to re-run tests to eliminate flaky failures",
+    "homepage": "https://github.com/pytest-dev/pytest-rerunfailures",
+    "keywords": [
+        "failures",
+        "flaky",
+        "pytest",
+        "rerun"
+    ],
+    "language": "Python",
+    "latest_release_number": "15.0",
+    "latest_release_published_at": "2024-11-20T07:23:50.000Z",
+    "latest_stable_release_number": "11.1.2",
+    "latest_stable_release_published_at": "2023-03-09T07:19:05.611Z",
+    "license_normalized": true,
+    "licenses": "Mozilla Public License 2.0 (MPL 2.0)",
+    "name": "pytest-rerunfailures",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-rerunfailures/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pytest-dev/pytest-rerunfailures",
+    "security_policy_url": null
+}

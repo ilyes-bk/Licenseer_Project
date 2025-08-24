@@ -1,0 +1,37 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/tomplus/kubernetes_asyncio/blob/master/CONTRIBUTING.md",
+    "dependent_repos_count": 30,
+    "dependents_count": 44,
+    "deprecation_reason": null,
+    "description": "Kubernetes asynchronous python client",
+    "homepage": "https://github.com/tomplus/kubernetes_asyncio",
+    "keywords": [
+        "Swagger",
+        "OpenAPI",
+        "Kubernetes",
+        "aio",
+        "aiohttp",
+        "async",
+        "asynchronous",
+        "asyncio",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "32.3.0",
+    "latest_release_published_at": "2025-03-30T20:20:33.000Z",
+    "latest_stable_release_number": "32.3.0",
+    "latest_stable_release_published_at": "2025-03-30T20:20:33.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License Version 2.0",
+    "name": "kubernetes-asyncio",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/kubernetes-asyncio/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tomplus/kubernetes_asyncio",
+    "security_policy_url": null
+}

@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 19,
+    "dependents_count": 38,
+    "deprecation_reason": null,
+    "description": "Sans-I/O implementation of SOCKS4, SOCKS4A, and SOCKS5.",
+    "homepage": "https://github.com/sethmlarson/socksio",
+    "keywords": [
+        "python",
+        "sans-io",
+        "socks",
+        "socks-proxy",
+        "socks4",
+        "socks4a",
+        "socks5"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2020-04-17T15:50:31.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2020-04-17T15:50:31.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "socksio",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/socksio/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/sethmlarson/socksio",
+    "security_policy_url": null
+}

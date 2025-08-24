@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1199,
+    "dependents_count": 1882,
+    "deprecation_reason": null,
+    "description": "Makes working with XML feel like you are working with JSON",
+    "homepage": "https://github.com/martinblech/xmltodict",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.14.2",
+    "latest_release_published_at": "2024-10-16T06:10:27.000Z",
+    "latest_stable_release_number": "0.14.2",
+    "latest_stable_release_published_at": "2024-10-16T06:10:27.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "xmltodict",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/xmltodict/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/martinblech/xmltodict",
+    "security_policy_url": null
+}

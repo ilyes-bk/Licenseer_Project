@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 51,
+    "dependents_count": 90,
+    "deprecation_reason": null,
+    "description": "Super lightweight function registries for your library",
+    "homepage": "https://github.com/explosion/catalogue",
+    "keywords": [
+        "developer-tools",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.0.10",
+    "latest_release_published_at": "2023-09-25T06:29:23.000Z",
+    "latest_stable_release_number": "2.0.10",
+    "latest_stable_release_published_at": "2023-09-25T06:29:23.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "catalogue",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/catalogue/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/explosion/catalogue",
+    "security_policy_url": null
+}

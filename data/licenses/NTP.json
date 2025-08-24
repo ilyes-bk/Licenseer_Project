@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+        "name": "NTP License",
+        "spdx_id": "NTP",
+        "category": "Uncategorized",
+        "url": "https://opensource.org/license/ntp-license-php"
+    },
+    "metadata": {
+        "category": "UNCATEGORIZED",
+        "version": "Version N/A",
+        "submitted": "Submitted: February 26, 2008",
+        "submitter": "Submitter: Harlan Stenn, URL N/A",
+        "approved": "Approved: April 2, 2008",
+        "spdx": "SPDX short identifier: NTP",
+        "steward": "N/A",
+        "steward_url": "N/A"
+    },
+    "content": "Copyright (c) (CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appears in all copies and that both the copyright notice and this permission notice appear in supporting documentation, and that the name (TrademarkedName) not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. (TrademarkedName) makes no representations about the suitability this software for any purpose. It is provided “as is” without express or implied warranty."
+}

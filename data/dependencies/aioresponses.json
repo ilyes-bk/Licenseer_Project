@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/pnuckowski/aioresponses/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 105,
+    "dependents_count": 200,
+    "deprecation_reason": null,
+    "description": "Mock out requests made by ClientSession from aiohttp package",
+    "homepage": "https://github.com/pnuckowski/aioresponses",
+    "keywords": [
+        "aiohttp",
+        "asyncio",
+        "mocking",
+        "test"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.7.8",
+    "latest_release_published_at": "2025-01-19T18:13:59.000Z",
+    "latest_stable_release_number": "0.7.8",
+    "latest_stable_release_published_at": "2025-01-19T18:13:59.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "aioresponses",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aioresponses/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pnuckowski/aioresponses",
+    "security_policy_url": null
+}

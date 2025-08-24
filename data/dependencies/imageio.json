@@ -1,0 +1,42 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 1001,
+    "dependents_count": 1614,
+    "deprecation_reason": null,
+    "description": "Library for reading and writing a wide range of image, video, scientific, and volumetric data formats.",
+    "homepage": "https://github.com/imageio/imageio",
+    "keywords": [
+        "image",
+        "video",
+        "volume",
+        "imread",
+        "imwrite",
+        "io",
+        "animation",
+        "ffmpeg",
+        "animated-gif",
+        "dicom",
+        "imageio",
+        "python",
+        "scientific-formats",
+        "webcam-capture"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.37.0",
+    "latest_release_published_at": "2025-01-20T02:42:34.000Z",
+    "latest_stable_release_number": "2.37.0",
+    "latest_stable_release_published_at": "2025-01-20T02:42:34.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "imageio",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/imageio/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/imageio/imageio",
+    "security_policy_url": null
+}

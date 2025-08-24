@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/langchain-ai/langchain/blob/master/.github/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/langchain-ai/langchain/blob/master/.github/CONTRIBUTING.md",
+    "dependent_repos_count": 462,
+    "dependents_count": 1091,
+    "deprecation_reason": null,
+    "description": "An integration package connecting OpenAI and LangChain",
+    "homepage": "https://python.langchain.com",
+    "keywords": [],
+    "language": "Jupyter Notebook",
+    "latest_release_number": "0.3.14",
+    "latest_release_published_at": "2025-04-17T15:03:20.000Z",
+    "latest_stable_release_number": "0.3.14",
+    "latest_stable_release_published_at": "2025-04-17T15:03:20.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "langchain-openai",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/langchain-openai/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/langchain-ai/langchain",
+    "security_policy_url": "https://github.com/langchain-ai/langchain/security/policy"
+}

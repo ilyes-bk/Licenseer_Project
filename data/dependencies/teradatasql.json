@@ -1,0 +1,29 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 13,
+    "dependents_count": 35,
+    "deprecation_reason": null,
+    "description": "Teradata SQL Driver for Python",
+    "homepage": "http://www.teradata.com/",
+    "keywords": [
+        "Teradata"
+    ],
+    "language": null,
+    "latest_release_number": "20.0.0.29",
+    "latest_release_published_at": "2025-04-22T19:11:37.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Teradata License Agreement",
+    "name": "teradatasql",
+    "normalized_licenses": [
+        "O-UDA-1.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/teradatasql/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/dbt-labs/dbt-postgres/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 25,
+    "dependents_count": 48,
+    "deprecation_reason": null,
+    "description": "The set of adapter protocols and base functionality that supports integration with dbt-core",
+    "homepage": "https://github.com/dbt-labs/dbt-postgres",
+    "keywords": [
+        "adapter",
+        "adapters",
+        "database",
+        "dbt",
+        "Cloud",
+        "Core",
+        "Labs",
+        "dbt-core",
+        "elt",
+        "postgres"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.9.0",
+    "latest_release_published_at": "2024-12-09T18:46:54.000Z",
+    "latest_stable_release_number": "1.9.0",
+    "latest_stable_release_published_at": "2024-12-09T18:46:54.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License",
+    "name": "dbt-postgres",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/dbt-postgres/",
+    "repository_license": "Apache-2.0",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/dbt-labs/dbt-postgres",
+    "security_policy_url": null
+}

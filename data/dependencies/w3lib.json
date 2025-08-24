@@ -1,0 +1,30 @@
+{
+    "code_of_conduct_url": "https://github.com/scrapy/w3lib/blob/master/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 109,
+    "dependents_count": 181,
+    "deprecation_reason": null,
+    "description": "Library of web-related functions",
+    "homepage": "https://github.com/scrapy/w3lib",
+    "keywords": [
+        "hacktoberfest",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "2.3.1",
+    "latest_release_published_at": "2025-01-27T14:22:09.000Z",
+    "latest_stable_release_number": "2.3.1",
+    "latest_stable_release_published_at": "2025-01-27T14:22:09.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "w3lib",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/w3lib/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/scrapy/w3lib",
+    "security_policy_url": null
+}

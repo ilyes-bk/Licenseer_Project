@@ -1,0 +1,31 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 14,
+    "dependents_count": 47,
+    "deprecation_reason": null,
+    "description": "A Python library that converts cron expressions into human readable strings.",
+    "homepage": "https://github.com/Salamek/cron-descriptor",
+    "keywords": [
+        "cron-descriptor",
+        "cron-expression",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.5",
+    "latest_release_published_at": "2024-08-24T18:16:46.000Z",
+    "latest_stable_release_number": "1.4.5",
+    "latest_stable_release_published_at": "2024-08-24T18:16:46.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "cron-descriptor",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cron-descriptor/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/Salamek/cron-descriptor",
+    "security_policy_url": null
+}

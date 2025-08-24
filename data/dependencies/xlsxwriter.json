@@ -1,0 +1,36 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/jmcnamara/XlsxWriter/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 739,
+    "dependents_count": 1337,
+    "deprecation_reason": null,
+    "description": "A Python module for creating Excel XLSX files.",
+    "homepage": "https://github.com/jmcnamara/XlsxWriter",
+    "keywords": [
+        "charts",
+        "libxlsxwriter",
+        "pandas",
+        "python",
+        "spreadsheet",
+        "xlsx",
+        "xlsx-files",
+        "xlsxwriter"
+    ],
+    "language": "Python",
+    "latest_release_number": "3.2.3",
+    "latest_release_published_at": "2025-04-17T10:11:21.000Z",
+    "latest_stable_release_number": "3.2.3",
+    "latest_stable_release_published_at": "2025-04-17T10:11:21.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "XlsxWriter",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/XlsxWriter/",
+    "repository_license": "BSD-2-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jmcnamara/XlsxWriter",
+    "security_policy_url": null
+}

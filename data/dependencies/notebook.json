@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": "https://github.com/jupyter/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/jupyter/notebook/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 969,
+    "dependents_count": 1523,
+    "deprecation_reason": null,
+    "description": "Jupyter Notebook - A web-based notebook environment for interactive computing",
+    "homepage": "https://github.com/jupyter/notebook",
+    "keywords": [
+        "Jupyter",
+        "JupyterLab",
+        "Notebook",
+        "closember",
+        "jupyter-notebook"
+    ],
+    "language": "Jupyter Notebook",
+    "latest_release_number": "7.4.1",
+    "latest_release_published_at": "2025-04-23T06:40:25.000Z",
+    "latest_stable_release_number": "7.4.1",
+    "latest_stable_release_published_at": "2025-04-23T06:40:25.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License\n        \n        - Copyright (c) 2001-2015, IPython Development Team\n        - Copyright (c) 2015-, Jupyter Development Team\n        \n        All rights reserved.\n        \n        Redistribution and use in source and binary forms, with or without\n        modification, are permitted provided that the following conditions are met:\n        \n        1. Redistributions of source code must retain the above copyright notice, this\n           list of conditions and the following disclaimer.\n        \n        2. Redistributions in binary form must reproduce the above copyright notice,\n           this list of conditions and the following disclaimer in the documentation\n           and/or other materials provided with the distribution.\n        \n        3. Neither the name of the copyright holder nor the names of its\n           contributors may be used to endorse or promote products derived from\n           this software without specific prior written permission.\n        \n        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n        AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n        IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\n        DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\n        FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n        DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\n        SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n        CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\n        OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n        OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "name": "notebook",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/notebook/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jupyter/notebook",
+    "security_policy_url": "https://github.com/jupyter/notebook/security/policy"
+}

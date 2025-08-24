@@ -1,0 +1,41 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/jquast/blessed/blob/master/CONTRIBUTING.rst",
+    "dependent_repos_count": 166,
+    "dependents_count": 251,
+    "deprecation_reason": null,
+    "description": "Easy, practical library for making terminal apps, by providing an elegant, well-documented interface to Colors, Keyboard input, and screen Positioning capabilities.",
+    "homepage": "https://github.com/jquast/blessed",
+    "keywords": [
+        "terminal",
+        "sequences",
+        "tty",
+        "curses",
+        "ncurses",
+        "formatting",
+        "style",
+        "color",
+        "console",
+        "keyboard",
+        "ansi",
+        "xterm",
+        "cli"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.20.0",
+    "latest_release_published_at": "2023-02-04T02:27:01.437Z",
+    "latest_stable_release_number": "1.20.0",
+    "latest_stable_release_published_at": "2023-02-04T02:27:01.437Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "blessed",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/blessed/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/jquast/blessed",
+    "security_policy_url": null
+}

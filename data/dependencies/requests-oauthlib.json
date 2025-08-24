@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": "https://github.com/requests/requests-oauthlib/blob/master/docs/contributing.rst",
+    "dependent_repos_count": 708,
+    "dependents_count": 1282,
+    "deprecation_reason": null,
+    "description": "OAuthlib authentication support for Requests.",
+    "homepage": "https://github.com/requests/requests-oauthlib",
+    "keywords": [
+        "oauth-client",
+        "oauth2-client",
+        "python",
+        "python-requests"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.4.1",
+    "latest_release_published_at": "2024-03-25T19:31:17.000Z",
+    "latest_stable_release_number": "1.4.1",
+    "latest_stable_release_published_at": "2024-03-25T19:31:17.000Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "requests-oauthlib",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/requests-oauthlib/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/requests/requests-oauthlib",
+    "security_policy_url": "https://github.com/requests/requests-oauthlib/security/policy"
+}

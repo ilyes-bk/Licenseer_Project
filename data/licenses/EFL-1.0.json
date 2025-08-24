@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+        "name": "Eiffel Forum License, version 1",
+        "spdx_id": "EFL-1.0",
+        "category": "Superseded",
+        "url": "https://opensource.org/license/efl-1-0"
+    },
+    "metadata": {
+        "category": "SUPERSEDED",
+        "version": "Version 1.0",
+        "submitted": "N/A",
+        "submitter": "N/A",
+        "approved": "N/A",
+        "spdx": "SPDX short identifier: EFL-1.0",
+        "steward": "The Non-profit International Consortium for Eiffel (NICE)",
+        "steward_url": "http://www.eiffel-nice.org/license/forum.txt"
+    },
+    "content": "(NOTE: This license has been superseded by the Eiffel Forum License, version 2)\nEiffel Forum License, version 1\nPermission is hereby granted to use, copy, modify and/or distribute this package, provided that:\ncopyright notices are retained unchanged\nany distribution of this package, whether modified or not, includes this file\nPermission is hereby also granted to distribute binary programs which depend on this package, provided that:\nif the binary program depends on a modified version of this package, you must publicly release the modified version of this package\nTHIS PACKAGE IS PROVIDED “AS IS” AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.\n—-\n[Near the top of each class file (or other item within the package), and in any announcements about the package, and in any application “splash screen” or “about box”, include the following line:"
+}

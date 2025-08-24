@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": "https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 335,
+    "dependents_count": 595,
+    "deprecation_reason": null,
+    "description": "A simple packaging tool for simple packages.",
+    "homepage": "https://flit.pypa.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "3.12.0",
+    "latest_release_published_at": "2025-03-25T08:03:19.000Z",
+    "latest_stable_release_number": "3.12.0",
+    "latest_stable_release_published_at": "2025-03-25T08:03:19.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "flit",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/flit/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pypa/flit",
+    "security_policy_url": "https://github.com/pypa/flit/security/policy"
+}

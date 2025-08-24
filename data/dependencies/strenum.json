@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 102,
+    "dependents_count": 209,
+    "deprecation_reason": null,
+    "description": "An Enum that inherits from str.",
+    "homepage": "https://github.com/irgeek/StrEnum",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "0.4.15",
+    "latest_release_published_at": "2023-06-29T22:04:03.038Z",
+    "latest_stable_release_number": "0.4.15",
+    "latest_stable_release_published_at": "2023-06-29T22:04:03.038Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "StrEnum",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/StrEnum/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/irgeek/StrEnum",
+    "security_policy_url": null
+}

@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 310,
+    "dependents_count": 551,
+    "deprecation_reason": null,
+    "description": "Disk Cache -- Disk and file backed persistent cache.",
+    "homepage": "http://www.grantjenks.com/docs/diskcache/",
+    "keywords": [
+        "cache",
+        "filesystem",
+        "key-value-store",
+        "persistence",
+        "python"
+    ],
+    "language": "Python",
+    "latest_release_number": "5.6.3",
+    "latest_release_published_at": "2023-08-31T06:11:58.000Z",
+    "latest_stable_release_number": "5.6.3",
+    "latest_stable_release_published_at": "2023-08-31T06:11:58.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "diskcache",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/diskcache/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/grantjenks/python-diskcache",
+    "security_policy_url": null
+}

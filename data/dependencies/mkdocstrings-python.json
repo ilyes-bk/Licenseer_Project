@@ -1,0 +1,35 @@
+{
+    "code_of_conduct_url": "https://github.com/mkdocstrings/python/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": "https://github.com/mkdocstrings/python/blob/main/CONTRIBUTING.md",
+    "dependent_repos_count": 459,
+    "dependents_count": 644,
+    "deprecation_reason": null,
+    "description": "A Python handler for mkdocstrings.",
+    "homepage": "https://mkdocstrings.github.io/python",
+    "keywords": [
+        "autodoc",
+        "documentation",
+        "mkdocs",
+        "mkdocstrings",
+        "mkdocstrings-handler",
+        "python",
+        "python-documentation"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.16.10",
+    "latest_release_published_at": "2025-04-03T14:24:46.000Z",
+    "latest_stable_release_number": "1.16.10",
+    "latest_stable_release_published_at": "2025-04-03T14:24:46.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "mkdocstrings-python",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/mkdocstrings-python/",
+    "repository_license": "ISC",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/mkdocstrings/python",
+    "security_policy_url": null
+}

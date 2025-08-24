@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 134,
+    "dependents_count": 194,
+    "deprecation_reason": null,
+    "description": "Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+",
+    "homepage": "http://funcsigs.readthedocs.org",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "1.0.2",
+    "latest_release_published_at": "2016-04-25T22:22:05.000Z",
+    "latest_stable_release_number": "1.0.2",
+    "latest_stable_release_published_at": "2016-04-25T22:22:05.000Z",
+    "license_normalized": true,
+    "licenses": "ASL",
+    "name": "funcsigs",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/funcsigs/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

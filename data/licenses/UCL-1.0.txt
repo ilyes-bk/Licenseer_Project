@@ -1,0 +1,9 @@
+License Name: Upstream Compatibility License v1.0
+SPDX ID: UCL-1.0
+Category: Special Purpose
+URL: https://opensource.org/license/ucl-1-0
+
+Additional Metadata:
+Version: Version 1.0
+Submitted: Submitted: February 23, 2017
+Submitter: Submitter: Nigel T, URL N/A

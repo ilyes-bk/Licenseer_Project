@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 42,
+    "dependents_count": 74,
+    "deprecation_reason": null,
+    "description": "Python Bindings for the NVIDIA Management Library",
+    "homepage": "https://forums.developer.nvidia.com",
+    "keywords": [],
+    "language": null,
+    "latest_release_number": "12.570.86",
+    "latest_release_published_at": "2025-01-24T21:50:37.000Z",
+    "latest_stable_release_number": "12.570.86",
+    "latest_stable_release_published_at": "2025-01-24T21:50:37.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "nvidia-ml-py",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/nvidia-ml-py/",
+    "repository_license": null,
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "",
+    "security_policy_url": null
+}

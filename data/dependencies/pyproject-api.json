@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": "https://github.com/tox-dev/pyproject-api/blob/main/CODE_OF_CONDUCT.md",
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 18,
+    "dependents_count": 27,
+    "deprecation_reason": null,
+    "description": "API to interact with the python pyproject.toml based projects",
+    "homepage": "https://pyproject-api.readthedocs.io",
+    "keywords": [
+        "environments",
+        "isolated",
+        "testing",
+        "virtual"
+    ],
+    "language": "Python",
+    "latest_release_number": "1.9.0",
+    "latest_release_published_at": "2025-01-21T18:01:58.000Z",
+    "latest_stable_release_number": "1.9.0",
+    "latest_stable_release_published_at": "2025-01-21T18:01:58.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "pyproject-api",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyproject-api/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/tox-dev/pyproject-api",
+    "security_policy_url": null
+}

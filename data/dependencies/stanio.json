@@ -1,0 +1,33 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 2,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Utilities for preparing Stan inputs and processing Stan outputs",
+    "homepage": "https://github.com/stan-dev/stanio",
+    "keywords": [
+        "csv",
+        "io",
+        "json",
+        "python",
+        "stan"
+    ],
+    "language": "Python",
+    "latest_release_number": "0.5.1",
+    "latest_release_published_at": "2024-07-08T19:35:46.000Z",
+    "latest_stable_release_number": "0.5.1",
+    "latest_stable_release_published_at": "2024-07-08T19:35:46.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "stanio",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/stanio/",
+    "repository_license": "BSD-3-Clause",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/stan-dev/stanio",
+    "security_policy_url": null
+}

@@ -1,0 +1,38 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 38,
+    "dependents_count": 82,
+    "deprecation_reason": null,
+    "description": "The Blis BLAS-like linear algebra library, as a self-contained C-extension.",
+    "homepage": "https://github.com/explosion/cython-blis",
+    "keywords": [
+        "blas",
+        "blas-libraries",
+        "blis",
+        "cython",
+        "linear-algebra",
+        "matrix-multiplication",
+        "neural-network",
+        "neural-networks",
+        "numpy",
+        "openblas"
+    ],
+    "language": "C",
+    "latest_release_number": "1.3.0",
+    "latest_release_published_at": "2025-04-03T15:08:36.000Z",
+    "latest_stable_release_number": "1.3.0",
+    "latest_stable_release_published_at": "2025-04-03T15:08:36.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "blis",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/blis/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/explosion/cython-blis",
+    "security_policy_url": null
+}

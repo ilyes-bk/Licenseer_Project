@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 366,
+    "dependents_count": 602,
+    "deprecation_reason": null,
+    "description": "Fast numerical expression evaluator for NumPy",
+    "homepage": "https://github.com/pydata/numexpr",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "2.10.2",
+    "latest_release_published_at": "2024-11-23T13:33:24.000Z",
+    "latest_stable_release_number": "2.10.2",
+    "latest_stable_release_published_at": "2024-11-23T13:33:24.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "numexpr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/numexpr/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/pydata/numexpr",
+    "security_policy_url": null
+}

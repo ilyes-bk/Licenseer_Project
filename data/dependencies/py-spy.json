@@ -1,0 +1,32 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 19,
+    "dependents_count": 39,
+    "deprecation_reason": null,
+    "description": "Sampling profiler for Python programs",
+    "homepage": "https://github.com/benfred/py-spy",
+    "keywords": [
+        "performance-analysis",
+        "profiler",
+        "profiling",
+        "python"
+    ],
+    "language": "Rust",
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2024-11-01T19:08:37.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2024-11-01T19:08:37.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "py-spy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/py-spy/",
+    "repository_license": "MIT",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/benfred/py-spy",
+    "security_policy_url": "https://github.com/benfred/py-spy/security/policy"
+}

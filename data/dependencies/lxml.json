@@ -1,0 +1,27 @@
+{
+    "code_of_conduct_url": null,
+    "contribution_guidelines_url": null,
+    "dependent_repos_count": 5931,
+    "dependents_count": 9337,
+    "deprecation_reason": null,
+    "description": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+    "homepage": "https://lxml.de/",
+    "keywords": [],
+    "language": "Python",
+    "latest_release_number": "5.4.0",
+    "latest_release_published_at": "2025-04-23T01:44:29.000Z",
+    "latest_stable_release_number": "5.4.0",
+    "latest_stable_release_published_at": "2025-04-23T01:44:29.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "lxml",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/lxml/",
+    "repository_license": "Other",
+    "platform": "Pypi",
+    "repository_status": null,
+    "repository_url": "https://github.com/lxml/lxml",
+    "security_policy_url": "https://github.com/lxml/lxml/security/policy"
+}
