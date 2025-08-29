@@ -7,13 +7,18 @@ import time
 from neo4j.exceptions import ServiceUnavailable
 import ssl
 import certifi
+from dotenv import load_dotenv
 
 class GraphBuilder:
     def __init__(self):
-        # Neo4j connection details
-        self.uri = "neo4j://bd3b0481.databases.neo4j.io"
-        self.user = "neo4j"
-        self.password = "U1F41LwSpgTLohHhgUXsBH9yEyD_bGFL3-TmRBXdCJE"
+        # Load environment variables
+        load_dotenv(override=True)
+        
+        # Neo4j connection details (prefer environment variables)
+        self.uri = os.getenv("NEO4J_URI", "neo4j://bd3b0481.databases.neo4j.io")
+        self.user = os.getenv("NEO4J_USER", "neo4j")
+        self.password = os.getenv("NEO4J_PASSWORD", "U1F41LwSpgTLohHhgUXsBH9yEyD_bGFL3-TmRBXdCJE")
+        self.database = os.getenv("NEO4J_DATABASE", "neo4j")
         
         # SSL configuration
         self.ssl_context = ssl.create_default_context(cafile=certifi.where())
@@ -36,7 +41,7 @@ class GraphBuilder:
         """Test the Neo4j connection with retry logic"""
         for attempt in range(max_retries):
             try:
-                with self.driver.session() as session:
+                with self.driver.session(database=self.database) as session:
                     result = session.run("RETURN 1 as test")
                     if result.single()["test"] == 1:
                         return True
@@ -58,12 +63,14 @@ class GraphBuilder:
     def create_constraints(self):
         """Create unique constraints for nodes"""
         try:
-            with self.driver.session() as session:
+            with self.driver.session(database=self.database) as session:
                 # Create constraints for Package nodes
                 session.run("CREATE CONSTRAINT package_name IF NOT EXISTS FOR (p:Package) REQUIRE p.name IS UNIQUE")
                 # Create constraints for License nodes
                 session.run("CREATE CONSTRAINT license_spdx IF NOT EXISTS FOR (l:License) REQUIRE l.spdx_id IS UNIQUE")
                 print("Constraints created successfully")
+                print(f"Connected to Neo4j: {self.uri}")
+                print(f"Database: {self.database}")
         except Exception as e:
             print(f"Error creating constraints: {e}")
             raise
@@ -85,7 +92,7 @@ class GraphBuilder:
         """
         
         try:
-            with self.driver.session() as session:
+            with self.driver.session(database=self.database) as session:
                 session.run(query, {
                     "name": package_data["name"],
                     "description": package_data.get("description"),
@@ -117,7 +124,7 @@ class GraphBuilder:
         """
         
         try:
-            with self.driver.session() as session:
+            with self.driver.session(database=self.database) as session:
                 session.run(query, {
                     "spdx_id": license_data["basic_info"]["spdx_id"],
                     "name": license_data["basic_info"]["name"],
@@ -141,7 +148,7 @@ class GraphBuilder:
         """
         
         try:
-            with self.driver.session() as session:
+            with self.driver.session(database=self.database) as session:
                 session.run(query, {
                     "package_name": package_name,
                     "license_spdx": license_spdx
