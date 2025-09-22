@@ -1,0 +1,32 @@
+\section{Conclusions}
+\label{Section:Conclusions}
+
+\textcolor{black}{This paper presents LARK (License Analysis with RAG and Knowledge graphs), a novel framework that addresses critical challenges in software license compatibility detection and regulatory compliance. Modern software development increasingly relies on complex ecosystems of open-source components, where 72.91\% of projects encounter license incompatibilities that threaten project viability and regulatory compliance. Our methodology integrates Knowledge Graphs, Large Language Models, and Retrieval-Augmented Generation to provide comprehensive license compatibility analysis with explainable reasoning.
+
+\textbf{Technical Contributions:} Our framework makes several key technical contributions: (1) \textit{Integrated Knowledge Representation} through Neo4j-based knowledge graphs that model 750+ licenses, 20,000+ dependencies, and their compatibility relationships enabling transitive analysis across complex dependency chains; (2) \textit{LLM-Powered Custom License Integration} using GPT-4 with few-shot learning to automatically parse and integrate novel license texts without requiring model retraining; (3) \textit{RAG-Enhanced Explainability} that provides detailed, citation-backed explanations with 92.8\% retrieval precision from 25,000+ indexed segments across comprehensive legal literature including authoritative books, IEEE/ACM articles, and regulatory guidelines, providing 3.2x more citations than existing approaches with exact page numbers and section references; (4) \textit{Dual-Constraint Hallucination Mitigation} through knowledge graph constraints that prevent LLM decision-making and RAG grounding that ensures all explanations reference authoritative legal sources, achieving 2.1\% hallucination rate compared to 18.7\% for unconstrained LLM responses; (5) \textit{Dynamic Update Capabilities} supporting rapid adaptation to evolving legal interpretations through graph-based knowledge representation.
+
+\textbf{Experimental Validation:} Our comprehensive evaluation on 4,000 OSS projects demonstrates significant improvements over existing approaches. LARK achieves (1) 98.1\% license detection accuracy compared to 93.2\% for LiDetector; (2) 96.2\% conflict detection F1 score versus 88.7\% for baselines; (3) 4.8/5 explainability score compared to 3.2/5 for existing tools; (4) 94\% accuracy in processing custom and proprietary licenses where traditional tools provide 23\% capability; (5) 2.1\% hallucination rate compared to 18.7\% for unconstrained LLM responses, with 97.8\% verifiable citations; (6) 24-hour update cycles versus 168 hours for ML-based approaches; (7) 0.32GB memory usage representing 71\% reduction compared to existing systems.
+
+\textbf{Practical Impact:} The framework addresses critical gaps in existing approaches: limited explainability in current tools, static knowledge representation requiring manual updates, narrow compatibility analysis focus, and poor custom license handling. LARK provides citation-backed explanations essential for regulatory compliance, supports automatic integration of custom licenses, and enables real-time compatibility monitoring through CI/CD integration.
+
+\textbf{Future Work:} We plan to extend coverage to emerging license formats, integrate additional package managers, develop regulatory framework-specific policies (GDPR, CCPA), and create industry-specific knowledge graphs for domain-specific compliance requirements. Further research directions include fine-tuning specialized legal LLMs, developing temporal license evolution models, and exploring multi-modal analysis combining license text with code patterns.
+
+We believe that our results contribute to a significant advancement in automated license compatibility detection, providing developers and organizations with accurate, explainable, and scalable solutions for legal risk mitigation and regulatory compliance in modern software engineering.
+
+%\noindent \textbf{Acknowledgments.} We would like to thank the reviewers at IST for their detailed and invaluable feedback.
+
+\noindent \textbf{Data Availability Statement.} The data is publicly available at \cite{ReplicationPackage}.
+
+\noindent{\textbf{Declaration of generative AI and AI-assisted technologies in the writing process.}}
+
+
+
+\section{Acknowledgements}
+\label{sec:Acknowledgements}
+We would like to thank our industrial partner Vermeg-Tunisia for providing the resources and support necessary to conduct this research. Their assistance in 
+coordinating the data acquisition and labeling process was invaluable.
+This study has been funded by the Tunisian Young Researchers’ Encouragement Program (Ed. 2022) (22PEJC-D3P2).\\
+
+\section{Conflict of interest}
+All authors in this paper declared that there is no conflicts of interest to this work.
+

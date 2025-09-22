@@ -1,0 +1,348 @@
+
+%\documentclass[5p,times]{elsarticle}
+\documentclass[review]{elsarticle}
+
+
+\AtBeginDocument{\renewcommand*{\thesubfigure}{\alphalph{\value{subfigure}}}}
+\renewcommand{\footnotesize}{\scriptsize}
+\usepackage{textcomp}
+\usepackage{pgfplots, pgfplotstable}
+\usepackage{pgf-pie}
+\usepackage{graphicx}
+\usepackage{bbding}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{lmodern,textcomp}
+%\usepackage{subfig}
+%\usepackage{caption}
+%\usepackage{subcaption}
+%\usepackage{subfigure}
+\usepackage{longtable}
+%\usepackage{subfigure}
+\usepackage{subcaption}
+\usepackage{alphalph}
+\usepackage[many]{tcolorbox}
+\usepackage{xcolor}
+\biboptions{sort&compress}
+%\usepackage[table]{xcolor}
+\usepackage{array}
+\usepackage{colortbl}
+\newtheorem{hypothesis}{Hypothesis}
+\newtheorem{nullhypothesis}{Null Hypothesis}
+\newcolumntype{L}{>{\arraybackslash}m{16cm}}
+\usepackage[flushleft]{threeparttable}
+%\newcolumntype{L}[1]{>{\raggedright\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\usepackage{csquotes}
+
+\usepackage{tikz}
+ %% footnote fonts
+\usetikzlibrary{fit} %% Used for putting dotted box in image
+%\usepackage[margin=2cm]{geometry}
+%\usepackage{beamerposter}
+\usetikzlibrary{positioning}
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes.multipart}
+
+\usepackage[hidelinks,bookmarks=false]{hyperref}
+%\usepackage[numbered]{bookmark}
+\usepackage{soul}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{url}
+%\usepackage[small,it]{caption}
+%\usepackage{tcolorbox}
+%\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+%\usepackage{graphicx}
+\usepackage{textcomp}
+%\usepackage{xcolor}
+\usepackage{url}
+%\usepackage{tabularx} 
+%\usepackage{lineno,hyperref}
+\usepackage{longtable}
+%\modulolinenumbers[5]
+\journal{Journal of \LaTeX\ Templates}
+ 
+%\usepackage{tabularx}
+\usepackage{pgfplots}
+\pgfplotsset{width=7cm,compat=1.8,tick label style={font=\small}}
+
+
+\usepackage{xspace}
+\newcommand{\ie}{\textit{i.e., \xspace}}
+\newcommand{\eg}{\textit{e.g., \xspace}}
+\newcommand{\etal}{\textit{et al. \xspace}}
+\newcommand{\bluetext}[1]{\textcolor{blue}{#1}}
+%\usepackage{graphicx}
+\usepackage{adjustbox}
+\usepackage{float}
+\usepackage{rotating}
+\usepackage{tablefootnote}
+\usepackage{nth}
+\DeclareCaptionType{TextBox}
+%\newcolumntype{L}{>{\centering\arraybackslash}m{3cm}}
+\newcommand{\taxonomy}{25\xspace}
+\usepackage[utf8]{inputenc}
+\usepackage{dirtytalk}
+\usepackage{tcolorbox}
+
+\usepackage[british]{babel}
+\usepackage{enumitem}
+
+\newlist{SubItemList}{itemize}{1}
+\setlist[SubItemList]{label={$-$}}
+
+\let\OldItem\item
+\newcommand{\SubItemStart}[1]{%
+    \let\item\SubItemEnd
+    \begin{SubItemList}[resume]%
+        \OldItem #1%
+}
+\newcommand{\SubItemMiddle}[1]{%
+    \OldItem #1%
+}
+\newcommand{\SubItemEnd}[1]{%
+    \end{SubItemList}%
+    \let\item\OldItem
+    \item #1%
+}
+\newcommand*{\SubItem}[1]{%
+    \let\SubItem\SubItemMiddle%
+    \SubItemStart{#1}%
+} 
+
+%\usepackage{fontawesome}
+
+
+\bibliographystyle{elsarticle-num}
+
+  \pgfplotstableread[row sep=\\,col sep=&]{
+        interval & carT & sd\\
+      %  A & 2.3  \\
+      %  B & 18.3  \\
+      %  C & 41.9 \\
+      %  D & 6.3  \\
+      %  E & 20.6 \\
+      %  F & 10.6 \\
+     }\mydata
+
+\newtcolorbox{boxK}{
+    sharpish corners, % better drop shadow
+    boxrule = 0pt,
+    toprule = 4.5pt, % top rule weight
+    enhanced,
+    fuzzy shadow = {0pt}{-2pt}{-0.5pt}{0.5pt}{black!35} % {xshift}{yshift}{offset}{step}{options} 
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%_START: Flowchart Setup Code__%%%%%%%%%%
+% source: https://www.sharelatex.com/project/52205bbce77a8bec1415bf38
+%\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows} 
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=black!10]
+
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered,text width=2cm, draw=black]
+
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, text width=3cm, draw=black]
+
+\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered,text width=2cm, draw=black]
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+\tikzstyle{database} = [cylinder, shape border rotate=90, draw=black,minimum height=2cm,minimum width=3cm, text centered,text width=0.6cm]
+%%%%%%%%%%_END: Flowchart Setup Code__%%%%%%%%%%
+
+\newcommand{\anthony}[1]{\textcolor{blue}{{\it [Anthony says: #1]}}}
+\newcommand{\ali}[1]{\textcolor{red}{{\it [Ali: #1]}}}
+\newcommand{\eman}[1]{\textcolor{violet}{{\it [Eman says: #1]}}}
+\newcommand{\mohamed}[1]{\textcolor{purple}{{\it [Mohamed says: #1]}}}
+\newcommand{\steven}[1]{\textcolor{orange}{{\it [Steven says: #1]}}}
+\newcommand{\christian}[1]{\textcolor{green}{{\it [Christian says: #1]}}}
+
+\newcommand{\RQA}{RQ$_1$: How have refactoring discussions on Stack Overflow grown over the years?}
+\newcommand{\RQAA}{RQ$_{1.1}$: How have refactoring posts grown throughout the years?}
+\newcommand{\RQAB}{RQ$_{1.2}$: What is the distribution of questions and answers among developers?}
+\newcommand{\RQAC}{RQ$_{1.3}$: What are the tags that are associated with refactoring questions?}
+\newcommand{\RQB}{RQ$_2$: What do developers discuss in refactoring based Stack Overflow posts?}
+\newcommand{\RQBA}{RQ$_{2.1}$: What are the frequent terms utilized by developers in refactoring discussions?} 
+%\newcommand{\RQBB}{RQ$_{2.2}$: To what extent do Self-Affirmed Refactoring in software artifacts match with the challenges faced by developers in Stack Overflow posts?}
+\newcommand{\RQBB}{RQ$_{2.2}$: To what extent do traditional refactoring opportunities, known in existing literature, match with the challenges faced by developers in Stack Overflow posts?}
+\newcommand{\RQBC}{RQ$_{2.3}$: What are the topics around software refactoring that are being asked by developers?} 
+\newcommand{\RQC}{RQ$_3$: Which topics are the most popular and difficult among refactoring-related questions?} 
+
+
+\begin{document}
+
+%\newpage
+%Hello! This paper has been accepted for publication at the Journal of Systems and Software. To cite the paper:
+
+%AlOmar, Eman Abdullah, Mohamed Wiem Mkaouer, Ali Ouni. "Toward the Automatic Classification of Self-Affirmed Refactoring." Journal of Systems and Software (2020): to appear.
+
+%Enjoy!
+
+%\newpage
+
+
+\begin{frontmatter}
+
+\title{LARK: License Analysis with RAG and Knowledge graphs}
+
+
+%% Group authors per affiliation:
+\author[TBS]{Ilyes Ben Khalifa}
+\ead{ilyes.benkhalifa@tbs.u-tunis.tn}
+
+
+\author[LAR]{Montassar Ben Messaoud\corref{mycorrespondingauthor}}
+\cortext[mycorrespondingauthor]{Corresponding author}
+\ead{montassar.benmessaoud@tbs.u-tunis.tn}
+
+
+\author[UoM]{Mohamed Wiem Mkaouer}
+\ead{mmkaouer@umich.edu}
+
+
+
+
+\address[LAR]{University of Tunis, LARODEC, Tunis Business School, El Mourouj, Tunisia}
+\address[TBS]{University of Tunis, Tunis Business School, El Mourouj, Tunisia}
+\address[UoM]{University of Michigan Flint, MI, USA}
+
+
+
+
+
+
+
+
+
+
+\begin{abstract}
+
+
+\noindent\textbf{Context:} Software systems increasingly rely on large ecosystems of libraries, frameworks, and platforms. While this interconnectedness accelerates development, it also gives rise to the persistent challenge of software license incompatibility. Rapid evolution of dependencies, heterogeneous execution environments, and the risk of deprecated or inconsistent APIs can lead to hidden costs, degraded reliability, and even security vulnerabilities. \noindent\textbf{Objective:} Such licence incompatibilities often emerge late in the development lifecycle, where they are more difficult and costly to address. Detecting incompatibilities at early stages is therefore essential for ensuring robustness and sustainability.
+\noindent\textbf{Method:}  In this paper, we introduce a novel approach that integrates Knowledge Graphs (KGs) with Large Language Models (LLMs) through a Retrieval-Augmented Generation (RAG) mechanism, enabling the automated detection of potential license incompatibilities and providing context-rich, citation-backed explanations.
+\noindent\textbf{Results:} Evaluation on 4,000 open-source and 100 proprietary projects demonstrates that our approach achieves 98.1\% license detection accuracy, 96.2\% compatibility F1 score, and significantly enhanced explainability compared to existing methods.
+\noindent\textbf{Conclusion:}  We envision that our proposed KG+LLM+RAG framework not only reduces legal risks but also offers a scalable and extensible solution for regulatory compliance in software engineering.
+
+\end{abstract}
+
+\begin{keyword}
+Software License, incompatibility detection, Large Language Models, Retrieval-Augmented Generation, Knowledge Graph.
+\end{keyword}
+
+\end{frontmatter}
+
+%\linenumbers
+
+
+
+\input{Sections/01_Introduction}
+\input{Sections/02_Background}
+\input{Sections/03_RelatedWork}
+\input{Sections/04_StudyDesign}
+\input{Sections/05_Prototypical_Implementation}
+%\input{Sections/extra_ilyes}
+\input{Sections/06_Results}
+\input{Sections/07_Threats}
+%\input{Sections/08_Discussion}
+\input{Sections/09_Conclusions}
+
+\bibliography{references}
+
+
+\appendix
+\section{End-to-End Example}
+\label{APP1}
+Here we include an example that supports the main text.
+Consider the user query: \textit{"I'm building a commercial web application using React, Express.js, and MongoDB. Are there any license conflicts I should be aware of?"}
+
+\textbf{Step 1 - Query Processing:}
+\begin{verbatim}
+Extracted Dependencies: ["react", "express", "mongodb"]
+Query Type: Compatibility Check
+Context: Commercial Use
+\end{verbatim}
+
+\textbf{Step 2 - Knowledge Graph Query:}
+\begin{verbatim}
+MATCH (p1:Package {name: "react"})-[:HAS_LICENSE]->(l1:License)
+MATCH (p2:Package {name: "express"})-[:HAS_LICENSE]->(l2:License)  
+MATCH (p3:Package {name: "mongodb"})-[:HAS_LICENSE]->(l3:License)
+MATCH (l1)-[r1:IS_COMPATIBLE_WITH]->(l2)
+MATCH (l2)-[r2:IS_COMPATIBLE_WITH]->(l3)
+RETURN p1.name, l1.name, l2.name, l3.name, 
+       r1.compatibility_type, r2.compatibility_type
+\end{verbatim}
+
+\textbf{Step 3 - RAG Retrieval:}
+The system retrieves relevant legal documents about MIT License (React), MIT License (Express), and Server Side Public License (MongoDB) commercial use provisions.
+
+\textbf{Step 4 - Response Generation:}
+\begin{quote}
+\textbf{License Compatibility Analysis:}
+
+\textbf{Dependencies Found:}
+\begin{itemize}
+    \item React: MIT License
+    \item Express.js: MIT License
+    \item MongoDB: Server Side Public License (SSPL)
+\end{itemize}
+
+\textbf{Compatibility Status:} \checkmark \textbf{COMPATIBLE}
+
+\textbf{Analysis:} All three dependencies are compatible for commercial use. React and Express both use permissive MIT licenses that allow commercial use without restrictions. MongoDB's SSPL requires that if you offer MongoDB as a service, you must open-source your service implementation, but this doesn't affect typical web applications.
+
+\textbf{Legal Basis:} This analysis is supported by the MIT License terms (Section 1) and SSPL Section 13, as referenced in \textit{Open Source Initiative License Review} (2021) and \textit{MongoDB Inc. v. Amazon Web Services} (2020).
+
+\textbf{Recommendations:}
+\begin{itemize}
+    \item No license conflicts detected
+    \item Commercial use is permitted
+    \item Consider MongoDB's SSPL implications if offering database-as-a-service
+\end{itemize}
+\end{quote}
+
+
+
+\section{Cypher query generation}
+\label{APP2}
+
+
+For the query "Can I use React with Apache 2.0?", the system generates:
+
+\begin{verbatim}
+MATCH (p1:Package {name: "react"})-[:HAS_LICENSE]->(l1:License)
+MATCH (l2:License {name: "Apache-2.0"})
+MATCH (l1)-[r:IS_COMPATIBLE_WITH]->(l2)
+RETURN p1.name, l1.name, l2.name, r.compatibility_type, 
+       r.confidence_score, r.notes
+\end{verbatim}
+
+
+
+\section{Cypher query for compatibility relationship creation}
+\label{APP3}
+
+\begin{verbatim}
+MATCH (l1:License {spdx_id: $license1}), (l2:License {spdx_id: $license2})
+CREATE (l1)-[:COMPATIBLE_WITH {confidence: $confidence, 
+                                method: 'LLM_parsing', 
+                                terms_analyzed: $terms}]->(l2)
+\end{verbatim}
+
+
+
+\end{document}
+
+
+

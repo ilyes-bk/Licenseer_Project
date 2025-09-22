@@ -1,0 +1,10 @@
+%\vspace{-.2cm}
+\section{Threats To Validity}
+\label{Section:Threats}
+
+\textbf{External Validity.} Our evaluation centers on open-source projects from GitHub repositories. Consequently, our findings may not generalize to all proprietary or commercially developed projects, particularly those with unique licensing arrangements or enterprise-specific license management practices. Although our dataset covers diverse domains (web development, machine learning, system utilities, developer tools), results may not extend to specialized domains with unique licensing requirements such as healthcare, automotive, or aerospace software. The custom license evaluation focused on enterprise licenses but may not represent all possible custom license variants encountered in practice. Our framework's LLM component relies on GPT-4, and performance may vary with other language models. Future research should evaluate LARK with alternative LLMs such as Claude, Gemini, or domain-specific models fine-tuned for legal text analysis.
+
+\textbf{Internal and Construct Validity.} Concerning license compatibility ground truth, we established our evaluation dataset through expert validation and comparison with established compatibility matrices (OSADL, SPDX). However, license compatibility can be context-dependent and subject to legal interpretation variations. Our expert evaluation involved three legal professionals, but broader expert consensus might yield different explainability ratings. The custom license parsing evaluation focused on extracting obligations, prohibitions, and permissions, but may not capture all nuanced legal concepts present in complex proprietary licenses. Additionally, our Knowledge Graph construction relies on authoritative sources (OSI, SPDX), but license interpretations evolve over time, potentially affecting long-term accuracy. We mitigated this through the system's update capabilities, but continuous validation against emerging legal precedents remains necessary.
+
+
+

@@ -1,0 +1,23 @@
+{
+  "license_name": "MIT License",
+  "license_type": "permissive",
+  "rights": [
+    "use",
+    "copy",
+    "modify",
+    "merge",
+    "publish",
+    "distribute",
+    "sublicense",
+    "sell"
+  ],
+  "obligations": [
+    "include_copyright_notice",
+    "include_license_text"
+  ],
+  "restrictions": [],
+  "commercial_use": true,
+  "modification_allowed": true,
+  "patent_grant": false,
+  "confidence_score": 0.95
+}

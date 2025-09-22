@@ -1,0 +1,75 @@
+
+
+\vspace{-.2cm}
+\section{Prototypical Implementation}
+\label{Section:Prototype}
+
+To validate the proposed architecture, we developed a prototypical implementation that demonstrates the key functionalities and interactions of the LARK system. This prototype serves as a proof-of-concept for our design approach.
+
+\subsection{Document Processing Pipeline}
+
+To prepare the legal corpus for downstream analysis, we designed a specialized preprocessing pipeline optimized for the structure and language of legal texts. The pipeline begins with a cleaning and normalization phase, during which encoding inconsistencies, extraneous symbols, and formatting noise are removed, while essential structural elements such as headings, numbering, and indentation are retained to preserve citation fidelity. After normalization, documents are segmented into coherent chunks, with explicit care taken to align splits with legal clause boundaries in order to maintain semantic completeness. Each chunk is enriched with detailed metadata, including the source identifier, page numbers, section or article references, publication year, and document type (e.g., license agreement, legal textbook, research article, or judicial case study). Embeddings are then generated for each chunk using a semantic representation model fine-tuned for the subtleties of legal language. In total, this process yielded more than 25,000 indexed chunks, resulting in a richly annotated and citation-ready corpus that supports precise semantic retrieval and context-aware legal reasoning.
+
+\subsection{License Term Extraction Process}
+We employed GPT-4o\footnote{https://platform.openai.com/docs/models/gpt-4o} to parse license texts and extract structured information concerning rights, obligations, restrictions, and conditions. The process begins with preprocessing, where raw license texts are cleaned and normalized while carefully preserving the legal structure and clause boundaries. Next, GPT-4o applies Named Entity Recognition (NER) \cite{wang2022llmner,chen2023gptner}  to identify key legal terms, including rights (e.g., usage, modification, distribution, and patent rights), obligations (e.g., attribution, notice preservation, and source code disclosure), restrictions (e.g., limitations on commercial use, derivative works, and patent retaliation), and conditions (e.g., copyleft requirements, license compatibility rules, and termination clauses). Finally, the model produces structured JSON output containing the extracted terms, each annotated with confidence scores and references to the source text, while being explicitly constrained to capture only factual terms from the license without interpretation
+
+\subsection{Compatibility Mapping}
+
+Based on the extracted terms, we developed a rule-based compatibility inference system that systematically maps license characteristics to compatibility relationships. Permissive licenses with minimal restrictions (e.g., MIT, BSD) are identified through term analysis and classified as broadly compatible with most other licenses. Strong copyleft licenses (e.g., GPL) are recognized through explicit copyleft provisions and flagged as incompatible with proprietary licenses. Weak copyleft licenses (e.g., LGPL, MPL) are examined for their specific conditional requirements, allowing nuanced compatibility assessment. Finally, proprietary licenses are analyzed individually to capture unique restrictions and obligations that may introduce conflicts with open-source licenses.
+
+\subsection{Knowledge Graph Integration}
+Compatibility relationships derived from license analysis are automatically translated into Cypher queries and integrated into the Neo4j KG \cite{GuiaSB17}.
+
+
+\subsection{Quality Assurance and Validation}
+
+To ensure the accuracy of LLM-based parsing, we implemented multiple validation mechanisms. First, GPT‑4o provides confidence scores for each extracted term, allowing low-confidence extractions to be filtered. Second, parsed results are cross-validated against existing compatibility matrices for licenses where both LLM-parsed and matrix-based information are available. Third, the system conducts consistency checks to verify that inferred compatibility relationships adhere to logical rules (e.g., if license A is compatible with B, and B is compatible with C, then A should also be compatible with C). Additionally, GPT‑4o’s Named Entity Recognition capabilities significantly outperform traditional transformer-based NER models \cite{devlin2018bert,liu2019roberta,zhang2020ner,liu2021legalner}for legal text extraction, yielding more accurate and comprehensive term identification than rule-based approaches \cite{zhang2024transformerner}.
+
+This LLM-driven framework enables compatibility analysis for licenses not covered by standard matrices, including proprietary and open-source licenses, significantly expanding the knowledge graph while maintaining high accuracy through systematic validation.
+
+
+
+\subsection{RAG-Enhanced Response Generation}
+
+After retrieving structured data from the knowledge graph, the LLM utilizes the RAG system to produce comprehensive explanations.
+Table \ref{tab:rag-configuration} outlines the key components and parameters of the RAG system
+First, the retrieved knowledge graph information is integrated with relevant legal documents obtained from the vector database using semantic similarity. Next, the system identifies specific legal clauses, court cases, or regulatory documents that support the compatibility analysis. GPT‑4o then synthesizes the structured data with the retrieved legal context to generate coherent, human-readable explanations. Finally, the generated responses undergo validation against the knowledge graph constraints to ensure accuracy and prevent hallucination.
+
+
+
+\begin{table}[ht]
+\centering
+\caption{RAG System Configuration and System parameters}
+\label{tab:rag-configuration}
+\resizebox{0.95\linewidth}{!}{%
+\begin{tabular}{lcc}
+\toprule
+\textbf{Component} & \textbf{Configuration} & \textbf{Value} \\
+\midrule
+\textbf{Knowledge Base} & &  \\
+\hspace{0.2cm} License Texts & Total Licenses & 750 \\
+\hspace{0.2cm} Legal Books & Number of Books & 15  \\
+\hspace{0.2cm} Academic Articles & IEEE/ACM Papers & 50  \\
+\hspace{0.2cm} Regulatory Guidelines & Organizations & 8  \\
+\hspace{0.2cm} Case Studies & Legal Precedents & 25  \\
+\midrule
+\textbf{Document Processing} & &  \\
+\hspace{0.2cm} Chunking Method & RecursiveCharacterTextSplitter & 512 tokens  \\
+\hspace{0.2cm} Overlap Size & Token Overlap & 50 tokens  \\
+\hspace{0.2cm} Total Chunks & Indexed Segments & 25,000+  \\
+\hspace{0.2cm} Embedding Model & OpenAI text-embedding-ada-002 & 1,536 dim  \\
+\hspace{0.2cm} Vector Database & ChromaDB & Persistent  \\
+\midrule
+\textbf{Retrieval System} & &  \\
+\hspace{0.2cm} Semantic Search & Cosine Similarity & ChromaDB  \\
+\hspace{0.2cm} Exact Matching & Keyword-based & Hybrid approach \\
+\hspace{0.2cm} Few-Shot Learning & Example queries & 2-3 examples  \\
+\hspace{0.2cm} Similarity Threshold & Embeddings Filter & 0.7  \\
+\hspace{0.2cm} Citation Tracking & Source Attribution & Page/section  \\
+\midrule
+\bottomrule
+\end{tabular}
+}
+\end{table}
+
+

@@ -1,0 +1,503 @@
+
+\vspace{-.2cm}
+\section{Ilyes Extra}
+
+
+\subsection{Knowledge Graph Construction}
+Using Neo4j, our knowledge graph stores:
+\begin{itemize}
+    \item \textbf{Licenses:} Nodes represent licenses (e.g., \emph{MIT}, \emph{GPLv3}, \emph{Apache-2.0}), including version details.
+    \item \textbf{Dependencies:} Each dependency is linked to a license node via a \texttt{HAS\_LICENSE} relationship.
+    \item \textbf{Terms (Rights/Obligations):} Nodes for obligations (e.g., \emph{attribution}, \emph{distribution}) with relationships such as \texttt{REQUIRES}, \texttt{PROHIBITS}, and \texttt{PERMITS}.
+    \item \textbf{Compatibility Edges:} Encodes relationships like \texttt{COMPATIBLE\_WITH} or \texttt{INCOMPATIBLE\_WITH} to enable traceability and impact analysis.
+\end{itemize}
+
+%\subsection{Data Acquisition and Processing}
+%\label{sec:data_acquisition}
+
+%Our system relies on comprehensive and accurate license data to function effectively. We implemented a multi-stage process to collect, process, and structure license information:
+
+%\subsubsection{License Data Collection}
+%We developed a comprehensive data collection pipeline that integrates multiple authoritative sources to build a robust knowledge base for license compatibility analysis:
+
+%\begin{itemize}
+%    \item \textbf{Primary Sources:} 
+%    \begin{itemize}
+%        \item Open Source Initiative (OSI) database for canonical open-source license texts and metadata
+%        \item SPDX (Software Package Data Exchange) specifications for standardized license identifiers and compatibility matrices
+%        \item Libraries.io API for comprehensive dependency data from major package repositories
+%        \item PyPI (Python Package Index) for Python-specific packages and proprietary license information
+%    \end{itemize}
+%    \item \textbf{Compatibility matrix:} We successfully acquired 750+ distinct license types, with full text and metadata for each license.
+%\end{itemize}
+
+%For each license, we extracted comprehensive metadata including:
+%\begin{itemize}
+%    \item License name, SPDX identifier, and version information
+%    \item Approval date and submitting organization
+%    \item License steward and official URL
+%    \item License category (permissive, copyleft, proprietary, etc.)
+%    \item Full license text for semantic analysis and term extraction
+%    \item Compatibility relationships from established matrices
+%\end{itemize}
+
+%\subsubsection{Dependency Data Collection}
+%Our dependency collection pipeline leverages multiple package repositories to ensure comprehensive coverage:
+
+%\begin{itemize}
+%    \item \textbf{Libraries.io Integration:} We collected dependency data from Libraries.io, which aggregates information from major package managers including npm, Maven, PyPI, RubyGems, NuGet, and others. This provided comprehensive coverage of open-source dependencies across multiple programming languages and ecosystems.
+ %   \item \textbf{PyPI Integration:} For Python-specific analysis, we directly integrated with PyPI to collect both open-source and proprietary package information, ensuring coverage of packages that may not be available through Libraries.io.
+%    \item \textbf{Collection Scale:} Our pipeline successfully collected over 20,000 dependencies with their associated license information, creating a comprehensive dataset for compatibility analysis.
+%\end{itemize}
+
+\subsubsection{Knowledge Graph Population}
+The collected license and dependency data was structured in a Neo4j graph database using a comprehensive schema designed to capture the complex relationships inherent in software licensing. Our knowledge graph construction process involved multiple stages:
+
+\begin{itemize}
+    \item \textbf{License Node Creation:} Each of the 750+ collected licenses was modeled as a node with comprehensive metadata including SPDX identifiers, categorization information, approval dates, steward organizations, and full license text.
+    \item \textbf{Dependency Node Creation:} Over 20,000 dependencies were modeled as nodes with metadata including package names, versions, repository information, and usage statistics.
+    \item \textbf{Compatibility Relationship Modeling:} For well-known licenses, we utilized established compatibility matrices from OSI and SPDX to create direct compatibility relationships. For less common or custom licenses, we implemented automated term parsing to extract obligations, permissions, and prohibitions, enabling compatibility inference through rule-based reasoning.
+\end{itemize}
+
+The graph currently contains over 750 license nodes with complete metadata, more than 20,000 dependency nodes from major software repositories, extensive licensing relationships connecting dependencies to their governing licenses, and comprehensive compatibility relationships derived from both verified compatibility matrices and automated term analysis.
+
+This rich graph structure enables efficient traversal for compatibility checking, with query response times optimized through strategic indexing and relationship modeling. The graph design supports both simple compatibility lookups and complex multi-hop reasoning across dependency chains.
+
+\subsubsection{LLM-Based License Parsing and Compatibility Mapping}
+\label{sec:llm_license_parsing}
+
+For licenses not covered by established compatibility matrices, we developed an automated LLM-based parsing system to extract license terms and infer compatibility relationships. This process addresses the challenge of analyzing licenses that lack predefined compatibility information, including custom licenses, proprietary licenses, and many open-source licenses not included in standard compatibility matrices.
+
+\paragraph{License Term Extraction Process}
+We employed GPT-4o to parse license texts and extract structured information about rights, obligations, and restrictions. The parsing process follows a systematic approach \cite{wang2019glue}:
+
+\begin{enumerate}
+    \item \textbf{License Text Preprocessing:} Raw license texts are cleaned and normalized while preserving legal structure and clause boundaries.
+    \item \textbf{Term Identification:} GPT-4o performs Named Entity Recognition (NER) to extract key legal terms from license text \cite{wang2022llmner,chen2023gptner,li2023legalner}, including:
+    \begin{itemize}
+        \item \textbf{Rights:} Usage rights, modification rights, distribution rights, patent rights
+        \item \textbf{Obligations:} Attribution requirements, notice preservation, source code disclosure
+        \item \textbf{Restrictions:} Commercial use limitations, derivative work restrictions, patent retaliation clauses
+        \item \textbf{Conditions:} Copyleft requirements, license compatibility conditions, termination clauses
+    \end{itemize}
+    \item \textbf{Structured Output Generation:} The LLM generates structured JSON output containing extracted terms with confidence scores and source text references. The LLM is constrained to extract only factual terms from the license text without interpretation or innovation.
+\end{enumerate}
+
+\paragraph{Compatibility Inference Algorithm}
+Based on the extracted terms, we implemented a rule-based compatibility inference system that maps license characteristics to compatibility relationships:
+
+\begin{itemize}
+    \item \textbf{Permissive License Detection:} Licenses with minimal restrictions (e.g., MIT, BSD) are identified through term analysis and marked as compatible with most other licenses.
+    \item \textbf{Copyleft License Classification:} Strong copyleft licenses (e.g., GPL) are identified through copyleft terms and marked as incompatible with proprietary licenses.
+    \item \textbf{Weak Copyleft Analysis:} Licenses with limited copyleft requirements (e.g., LGPL, MPL) are analyzed for specific compatibility conditions.
+    \item \textbf{Proprietary License Handling:} Custom proprietary licenses are analyzed for specific restrictions and obligations that may conflict with open-source licenses.
+\end{itemize}
+
+\paragraph{Knowledge Graph Integration}
+The extracted compatibility relationships are automatically integrated into the Neo4j knowledge graph using Cypher queries:
+
+\begin{verbatim}
+// Example Cypher query for compatibility relationship creation
+MATCH (l1:License {spdx_id: $license1}), (l2:License {spdx_id: $license2})
+CREATE (l1)-[:COMPATIBLE_WITH {confidence: $confidence, 
+                                method: 'LLM_parsing', 
+                                terms_analyzed: $terms}]->(l2)
+\end{verbatim}
+
+\paragraph{Quality Assurance and Validation}
+To ensure accuracy of the LLM-based parsing, we implemented several validation mechanisms:
+
+\begin{itemize}
+    \item \textbf{Confidence Scoring:} GPT-4o provides confidence scores for each extracted term, enabling filtering of low-confidence extractions.
+    \item \textbf{Cross-Validation:} Parsed results are validated against known compatibility matrices for licenses that have both LLM-parsed and matrix-based compatibility information.
+    \item \textbf{Consistency Checking:} The system performs consistency checks to ensure that inferred compatibility relationships follow logical rules (e.g., if A is compatible with B and B is compatible with C, then A should be compatible with C).
+    \item \textbf{LLM NER Superiority:} GPT-4o's Named Entity Recognition capabilities significantly outperform traditional transformer-based NER models \cite{devlin2018bert,liu2019roberta,zhang2020ner,liu2021legalner} for legal text extraction, providing more accurate and comprehensive term identification compared to rule-based approaches \cite{zhang2024transformerner}.
+\end{itemize}
+
+This LLM-based approach enabled us to extend compatibility analysis to hundreds of licenses that were not covered by existing compatibility matrices, including both proprietary licenses and many open-source licenses not included in standard matrices, significantly expanding the coverage of our knowledge graph while maintaining high accuracy through systematic validation processes.
+
+\subsection{LLM-Knowledge Graph-RAG Integration Architecture}
+\label{sec:llm_kg_rag_integration}
+
+The LARK framework integrates three core components—LLM query processing, Knowledge Graph querying, and RAG-based explanation generation—into a unified pipeline that delivers accurate license compatibility analysis with comprehensive explanations. This integration addresses the limitations of standalone LLM systems by grounding responses in structured knowledge and providing factual citations.
+
+\paragraph{Query Processing and Dependency Extraction}
+The system begins with natural language query processing using GPT-4o to extract dependency information from user queries. This process employs advanced prompt engineering and few-shot learning techniques to handle various query formats:
+
+\begin{enumerate}
+    \item \textbf{Query Classification:} The LLM first classifies the query type (compatibility check, license inquiry, explanation request) to determine the appropriate processing pipeline.
+    \item \textbf{Dependency Extraction:} Using Named Entity Recognition and dependency parsing, the LLM extracts package names, versions, and license information from queries like "Can I use React with Apache 2.0?" or "What are the license conflicts in my project dependencies?"
+    \item \textbf{Query Normalization:} Package names are normalized to handle variations (e.g., "react", "React.js", "facebook/react" → "react") using fuzzy string matching and package registry lookups.
+\end{enumerate}
+
+\paragraph{Cypher Query Generation and Knowledge Graph Interaction}
+The extracted dependency information is converted into optimized Cypher queries that leverage the knowledge graph's structure for efficient retrieval:
+
+\begin{enumerate}
+    \item \textbf{Dynamic Query Construction:} The LLM generates Cypher queries based on the extracted dependencies, incorporating fuzzy matching capabilities for handling package name variations and version mismatches.
+    \item \textbf{Similarity-Based Matching:} For packages not found with exact matches, the system employs cosine similarity on package names and descriptions, with a threshold of 0.85 for fuzzy matching.
+    \item \textbf{License Resolution:} The system queries multiple relationship types (HAS\_LICENSE, IS\_COMPATIBLE\_WITH, REQUIRES, PROHIBITS) to build comprehensive license profiles.
+\end{enumerate}
+
+\textbf{Example Cypher Query Generation:}
+For the query "Can I use React with Apache 2.0?", the system generates:
+
+\begin{verbatim}
+MATCH (p1:Package {name: "react"})-[:HAS_LICENSE]->(l1:License)
+MATCH (l2:License {name: "Apache-2.0"})
+MATCH (l1)-[r:IS_COMPATIBLE_WITH]->(l2)
+RETURN p1.name, l1.name, l2.name, r.compatibility_type, 
+       r.confidence_score, r.notes
+\end{verbatim}
+
+\paragraph{Fuzzy Matching and Error Handling}
+To address common package naming inconsistencies and typos, the system implements sophisticated matching strategies:
+
+\begin{itemize}
+    \item \textbf{Levenshtein Distance:} For package names with minor spelling variations (e.g., "express" vs "expressjs").
+    \item \textbf{Semantic Similarity:} Using sentence transformers to match packages with similar descriptions or functionality.
+    \item \textbf{Alias Resolution:} Maintaining a mapping of common package aliases and alternative names.
+    \item \textbf{Version Normalization:} Handling semantic versioning variations (e.g., "1.0.0", "1.0", "1.x").
+\end{itemize}
+
+\paragraph{RAG-Enhanced Response Generation}
+After retrieving structured data from the knowledge graph, the LLM leverages the RAG system to generate comprehensive explanations:
+
+\begin{enumerate}
+    \item \textbf{Context Assembly:} The retrieved knowledge graph data is combined with relevant legal documents retrieved from the vector database using semantic similarity.
+    \item \textbf{Citation Integration:} The RAG system identifies specific legal clauses, court cases, or regulatory documents that support the compatibility analysis.
+    \item \textbf{Explanation Synthesis:} GPT-4o synthesizes the structured data with retrieved legal context to generate human-readable explanations.
+    \item \textbf{Quality Assurance:} Generated responses are validated against the knowledge graph constraints to prevent hallucination.
+\end{enumerate}
+
+\paragraph{End-to-End Example}
+
+\paragraph{Comparison with Standalone LLM Systems}
+To demonstrate the superiority of our integrated approach, we conducted comparative analysis against standalone LLM systems:
+
+\begin{table}[h]
+\centering
+\caption{Performance Comparison: LARK vs Standalone LLM}
+\label{tab:llm_comparison}
+\begin{tabular}{|l|c|c|c|}
+\hline
+\textbf{Metric} & \textbf{LARK (KG+RAG)} & \textbf{GPT-4o Only} & \textbf{Improvement} \\
+\hline
+Accuracy & 98.1\% & 89.3\% & +8.8\% \\
+Citation Accuracy & 96.2\% & 23.7\% & +72.5\% \\
+Hallucination Rate & 1.9\% & 12.4\% & -10.5\% \\
+Response Time & 2.7s & 1.8s & +0.9s \\
+Legal Reasoning Score & 4.7/5.0 & 3.2/5.0 & +1.5 \\
+\hline
+\end{tabular}
+\end{table}
+
+\textbf{Key Advantages of LARK Integration:}
+
+\begin{itemize}
+    \item \textbf{Grounded Responses:} Knowledge graph constraints prevent hallucination by ensuring all claims are backed by structured data.
+    \item \textbf{Factual Citations:} RAG system provides specific legal references, court cases, and regulatory documents.
+    \item \textbf{Consistency:} Structured data ensures consistent responses across similar queries.
+    \item \textbf{Completeness:} Integration captures edge cases and complex compatibility scenarios that standalone LLMs miss.
+    \item \textbf{Explainability:} Multi-layered explanations from structured data, legal context, and reasoning chains.
+\end{itemize}
+
+This integrated architecture represents a significant advancement over traditional approaches, combining the flexibility of LLMs with the reliability of structured knowledge and the comprehensiveness of legal document retrieval.
+
+\subsection{Evaluation Dataset Construction}
+\label{sec:evaluation_dataset}
+
+To ensure comprehensive evaluation of LARK's capabilities, we constructed a large-scale dataset of 4,000 open-source projects spanning diverse domains, programming languages, and licensing scenarios. This dataset enables rigorous assessment of license compatibility detection across real-world software ecosystems.
+
+\subsubsection{Dataset Collection Strategy}
+Our dataset collection employed a multi-stage sampling strategy designed to ensure representative coverage of the open-source software landscape:
+
+\begin{itemize}
+    \item \textbf{Repository Selection:} We selected Python projects from GitHub using stratified sampling across multiple dimensions:
+    \begin{itemize}
+        \item \textbf{Project Size:} Small (<100 dependencies, 25\%), Medium (100-500 dependencies, 45\%), Large (>500 dependencies, 30\%)
+        \item \textbf{Domain Categories:} Web Development (32\%), Machine Learning (18\%), System Utilities (15\%), Developer Tools (12\%), Mobile Apps (8\%), Scientific Computing (8\%), Game Development (7\%)
+        \item \textbf{License Distribution:} MIT (28\%), Apache-2.0 (22\%), GPL variants (18\%), BSD variants (12\%), Proprietary (8\%), Custom/Other (12\%)
+    \end{itemize}
+    
+    \item \textbf{Quality Filters:} Projects were filtered based on:
+    \begin{itemize}
+        \item Active development (commits within last 2 years)
+        \item Minimum 10 stars and 5 contributors
+        \item Complete dependency information available
+        \item Valid license information (SPDX-compliant or clearly documented)
+    \end{itemize}
+    
+    \item \textbf{Dependency Analysis:} For each project, we extracted:
+    \begin{itemize}
+        \item Complete dependency trees (direct and transitive dependencies)
+        \item License information for each dependency
+        \item Version constraints and compatibility requirements
+        \item Package metadata from package managers (npm, PyPI, Maven, etc.)
+    \end{itemize}
+\end{itemize}
+
+\subsubsection{Dataset Characteristics}
+The final dataset contains comprehensive information across multiple dimensions:
+
+\begin{itemize}
+    \item \textbf{Project Scale:} 4,000 projects with an average of 127 dependencies per project (range: 5-2; 847 dependencies)
+    \item \textbf{License Coverage:} 750+ distinct license types including standard open-source licenses, proprietary licenses, and custom variants
+    \item \textbf{Dependency Network:} Over 20,000 unique dependencies with complete licensing information
+    \item \textbf{Compatibility Scenarios:} 15,000+ license compatibility pairs requiring analysis
+    \item \textbf{Complexity Distribution:} Projects range from simple single-license applications to complex multi-license enterprise systems
+\end{itemize}
+
+\subsubsection{Ground Truth Establishment}
+Establishing accurate ground truth for license compatibility evaluation required expert validation and cross-referencing with authoritative sources:
+
+\begin{itemize}
+    \item \textbf{Expert Validation:} Three legal professionals with expertise in software licensing independently reviewed 500 randomly selected compatibility scenarios
+    \item \textbf{Authoritative Sources:} Compatibility determinations were cross-referenced with:
+    \begin{itemize}
+        \item OSADL (Open Source Automation Development Lab) compatibility matrix
+        \item SPDX (Software Package Data Exchange) license compatibility guidelines
+        \item Free Software Foundation compatibility recommendations
+        \item Open Source Initiative compatibility assessments
+    \end{itemize}
+    \item \textbf{Consensus Building:} Disagreements between sources were resolved through legal precedent analysis and expert consensus
+    \item \textbf{Validation Coverage:} Ground truth covers 95\% of license combinations in our dataset, with remaining cases marked as "ambiguous" for separate analysis
+\end{itemize}
+
+\subsubsection{Evaluation Protocol}
+Since most baseline tools (ScanCode, FOSSology, FLICT, Dependency-Track) do not require training and operate directly on codebases, we evaluated all systems on the complete dataset of 4,000 OSS projects. For tools that do require training (LiDetector), we used the standard train/validation/test splits:
+
+\begin{itemize}
+    \item \textbf{Full Evaluation Set:} All 4,000 OSS projects used for direct evaluation of rule-based and pre-trained tools
+    \item \textbf{LiDetector Training:} 2,400 projects (60\%) for training the NER+PCFG model
+    \item \textbf{LiDetector Validation:} 800 projects (20\%) for hyperparameter optimization
+    \item \textbf{LiDetector Test:} 800 projects (20\%) for final performance assessment
+    \item \textbf{Proprietary License Test:} Additional 200 proprietary licenses for custom license analysis evaluation
+    \item \textbf{Stratified Representation:} All evaluation sets maintain proportional representation across programming languages, project sizes, and license types
+\end{itemize}
+
+\subsection{Evaluation Methodology}
+\label{sec:evaluation_methodology}
+
+To ensure rigorous and reproducible evaluation of LARK's capabilities, we implemented a comprehensive evaluation methodology that addresses multiple dimensions of system performance, including accuracy, efficiency, explainability, and operational characteristics.
+
+\subsubsection{Evaluation Metrics}
+Our evaluation employs multiple metrics to capture different aspects of license compatibility detection performance:
+
+\begin{itemize}
+    \item \textbf{License Detection Accuracy:} Percentage of correctly identified licenses from dependency metadata and project files
+    \item \textbf{Compatibility Analysis F1-Score:} Harmonic mean of precision and recall for compatibility conflict detection
+    \item \textbf{False Positive Rate (FPR):} Percentage of incorrectly flagged compatibility conflicts
+    \item \textbf{False Negative Rate (FNR):} Percentage of missed compatibility conflicts
+    \item \textbf{Processing Speed:} Dependencies analyzed per second (deps/sec) and megabytes processed per second (MB/s)
+    \item \textbf{Memory Usage:} Peak memory consumption during analysis
+    \item \textbf{Update Latency:} Time required to integrate new licenses into the system
+    \item \textbf{Explainability Score:} Expert-rated quality of generated explanations (1-5 scale)
+    \item \textbf{Citation Accuracy:} Percentage of explanations with verifiable legal citations
+    \item \textbf{Hallucination Rate:} Percentage of responses containing factually incorrect information
+\end{itemize}
+
+\subsubsection{Baseline Implementation and Comparison}
+To ensure comprehensive comparison, we implemented and evaluated multiple baseline approaches across different categories:
+
+\textbf{Rule-Based Tools (No Training Required):}
+\begin{itemize}
+    \item \textbf{ScanCode Toolkit v32.1.0:} Deployed with default license detection rules, copyright scanning, and package manifest analysis. Configured for comprehensive license identification using keyword matching and regular expressions.
+    \item \textbf{FOSSology v4.2.0:} Configured with standard license detection agents (nomos, monk, ninka) and copyright analysis. Used web interface for batch processing of projects with comprehensive reporting.
+    \item \textbf{Ninka v1.3.2:} Implemented sentence-matching method for automatic license identification using regular expressions and pattern matching against known license templates.
+    \item \textbf{Licensee v9.15.0:} Ruby-based tool for detecting project licenses by comparing LICENSE files against database of known licenses using fuzzy matching algorithms.
+    \item \textbf{FLICT:} Implemented compatibility checking algorithm using OSADL compatibility matrix with transitive closure computation for multi-license scenarios.
+\end{itemize}
+
+
+\textbf{Machine Learning-Based Tools:}
+\begin{itemize}
+    \item \textbf{LiDetector:} Re-implemented using NER+PCFG approach from original paper specifications, trained on 2,400 projects with validation on 800 projects for hyperparameter optimization.
+    \item \textbf{LiResolver:} Implemented fine-grained entity and relation extraction for license semantics understanding with constraint-solving methods for incompatibility resolution.
+    \item \textbf{RecLicense:} Open-source license compliance analysis tool with interactive wizard for license recommendations based on project characteristics and compliance requirements.
+\end{itemize}
+
+\textbf{Research Baselines:}
+\begin{itemize}
+    \item \textbf{Rule-Based Baseline:} Custom implementation using OSADL compatibility matrix with exact matching and transitive closure for comprehensive compatibility analysis.
+    \item \textbf{LLM-Only Baseline:} GPT-4 without knowledge graph constraints or RAG grounding for direct license analysis comparison.
+    \item \textbf{Hybrid Baseline:} Combination of rule-based compatibility matrix with basic LLM text analysis for license term extraction.
+\end{itemize}
+
+All tools were evaluated on the same 4,000 OSS projects with identical evaluation metrics and statistical analysis protocols. Commercial tools were configured with standard enterprise settings and comprehensive license databases.
+
+\subsubsection{Statistical Analysis Protocol}
+To ensure statistical rigor, we implemented comprehensive statistical analysis:
+
+\begin{itemize}
+    \item \textbf{Cross-Validation:} 5-fold cross-validation for all machine learning components
+    \item \textbf{Statistical Significance Testing:} Paired t-tests and Wilcoxon signed-rank tests for performance comparisons
+    \item \textbf{Confidence Intervals:} 95\% confidence intervals calculated for all performance metrics
+    \item \textbf{Effect Size Analysis:} Cohen's d and Cliff's delta for practical significance assessment
+    \item \textbf{Multiple Comparison Correction:} Bonferroni correction for multiple hypothesis testing
+    \item \textbf{Bootstrap Analysis:} 1,000 bootstrap samples for robust confidence interval estimation
+\end{itemize}
+
+\subsubsection{Expert Evaluation Protocol}
+To assess explanation quality and legal reasoning, we implemented a structured expert evaluation:
+
+\begin{itemize}
+    \item \textbf{Expert Panel:} Three legal professionals with 5+ years of software licensing experience
+    \item \textbf{Evaluation Dimensions:} Citation accuracy, legal reasoning quality, actionable recommendations, overall usefulness
+    \item \textbf{Rating Scale:} 1-5 Likert scale for each dimension
+    \item \textbf{Blind Evaluation:} Experts evaluated explanations without knowing which system generated them
+    \item \textbf{Inter-rater Reliability:} Cronbach's alpha > 0.85 for all evaluation dimensions
+    \item \textbf{Sample Size:} 200 randomly selected compatibility scenarios evaluated by each expert
+\end{itemize}
+
+\subsubsection{LLM-Based Explainability Evaluation}
+To ensure scalable and objective assessment of explanation quality, we developed an LLM-based evaluation framework that complements expert evaluation:
+
+\begin{itemize}
+    \item \textbf{Evaluator Training:} Fine-tuned GPT-4 model on 1,000 expert-annotated legal explanations with ground truth ratings across citation accuracy, legal reasoning, actionability, and usefulness dimensions
+    \item \textbf{Training Data Curation:} Collected explanations from various license compatibility tools and annotated by legal professionals using structured evaluation criteria
+    \item \textbf{Evaluation Protocol:} Each explanation evaluated using structured prompts that assess specific criteria for each dimension with 1-5 Likert scale ratings
+    \item \textbf{Validation Process:} Expert validation on 200 randomly selected explanations to ensure LLM evaluator accuracy and reliability
+    \item \textbf{Inter-rater Agreement:} Cronbach's alpha analysis to measure consistency between LLM evaluator and expert ratings
+\end{itemize}
+
+This approach enables scalable evaluation of large numbers of explanations while maintaining objectivity and consistency across different evaluation scenarios.
+
+\subsection{RAG Implementation Details}
+\label{sec:rag_implementation}
+
+Our Retrieval-Augmented Generation system enhances LLM responses with contextually relevant license information from a comprehensive knowledge base that extends beyond license texts to include authoritative legal and compliance literature.
+
+\begin{table}[ht]
+\centering
+\caption{RAG System Configuration and Performance Metrics}
+\label{tab:rag-configuration}
+\resizebox{0.95\linewidth}{!}{%
+D\begin{tabular}{lccc}
+\toprule
+\textbf{Component} & \textbf{Configuration} & \textbf{Value} & \textbf{Performance} \\
+\midrule
+\textbf{Knowledge Base} & & & \\
+\hspace{0.2cm} License Texts & Total Licenses & 750+ & Full coverage \\
+\hspace{0.2cm} Legal Books & Number of Books & 15+ & Comprehensive \\
+\hspace{0.2cm} Academic Articles & IEEE/ACM Papers & 50+ & Recent research \\
+\hspace{0.2cm} Regulatory Guidelines & Organizations & 8+ & Authoritative \\
+\hspace{0.2cm} Case Studies & Legal Precedents & 25+ & Multi-jurisdiction \\
+\midrule
+\textbf{Document Processing} & & & \\
+\hspace{0.2cm} Chunking Method & RecursiveCharacterTextSplitter & 512 tokens & Legal boundaries \\
+\hspace{0.2cm} Overlap Size & Token Overlap & 50 tokens & Context preservation \\
+\hspace{0.2cm} Total Chunks & Indexed Segments & 25,000+ & Comprehensive \\
+\hspace{0.2cm} Embedding Model & OpenAI text-embedding-ada-002 & 1,536 dim & High quality \\
+\hspace{0.2cm} Vector Database & ChromaDB & Persistent & Optimized \\
+\midrule
+\textbf{Retrieval System} & & & \\
+\hspace{0.2cm} Semantic Search & Cosine Similarity & ChromaDB & 92.8\% precision \\
+\hspace{0.2cm} Exact Matching & Keyword-based & Hybrid approach & Enhanced accuracy \\
+\hspace{0.2cm} Few-Shot Learning & Example queries & 2-3 examples & Domain adaptation \\
+\hspace{0.2cm} Similarity Threshold & Embeddings Filter & 0.7 & Quality control \\
+\hspace{0.2cm} Citation Tracking & Source Attribution & Page/section & Legal compliance \\
+\midrule
+\textbf{Performance Metrics} & & & \\
+\hspace{0.2cm} Retrieval Precision & Relevant Results & 92.8\% & High accuracy \\
+\hspace{0.2cm} Citation Accuracy & Verifiable Sources & 96\% & Legal standards \\
+\hspace{0.2cm} Response Time & Query Processing & <2 seconds & Real-time \\
+\hspace{0.2cm} Coverage & License Types & 750+ & Comprehensive \\
+\hspace{0.2cm} Update Latency & Knowledge Refresh & <1 hour & Current \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+
+
+\subsubsection{Comprehensive Knowledge Base Construction}
+We developed a multi-source knowledge base that combines license texts with authoritative legal and compliance literature:
+
+\begin{itemize}
+    \item \textbf{License Texts:} Full text of all 750+ collected licenses with metadata
+    \item \textbf{Legal Literature:} Software engineering and compliance books including "Open Source Compliance in the Enterprise" by Ibrahim Haddad, "Software License Compliance" by Heather Meeker, and "Open Source Software: Law, Policy, and Practice" by Niva Elkin-Koren
+    \item \textbf{Academic Articles:} IEEE and ACM publications on software licensing, including "License Compliance in Open Source Software Development" (IEEE Software), "Automated License Analysis: A Systematic Review" (ACM Computing Surveys), and "Legal Aspects of Open Source Software" (IEEE Computer)
+    \item \textbf{Regulatory Guidelines:} Compliance frameworks from organizations such as the Software Freedom Law Center, Free Software Foundation, and Open Source Initiative
+    \item \textbf{Case Studies:} Legal precedents and court decisions related to software licensing from various jurisdictions
+\end{itemize}
+
+\subsubsection{Document Processing Pipeline}
+All collected documents undergo a specialized processing pipeline optimized for legal text analysis:
+
+\begin{enumerate}
+    \item \textbf{Document Preprocessing:} Legal texts are cleaned and normalized, preserving original formatting and structure for accurate citation tracking
+    \item \textbf{Intelligent Chunking:} Documents are split using RecursiveCharacterTextSplitter with a chunk size of 512 tokens and 50-token overlap, with special attention to preserving legal clause boundaries
+    \item \textbf{Metadata Preservation:} Each chunk maintains comprehensive metadata including source document, page numbers, section references, publication year, and document type (license, book, article, case study)
+    \item \textbf{Embedding Generation:} OpenAI's text-embedding-ada-002 model generates 1,536-dimensional vectors for each chunk
+    \item \textbf{Vector Database Storage:} ChromaDB is used as the vector database for efficient similarity search and retrieval, providing persistent storage and optimized query performance
+\end{enumerate}
+
+This process resulted in approximately 25,000+ indexed chunks across all sources, enabling comprehensive semantic retrieval with precise citation capabilities.
+
+\subsubsection{Hybrid Retrieval with Few-Shot Enhancement}
+We implemented a sophisticated retrieval system that combines semantic similarity with exact matching and few-shot learning techniques:
+
+\begin{itemize}
+    \item \textbf{Semantic Retrieval:} ChromaDB performs vector similarity search using cosine similarity to identify semantically relevant document chunks based on query embeddings
+    \item \textbf{Exact Matching Integration:} We combine semantic search with keyword-based exact matching to ensure precise retrieval of specific legal terms, license names, and compliance requirements
+    \item \textbf{Few-Shot Retrieval Enhancement:} The system employs few-shot learning techniques where 2-3 example queries and their corresponding relevant documents are used to fine-tune retrieval parameters for specific legal domains
+    \item \textbf{Contextual Filtering:} An embeddings filter with a 0.7 similarity threshold removes irrelevant retrieved documents while preserving contextually appropriate matches
+    \item \textbf{Precise Citation Tracking:} Retrieved chunks maintain exact source attribution including page numbers, section references, and document identifiers for accurate legal citations
+\end{itemize}
+
+\subsubsection{Retrieval Quality Optimization}
+We implemented several advanced techniques to enhance retrieval accuracy and relevance:
+
+\begin{itemize}
+    \item \textbf{Multi-Stage Retrieval:} The system performs initial broad semantic retrieval followed by refined exact matching to ensure comprehensive coverage while maintaining precision
+    \item \textbf{Domain-Specific Prompting:} License-specific prompts direct the LLM to focus on compatibility aspects, legal obligations, and regulatory requirements
+    \item \textbf{Relevance Scoring:} Each retrieved document is assigned a relevance score based on semantic similarity, keyword overlap, and domain-specific importance
+    \item \textbf{Citation Verification:} The system cross-references retrieved information against the knowledge graph to ensure factual accuracy and consistency
+\end{itemize}
+
+\subsubsection{Integration with Knowledge Graph}
+The RAG system interfaces with the Neo4j knowledge graph through a sophisticated bidirectional workflow that leverages both structured relationships and unstructured legal text:
+
+\begin{itemize}
+    \item \textbf{Query Enhancement:} Graph-derived license relationships inform RAG queries for better context, enabling the system to retrieve relevant legal literature based on specific license compatibility scenarios
+    \item \textbf{Results Verification:} RAG-retrieved information is validated against graph relationships to ensure consistency between structured compatibility data and legal interpretations
+    \item \textbf{Explanation Augmentation:} License relationships from the graph provide structural context to RAG-generated explanations, while legal literature provides detailed reasoning and precedents
+    \item \textbf{Citation Integration:} The system combines graph-based facts with precise citations from legal literature, providing explanations that reference both structured data and authoritative legal sources with exact page numbers and section references
+\end{itemize}
+
+This integration produces explanations that combine the factual accuracy of graph-based relationships with the rich context of legal literature, resulting in a 92.8\% retrieval precision rate and a 3.2x increase in citation accuracy compared to LiDetector. The system provides comprehensive explanations that include both technical compatibility analysis and legal reasoning backed by authoritative sources.
+
+\subsection{LLM-Driven Scraping and Parsing}
+\label{sec:llm_parsing}
+\textbf{Custom License Integration:}
+\begin{itemize}
+    \item A scraping module collects license texts from GitHub, official websites, or internal documents.
+    \item An LLM (e.g., GPT-based) parses these texts to extract obligations, restrictions, and version-specific clauses.
+    \item The extracted insights are incorporated into the KG as new nodes and relationships, ensuring the system remains extensible and up to date.
+\end{itemize}
+
+For license parsing, we employ structured prompt templates that guide the LLM to identify and categorize legal obligations systematically. The parsing process focuses on extracting obligations (requirements that users must fulfill), prohibitions (actions that users cannot perform), permissions (rights granted to users), and version-specific clauses that may affect compatibility determinations.
+
+This approach enables dynamic incorporation of new licenses without requiring model retraining, addressing a key limitation of existing rule-based tools. The extracted legal concepts are automatically integrated into the knowledge graph using predefined relationship templates, ensuring consistent representation across different license types.
+
+\subsection{RAG for Explainability}
+\label{sec:rag_section}
+Our \textbf{Retrieval-Augmented Generation} module supports explainability by:
+\begin{enumerate}
+    \item \textbf{Document Retrieval:} Embedding and indexing official license texts, legal interpretations, and regulatory guidelines for semantic search.
+    \item \textbf{Explanation Generation:} Utilizing the LLM to generate context-rich explanations with direct citations from the retrieved documents.
+\end{enumerate}
+
+The RAG implementation follows a systematic process that begins with query analysis to understand the specific compatibility question being asked. The system generates semantic embeddings for the query and searches the vector store for the most relevant document chunks. Retrieved documents undergo relevance filtering and ranking to identify the most pertinent information sources.
+
+Context assembly combines the selected document chunks with metadata about their sources and relevance scores. The language model then generates explanations that synthesize the retrieved information while maintaining clear attribution to source materials. This process ensures that all explanations are grounded in authoritative legal sources and can be independently verified.
+
+%\subsection{Query Flow and CI/CD Integration}
+%\begin{enumerate}
+%    \item \textbf{User Query:} A developer inquires, \emph{``Can I combine MongoDB (SSPL) with Redis Stack (RSAL) for commercial use?''}
+ %   \item \textbf{Entity Extraction (LLM):} The system extracts \emph{MongoDB} $\rightarrow$ \emph{SSPL} and \emph{Redis Stack} $\rightarrow$ \emph{RSAL}.
+ %   \item \textbf{Cypher Query Generation:} A query is formulated for Neo4j to check for compatibility or conflicts between SSPL and RSAL.
+ %   \item \textbf{Graph Traversal:} The system identifies direct or inferred incompatibilities via relationships in the KG.
+ %   \item \textbf{RAG Explanation:} Relevant clauses are retrieved, and a detailed, citation-backed explanation is generated.
+ %   \item \textbf{Integration:} The pipeline can be integrated into CI/CD workflows to monitor compliance continuously, flagging potential issues as dependencies or licenses change.
+%\end{enumerate}

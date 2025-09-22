@@ -151,24 +151,37 @@ class LicenseRAG:
         if not self.vector_db:
             raise ValueError("Vector database not initialized. Call build_vector_database() first.")
         
-        # Get retriever
-        retriever = self.get_retriever(k=k)
-        
-        # Retrieve relevant documents
-        docs = retriever.get_relevant_documents(query)
-        
-        # Extract results
-        results = []
-        for doc in docs:
-            results.append({
-                "content": doc.page_content,
-                "metadata": doc.metadata
-            })
-        
-        return {
-            "query": query,
-            "results": results
-        }
+        try:
+            # Get retriever
+            retriever = self.get_retriever(k=k)
+            
+            # Retrieve relevant documents
+            docs = retriever.get_relevant_documents(query)
+            
+            # Extract results
+            results = []
+            for doc in docs:
+                results.append({
+                    "content": doc.page_content,
+                    "metadata": doc.metadata
+                })
+            
+            return {
+                "query": query,
+                "results": results,
+                "has_results": len(results) > 0,
+                "result_count": len(results)
+            }
+            
+        except Exception as e:
+            print(f"Error querying RAG system: {e}")
+            return {
+                "query": query,
+                "results": [],
+                "has_results": False,
+                "result_count": 0,
+                "error": str(e)
+            }
     
     def query_with_llm(self, query: str) -> str:
         """Use LLM to generate a response based on retrieved documents"""

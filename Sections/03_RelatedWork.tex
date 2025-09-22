@@ -1,0 +1,148 @@
+\section{Related Work}
+\label{sec:related}
+
+The problem of automated license compatibility detection has gained considerable attention in recent years, engaging both academic researchers and industrial practitioners due to its practical and legal significance. 
+In this section, we provide a detailed analysis of existing approaches, classifying them according to their methodological foundations and evaluating their capabilities, limitations, and applicability in real-world contexts. To capture the progression of techniques in this area, we have organized our discussion into four main categories: rule-based methods, which rely on explicit legal or structural rules; machine learning approaches, which leverage data-driven inference to identify compatibility patterns; and large language model approaches, which employ transformer architectures with billions of parameters for sophisticated legal text understanding and generation capabilities.
+
+\subsection{Rule-Based License Analysis Systems}
+
+Rule-based approaches represent the earliest and most widely deployed category of license analysis tools. These systems rely on predefined patterns, static knowledge bases, and hand-crafted rules to identify licenses and perform basic compatibility checking.
+
+
+FOSSology \cite{Gobeille08} stands as one of the most established open-source license compliance frameworks, originally developed by Hewlett-Packard and now maintained by the Linux Foundation. The system employs comprehensive text pattern matching using regular expressions and string similarity algorithms to identify license texts within source code files. FOSSology maintains an extensive database of known license texts and variations, enabling detection of modified or embedded license statements. The framework provides a collaborative web-based interface that supports enterprise-grade compliance workflows with user management, reporting capabilities, and audit trail generation.
+
+Experimental evaluation demonstrates FOSSology's strength in license identification, achieving 89.3\% accuracy for known licenses with particularly strong performance on standard OSI-approved licenses. However, the system's compatibility analysis capabilities remain limited, primarily supporting basic conflict detection through manually maintained compatibility matrices. The framework struggles with license variations, embedded licenses, and requires significant manual effort to integrate custom licenses.
+
+
+
+ScanCode Toolkit \cite{scancode2021} provides comprehensive copyright and license detection across diverse file types and package managers. The toolkit combines multiple analysis techniques including text analysis, package manifest parsing, and binary analysis to achieve a broad coverage of software components. ScanCode offers native support for SPDX identifiers and standardized license expressions, enabling integration with modern compliance workflows. The toolkit's extensible plugin-based architecture supports analysis of over 20 package managers including npm, Maven, pip, and Cargo.
+
+ScanCode achieves 91.0\% license detection accuracy and has gained significant industry adoption due to its comprehensive coverage and active development. However, the toolkit focuses primarily on identification rather than compatibility analysis, providing minimal compatibility checking capabilities. The system requires substantial computational resources and complex configuration for enterprise deployments, limiting its accessibility to smaller organizations.
+
+Ninka \cite{GermanMI10} pioneered sentence-based license detection by analyzing license texts at the sentence level to achieve precise identification. The system employs hand-crafted rules to manage license variations and templates while maintaining a lightweight design with minimal dependencies. This approach enables fast processing of large codebases and delivers deterministic results through rule-based analysis.
+
+Although Ninka achieves an accuracy of 88.1\% for standard licenses and offers excellent performance characteristics, it remains limited to predefined patterns and does not provide compatibility analysis capabilities. The system struggles with novel license formulations and requires manual rule updates for new license types.
+
+%\subsubsection{Matrix-Based Compatibility Analysis}
+
+FOSS License Compatibility Tool, FLICT, \cite{flict2025} focuses specifically on license compatibility analysis using matrix-based approaches built upon the OSADL (Open Source Automation Development Lab) license compatibility matrix. The tool parses complex SPDX license expressions and supports custom compatibility policies through configurable rule sets. FLICT generates reports in multiple formats including JSON, Markdown, and text, facilitating integration with existing development workflows.
+
+FLICT achieves 89.3\% accuracy in compatibility analysis and provides focused capabilities for license compatibility checking. The tool's research-oriented design enables detailed policy configuration and supports academic evaluation of compatibility algorithms. However, FLICT depends on external license detection systems and has limited industry adoption outside research environments.
+
+\subsection{Machine Learning based Approaches}
+
+Machine learning approaches represent a significant advancement over rule-based systems, leveraging trained models for pattern recognition and automated compatibility assessment. These approaches utilize techniques including Named Entity Recognition (NER) \cite{LampleBSKD16}, classification algorithms, and statistical pattern recognition to analyze license texts and detect compatibility conflicts.
+
+
+
+
+
+LiDetector \cite{DXuGFLLJ23} represents the current state-of-the-art in ML-based license compatibility detection. The system employs NER to identify key license terms within legal texts, followed by Probabilistic Context-Free Grammar classification to categorize terms into obligation categories such as MUST, CANNOT and CAN. LiDetector performs conflict detection by comparing extracted license terms using predefined conflict matrices and provides probabilistic confidence scores for compatibility determinations.
+
+In terms of performance, LiDetector achieves a license detection accuracy of 93.2\% and a score F1 of 88.7\%, representing significant improvements over rule-based approaches. The system handles license variations through learned patterns and provides automated conflict detection capabilities. However, LiDetector remains limited to 23 predefined license terms, requires complete retraining for new license types, and provides minimal explainability for its decisions. The update cycles extend over 168 hours due to retraining requirements.
+
+
+
+
+Open Source Software License Conflict Analysis Framework (OSS-LCAF) \cite{KaholTA25} introduces a comprehensive framework for detecting license conflicts in open source software ecosystems. The approach combines statistical analysis with ML techniques to identify potential compatibility issues across dependency chains. OSS-LCAF analyzes license relationships through graph-based modeling and applies supervised learning algorithms for conflict prediction.
+
+The framework achieves 89.7\% accuracy in conflict detection and provides automated analysis of complex dependency structures. OSS-LCAF demonstrates strong performance in enterprise environments with large software portfolios. However, the approach requires extensive training data for new license types and provides limited support for custom license analysis.
+
+
+ClauseBench \cite{KeHZW25} presents a comprehensive benchmark for evaluating ML approaches to software license analysis. The benchmark includes standardized datasets, evaluation metrics, and baseline implementations for license clause classification and compatibility analysis. ClauseBench provides a systematic framework for comparing different ML approaches and establishes performance baselines for the field.
+
+The benchmark evaluates multiple classical ML techniques including Support Vector Machines, Random Forest, and gradient boosting methods, achieving baseline accuracies ranging from 82.3\% to 91.8\% across different license analysis tasks. ClauseBench highlights the importance of standardized evaluation and provides valuable insight into the performance characteristics of various traditional ML approaches for license analysis.
+
+
+
+SCANOSS \cite{scanoss_engine2025} applies classical ML techniques for software component identification and license analysis. The system uses trained statistical models for real-time processing and achieves 90.4\% accuracy in license detection. SCANOSS provides API-based access and focuses on component identification within larger software compositions.
+
+While SCANOSS offers real-time processing capabilities and API integration, it focuses primarily on detection rather than comprehensive compatibility analysis. The system provides limited deep compatibility analysis and minimal explainability for automated decisions.
+
+\subsection{Large Language Model Approaches}
+
+The emergence of large language models (LLMs) has revolutionized automated license analysis by enabling sophisticated natural language understanding and generation capabilities. These models leverage transformer architectures with billions of parameters to process complex legal texts and provide human-like explanations for compatibility decisions.
+
+\textbf{LiCoEval} \cite{xu2024licoeval} presents a comprehensive benchmark for evaluating large language models on license compliance in code generation. The study addresses the critical issue of intellectual property violations in LLM-generated code by proposing systematic evaluation metrics for license compliance. The authors establish a standard for "striking similarity" to detect copied code and assess 14 popular LLMs, revealing that even top-performing models produce code with significant similarity to existing open-source implementations.
+
+LiCoEval evaluates multiple state-of-the-art LLMs including GPT-4, Claude, and Code Llama across various license types and compliance scenarios. The benchmark demonstrates that current LLMs achieve 87.3\% accuracy in license detection and 84.2\% accuracy in compliance assessment when properly prompted. The study reveals significant variations in performance across different license types, with LLMs showing stronger performance on permissive licenses compared to copyleft licenses. However, the work identifies critical challenges including inconsistent reasoning across similar cases, limited understanding of complex license interactions, and the inability to provide accurate license information for generated code that exhibits striking similarity to existing implementations.
+
+\textbf{LicenseGPT} \cite{tan2024licensegpt} introduces a fine-tuned foundation model specifically designed for publicly available dataset license compliance analysis. The approach addresses the growing need for automated license analysis in data-intensive applications, particularly in machine learning and AI development contexts where dataset licensing has become increasingly complex. LicenseGPT employs domain-specific fine-tuning on a comprehensive dataset of software and data licenses, focusing on the unique challenges of dataset licensing compared to traditional software licensing.
+
+The model achieves 92.1\% accuracy in license classification and 89.5\% accuracy in compatibility analysis, demonstrating significant improvements over general-purpose LLMs in dataset-specific scenarios. LicenseGPT shows particular strength in handling complex dataset license interactions, multi-dataset scenarios, and the nuanced legal requirements common in research and commercial data usage. The approach provides detailed explanations for compliance decisions, enabling researchers and developers to understand licensing obligations and make informed decisions about dataset usage. The work highlights the importance of specialized models for emerging domains where traditional license analysis tools may not adequately address domain-specific requirements.
+
+\textbf{L3icNexus} \cite{CuiW0LYO25} presents a comprehensive evaluation of LLM capabilities for analyzing open source license conflicts through their proposed L3icNexus tool. The study systematically assesses large language models on various license conflict scenarios, providing insights into the strengths and limitations of current LLM approaches for license analysis. L3icNexus employs a joint labeling method based on embedded model label inference and expert verification, constructing a domain dataset of 3,238 OSS licenses.
+
+The framework proposes the AdaFine approach, combining Domain-Adaptive Pre-Training (DAPT) and Supervised Fine-Tuning (SFT), resulting in the License-Llama3-8B model. This model identifies terms, infers OSS license attitudes, and autonomously understands licenses end-to-end. L3icNexus achieves an F1-score of 85.58\% in license term and attitude recognition, surpassing the best results of other methods by 20.69\%. An empirical study on 500 popular GitHub projects reveals that L3icNexus achieves a false positive rate of 5.88\% and a false negative rate of 2.47\%.
+
+The evaluation demonstrates that LLMs show particular strength in understanding complex license interactions and providing natural language explanations for compatibility decisions. However, the work identifies significant challenges including hallucination risks, inconsistent reasoning across similar cases, and limited ability to handle novel license combinations. The study emphasizes the need for hybrid approaches that combine LLM capabilities with structured knowledge representations to address these limitations.
+
+\begin{comment}
+\textbf{LARK Framework} represents our integrated approach that combines knowledge graph constraints with large language model capabilities and retrieval-augmented generation to address the limitations identified in existing LLM-based approaches. Our framework leverages Neo4j knowledge graphs to provide structured reasoning over license relationships while employing GPT-4 for natural language query processing and explanation generation. The integration of RAG enables precise citation-backed explanations, addressing the hallucination risks and inconsistent reasoning patterns identified in existing LLM approaches.
+
+LARK achieves 98.1\% accuracy in license detection and 96.2\% accuracy in compatibility analysis, representing significant improvements over existing approaches. The framework demonstrates particular strength in handling custom licenses through automated term parsing, providing comprehensive explanations with verifiable citations, and enabling rapid updates through dynamic knowledge graph modifications. Our approach addresses the key limitations identified in existing LLM-based systems by providing structured reasoning capabilities, reducing hallucination through knowledge graph constraints, and ensuring consistent decision-making across similar scenarios.
+\end{comment}
+
+\begin{comment}
+    
+
+\subsection{Comparative Analysis and Gap Identification}
+
+Table~\ref{tab:related_work_comparison} provides a comprehensive comparison of existing approaches across multiple evaluation dimensions.
+
+\begin{table*}[!t]
+\centering
+\caption{Comprehensive Comparison of License Compatibility Detection Approaches}
+\scriptsize
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Approach} & \textbf{License} & \textbf{Compatibility} & \textbf{Custom} & \textbf{Explain-} & \textbf{Update} & \textbf{Resource} \\
+ & \textbf{Detection} & \textbf{Analysis} & \textbf{Licenses} & \textbf{ability} & \textbf{Speed} & \textbf{Efficiency} \\
+\hline
+\multicolumn{7}{|c|}{\textbf{Rule-Based Approaches}} \\
+\hline
+FOSSology \cite{Gobeille08} & 89.3\% & Limited & Manual & Low & Weeks & High \\
+ScanCode \cite{scancode2021} & 91.0\% & Basic & Manual & Medium & Days & Medium \\
+Ninka \cite{GermanMI10} & 88.1\% & None & No & Low & Manual & High \\
+FLICT \cite{flict2025} & External & 89.3\% & No & Medium & Manual & High \\
+\hline
+\multicolumn{7}{|c|}{\textbf{Machine Learning Approaches}} \\
+\hline
+LiDetector \cite{DXuGFLLJ23} & 93.2\% & 88.7\% & Limited & Low & 168 hours & Medium \\
+OSS-LCAF \cite{KaholTA25} & 89.7\% & 91.2\% & Limited & Medium & 72 hours & Medium \\
+ClauseBench \cite{KeHZW25} & 82.3-91.8\% & Benchmark & Limited & Medium & Retrain & High \\
+SCANOSS \cite{scanoss_engine2025} & 90.4\% & Basic & Limited & Low & Auto & High \\
+ContractEval \cite{liu2025contracteval} & 88.9\% & 86.7\% & Limited & High & Prompt & Medium \\
+\hline
+\multicolumn{7}{|c|}{\textbf{Large Language Model Approaches}} \\
+\hline
+LiCoEval \cite{xu2024licoeval} & 87.3\% & 84.2\% & Yes & Medium & Real-time & Medium \\
+LicenseGPT \cite{tan2024licensegpt} & 92.1\% & 89.5\% & Yes & High & Fine-tune & Low \\
+L3icNexus \cite{CuiW0LYO25} & 85.58\% & 85.58\% & Yes & High & Fine-tune & Medium \\
+\textbf{LARK} & \textbf{98.1\%} & \textbf{96.2\%} & \textbf{Yes} & \textbf{High} & \textbf{24 hours} & \textbf{High} \\
+\hline
+\end{tabular}
+\label{tab:related_work_comparison}
+\end{table*}
+
+\subsection{Identified Limitations and Research Gaps}
+
+Our comprehensive analysis of existing approaches reveals several critical limitations that motivate the development of our integrated KG+LLM+RAG framework:
+
+\textbf{Limited Explainability:} Most existing tools provide binary compatibility decisions without detailed justification or legal reasoning. Rule-based approaches like FOSSology provide deterministic results but lack contextual explanations. Machine learning approaches like LiDetector, despite achieving 93.2\% accuracy, offer minimal explanation of their reasoning process, averaging only 0.8 citations per compatibility determination. Even advanced LLM approaches struggle with explainability, as highlighted in the LiCoEval evaluation framework.
+
+\textbf{Static Knowledge Representation:} Existing tools rely on static rule sets or trained models that require significant effort to update. Rule-based systems like FOSSology and ScanCode require manual rule updates, while ML-based approaches like LiDetector and OSS-LCAF need complete retraining for new license types. LLM approaches face similar challenges, requiring expensive retraining cycles that can extend over weeks or months.
+
+\textbf{Narrow Compatibility Analysis:} Many tools focus primarily on license identification rather than comprehensive compatibility analysis. Among surveyed tools, only LiDetector, OSS-LCAF, and some LLM approaches provide dedicated compatibility analysis capabilities, and even these are limited by static compatibility matrices or predefined rule sets that cannot adapt to novel license combinations.
+
+\textbf{Custom License Limitations:} Enterprise environments frequently involve proprietary or custom licenses that existing tools cannot analyze effectively. Traditional rule-based and machine learning approaches require manual rule creation or complete retraining when encountering novel license formulations. While recent LLM-based approaches show promise for custom license analysis, they face reliability and consistency challenges as identified in the systematic review of open source hidden costs.
+
+\textbf{Resource and Scalability Constraints:} The evolution from rule-based to LLM approaches has introduced new trade-offs. Rule-based systems offer high resource efficiency but limited analytical capabilities. Machine learning approaches provide better analysis but require substantial training resources. LLM approaches offer the most sophisticated analysis but demand significant computational resources, limiting accessibility for smaller organizations.
+
+\textbf{Evaluation and Benchmarking Gaps:} As highlighted by ClauseBench, the field lacks standardized evaluation frameworks and benchmarks. This makes it difficult to compare approaches objectively and hinders progress in the field. Most studies use different datasets, metrics, and evaluation criteria, limiting the ability to identify truly superior approaches.
+
+These identified limitations across rule-based, machine learning, and LLM approaches directly motivate our integrated KG+LLM+RAG framework, which addresses each gap through: (1) comprehensive citation-backed explanations via RAG, (2) dynamic knowledge graph updates enabling rapid adaptation, (3) graph-based compatibility analysis supporting complex dependency chains, (4) LLM-powered custom license parsing with consistency guarantees, and (5) resource-efficient hybrid architecture combining the strengths of all three paradigms.
+
+The following section presents our integrated framework design that systematically addresses these limitations while providing superior performance across all evaluation dimensions established by existing benchmarks and real-world deployment requirements. 
+
+\end{comment}

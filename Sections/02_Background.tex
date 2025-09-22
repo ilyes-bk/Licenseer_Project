@@ -1,0 +1,151 @@
+\section{Background and Foundations}
+\label{sec:background}
+
+This section establishes the theoretical and technical foundations underlying the LARK framework. We begin by clarifying the fundamental distinction between license compliance and compatibility, which forms the conceptual basis for our analytical approach. We then examine Large Language Model adaptation techniques that enable effective legal text processing, followed by an exploration of Knowledge Graph technologies that provide the structural foundation for our system's reasoning capabilities.
+
+
+\subsection{Software licensing}
+
+
+A software license is a legal instrument and binding contract that grants formal permissions from the copyright holder, governing the use, modification, and redistribution of copyright-protected software. It defines the specific conditions under which licensees may exercise these rights, thereby regulating the relationship between the rights owner and the end user \cite{TuunanenKK09,MorinUS12}.
+To highlight the distinctions among the different types of licenses, \cref{{tab:sof_license_classification}} summarizes the specific rights granted to licensees under each category.
+
+In comparison, a typical proprietary end-user license agreement restricts users to a limited set of usage rights, emphasizing that access to the software does not convey broader permissions such as modification, redistribution, or creation of derivative works. 
+For instance, proprietary software such as Adobe Creative apps and services \cite{adobe2024terms} is distributed under end-user licenses that restrict usage. To reuse such software as part of another program, the license must explicitly grant rights to copy, modify, or redistribute the work.
+
+Open-source licenses, by contrast, grant users more extensive freedoms, allowing them to view, modify, and redistribute the software, with conditions varying according to whether the license is permissive, copyleft, or weak copyleft. 
+
+Freeware licenses provide the software at no cost but typically do not allow modification or redistribution, while shareware licenses offer limited-time or feature-restricted access, often requiring payment for full functionality.
+
+Finally, public domain software imposes minimal or no restrictions, allowing anyone to use, modify, and distribute the software freely without legal obligations. Since this category is regarded as having no formal license, it is presented separately from the other classes in \cref{{tab:sof_license_classification}}.
+
+
+
+
+
+\begin{table}[ht]
+\centering
+\caption{Classification of Software Licenses.}
+\label{tab:sof_license_classification}
+\resizebox{0.75\linewidth}{!}{%
+\begin{tabular}{lccccccc}
+\toprule
+\textbf{License} &  \textbf{Usage rights} & & & \textbf{Re-release} & & & \textbf{Adaptations} \\
+\midrule
+%\textbf{[LLM + KG]} & 5 & & & 20 & & &0.8 \\
+\textbf{PROPRIATORY }  & Restricted & & & Not allowed  & & & Not allowed \\
+\textbf{SHAREWARE } & Restricted & & & Allowed & & &Not allowed \\
+\textbf{FREEWARE } & Allowed & & &  Allowed & & &Not allowed \\
+\textbf{OPEN SOURCE } & Allowed & & &  Allowed & & &Allowed \\
+\bottomrule
+\textbf{PUBLIC DOMAIN } & Allowed & & &  Allowed & & &Allowed \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+
+
+\subsection{License Compliance vs. License Compatibility}
+\label{sec:compliance_compatibility}
+
+Understanding the distinction between license \emph{compliance} and \emph{compatibility} is fundamental to effective software license management and regulatory adherence. While these terms are often used interchangeably in practice, they represent distinct analytical dimensions with different implications for software development, distribution, and legal risk management.
+
+\subsubsection{License Compliance}
+
+License compliance ensures that software usage, modification, and redistribution adhere strictly to the terms stipulated by the license agreement. Non-compliance can result in legal liabilities, financial penalties, and reputational risks. Effective compliance requires tracking software components, documenting usage, and fulfilling obligations such as attribution or source code disclosure
+
+
+
+\subsubsection{License Compatibility}
+
+License compatibility refers to the ability to combine software components under different licenses without violating any individual license terms. This is particularly critical in open-source projects, where multiple licenses may govern various components. While permissive licenses (e.g., MIT, BSD) are generally compatible with many other licenses, copyleft licenses (e.g., GPL) impose stricter conditions that may conflict with proprietary or restrictive licenses.
+
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=1\textwidth]{Images/Vizualization_Incompatibility.jpg}
+    \caption{Illustration of License Incompatibility Arising Between Package Dependencies}
+    \label{fig:Viz_Incompatibility}
+\end{figure*}
+
+
+
+Directional compatibility refers to the property of software licenses whereby the ability to combine or integrate code is not necessarily reciprocal. That is, software licensed under License A may be incorporated into a project governed by License B without legal conflict, but attempting the reverse—integrating License B code into a License A project—may violate licensing terms. This asymmetry typically arises because different licenses impose varying obligations, such as requirements for source code disclosure, attribution, or redistribution under the same license. Understanding directional compatibility is essential for developers to ensure that code integration respects all legal requirements and avoids inadvertent license violations.
+
+Compatibility classes categorize software licenses based on their ability to coexist with other licenses. Common classes include permissive, weak copyleft, strong copyleft, proprietary, and public domain licenses. Permissive licenses, such as MIT or BSD, are generally compatible with most other licenses, allowing broad integration. Weak copyleft licenses, such as LGPL, impose some restrictions but permit linking with proprietary software under certain conditions. Strong copyleft licenses, like GPL, enforce strict obligations on derivative works, limiting compatibility with more restrictive or proprietary licenses. Understanding compatibility classes enables developers to plan integrations strategically, ensuring both legal compliance and functional interoperability
+
+
+
+
+
+
+
+\subsubsection{Compliance-Compatibility Interplay}
+
+The relationship between compliance and compatibility creates complex analytical challenges that require sophisticated reasoning capabilities. A project may achieve compatibility between individual license pairs while failing overall compliance due to conflicting obligations when considering the complete dependency network. Conversely, strict compliance with individual licenses may create compatibility conflicts when multiple dependencies are considered holistically.
+
+%Our framework addresses both dimensions by modeling compliance requirements as structured knowledge graph relationships while assessing compatibility through graph traversal algorithms that consider the complete dependency context and applicable legal constraints.
+
+\subsection{Large Language Model Adaptation Methods}
+\label{sec:llm_adaptation}
+
+Large Language Models (LLMs) have become foundational tools for a variety of natural language processing tasks. However, effectively applying them to specialized domains such as legal text analysis and license compatibility detection requires careful adaptation. In this section, we explore four major strategies for adapting LLMs: prompt engineering, full fine-tuning, parameter-efficient fine-tuning (PEFT), and retrieval-augmented generation (RAG). Each approach offers distinct trade-offs between flexibility, resource requirements, and domain alignment.
+
+\subsubsection{Prompt Engineering.}
+This is often the initial and most accessible strategy for adapting LLMs. Instead of altering the model's parameters, this approach centers on designing input prompts that shape the model's behavior. For example, zero-shot prompting defines a task without examples, whereas few-shot prompting introduces a limited set of demonstrations to establish context \cite{brown2020language}. More advanced strategies, such as chain-of-thought and least-to-most prompting, have been shown to substantially improve performance on tasks requiring complex reasoning \cite{zhou2022least}.
+
+While prompt engineering offers a low-cost and model-agnostic solution, it is inherently brittle. Performance can be highly sensitive to prompt phrasing, and this approach often lacks the domain-specific grounding necessary for reliable use in high-stakes applications.
+
+\subsubsection{Full Fine-Tuning.}
+
+For tasks where deep domain integration is essential, full fine-tuning offers a more robust solution. This method updates all of the pre-trained model’s parameters using labeled examples from the target domain. It allows the model to internalize domain-specific structures and linguistic patterns, resulting in more reliable outputs \cite{chowdhery2022palm}.
+
+However, full fine-tuning comes at a cost, it requires significant compute resources, access to large annotated datasets, and careful optimization. These requirements can be prohibitive in specialized fields like legal text analysis and license compatibility detection, where labeled data is often scarce.
+
+\subsubsection{Parameter-Efficient Fine-Tuning.}
+
+To balance model performance with computational efficiency, Parameter Efficient Fine Tuning (PEFT) approaches have been developed. Techniques such as adapter layers \cite{houlsby2019parameter} and Low-Rank Adaptation (LoRA) \cite{hu2022lora} introduce a small set of trainable parameters into a pre-trained model, while preserving the majority of its original weights.
+
+PEFT methods substantially reduce the resource demands associated with full model fine-tuning and promote modularity. For instance, task- or domain-specific adapters can be trained independently and dynamically integrated into the base model as required. This flexibility makes PEFT particularly well-suited for domain adaptation scenarios with constrained computational budgets.
+
+
+\subsubsection{RAG.}
+
+
+In scenarios where up-to-date or domain-specific knowledge is not inherently captured within the model, RAG provides an effective solution. A typical RAG architecture consists of a retriever, which selects relevant documents in response to a user query, and a generator that synthesizes the retrieved content into a coherent answer \cite{izacard2022few}.
+
+This framework is particularly advantageous in dynamic and information-dense domains such as legal text analysis and license compatibility detection, where facts evolve rapidly and exceed the model's capacity to memorize. However, deploying RAG introduces additional system complexity, including document indexing, the design of effective retrieval strategies, and the seamless coordination between retrieval and generation components.
+
+
+
+
+\subsection{Knowledge Graphs}
+\label{sec:knowledge_graphs}
+
+Taxonomies, ontologies, and knowledge graphs represent progressively expressive paradigms for organizing and reasoning over domain knowledge. A taxonomy is a hierarchical structure that organizes concepts using parent-child (``is-a'') relationships, commonly used for classification purposes in domains such as e-commerce and document organization~\cite{Nickerson2013Taxonomy}. An ontology extends taxonomies by incorporating richer semantic relationships, constraints, and properties among entities. Ontologies are typically expressed in formal logic using languages like OWL and enable automated reasoning and interoperability between systems~\cite{Gruber1995Ontology}. A knowledge graph  builds upon ontologies by representing knowledge as a network of entities and relationships in the form of subject-predicate-object triples. KGs are more flexible and dynamic, supporting tasks such as question answering and link 
+prediction~\cite{Hogan2021KnowledgeGraphs}. In essence, while taxonomies provide structural hierarchy, and ontologies introduce formal semantics, knowledge graphs combine both with graph-based connectivity, making them central to modern AI systems, especially in legal and regulatory domains.
+
+
+
+
+
+
+
+
+\subsection{Multi-hop Graph Traversal}
+\label{sec:multi_hop_traversal}
+
+Multi-hop graph traversal is a fundamental operation in knowledge graphs and symbolic reasoning systems. It involves navigating across a series of interconnected nodes to infer indirect relationships or answer complex queries that require combining multiple facts. 
+
+Traversal strategies commonly include Breadth-First Search (BFS) and Depth-First Search (DFS). BFS explores all immediate neighbors before moving deeper, making it suitable for discovering all entities within a limited number of hops or identifying the shortest path \cite{lee2012pathrank}. DFS, by contrast, follows a single path to its conclusion before backtracking, which can uncover longer relational chains but may also lead to combinatorial explosion.
+
+Multi-hop reasoning has been widely applied in KG completion, question answering, and recommendation systems. However, as the number of potential paths increases exponentially with each hop, scalability and relevance filtering become key challenges. To mitigate this, recent approaches incorporate edge ranking heuristics \cite{pandy2022learning}, neural path selection models \cite{yao2020kgbert}, or even language model-guided traversal strategies \cite{tan2025paths}, which prioritize semantically meaningful paths.
+
+Such methods aim to balance completeness and efficiency by focusing exploration on the most promising paths, enabling more accurate and interpretable reasoning over large graphs \cite{xu2021fusing}.
+
+
+
+%********
+%*********
+
+

@@ -9,8 +9,8 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="LICENSEER - Open Source License Compatibility Checker",
-    page_icon="🔍",
+    page_title="LARK - License Analysis with RAG and Knowledge Graphs",
+    page_icon="🕊️",
     layout="centered",
     initial_sidebar_state="expanded"
 )
@@ -116,8 +116,13 @@ def load_license_compatibility_llm():
 llm = load_license_compatibility_llm()
 
 # Header
-st.markdown('<div class="main-header">🔍 LICENSEER</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-header">Open Source License Compatibility Checker with RAG</div>', unsafe_allow_html=True)
+# Optional LARK logo (bird). Place a file at src/assets/lark_logo.png to enable.
+logo_path = os.path.join(os.path.dirname(__file__), "assets", "lark_logo.png")
+if os.path.exists(logo_path):
+    st.image(logo_path, width=96)
+
+st.markdown('<div class="main-header">🕊️ LARK</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-header">License Analysis with RAG and Knowledge Graphs</div>', unsafe_allow_html=True)
 
 # Initialize chat history if it doesn't exist
 if "messages" not in st.session_state:
@@ -188,13 +193,17 @@ if submit_button and user_input:
             # Add bot message to chat
             st.session_state.messages.append({"role": "assistant", "content": response})
             
-            # Display bot response
+            # Display bot response with enhanced styling
             st.markdown(f"""
             <div class="chat-message bot-message">
                 <div class="bot-avatar">🤖</div>
                 <div class="chat-message-content">{response}</div>
             </div>
             """, unsafe_allow_html=True)
+            
+            # Add a small note about data sources if available
+            if "knowledge graph" in response.lower() or "general license knowledge" in response.lower():
+                st.info("💡 **Note**: This response combines our knowledge graph data with general license knowledge for comprehensive analysis.")
             
         except Exception as e:
             # Remove thinking message
@@ -215,9 +224,9 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Sidebar
 with st.sidebar:
-    st.title("About LICENSEER")
+    st.title("About LARK")
     st.markdown("""
-    **LICENSEER** is an AI-powered tool that helps developers understand license compatibility between open-source packages.
+    **LARK** (License Analysis with RAG and Knowledge Graphs) helps developers assess license compatibility between open-source packages.
     
     ### Features:
     - 📋 License identification for packages
@@ -228,9 +237,9 @@ with st.sidebar:
     ### How it works:
     1. We extract package names from your query
     2. We identify licenses for each package
-    3. We check compatibility between licenses
-    4. RAG system provides context from license texts
-    5. LLM generates a comprehensive response
+    3. We check compatibility between licenses using the Knowledge Graph
+    4. RAG retrieves supporting clauses when available
+    5. LLM generates a comprehensive response with graceful fallbacks
     """)
     
     st.markdown("---")

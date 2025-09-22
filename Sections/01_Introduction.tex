@@ -1,0 +1,59 @@
+\section{Introduction}
+\label{sec:introduction}
+
+
+%%MONTASSAR ADDED PARAGRAPH
+
+\textcolor{blue}{For example, in 2010, Oracle alleged that Google copied Java APIs and code in Android without a proper license \cite{google_oracle_2021}. In 2017, CoKinetic Systems pursued a \$100 million GPL license violation case against Panasonic Avionics \cite{cokinetic_panasonic_2017}. TikTok Live Studio faced allegations in 2021 for GPL violations by incorporating code from OBS Studio without adhering to the license requirements \cite{fossa2021tiktok}. In 2022, open-source programmers filed a class-action lawsuit against GitHub Copilot, claiming it reproduced code snippets from open-source projects without proper attribution or compliance with licensing terms \cite{butterick2022githubcopilot,butterick2022copilotlawsuit}. More recently, in 2024, software company Entr’Ouvert was awarded €900K in its suit against Orange S.A. for violations of version 2.0 of GPL \cite{stevenson2024wake}.}
+
+
+
+%%MONTASSAR ADDED PARAGRAPH
+
+
+
+Modern software development has fundamentally shifted toward a component-based paradigm where applications integrate dozens or even hundreds of third-party libraries and frameworks. This architectural evolution, while enabling rapid development and innovation, has created unprecedented challenges in software license management and regulatory compliance. Recent studies indicate that 97\% of commercial codebases contain open-source components \cite{synopsys2023ossra}, with the average application incorporating over 500 external dependencies, each governed by potentially different licensing terms. Alarmingly, research shows that 72.91\% of software projects encounter license incompatibilities that threaten project viability and regulatory compliance.
+
+The complexity of this landscape is further amplified by the diversity of available licenses. The Software Package Data Exchange (SPDX) initiative recognizes over 400 distinct license types, ranging from permissive licenses like MIT and Apache 2.0 to restrictive copyleft licenses such as GPL variants, each imposing unique obligations, restrictions, and compatibility requirements \cite{spdx2023specification}. Moreover, enterprise environments frequently involve proprietary and custom licenses that deviate from standard open-source templates, creating additional analytical challenges.
+
+\textbf{Critical Challenges in License Compatibility Analysis}
+
+The current state of license compatibility detection faces several fundamental limitations that impede effective regulatory compliance:
+
+\textbf{Complexity and Scale:} Manual license analysis becomes impractical when dealing with large dependency graphs. A typical enterprise application may require analysis of thousands of license combinations, each potentially subject to context-dependent compatibility rules. The combinatorial explosion of possible license interactions makes comprehensive manual review infeasible within reasonable time and resource constraints.
+
+\textbf{Dynamic Legal Landscape:} Software licenses and their interpretations evolve continuously \cite{meeker2020open}. New license versions emerge regularly (e.g., GPLv2 to GPLv3), legal precedents modify compatibility understanding, and community practices influence practical compliance requirements. Static rule-based systems struggle to accommodate this dynamic environment without significant manual intervention and expertise.
+
+\textbf{Limited Explainability:} Existing automated tools typically provide binary compatibility decisions without detailed justification or legal reasoning \cite{xu2024licoeval}. This black-box approach creates significant challenges for regulatory compliance, where audit trails, justification documentation, and transparent decision-making processes are essential for legal and business requirements.
+
+\textbf{Custom License Challenges:} Enterprise environments frequently encounter proprietary, modified, or custom licenses that deviate from standard templates \cite{tan2024licensegpt}. Traditional tools, trained or configured for standard licenses, cannot effectively analyze these custom legal texts without extensive manual configuration or retraining.
+
+\textbf{Regulatory Compliance Requirements:} Modern regulatory frameworks increasingly demand comprehensive software asset management, including detailed license compliance documentation. Organizations must demonstrate not only current compliance but also the ability to track changes, assess impacts, and maintain compliance over time as software evolves.
+
+\textbf{Our Contribution}
+
+This paper introduces \textbf{LARK} (License Analysis with RAG and Knowledge graphs), a novel framework that addresses these challenges through the integration of three complementary technologies: Knowledge Graphs for structured legal relationship modeling, Large Language Models for intelligent text analysis, and Retrieval-Augmented Generation for explainable decision-making.
+
+Our key contributions include:
+
+\begin{enumerate}
+    \item \textbf{Hybrid Knowledge Representation:} A Knowledge Graph architecture that models both explicit license relationships from authoritative sources and derived relationships through automated reasoning, enabling comprehensive compatibility analysis across complex dependency networks.
+    
+    \item \textbf{LLM-Powered Custom License Integration:} An automated pipeline for parsing and integrating custom and proprietary licenses using Large Language Models, eliminating the need for manual rule creation or model retraining when encountering novel license texts.
+    
+    \item \textbf{RAG-Enhanced Explainability:} A Retrieval-Augmented Generation system that provides detailed, citation-backed explanations for compatibility decisions, supporting regulatory compliance requirements and enabling expert validation of automated analysis results.
+    
+    \item \textbf{Dynamic Update Capabilities:} An architecture that supports rapid integration of new licenses and evolving legal interpretations, reducing update cycles from weeks (traditional ML approaches) to hours through graph-based knowledge representation.
+    
+    \item \textbf{Comprehensive Evaluation Framework:} Systematic evaluation against state-of-the-art baselines using real-world datasets, demonstrating superior performance in accuracy, explainability, and operational characteristics.
+\end{enumerate}
+
+\textbf{Experimental Validation}
+
+Our experimental evaluation demonstrates significant improvements over existing approaches. LARK achieves 98.1\% license detection accuracy compared to 93.2\% for LiDetector, the current state-of-the-art ML-based approach. For compatibility analysis, our system achieves a 96.2\% F1 score versus 88.7\% for baseline methods. Critically, expert evaluation rates our system's explanations at 4.8/5 for clarity and usefulness, compared to 3.2/5 for existing tools.
+
+The framework's practical value is demonstrated through real-world case studies involving complex enterprise licensing scenarios, showing how the integrated approach provides both accurate compatibility analysis and the detailed explanations required for regulatory compliance and legal decision-making.
+
+\textbf{Paper Organization}
+
+The remainder of this paper is organized as follows: Section~\ref{sec:background} provides essential background on license compliance, compatibility concepts, and the technical foundations of our approach. Section~\ref{sec:related} reviews existing license compatibility detection approaches and identifies key limitations. Section~\ref{sec:methodology} presents our KG+LLM+RAG framework architecture and implementation details. Section~\ref{sec:experiments} describes our experimental methodology and presents comprehensive evaluation results. Section~\ref{sec:threats} discusses threats to validity and limitations. Finally, Section~\ref{sec:conclusion} summarizes our contributions and outlines future research directions. 

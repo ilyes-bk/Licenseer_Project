@@ -76,8 +76,8 @@ class LicenseCompatibilityLLM:
 
     def generate_response(self, query: str, compatibility_result: Dict) -> str:
         """Use RAG system to generate a natural language response about compatibility"""
-        # Format the compatibility result for the RAG query
-        result_str = json.dumps(compatibility_result, indent=2)
+        # Check if we have KG compatibility data
+        has_kg_data = compatibility_result.get('compatibility_results') and len(compatibility_result['compatibility_results']) > 0
         
         # Extract license information correctly from the structure
         license1_info = None
@@ -107,35 +107,107 @@ class LicenseCompatibilityLLM:
         
         try:
             # Use the RAG system to get a response
-            print("--------------WWWWWWWWWWWWWWWWWWW ", rag_query)
+            print("--------------RAG Query: ", rag_query)
             rag_response = self.rag.query_rag(rag_query)
-            print("--------------WWWWWWWWWWWWWWWWWWW ", rag_response)
-            # Create a final prompt that includes the RAG information
+            print("--------------RAG Response: ", rag_response)
+            
+            # Check if RAG found relevant documents
+            has_rag_data = rag_response.get('results') and len(rag_response['results']) > 0
+            
+            # Create different prompts based on available data
             p1 = compatibility_result.get('package1') or {}
             p2 = compatibility_result.get('package2') or {}
-            final_prompt = f"""
-            Based on the following compatibility check results and the retrieved license information, provide a clear and concise response to the original query.
             
-            Original Query: {query}
-            
-            Package 1: {p1.get('name', 'Unknown')} with license {license1_name} ({license1_spdx})
-            Package 2: {p2.get('name', 'Unknown')} with license {license2_name} ({license2_spdx})
-            
-            Compatibility Results: {json.dumps(compatibility_result.get('compatibility_results', []), indent=2)}
-            Overall Compatible: {compatibility_result.get('overall_compatible', False)}
-            
-            License Information from RAG system: {rag_response}
-            
-            Provide a response that:
-            1. Directly answers the compatibility question
-            2. Explains which licenses are involved
-            3. Provides context about why they are/aren't compatible
-            4. Suggests alternatives if they're not compatible
-            """
+            if has_kg_data and has_rag_data:
+                # Both KG and RAG have data - use comprehensive response
+                final_prompt = f"""
+                Based on the following compatibility check results and the retrieved license information, provide a clear and concise response to the original query.
+                
+                Original Query: {query}
+                
+                Package 1: {p1.get('name', 'Unknown')} with license {license1_name} ({license1_spdx})
+                Package 2: {p2.get('name', 'Unknown')} with license {license2_name} ({license2_spdx})
+                
+                Compatibility Results from Knowledge Graph: {json.dumps(compatibility_result.get('compatibility_results', []), indent=2)}
+                Overall Compatible: {compatibility_result.get('overall_compatible', False)}
+                
+                License Information from RAG system: {rag_response}
+                
+                Provide a response that:
+                1. Directly answers the compatibility question
+                2. Explains which licenses are involved
+                3. Provides context about why they are/aren't compatible
+                4. Suggests alternatives if they're not compatible
+                5. Includes citations from the retrieved documents
+                """
+                
+            elif has_kg_data and not has_rag_data:
+                # Only KG has data - use KG data with LLM knowledge
+                final_prompt = f"""
+                Based on the following compatibility check results from our knowledge graph, provide a clear and concise response to the original query.
+                Since we don't have detailed license documents in our database, use your general knowledge about these licenses to provide context.
+                
+                Original Query: {query}
+                
+                Package 1: {p1.get('name', 'Unknown')} with license {license1_name} ({license1_spdx})
+                Package 2: {p2.get('name', 'Unknown')} with license {license2_name} ({license2_spdx})
+                
+                Compatibility Results from Knowledge Graph: {json.dumps(compatibility_result.get('compatibility_results', []), indent=2)}
+                Overall Compatible: {compatibility_result.get('overall_compatible', False)}
+                
+                Provide a response that:
+                1. Directly answers the compatibility question based on the KG results
+                2. Explains which licenses are involved
+                3. Provides general context about these license types and their typical compatibility
+                4. Suggests alternatives if they're not compatible
+                5. Note that this analysis is based on our knowledge graph data and general license knowledge
+                """
+                
+            elif not has_kg_data and has_rag_data:
+                # Only RAG has data - use RAG data with LLM knowledge
+                final_prompt = f"""
+                Based on the retrieved license information, provide a clear and concise response to the original query.
+                Since we don't have specific compatibility data in our knowledge graph for these licenses, use your general knowledge about license compatibility.
+                
+                Original Query: {query}
+                
+                Package 1: {p1.get('name', 'Unknown')} with license {license1_name} ({license1_spdx})
+                Package 2: {p2.get('name', 'Unknown')} with license {license2_name} ({license2_spdx})
+                
+                License Information from RAG system: {rag_response}
+                
+                Provide a response that:
+                1. Directly answers the compatibility question based on general license knowledge
+                2. Explains which licenses are involved
+                3. Provides context about why they are/aren't compatible based on license characteristics
+                4. Suggests alternatives if they're not compatible
+                5. Include relevant information from the retrieved documents
+                6. Note that this analysis is based on general license knowledge and retrieved documents
+                """
+                
+            else:
+                # Neither KG nor RAG has data - use only LLM knowledge
+                final_prompt = f"""
+                Provide a clear and concise response to the original query based on your general knowledge about software licenses.
+                We don't have specific compatibility data in our knowledge graph or detailed license documents for these packages.
+                
+                Original Query: {query}
+                
+                Package 1: {p1.get('name', 'Unknown')} with license {license1_name} ({license1_spdx})
+                Package 2: {p2.get('name', 'Unknown')} with license {license2_name} ({license2_spdx})
+                
+                Provide a response that:
+                1. Directly answers the compatibility question based on general license knowledge
+                2. Explains which licenses are involved
+                3. Provides context about why they are/aren't compatible based on license characteristics
+                4. Suggests alternatives if they're not compatible
+                5. Note that this analysis is based on general license knowledge and may not be as precise as our knowledge graph analysis
+                6. Recommend consulting official license texts or legal experts for critical decisions
+                """
             
             # Get final response from LLM
             response = self.client.chat.completions.create(
-                model="gpt-4.1",
+                model="gpt-4o",
                 messages=[{"role": "user", "content": final_prompt}],
                 temperature=0.1
             )
