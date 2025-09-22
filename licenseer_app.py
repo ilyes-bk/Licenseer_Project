@@ -201,10 +201,6 @@ if submit_button and user_input:
             </div>
             """, unsafe_allow_html=True)
             
-            # Add a small note about data sources if available
-            if "knowledge graph" in response.lower() or "general license knowledge" in response.lower():
-                st.info("💡 **Note**: This response combines our knowledge graph data with general license knowledge for comprehensive analysis.")
-            
         except Exception as e:
             # Remove thinking message
             thinking_placeholder.empty()
