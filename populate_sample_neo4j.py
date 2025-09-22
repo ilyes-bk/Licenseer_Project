@@ -16,7 +16,10 @@ class Neo4jSamplePopulator:
     def __init__(self):
         self.uri = os.getenv('NEO4J_URI', 'bolt://localhost:7687')
         self.user = os.getenv('NEO4J_USER', 'neo4j')
-        self.password = os.getenv('NEO4J_PASSWORD', 'password')
+        self.password = os.getenv('NEO4J_PASSWORD')
+        
+        if not self.password:
+            raise ValueError("NEO4J_PASSWORD must be set in environment variables")
         self.database = os.getenv('NEO4J_DATABASE', 'neo4j')
         
         # Initialize driver

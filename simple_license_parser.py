@@ -6,6 +6,7 @@ Extracts license terms and attributes from text and returns JSON
 
 import json
 import openai
+import os
 from typing import Dict, Any
 
 def parse_license_with_openai(license_text: str, api_key: str) -> Dict[str, Any]:
@@ -81,8 +82,13 @@ Return only valid JSON, no other text:
 def main():
     """Example usage"""
     
-    # Your OpenAI API key
-    API_KEY = "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"
+    # Your OpenAI API key - set via environment variable
+    API_KEY = os.getenv("OPENAI_API_KEY")
+    if not API_KEY:
+        print("Error: OPENAI_API_KEY environment variable not set")
+        print("Please set your OpenAI API key:")
+        print("export OPENAI_API_KEY=sk-your-actual-api-key-here")
+        return
     
     # Example license text
     license_text = """

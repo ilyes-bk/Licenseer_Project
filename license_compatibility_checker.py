@@ -14,10 +14,13 @@ class LicenseCompatibilityChecker:
         load_dotenv(override=True)
 
         # Neo4j connection details (prefer environment variables; fall back to existing defaults)
-        self.uri = os.getenv("NEO4J_URI", "neo4j://03761ccd.databases.neo4j.io")
+        self.uri = os.getenv("NEO4J_URI")
         self.user = os.getenv("NEO4J_USER", "neo4j")
-        self.password = os.getenv("NEO4J_PASSWORD", "GV5_25MFoAuxzDcyDQUdSPDzeVsArIvHkN-tLDLfMzk")
+        self.password = os.getenv("NEO4J_PASSWORD")
         self.database = os.getenv("NEO4J_DATABASE", "neo4j")
+        
+        if not self.uri or not self.password:
+            raise ValueError("NEO4J_URI and NEO4J_PASSWORD must be set in environment variables")
         
         # SSL configuration
         self.ssl_context = ssl.create_default_context(cafile=certifi.where())

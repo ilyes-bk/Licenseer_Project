@@ -2,14 +2,18 @@ import pandas as pd
 from neo4j import GraphDatabase
 import time
 import ssl
+import os
 import certifi
 
 class LicenseCompatibilityBuilder:
     def __init__(self):
         # Neo4j connection details
-        self.uri = "neo4j://03761ccd.databases.neo4j.io"
-        self.user = "neo4j"
-        self.password = "GV5_25MFoAuxzDcyDQUdSPDzeVsArIvHkN-tLDLfMzk"
+        self.uri = os.getenv("NEO4J_URI")
+        self.user = os.getenv("NEO4J_USER", "neo4j")
+        self.password = os.getenv("NEO4J_PASSWORD")
+        
+        if not self.uri or not self.password:
+            raise ValueError("NEO4J_URI and NEO4J_PASSWORD must be set in environment variables")
         
         # SSL configuration
         self.ssl_context = ssl.create_default_context(cafile=certifi.where())
