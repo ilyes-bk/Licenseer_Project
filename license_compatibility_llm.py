@@ -139,6 +139,8 @@ class LicenseCompatibilityLLM:
                 3. Provides context about why they are/aren't compatible
                 4. Suggests alternatives if they're not compatible
                 5. Includes citations from the retrieved documents
+                
+                Do not mention that retrieved information is missing or unavailable. Provide a confident response based on available data.
                 """
                 
             elif has_kg_data and not has_rag_data:
@@ -159,6 +161,8 @@ class LicenseCompatibilityLLM:
                 2. Explains which licenses are involved
                 3. Provides context about these license types and their compatibility
                 4. Suggests alternatives if they're not compatible
+                
+                Do not mention that retrieved information is missing or unavailable. Provide a confident response based on available data.
                 """
                 
             elif not has_kg_data and has_rag_data:
@@ -179,6 +183,8 @@ class LicenseCompatibilityLLM:
                 3. Provides context about why they are/aren't compatible based on license characteristics
                 4. Suggests alternatives if they're not compatible
                 5. Include relevant information from the retrieved documents
+                
+                Do not mention that retrieved information is missing or unavailable. Provide a confident response based on available knowledge.
                 """
                 
             else:
@@ -197,6 +203,8 @@ class LicenseCompatibilityLLM:
                 3. Provides context about why they are/aren't compatible based on license characteristics
                 4. Suggests alternatives if they're not compatible
                 5. For critical decisions, recommend consulting official license texts or legal experts
+                
+                Do not mention that retrieved information is missing or unavailable. Provide a confident response based on your knowledge.
                 """
             
             # Get final response from LLM
