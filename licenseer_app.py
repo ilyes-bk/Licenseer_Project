@@ -146,7 +146,7 @@ st.markdown('<div class="input-area">', unsafe_allow_html=True)
 
 # Description
 st.markdown("""
-Ask me about the compatibility between two open source packages:
+Ask me about the compatibility between software packages:
 - "Are requests and urllib3 compatible?"
 - "Can I use django with celery?"
 - "Check compatibility between pandas and numpy"
@@ -222,7 +222,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 with st.sidebar:
     st.title("About LARK")
     st.markdown("""
-    **LARK** (License Analysis with RAG and Knowledge Graphs) helps developers assess license compatibility between open-source packages.
+    **LARK** (License Analysis with RAG and Knowledge Graphs) helps developers assess license compatibility between software packages.
     
     ### Features:
     - 📋 License identification for packages
