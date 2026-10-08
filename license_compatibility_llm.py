@@ -11,13 +11,13 @@ class LicenseCompatibilityLLM:
         # Load environment variables
         load_dotenv(override=True)
         
-        # Get OpenAI API key
-        self.api_key = os.getenv("OPENAI_API_KEY")
+        # Get OpenRouter API key (used for chat completions)
+        self.api_key = os.getenv("OPENROUTER_API_KEY")
         if not self.api_key:
-            raise ValueError("OpenAI API key not found. Please set the OPENAI_API_KEY environment variable.")
-        
-        # Initialize OpenAI client
-        self.client = OpenAI(api_key=self.api_key)
+            raise ValueError("OpenRouter API key not found. Please set the OPENROUTER_API_KEY environment variable.")
+
+        # Initialize OpenAI-compatible client pointed at OpenRouter
+        self.client = OpenAI(api_key=self.api_key, base_url="https://openrouter.ai/api/v1")
         
         # Initialize license compatibility checker
         self.checker = LicenseCompatibilityChecker()
@@ -61,11 +61,19 @@ class LicenseCompatibilityLLM:
         
         try:
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model="openai/gpt-4o",
                 messages=[{"role": "user", "content": prompt}],
-                temperature=0.1
+                temperature=0.1,
+                max_tokens=300,
             )
             result_text = response.choices[0].message.content
+            # Strip markdown code fences if the model wrapped the JSON in them
+            result_text = result_text.strip()
+            if result_text.startswith("```"):
+                result_text = result_text.split("```")[1]
+                if result_text.startswith("json"):
+                    result_text = result_text[4:]
+                result_text = result_text.strip()
             # Extract the JSON response
             result = json.loads(result_text)
             return result.get("package1"), result.get("package2")
@@ -209,9 +217,10 @@ class LicenseCompatibilityLLM:
             
             # Get final response from LLM
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model="openai/gpt-4o",
                 messages=[{"role": "user", "content": final_prompt}],
-                temperature=0.1
+                temperature=0.1,
+                max_tokens=1500,
             )
             
             return response.choices[0].message.content

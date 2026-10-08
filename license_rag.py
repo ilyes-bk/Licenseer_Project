@@ -189,7 +189,12 @@ class LicenseRAG:
             raise ValueError("Vector database not initialized. Call build_vector_database() first.")
         
         # Initialize the LLM
-        llm = ChatOpenAI(temperature=0, model="gpt-4o")
+        llm = ChatOpenAI(
+            temperature=0,
+            model="openai/gpt-4o",
+            api_key=os.getenv("OPENROUTER_API_KEY"),
+            base_url="https://openrouter.ai/api/v1",
+        )
         
         # Create a retrieval QA chain
         qa_chain = RetrievalQA.from_chain_type(
