@@ -189,7 +189,7 @@ class LicenseRAG:
             raise ValueError("Vector database not initialized. Call build_vector_database() first.")
         
         # Initialize the LLM
-        llm = ChatOpenAI(temperature=0, model="gpt-4.1")
+        llm = ChatOpenAI(temperature=0, model="gpt-4o")
         
         # Create a retrieval QA chain
         qa_chain = RetrievalQA.from_chain_type(
